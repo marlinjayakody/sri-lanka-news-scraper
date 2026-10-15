@@ -2,10 +2,10 @@
   "source": "https://www.newswire.lk/",
   "fetched_via": "wp-rest-api",
   "edition_date": "2026-10-15",
-  "generated_at": "2026-10-15T13:18:43+05:30",
+  "generated_at": "2026-10-15T13:59:52+05:30",
   "window": {
-    "from": "2026-10-14T13:18:43+05:30",
-    "to": "2026-10-15T13:18:43+05:30"
+    "from": "2026-10-14T13:59:52+05:30",
+    "to": "2026-10-15T13:59:52+05:30"
   },
   "enrichment": "keywords",
   "categories": [
@@ -15,12 +15,171 @@
     "General"
   ],
   "counts": {
-    "Political": 25,
-    "Finance": 14,
-    "Tech": 2,
-    "General": 19
+    "Political": 24,
+    "Finance": 15,
+    "Tech": 3,
+    "General": 21
   },
   "articles": [
+    {
+      "id": 260745,
+      "title": "LOLC rejects allegations over People’s Bank loan facility, warns of legal action",
+      "url": "https://www.newswire.lk/2026/10/15/lolc-rejects-allegations-over-peoples-bank-loan-facility-warns-of-legal-action/",
+      "published": "2026-10-15T13:54:19+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "LOLC",
+        "Peoples Bank"
+      ],
+      "text": "LOLC Holdings PLC has strongly rejected allegations circulating on social media concerning a banking facility involving People’s Bank, describing the claims as misleading and factually inaccurate.\nIn a clarification submitted to the Colombo Stock Exchange (CSE) on Oct. 14, LOLC said the local-currency borrowing was fully secured against a US dollar deposit maintained with People’s Bank itself.\nThe company stressed that People’s Bank holds the full collateral supporting the facility, rejecting suggestions that the bank was exposed to unsecured lending or that public deposits were at risk.\nLOLC explained that, as part of its global treasury operations, its group companies maintain US dollar deposits with international and local banks, including People’s Bank.\nThese deposits are used as security to obtain local-currency funding without converting the underlying dollar assets into Sri Lankan rupees.\nThe company said such arrangements are conventional treasury and foreign-exchange risk management practices adopted by multinational businesses operating across different countries.\nLOLC, which operates in 27 countries, also dismissed claims suggesting that the deposit was located overseas or that People’s Bank would have difficulty recovering the funds.\nIt further rejected allegations that the transaction involved questionable banking practices, foreign-exchange speculation or improper use of public funds.\nMeanwhile, LOLC warned that it was bringing publications containing materially misleading information to the attention of relevant regulatory and other authorities.\nThe company said it reserved the right to pursue legal action against individuals and organizations responsible for originating, publishing or knowingly republishing false or misleading information, where applicable legal requirements are met.\nLOLC reiterated its commitment to transparent and responsible operations, stating that it would take necessary steps to protect the interests of the group and its stakeholders.",
+      "word_count": 277,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 50,
+        "Tech": 1
+      },
+      "summary": "LOLC Holdings PLC has strongly rejected allegations circulating on social media concerning a banking facility involving People’s Bank, describing the claims as misleading and factually inaccurate. In a clarification submitted to the Colombo Stock Exchange (CSE) on Oct. 14, LOLC said the local-currency borrowing was fully secured against a US dollar deposit maintained with People’s Bank itself.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260745.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/LOLC-peoples-bank-1.jpg",
+          "alt": "LOLC rejects allegations over People’s Bank loan facility, warns of legal action"
+        },
+        {
+          "src": "images/2026-10-15/260745-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/LOLC-1.jpg",
+          "alt": "LOLC rejects allegations over People’s Bank loan facility, warns of legal action"
+        },
+        {
+          "src": "images/2026-10-15/260745-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/LOLC-2.jpg",
+          "alt": "LOLC rejects allegations over People’s Bank loan facility, warns of legal action"
+        }
+      ]
+    },
+    {
+      "id": 260742,
+      "title": "Petrol-only cars fall below 50% of global new vehicle sales for first time in history",
+      "url": "https://www.newswire.lk/2026/10/15/petrol-only-cars-fall-below-50-of-global-new-vehicle-sales-for-first-time-in-history/",
+      "published": "2026-10-15T13:50:57+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Petrol-only vehicles have accounted for less than half of global new vehicle sales for the first time on record, marking a significant shift in the global automotive industry as hybrid and electric vehicles continue to gain popularity.\nAccording to automotive industry data reported by Japan’s Nikkei newspaper, petrol-only vehicles accounted for approximately 49% of global new vehicle sales during the first half of 2026, down from 52% during the same period in 2025.\nThe figures represent a sharp decline from 2021, when petrol-only vehicles accounted for approximately 73% of global new vehicle sales.\nDuring the January-June 2026 period, around 20.25 million petrol-only vehicles were sold worldwide, representing a year-on-year decline of approximately 10%.\nThe shift reflects growing consumer demand for hybrid, plug-in hybrid and fully electric vehicles, supported by advances in battery technology, expanding charging infrastructure and increasing competition among automakers.\nHowever, the decline in petrol-only vehicles does not mean that electric vehicles now dominate the global market.\nA significant portion of the remaining market consists of hybrid vehicles, which continue to use petrol engines alongside electric motors.\nThe development marks an important milestone in the global automotive industry’s transition toward electrification, as traditional petrol-only vehicles lose their long-standing majority share of new vehicle sales.",
+      "word_count": 205,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 5,
+        "Tech": 12
+      },
+      "summary": "Petrol-only vehicles have accounted for less than half of global new vehicle sales for the first time on record, marking a significant shift in the global automotive industry as hybrid and electric vehicles continue to gain popularity.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260742.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261015_135025_ChatGPT.jpg",
+          "alt": "Petrol-only cars fall below 50% of global new vehicle sales for first time in history"
+        }
+      ]
+    },
+    {
+      "id": 260739,
+      "title": "Sri Lanka named Leading Wellness Destination at South Asian Travel Awards 2026",
+      "url": "https://www.newswire.lk/2026/10/15/sri-lanka-named-leading-wellness-destination-at-south-asian-travel-awards-2026/",
+      "published": "2026-10-15T13:43:24+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "SATA",
+        "wellness award"
+      ],
+      "text": "Sri Lanka has won the Visitors’ Choice Award for Leading Wellness Destination at the 10th South Asian Travel Awards (SATA) 2026, held in Malé, Maldives, on October 8.\nSri Lanka’s High Commissioner to the Maldives, M. Rizvi Hassen, received the award at the ceremony, which brought together tourism and hospitality industry representatives from across South Asia.\nAccording to the Sri Lankan High Commission in the Maldives, the recognition highlights the country’s rich heritage of Ayurveda and traditional healing practices, along with its diverse natural landscapes and wellness tourism experiences that continue to attract international visitors.\nThe South Asian Travel Awards recognise excellence in the tourism and hospitality sectors across six countries: Sri Lanka, India, Maldives, Nepal, Bhutan and Bangladesh.\nThe awards cover several categories, including hotels, resorts, travel agencies, tour operators, airlines and other tourism-related organisations.\nThis year’s awards attracted more than two million online votes, alongside evaluations conducted by a multinational panel of judges across seven cities.\nThe 2026 ceremony was held at Barceló Nasandhura Malé in the Maldives, marking the 10th edition of the regional awards programme.\nEstablished in 2016, SATA has become a regional platform recognising achievements and excellence in South Asia’s travel, tourism and hospitality industries.",
+      "word_count": 200,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 2,
+        "Finance": 4,
+        "Tech": 1
+      },
+      "summary": "Sri Lanka has won the Visitors’ Choice Award for Leading Wellness Destination at the 10th South Asian Travel Awards (SATA) 2026, held in Malé, Maldives, on October 8. The South Asian Travel Awards recognise excellence in the tourism and hospitality sectors across six countries: Sri Lanka, India, Maldives, Nepal, Bhutan and Bangladesh.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260739.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/SATA-wellness-award.jpg",
+          "alt": "Sri Lanka named Leading Wellness Destination at South Asian Travel Awards 2026"
+        }
+      ]
+    },
+    {
+      "id": 260735,
+      "title": "IMF ready to support Sri Lanka beyond current programme : Senior official",
+      "url": "https://www.newswire.lk/2026/10/15/imf-ready-to-support-sri-lanka-beyond-current-programme-senior-official/",
+      "published": "2026-10-15T13:38:00+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "IMF"
+      ],
+      "text": "The International Monetary Fund (IMF) has reaffirmed its commitment to supporting Sri Lanka, emphasizing that it will remain a trusted partner as the country continues its economic recovery and approaches the completion of its current IMF programme.\nIMF Deputy Division Chief in the Asia and Pacific Department, Sonali Jain-Chandra, said the Fund stands ready to support Sri Lanka through future financing arrangements, policy advice or capacity development, depending on the government’s requirements.\n“The Fund will remain a very committed partner to Sri Lanka,” she stated, emphasizing that the nature of future engagement would be determined through discussions with the Sri Lankan authorities.\nHighlighting the progress achieved under the current IMF programme, Jain-Chandra noted significant improvements in macroeconomic stability, government revenue, debt restructuring and economic growth.\n“The macroeconomic situation is much improved. The revenue ratio has doubled. The debt restructuring is largely complete. Growth has been positive for 11 consecutive quarters,” she said.\nShe also highlighted improvements in governance and other structural reforms, describing the programme’s overall performance as strong.\nHowever, Jain-Chandra stressed that important work remains under the existing programme, which is scheduled to expire in March.\nShe noted that a staff-level agreement on the seventh review had been reached in early October and that it was expected to be considered by the IMF Executive Board in the coming weeks.\nAnother review mission is also scheduled to take place before the programme expires.\nThe IMF official emphasized the importance of maintaining macroeconomic stability and consolidating the reform gains achieved so far.\nAddressing the possibility of future IMF assistance, Jain-Chandra explained that requesting another programme would be a decision for the Sri Lankan authorities.\n“There are many ways in which the Fund can support Sri Lanka, whether it’s a new financing arrangement, whether it’s granular policy advice in the context of surveillance or capacity development,” she said.\nShe reiterated that the IMF remains prepared to continue its engagement with Sri Lanka in a manner that supports the country’s economic priorities.\nIMF Deputy Division Chief in the Asia and Pacific Department, Sonali Jain-Chandra, stated this while clarifying details regarding Sri Lanka’s economic progress during a press conference held this morning (15), which took place alongside the annual meetings of the International Monetary Fund and the World Bank Group in Bangkok, Thailand.",
+      "word_count": 379,
+      "is_lead": true,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 4,
+        "Finance": 47,
+        "Tech": 0
+      },
+      "summary": "The International Monetary Fund (IMF) has reaffirmed its commitment to supporting Sri Lanka, emphasizing that it will remain a trusted partner as the country continues its economic recovery and approaches the completion of its current IMF programme.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260735.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMF_-Sonali-Jain.jpg",
+          "alt": "IMF ready to support Sri Lanka beyond current programme : Senior official"
+        }
+      ]
+    },
+    {
+      "id": 260703,
+      "title": "Arugam Bay named Asia’s best beach for 2026, four Sri Lankan beaches in top 20",
+      "url": "https://www.newswire.lk/2026/10/15/arugam-bay-named-asias-best-beach-for-2026-four-sri-lankan-beaches-in-top-20/",
+      "published": "2026-10-15T13:28:35+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka’s Arugam Bay has been ranked Asia’s best beach for 2026 in the Condé Nast Traveller Readers’ Choice Awards, with four Sri Lankan beaches securing places among the region’s top 20.\nArugam Bay, a popular surfing destination on Sri Lanka’s eastern coast, secured first place, ahead of Railay Beach in Thailand and Coral Beach in Malaysia.\nThree other Sri Lankan destinations also featured in the rankings, with Bentota Beach placed ninth, Tangalle Beach 14th and Negombo Beach 19th.\nThe recognition highlights Sri Lanka’s appeal as a beach tourism destination, with the four locations representing different coastal regions of the island.\nThe top five beaches in Asia were Arugam Bay in Sri Lanka, Railay Beach in Thailand, Coral Beach in Malaysia, Boracay in the Philippines and Nusa Dua Beach in Indonesia.\nThe Readers’ Choice Awards are based on ratings submitted by Condé Nast Traveller readers, reflecting travellers’ experiences and preferences.\nArugam Bay received a score of 98.84, the highest in the Asian rankings, followed by Railay Beach with 94.44 and Coral Beach with 93.33.\nBentota received a score of 88.33, Tangalle 83.33 and Negombo 78.92.\nThe 2026 awards, published on Oct. 6, marked the 29th edition of the annual survey, with results based on votes from the magazine’s UK readership.",
+      "word_count": 210,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 1,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka’s Arugam Bay has been ranked Asia’s best beach for 2026 in the Condé Nast Traveller Readers’ Choice Awards, with four Sri Lankan beaches securing places among the region’s top 20. The top five beaches in Asia were Arugam Bay in Sri Lanka, Railay Beach in Thailand, Coral Beach in Malaysia, Boracay in the Philippines and Nusa Dua Beach in Indonesia.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260703.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261015_122818_Gallery.jpg",
+          "alt": "Arugam Bay named Asia’s best beach for 2026, four Sri Lankan beaches in top 20"
+        }
+      ]
+    },
     {
       "id": 260729,
       "title": "Dhammika Perera warns Sri Lankans about videos circulating online",
@@ -112,8 +271,8 @@
     },
     {
       "id": 260720,
-      "title": "Rs. 51 Mn Hashish seized at BIA; Three foreigners arrested",
-      "url": "https://www.newswire.lk/2026/10/15/rs-51-mn-hashish-seized-at-bia-three-foreigners-arrested/",
+      "title": "From Bangkok with beauty products: Rs. 51 million secret uncovered at BIA",
+      "url": "https://www.newswire.lk/2026/10/15/from-bangkok-with-beauty-products-rs-51-million-secret-uncovered-at-bia-2/",
       "published": "2026-10-15T12:52:42+05:30",
       "source_categories": [
         "News"
@@ -131,13 +290,13 @@
         "Finance": 0,
         "Tech": 0
       },
-      "summary": "Three Thai nationals have been arrested at the Bandaranaike International Airport (BIA) in Katunayake for allegedly attempting to smuggle hashish worth approximately Rs. 51 million into Sri Lanka. The suspects were arrested by officers of the Police Narcotics Bureau (PNB) early today (15), while attempting to leave the airport with the narcotics.",
+      "summary": "Three Thai nationals have been arrested at the Bandaranaike International Airport (BIA) in Katunayake for allegedly attempting to smuggle hashish worth approximately Rs. 51 million into Sri Lanka. According to reports, the three suspects arrived at Katunayake Airport from Bangkok, Thailand, aboard Thai Airways flight TG-307 at approximately 12.30 a.m. today.",
       "enriched_by": "keywords",
       "images": [
         {
           "src": "images/2026-10-15/260720.jpg",
           "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Hashish-BIA.jpg",
-          "alt": "Rs. 51 Mn Hashish seized at BIA; Three foreigners arrested"
+          "alt": "From Bangkok with beauty products: Rs. 51 million secret uncovered at BIA"
         }
       ]
     },
@@ -1820,69 +1979,6 @@
           "src": "images/2026-10-15/260509.jpg",
           "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Prison-regulation-clergy.jpg",
           "alt": "Committee submits report on prison regulations for clergy"
-        }
-      ]
-    },
-    {
-      "id": 260506,
-      "title": "Sri Lanka, India explore expanded industrial and investment cooperation",
-      "url": "https://www.newswire.lk/2026/10/14/sri-lanka-india-explore-expanded-industrial-and-investment-cooperation/",
-      "published": "2026-10-14T13:46:15+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "Chathuranga Abeysinghe",
-        "India"
-      ],
-      "text": "A high-level business delegation from the Confederation of Indian Industry (CII) met with Deputy Minister of Industry and Entrepreneurship Development Chathuranga Abeysinghe in Colombo on Tuesday (13) to discuss expanding industrial, investment and business cooperation between Sri Lanka and India.\nAccording to the Ministry of Industry and Entrepreneurship Development, the delegation included prominent Indian business leaders representing sectors such as renewable energy, healthcare, information technology, steel, footwear manufacturing, and industrial tanks and liners.\nSenior executives of the CII also participated in the discussions.\nThe Ministry said the meeting focused on identifying investment opportunities in Sri Lanka, strengthening business-to-business (B2B) partnerships and exploring opportunities for mutually beneficial industrial cooperation.\nIt further highlighted that attracting foreign investment, facilitating technology and expertise exchange, and expanding market access for local businesses remain key priorities in developing Sri Lanka’s industrial and entrepreneurship sectors.\nThe Ministry added that continued engagement with organisations such as the CII is expected to strengthen bilateral economic ties, improve Sri Lanka’s investment environment and support long-term industrial development and economic growth.",
-      "word_count": 170,
-      "is_lead": false,
-      "category": "Finance",
-      "category_scores": {
-        "Political": 14,
-        "Finance": 48,
-        "Tech": 6
-      },
-      "summary": "A high-level business delegation from the Confederation of Indian Industry (CII) met with Deputy Minister of Industry and Entrepreneurship Development Chathuranga Abeysinghe in Colombo on Tuesday (13) to discuss expanding industrial, investment and business cooperation between Sri Lanka and India. The Ministry said the meeting focused on identifying investment opportunities in Sri Lanka, strengthening business-to-business (B2B) partnerships and exploring opportunities for mutually beneficial industrial cooperation.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260506.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Chathuranga-India-delegation.jpg",
-          "alt": "Sri Lanka, India explore expanded industrial and investment cooperation"
-        }
-      ]
-    },
-    {
-      "id": 260503,
-      "title": "Prisons Department denies Gammanpila’s allegations over Gnanasara Thera’s prison attire",
-      "url": "https://www.newswire.lk/2026/10/14/prisons-department-denies-gammanpilas-allegations-over-gnanasara-theras-prison-attire/",
-      "published": "2026-10-14T13:27:56+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "Gnasara Thera",
-        "prison attire",
-        "Senaka Pallethanna"
-      ],
-      "text": "Prison authorities have denied allegations by former Minister Udaya Gammanpila that Ven. Galagoda Aththe Gnanasara Thera was forcibly made to wear the prison uniform while in custody at Welikada Prison.\nAddressing a press conference in Colombo on October 12, Udaya Gammanpila alleged that Gnanasara Thera had been forcibly made to wear a prison uniform despite objections from the monk and prison officers.\nResponding to questions by the media on the allegations, Prison Commissioner and Media Spokesperson Senaka Pallethanna said the Department of Prisons has not received any complaints regarding the alleged incident.\nHe stated that he was unaware of any such incident and maintained that prison authorities operate in accordance with established prison regulations.\n“We have not received any complaints regarding this allegation. We are not aware of such an incident. There is no possibility of such a thing happening, as we follow prison regulations,” he said.\nMeanwhile, commenting on the committee appointed to review prison attire regulations for imprisoned religious leaders, Pallethanna said Prisons Commissioner Gajanayake has been appointed as a member of the committee.\nHe expressed confidence that the committee would submit its report either this week or next week, providing recommendations on the matter.\nPallethanna further stated that the Prisons Department would act based on the committee’s recommendations, noting that changes to existing procedures cannot be made arbitrarily under prison laws.",
-      "word_count": 224,
-      "is_lead": false,
-      "category": "Political",
-      "category_scores": {
-        "Political": 17,
-        "Finance": 0,
-        "Tech": 0
-      },
-      "summary": "Prison authorities have denied allegations by former Minister Udaya Gammanpila that Ven. Galagoda Aththe Gnanasara Thera was forcibly made to wear the prison uniform while in custody at Welikada Prison. Addressing a press conference in Colombo on October 12, Udaya Gammanpila alleged that Gnanasara Thera had been forcibly made to wear a prison uniform despite objections from the monk and prison officers.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260503.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Prison-Commissioner-Senaka-Pallethanna.jpg",
-          "alt": "Prisons Department denies Gammanpila’s allegations over Gnanasara Thera’s prison attire"
         }
       ]
     }
