@@ -2,10 +2,10 @@
   "source": "https://www.newswire.lk/",
   "fetched_via": "wp-rest-api",
   "edition_date": "2026-10-15",
-  "generated_at": "2026-10-15T16:38:03+05:30",
+  "generated_at": "2026-10-15T17:11:20+05:30",
   "window": {
-    "from": "2026-10-14T16:38:03+05:30",
-    "to": "2026-10-15T16:38:03+05:30"
+    "from": "2026-10-14T17:11:20+05:30",
+    "to": "2026-10-15T17:11:20+05:30"
   },
   "enrichment": "keywords",
   "categories": [
@@ -15,8 +15,8 @@
     "General"
   ],
   "counts": {
-    "Political": 23,
-    "Finance": 14,
+    "Political": 22,
+    "Finance": 13,
     "Tech": 2,
     "General": 21
   },
@@ -1837,69 +1837,6 @@
           "src": "images/2026-10-15/260585.jpg",
           "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261014_172528_X.jpg",
           "alt": "Sri Lanka joins first BIMSTEC Home Ministers’ Meeting in India"
-        }
-      ]
-    },
-    {
-      "id": 260575,
-      "title": "PM hails Sri Lanka’s $9 Bn export performance in first half of 2026",
-      "url": "https://www.newswire.lk/2026/10/14/pm-hails-sri-lankas-9-bn-export-performance-in-first-half-of-2026/",
-      "published": "2026-10-14T17:11:12+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "Digital Economy",
-        "Harini Amarasuriya"
-      ],
-      "text": "Sri Lanka’s total exports surpassed USD 9 billion during the first half of 2026, Prime Minister Harini Amarasuriya has stated, highlighting positive signs in the country’s economic performance.\nThe Prime Minister made the remarks in connection with the 26th Sri Lanka Economic and Investment Summit (SLEIS) 2026, held on October 12 and 13.\nAccording to the Prime Minister’s Media Division, PM Amarasuriya participated in the summit on Tuesday (13), addressing a session titled “Nation Building in the Digital Age.”\nDuring her address, the Prime Minister outlined the government’s ambition to expand Sri Lanka’s digital economy to USD 15 billion by 2030, increase digital exports to USD 5 billion and develop a workforce of 200,000 digital professionals.\nShe said the government was committed to transforming Sri Lanka from a consumer of technology into a creator of innovation.\nThe Prime Minister further revealed that approximately Rs. 30 billion had been committed towards foundational digital transformation initiatives through the Ministry of Digital Economy.\nHighlighting progress in digital public services, she said the GovPay platform had processed over Rs. 6 billion in payments, with more than 300 organisations connected to the system.\nPM Amarasuriya also highlighted the potential of digital technologies to improve healthcare, agriculture, energy and transport services, while stressing the importance of ensuring equal access to digital opportunities.\nMeanwhile, she revealed that a five-year plan had been developed in collaboration with the Ministry of Digital Economy to improve digital readiness across Sri Lanka’s education system.\nThe Prime Minister also called for stronger cooperation between the government, private sector and educational institutions to expand vocational training and prepare the workforce for emerging employment opportunities.\nShe emphasised that the integration of artificial intelligence into education must be carefully managed to avoid widening existing inequalities and negatively affecting students’ critical thinking and cognitive development.\nThe summit brought together policymakers, investors, business leaders and other stakeholders to discuss Sri Lanka’s economic prospects and investment opportunities.",
-      "word_count": 319,
-      "is_lead": false,
-      "category": "Finance",
-      "category_scores": {
-        "Political": 40,
-        "Finance": 47,
-        "Tech": 23
-      },
-      "summary": "Sri Lanka’s total exports surpassed USD 9 billion during the first half of 2026, Prime Minister Harini Amarasuriya has stated, highlighting positive signs in the country’s economic performance. During her address, the Prime Minister outlined the government’s ambition to expand Sri Lanka’s digital economy to USD 15 billion by 2030, increase digital exports to USD 5 billion and develop a workforce of 200,000 digital professionals.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260575.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Harini-Amarasuriya-4.jpg",
-          "alt": "PM hails Sri Lanka’s $9 Bn export performance in first half of 2026"
-        }
-      ]
-    },
-    {
-      "id": 260571,
-      "title": "New prison rules proposed to allow Buddhist monks to wear robes outside prison",
-      "url": "https://www.newswire.lk/2026/10/14/new-prison-rules-proposed-to-allow-buddhist-monks-to-wear-robes-outside-prison/",
-      "published": "2026-10-14T17:06:14+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "Budhdhist monks",
-        "Harshana Nanayakkara",
-        "prison attire"
-      ],
-      "text": "Justice and National Integration Minister Harshana Nanayakkara has announced proposed amendments to prison regulations that would allow imprisoned Buddhist monks to wear their robes when leaving prison for court appearances or other purposes.\nThe proposals follow discussions between President Anura Kumara Dissanayake and representatives of the three Buddhist Nikayas over concerns surrounding the removal of Ven. Galagoda Aththe Gnanasara Thera’s robes following his imprisonment.\nSpeaking at the Justice Ministry today (14), Minister Nanayakkara said a committee appointed by the President had submitted its interim report recommending amendments to existing prison standing orders.\nUnder the proposed amendments, Buddhist monks serving prison sentences would be permitted to wear their robes when leaving prison unless the relevant Buddhist chapter or Nikaya directs otherwise.\nThe committee has also recommended amending Standing Order 356 to introduce a procedure requiring prison authorities to notify the Department of Buddhist Affairs regarding the removal of a monk’s robes upon imprisonment.\nThe Commissioner of Prisons would be given 10 days to take the necessary action in consultation with the department.\nThe minister said similar provisions would apply, with appropriate modifications, to clergy of other faiths.\nHe said the interim report had already been forwarded to the acting Commissioner General of Prisons, with instructions to amend the relevant standing orders in accordance with the committee’s recommendations.\nThe proposed changes follow concerns raised by senior Buddhist monks over the treatment of imprisoned clergy.\nThe minister said the President had promised to address the issue within two weeks during discussions with Buddhist religious leaders.\nThe amendments have been recommended but have not yet been confirmed as implemented.",
-      "word_count": 265,
-      "is_lead": false,
-      "category": "Political",
-      "category_scores": {
-        "Political": 21,
-        "Finance": 0,
-        "Tech": 0
-      },
-      "summary": "Justice and National Integration Minister Harshana Nanayakkara has announced proposed amendments to prison regulations that would allow imprisoned Buddhist monks to wear their robes when leaving prison for court appearances or other purposes. Under the proposed amendments, Buddhist monks serving prison sentences would be permitted to wear their robes when leaving prison unless the relevant Buddhist chapter or Nikaya directs otherwise.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260571.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Harshana-Nanayakara-buddhist-monks.jpg",
-          "alt": "New prison rules proposed to allow Buddhist monks to wear robes outside prison"
         }
       ]
     }
