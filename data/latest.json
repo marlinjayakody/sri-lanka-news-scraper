@@ -2,10 +2,10 @@
   "source": "https://www.newswire.lk/",
   "fetched_via": "wp-rest-api",
   "edition_date": "2026-10-15",
-  "generated_at": "2026-10-15T16:06:48+05:30",
+  "generated_at": "2026-10-15T16:38:03+05:30",
   "window": {
-    "from": "2026-10-14T16:06:48+05:30",
-    "to": "2026-10-15T16:06:48+05:30"
+    "from": "2026-10-14T16:38:03+05:30",
+    "to": "2026-10-15T16:38:03+05:30"
   },
   "enrichment": "keywords",
   "categories": [
@@ -15,12 +15,90 @@
     "General"
   ],
   "counts": {
-    "Political": 22,
-    "Finance": 15,
+    "Political": 23,
+    "Finance": 14,
     "Tech": 2,
-    "General": 22
+    "General": 21
   },
   "articles": [
+    {
+      "id": 260782,
+      "title": "Deputy Minister seeks correction over alleged AI-generated image shown on TV",
+      "url": "https://www.newswire.lk/2026/10/15/deputy-minister-seeks-correction-over-alleged-ai-generated-image-shown-on-tv/",
+      "published": "2026-10-15T16:33:18+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "AI image",
+        "Chathuranga Abeysinghe",
+        "Wimal Weerawansa"
+      ],
+      "text": "Deputy Minister of Industry and Entrepreneurship Development Chathuranga Abeysinghe has sought a formal clarification and correction from a private television channel over the alleged use of an Artificial Intelligence (AI)-generated photograph concerning him during a television discussion programme.\nAn official letter dated October 15 has been sent to the television channel, requesting an investigation into the authenticity of the photograph displayed by former Minister Wimal Weerawansa during the programme.\nAccording to a statement issued by the Deputy Minister’s Office, the photograph displayed and discussed by Weerawansa was not an original selfie taken by Abeysinghe but an image allegedly manipulated using AI technology.\nThe letter warns that presenting an artificially generated image as an authentic photograph could mislead the public and damage an individual’s reputation.\nIt further raises concerns that the use of such images during discussions involving sensitive ethnic and religious matters could create misunderstandings and potentially fuel racial or religious tensions.\nThe Deputy Minister’s Office has also questioned whether the programme’s presenter took adequate steps to verify the authenticity and source of the photograph before allowing it to be discussed on air.\nAccordingly, the letter requests the television channel to verify the photograph’s authenticity and source, make necessary corrections to the relevant video, issue a clear public correction through the same programme and provide a written explanation of the action taken.\nThe statement emphasised that the request was not intended to restrict political expression but to ensure accuracy and responsible media practices.\nThe latest development follows allegations raised by Deputy Minister Abeysinghe against former Minister Wimal Weerawansa over the use of the photograph during the television discussion.\nIn an earlier social media post, Abeysinghe shared what he described as the original photograph alongside the allegedly AI-manipulated version.\nHe claimed that the original photograph showed him with an individual identified as Amal, who had helped protect protesters during an attack by Sri Lanka Podujana Peramuna (SLPP) supporters during the 2022 Aragalaya protest movement.\nAccording to Abeysinghe, Amal was among a small group of individuals who initially confronted the attackers, and the photograph had been taken in recognition of his actions.\nHowever, the Deputy Minister alleged that the original image had subsequently been manipulated using AI technology to portray Amal as a Buddhist monk.\nAbeysinghe criticised Weerawansa for allegedly relying on the manipulated image to make political claims during the television programme.\nThe Deputy Minister’s Office has called on the television channel to take prompt and responsible action to correct any misleading information and safeguard public trust in the media.",
+      "word_count": 419,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 36,
+        "Finance": 1,
+        "Tech": 28
+      },
+      "summary": "Deputy Minister of Industry and Entrepreneurship Development Chathuranga Abeysinghe has sought a formal clarification and correction from a private television channel over the alleged use of an Artificial Intelligence (AI)-generated photograph concerning him during a television discussion programme.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260782.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Chathuranga-wimal-ai-image.jpg",
+          "alt": "Deputy Minister seeks correction over alleged AI-generated image shown on TV"
+        },
+        {
+          "src": "images/2026-10-15/260782-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Chathuranga-letter-1.jpg",
+          "alt": "Deputy Minister seeks correction over alleged AI-generated image shown on TV"
+        },
+        {
+          "src": "images/2026-10-15/260782-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Chathuranga-letter-2.jpg",
+          "alt": "Deputy Minister seeks correction over alleged AI-generated image shown on TV"
+        },
+        {
+          "src": "images/2026-10-15/260782-4.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Chathuranga-letter-3.jpg",
+          "alt": "Deputy Minister seeks correction over alleged AI-generated image shown on TV"
+        }
+      ]
+    },
+    {
+      "id": 260778,
+      "title": "Construction begins on new Coastal Park in Mannar",
+      "url": "https://www.newswire.lk/2026/10/15/construction-begins-on-new-coastal-park-in-mannar/",
+      "published": "2026-10-15T16:12:53+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Coastla Park",
+        "Mannar"
+      ],
+      "text": "Construction work on a new coastal recreational park in the Silavathurai–Arippu area of Mannar has commenced, with the project aimed at protecting the coastline, supporting the local fishing community and promoting tourism.\nThe foundation stone for the project was laid yesterday (14) under the patronage of Deputy Minister of Environment Anton Jayakody.\nAccording to the Ministry of Environment, the project is being implemented as part of the Government’s coastal conservation programme, which includes the development of recreational parks in coastal areas across the country.\nThe Silavathurai–Arippu coastal park project was initiated considering the tourism potential of the area surrounding the historic Doric Bungalow in Mannar.\nThe project aims to address severe coastal erosion along the Silavathurai–Arippu coastline while protecting the surrounding coastal environment.\nIt will also improve facilities and provide additional space for local fishermen to moor their boats, supporting fishing activities in the area.\nThe Ministry noted that several similar coastal recreational park projects across the island are currently nearing completion.\nThe coastal conservation activities in the Silavathurai–Arippu area are being carried out jointly by the Ministry of Environment and the Department of Coast Conservation and Coastal Resource Management, using a scientific approach to coastal protection.",
+      "word_count": 197,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 8,
+        "Finance": 2,
+        "Tech": 0
+      },
+      "summary": "Construction work on a new coastal recreational park in the Silavathurai–Arippu area of Mannar has commenced, with the project aimed at protecting the coastline, supporting the local fishing community and promoting tourism. The Silavathurai–Arippu coastal park project was initiated considering the tourism potential of the area surrounding the historic Doric Bungalow in Mannar.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260778.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Coastal-Park-Mannar.jpg",
+          "alt": "Construction begins on new Coastal Park in Mannar"
+        }
+      ]
+    },
     {
       "id": 260775,
       "title": "Sri Lanka receives Rs. 330 Mn worth of cancer medicines from US charity",
@@ -1822,104 +1900,6 @@
           "src": "images/2026-10-15/260571.jpg",
           "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Harshana-Nanayakara-buddhist-monks.jpg",
           "alt": "New prison rules proposed to allow Buddhist monks to wear robes outside prison"
-        }
-      ]
-    },
-    {
-      "id": 260552,
-      "title": "Two ministry cabs broke down, had to use friend’s vehicle: Minister Lal Kantha",
-      "url": "https://www.newswire.lk/2026/10/14/two-ministry-cabs-broke-down-had-to-use-friends-vehicle-minister-lal-kantha/",
-      "published": "2026-10-14T16:34:33+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "Lal Kantha"
-      ],
-      "text": "Minister K.D. Lal Kantha has revealed that two double cabs assigned to him by his ministry broke down during official travel, forcing him to use a private vehicle belonging to a close friend to carry out his duties.\nAddressing a public event, the Minister said he had been using two double cabs obtained from his ministry, but recently experienced mechanical problems with both vehicles.\nHe explained that one of the vehicles broke down midway through a journey, prompting him to arrange for the second cab. However, the replacement vehicle also broke down after travelling a short distance.\nAs a result, he said he was compelled to use a vehicle belonging to a close friend to continue his official duties.\nMinister Lal Kantha said the government was facing a shortage of suitable vehicles and other facilities, stressing the need to provide new vehicles for official use.\nHe also highlighted the deteriorating condition of several government-owned buildings, noting that some official residences and properties were in poor condition, with damaged roofs, broken washrooms and a lack of maintenance.\nThe Minister said that although a new government had assumed office, it had inherited several shortcomings in state facilities and infrastructure. He further claimed that ministers had not obtained additional privileges or benefits since assuming office.\nMeanwhile, commenting on the global situation, Minister Lal Kantha claimed that the government had taken measures to minimise the impact of international conflicts on Sri Lanka.\nHe said the government had ensured the continued functioning of essential services despite global challenges and claimed that Sri Lanka was providing fuel at one of the lowest prices.",
-      "word_count": 267,
-      "is_lead": false,
-      "category": "Political",
-      "category_scores": {
-        "Political": 20,
-        "Finance": 2,
-        "Tech": 0
-      },
-      "summary": "Minister K.D. Lal Kantha has revealed that two double cabs assigned to him by his ministry broke down during official travel, forcing him to use a private vehicle belonging to a close friend to carry out his duties. Addressing a public event, the Minister said he had been using two double cabs obtained from his ministry, but recently experienced mechanical problems with both vehicles.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260552.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Lal-kantha-2.jpg",
-          "alt": "Two ministry cabs broke down, had to use friend’s vehicle: Minister Lal Kantha"
-        }
-      ]
-    },
-    {
-      "id": 260546,
-      "title": "Namal writes to President, seeks second-chance loan scheme in 2027 Budget",
-      "url": "https://www.newswire.lk/2026/10/14/namal-writes-to-president-seeks-second-chance-loan-scheme-in-2027-budget/",
-      "published": "2026-10-14T16:28:09+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "Namal Rajapaksa"
-      ],
-      "text": "Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa has called on President and Finance Minister Anura Kumara Dissanayake to introduce a second-chance business loan scheme in the 2027 Budget to help entrepreneurs who have fully repaid their debts regain access to credit.\nIn a letter to the President, Rajapaksa said individuals who had experienced repayment difficulties in the past but subsequently settled their loans in full continued to face significant obstacles in obtaining fresh credit due to their records with the Credit Information Bureau (CRIB).\nHe said historical information on repaid loans remained in CRIB records for up to five years, potentially affecting borrowers’ ability to secure new loans, although CRIB did not blacklist individuals.\nCiting Malaysia’s Central Credit Reference Information System (CCRIS) as an example, Rajapaksa said the system updated loan statuses following full repayment and primarily reflected repayment histories covering the preceding 12 months.\nHe proposed five measures for inclusion in the 2027 Budget, including updating CRIB records within five working days of full loan repayment and clearly marking settled loans as “Fully Settled/Closed”.\nHe also called for guidelines requiring banks to assess loan applications based not only on past credit difficulties but also on applicants’ current income and repayment capacity.\nFurthermore, he proposed reviewing the period for which historical credit information was retained in Sri Lanka, taking international practices into consideration.\nRajapaksa also called for a “Second-Chance Business Loan Scheme” to help micro, small and medium-sized enterprises (MSMEs) that had settled all their debt obligations restart their businesses.\nA person who had previously struggled to repay a loan but had subsequently settled the debt in full should be given another opportunity to contribute to the economy, he said, adding that such measures would benefit both entrepreneurs and the country’s economic growth.\nHe urged the Government to introduce a prompt and lasting solution to the issue through the 2027 Budget.",
-      "word_count": 312,
-      "is_lead": false,
-      "category": "Finance",
-      "category_scores": {
-        "Political": 53,
-        "Finance": 60,
-        "Tech": 0
-      },
-      "summary": "Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa has called on President and Finance Minister Anura Kumara Dissanayake to introduce a second-chance business loan scheme in the 2027 Budget to help entrepreneurs who have fully repaid their debts regain access to credit.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260546.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/namal-AKD-letter.jpg",
-          "alt": "Namal writes to President, seeks second-chance loan scheme in 2027 Budget"
-        },
-        {
-          "src": "images/2026-10-15/260546-2.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Namal-1.jpg",
-          "alt": "Namal writes to President, seeks second-chance loan scheme in 2027 Budget"
-        },
-        {
-          "src": "images/2026-10-15/260546-3.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Namal-2.jpg",
-          "alt": "Namal writes to President, seeks second-chance loan scheme in 2027 Budget"
-        }
-      ]
-    },
-    {
-      "id": 260543,
-      "title": "“We are not telling students to attend tuition classes. If they are causing pressure, let’s change that,” – PM",
-      "url": "https://www.newswire.lk/2026/10/14/we-are-not-telling-students-to-attend-tuition-classes-if-they-are-causing-pressure-lets-change-that-pm/",
-      "published": "2026-10-14T16:18:32+05:30",
-      "source_categories": [
-        "Visual"
-      ],
-      "tags": [],
-      "text": "",
-      "word_count": 0,
-      "is_lead": false,
-      "category": "General",
-      "category_scores": {
-        "Political": 3,
-        "Finance": 0,
-        "Tech": 0
-      },
-      "summary": "“We are not telling students to attend tuition classes. If they are causing pressure, let’s change that,” – PM",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260543.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Visual-Stories-34.jpg",
-          "alt": "“We are not telling students to attend tuition classes. If they are causing pressure, let’s change that,” – PM"
         }
       ]
     }
