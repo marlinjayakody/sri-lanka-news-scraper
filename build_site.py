@@ -2,7 +2,8 @@
 """Build the static news site from the scraped data.
 
 Reads   data/latest.json (written by scraper.py)
-Writes  site/index.html, site/news.json, site/images/..., site/_headers
+Writes  site/index.html, site/news.json, site/images/..., site/_headers,
+        site/manifest.webmanifest and the icons from assets/ (see make_icons.py)
 
 The page is a vertical feed of full-screen cards: a cover, one card per story
 (image, title, summary), and an end card. Cards snap into place as you scroll.
@@ -29,7 +30,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 SITE_DIR = ROOT / "site"
+ASSETS_DIR = ROOT / "assets"  # icons from make_icons.py, copied to the site root
 SITE_TITLE = os.environ.get("SITE_TITLE", "Lanka Daily Digest")
+SHORT_NAME = os.environ.get("SITE_SHORT_NAME", "Lanka Digest")  # label under the home-screen icon
 TAGLINE = "Today's Sri Lankan news, summarised"
 
 CATEGORY_SLUGS = {"Political": "political", "Finance": "finance", "Tech": "tech", "General": "general"}
@@ -112,7 +115,7 @@ def build_html(data: dict) -> str:
     og_image = next((img_src(a["images"][0]) for a in stories if a["images"]), "")
 
     return f"""<!doctype html>
-<html lang="en">
+<html lang="en" data-edition="{e(data['generated_at'])}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -123,7 +126,14 @@ def build_html(data: dict) -> str:
 <meta property="og:image" content="{e(og_image)}">
 <meta name="theme-color" content="#fbfbf9" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#0f0f0e" media="(prefers-color-scheme: dark)">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='32' fill='%23121212'/%3E%3Ctext x='32' y='44' font-family='Georgia,serif' font-size='34' fill='%23fbfbf9' text-anchor='middle'%3EL%3C/text%3E%3C/svg%3E">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" href="/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<meta name="apple-mobile-web-app-title" content="{e(SHORT_NAME)}">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400..600&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
@@ -201,7 +211,8 @@ button,select{font:inherit;color:inherit}
 .cat-political{--c:var(--political)}.cat-finance{--c:var(--finance)}.cat-tech{--c:var(--tech)}.cat-general{--c:var(--general)}
 
 /* top bar */
-.bar{position:fixed;inset:0 0 auto;z-index:10;height:var(--bar);display:flex;align-items:center;gap:24px;padding:0 var(--pad);
+.bar{position:fixed;inset:0 0 auto;z-index:10;height:var(--bar);display:flex;align-items:center;gap:24px;
+  padding:0 max(var(--pad),env(safe-area-inset-right)) 0 max(var(--pad),env(safe-area-inset-left));
   background:color-mix(in srgb,var(--bg) 84%,transparent);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px)}
 .wordmark{font-family:var(--serif);font-size:26px;line-height:1;text-decoration:none;white-space:nowrap}
 .bar-date{color:var(--muted);font-size:16px}
@@ -214,7 +225,7 @@ button,select{font:inherit;color:inherit}
 
 /* every screen in the feed */
 .card{position:relative;height:100vh;height:100dvh;scroll-snap-align:start;scroll-snap-stop:always;overflow:hidden;
-  padding:calc(var(--bar) + 8px) var(--pad) clamp(24px,5vh,56px)}
+  padding:calc(var(--bar) + 8px) max(var(--pad),env(safe-area-inset-right)) clamp(24px,5vh,56px) max(var(--pad),env(safe-area-inset-left))}
 
 /* shared type */
 .eyebrow{margin:0 0 20px;font-size:15px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
@@ -330,11 +341,26 @@ JS = r"""
     document.getElementById("top").scrollIntoView();
   });
 
+  // Opened from the home screen, the page can sit suspended for days. When it comes
+  // back to the foreground, check for a newer edition and reload if there is one.
+  var loadedAt = Date.now();
+  document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState !== "visible" || Date.now() - loadedAt < 30 * 60 * 1000) return;
+    fetch("/news.json", {cache: "no-store"})
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) {
+        if (d && d.generated_at !== document.documentElement.dataset.edition) location.reload();
+        else loadedAt = Date.now();
+      })
+      .catch(function () {});
+  });
 })();
 """
 
 HEADERS_FILE = """/images/*
   Cache-Control: public, max-age=31536000, immutable
+/manifest.webmanifest
+  Content-Type: application/manifest+json
 /*
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
@@ -372,6 +398,27 @@ def main() -> int:
     ]
     (SITE_DIR / "news.json").write_text(json.dumps(public, ensure_ascii=False, indent=2), encoding="utf-8")
     (SITE_DIR / "_headers").write_text(HEADERS_FILE, encoding="utf-8")
+
+    # icons + web app manifest, so "Add to Home Screen" gets a proper app icon and name
+    for icon in sorted(ASSETS_DIR.glob("*")):
+        if icon.is_file():
+            shutil.copyfile(icon, SITE_DIR / icon.name)
+    manifest = {
+        "name": SITE_TITLE,
+        "short_name": SHORT_NAME,
+        "description": TAGLINE,
+        "start_url": "/",
+        "scope": "/",
+        "display": "standalone",
+        "background_color": "#fbfbf9",
+        "theme_color": "#fbfbf9",
+        "icons": [
+            {"src": "/icon-192.png", "sizes": "192x192", "type": "image/png"},
+            {"src": "/icon-512.png", "sizes": "512x512", "type": "image/png"},
+            {"src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+        ],
+    }
+    (SITE_DIR / "manifest.webmanifest").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
 
     n_files = sum(1 for p in SITE_DIR.rglob("*") if p.is_file())
     size_mb = sum(p.stat().st_size for p in SITE_DIR.rglob("*") if p.is_file()) / 1e6

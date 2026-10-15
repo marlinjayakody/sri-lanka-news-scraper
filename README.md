@@ -16,6 +16,7 @@ scraper.py ──► data/<date>.json + data/images/ ──► build_site.py ─
 | `scraper.py` | Pulls stories via the WordPress REST API (RSS fallback): title, link, time, text, featured + in-article images. Downloads and resizes the images. |
 | `enrich.py` | Summary + category for each story. Free offline keyword engine by default; uses Claude automatically when `ANTHROPIC_API_KEY` is set. |
 | `build_site.py` | Turns `data/latest.json` into `site/index.html` (+ images, `news.json`). Publishes only summaries, never the full article text. |
+| `make_icons.py` | Draws the "L." app icon and writes every size to `assets/` (browser tab, iPhone home screen, Android). Re-run after changing the design. |
 | `deploy.sh` | Production deploy of `site/` with the Netlify CLI. |
 | `run_daily.sh` | The whole pipeline, for running locally by hand (logs to `logs/`). |
 | `.github/workflows/daily.yml` | The 10:00 schedule: scrape, build, commit the day's JSON, deploy. |
