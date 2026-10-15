@@ -1,0 +1,64 @@
+name: Daily news digest
+
+on:
+  schedule:
+    - cron: "30 4 * * *"  # 04:30 UTC = 10:00 Sri Lanka time (UTC+5:30)
+  workflow_dispatch:      # "Run workflow" button for manual runs
+
+permissions:
+  contents: write         # lets the job commit the day's data back to the repo
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+env:
+  NETLIFY_SITE_ID: 505d6187-d364-4f5e-8404-49e64e0dcd87  # lanka-daily-digest
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape newswire.lk
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}  # optional - keyword engine if unset
+        run: python scraper.py
+
+      - name: Build site
+        run: python build_site.py
+
+      - name: Commit today's edition
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          if git diff --cached --quiet; then echo "Nothing new to commit"; exit 0; fi
+          git commit -m "Daily edition $(TZ=Asia/Colombo date +%Y-%m-%d)"
+          git push
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Deploy to Netlify
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+        run: |
+          if [ -z "$NETLIFY_AUTH_TOKEN" ]; then
+            echo "::error title=Netlify token missing::Add a NETLIFY_AUTH_TOKEN repository secret (Settings > Secrets and variables > Actions) to enable deploys."
+            exit 1
+          fi
+          npm ci --no-audit --no-fund
+          ./deploy.sh

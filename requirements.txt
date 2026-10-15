@@ -1,0 +1,6 @@
+requests>=2.31
+beautifulsoup4>=4.12
+Pillow>=10.0
+# Optional: only used when ANTHROPIC_API_KEY is set (better summaries + categories)
+anthropic>=0.70
+python-dotenv>=1.0

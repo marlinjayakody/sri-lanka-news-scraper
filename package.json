@@ -1,0 +1,8 @@
+{
+  "name": "sri-lanka-news-scraper",
+  "private": true,
+  "description": "Deploy tooling for the Lanka Daily Digest static site",
+  "devDependencies": {
+    "netlify-cli": "^27.12.1"
+  }
+}
