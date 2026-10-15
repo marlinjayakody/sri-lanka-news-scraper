@@ -2,10 +2,10 @@
   "source": "https://www.newswire.lk/",
   "fetched_via": "wp-rest-api",
   "edition_date": "2026-10-15",
-  "generated_at": "2026-10-15T13:59:52+05:30",
+  "generated_at": "2026-10-15T16:06:48+05:30",
   "window": {
-    "from": "2026-10-14T13:59:52+05:30",
-    "to": "2026-10-15T13:59:52+05:30"
+    "from": "2026-10-14T16:06:48+05:30",
+    "to": "2026-10-15T16:06:48+05:30"
   },
   "enrichment": "keywords",
   "categories": [
@@ -15,12 +15,285 @@
     "General"
   ],
   "counts": {
-    "Political": 24,
+    "Political": 22,
     "Finance": 15,
-    "Tech": 3,
-    "General": 21
+    "Tech": 2,
+    "General": 22
   },
   "articles": [
+    {
+      "id": 260775,
+      "title": "Sri Lanka receives Rs. 330 Mn worth of cancer medicines from US charity",
+      "url": "https://www.newswire.lk/2026/10/15/sri-lanka-receives-rs-330-mn-worth-of-cancer-medicines-from-us-charity/",
+      "published": "2026-10-15T16:01:57+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "cancer medicine",
+        "Health Ministry",
+        "US charity"
+      ],
+      "text": "Sri Lanka has received a donation of essential cancer medicines worth Rs. 330 million from a US-based charitable organisation, while an agreement has also been signed to provide 600 specialised wheelchairs for patients with spinal cord injuries.\nThe donation was made by Latter-day Saint Charities (LDSC), affiliated with The Church of Jesus Christ of Latter-day Saints, to the Ministry of Health and Mass Media on Wednesday (14).\nAccording to the Ministry, the donated medicines include several essential oncology drugs, such as Oxaliplatin 100mg injections, Abiraterone 250mg tablets and Methotrexate 500mg/5ml injections, intended for the treatment of cancer patients in Sri Lanka.\nThe medicines were officially handed over to Ministry Secretary Dr. Anil Jasinghe by LDSC Asia Area Director Lui Wing Chung Mickey and Asia Area Manager Apapohn Pinsakol Saengsin at the Ministry premises.\nDuring the event, a Memorandum of Understanding (MoU) was also signed between the Ministry and the US-based organisation for the donation of 600 specialised wheelchairs to rehabilitation hospitals and centres treating patients with spinal cord injuries.\nThe wheelchair donation marks the second phase of the organisation’s humanitarian assistance programme in Sri Lanka.\nUnder the first phase in 2023, LDSC donated 570 wheelchairs, which have since been distributed to patients through rehabilitation centres across the country.\nThe latest programme will also include specialised training for healthcare personnel on wheelchair prescription, use and repairs, in accordance with World Health Organization (WHO) guidelines.\nDoctors, physiotherapists, occupational therapists and wheelchair workshop staff are expected to receive training under the initiative.\nMeanwhile, the Ministry noted that LDSC had also donated essential cancer medicines worth approximately US$ 2 million (Rs. 660 million) to Sri Lanka over the past two years.\nIn recognition of the latest donation, a special Certificate of Appreciation arranged by Minister of Health Nalinda Jayatissa was presented to the organisation’s Asia Area Director by Ministry Secretary Dr. Anil Jasinghe.",
+      "word_count": 309,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 5,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka has received a donation of essential cancer medicines worth Rs. 330 million from a US-based charitable organisation, while an agreement has also been signed to provide 600 specialised wheelchairs for patients with spinal cord injuries. Meanwhile, the Ministry noted that LDSC had also donated essential cancer medicines worth approximately US$ 2 million (Rs. 660 million) to Sri Lanka over the past two years.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260775.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/US-Charity-Cancer-medicine.jpg",
+          "alt": "Sri Lanka receives Rs. 330 Mn worth of cancer medicines from US charity"
+        }
+      ]
+    },
+    {
+      "id": 260772,
+      "title": "New website launched for public inquiries on education reforms",
+      "url": "https://www.newswire.lk/2026/10/15/new-website-launched-for-public-inquiries-on-education-reforms/",
+      "published": "2026-10-15T15:58:18+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "education refor",
+        "Harini Amarasuriya",
+        "website"
+      ],
+      "text": "The Government has launched a new official website to provide accurate information and address public inquiries regarding Sri Lanka’s proposed education reforms.\nThe Reform Information & Enquiry Service (RIES) website, https://edureformfact.moe.gov.lk , was officially launched with the participation of Prime Minister and Minister of Education, Higher Education and Vocational Education Harini Amarasuriya.\nThe launch took place during a programme held at Temple Trees yesterday (14), attended by heads of electronic and print media institutions to discuss the implementation of the new education reforms.\nThe website has been developed to communicate accurate information about the reforms and allow members of the public to submit questions regarding the proposed changes to the education system.\nAddressing the gathering, Prime Minister Amarasuriya emphasised that the reforms represent a transformation of the entire education system rather than merely a revision of the school curriculum.\n“This is a transformation of the entire education system that goes beyond a change in the curriculum. The future of our country is built on quality education,” she stated.\nThe Prime Minister noted that the first phase of the reforms commenced with Grade 1 in 2026, while plans are underway to introduce the reforms to Grade 6 in 2027.\nShe said teacher training, infrastructure development and digitalisation initiatives are already being implemented to ensure the education system is prepared for the changes.\nHighlighting the role of the media, the Prime Minister stressed the importance of creating a national dialogue on education reforms and ensuring that accurate information reaches the public.\n“We may have different political ideologies, but it is important that we do not use children’s education as a political battleground,” she said.\nMeanwhile, Professor Prabhath Jayasinghe, Co-Chairperson of the Subcommittee on Public Awareness of Education Reforms, explained that the proposed changes aim to move away from teacher-centred, memorisation-based education towards student-centred learning connected to real-world experiences.\nHe said the reforms would also introduce continuous assessment methods to evaluate students’ analytical, creative and problem-solving abilities, rather than relying primarily on final examinations.\nThe programme concluded with a discussion among media representatives, senior journalists and education experts on the proposed changes to Sri Lanka’s education system.",
+      "word_count": 354,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 28,
+        "Finance": 0,
+        "Tech": 3
+      },
+      "summary": "The Government has launched a new official website to provide accurate information and address public inquiries regarding Sri Lanka’s proposed education reforms. The Reform Information & Enquiry Service (RIES) website, https://edureformfact.moe.gov.lk , was officially launched with the participation of Prime Minister and Minister of Education, Higher Education and Vocational Education Harini Amarasuriya.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260772.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Education-Reform.jpg",
+          "alt": "New website launched for public inquiries on education reforms"
+        }
+      ]
+    },
+    {
+      "id": 260769,
+      "title": "High Risk Rain Alert for 8 districts",
+      "url": "https://www.newswire.lk/2026/10/15/high-risk-rain-alert-for-8-districts/",
+      "published": "2026-10-15T15:51:22+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka’s Department of Meteorology has issued an amber advisory warning of heavy rainfall exceeding 100 mm in parts of Western and Sabaragamuwa provinces and the Matara, Galle and Puttalam districts.\nThe department said a low-level atmospheric disturbance near Sri Lanka is expected to bring cloudy skies, showers and thunderstorms to most parts of the island.\nThe advisory is valid from 3 p.m. on October 15 until 3 p.m. on October 16, 2026.\nResidents in affected areas have been urged to remain prepared and take necessary precautions against heavy rainfall and possible flooding.",
+      "word_count": 93,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka’s Department of Meteorology has issued an amber advisory warning of heavy rainfall exceeding 100 mm in parts of Western and Sabaragamuwa provinces and the Matara, Galle and Puttalam districts. The department said a low-level atmospheric disturbance near Sri Lanka is expected to bring cloudy skies, showers and thunderstorms to most parts of the island.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260769.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/05/Expressway-rain.jpg",
+          "alt": "High Risk Rain Alert for 8 districts"
+        },
+        {
+          "src": "images/2026-10-15/260769-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261015_154909_Samsung-Notes.jpg",
+          "alt": "High Risk Rain Alert for 8 districts"
+        }
+      ]
+    },
+    {
+      "id": 260766,
+      "title": "Dehiwala Zoo Zebra recovering well after successful emergency surgery",
+      "url": "https://www.newswire.lk/2026/10/15/dehiwala-zoo-zebra-recovering-well-after-successful-emergency-surgery/",
+      "published": "2026-10-15T15:40:29+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Dehiwala zoo",
+        "zebra"
+      ],
+      "text": "A zebra at the Dehiwala National Zoological Gardens is recovering well and has resumed eating normally following a successful emergency surgery to remove an obstruction from its digestive tract.\nThe Department of National Zoological Gardens, providing an update on the animal’s condition, confirmed that the zebra is making a rapid recovery under veterinary care.\nAccording to the Department, the zebra had been showing signs of illness since September 29, prompting veterinary officers to conduct laboratory tests and a scan.\nThe examinations revealed an obstruction in the animal’s digestive tract, requiring urgent surgical intervention.\nAccordingly, a special emergency surgery was performed on October 9, with the participation of veterinary officers and staff of the Department of National Zoological Gardens.\nThe procedure was conducted under the guidance and participation of Dr. Dammika Perera, Senior Lecturer at the Faculty of Veterinary Medicine of the University of Peradeniya, who specialises in equine species.\nThe surgery continued for several hours until the early hours of the following morning, during which veterinary surgeons successfully removed a mass of undigested food that had caused the obstruction.\nFollowing the procedure, the zebra was kept under close veterinary supervision for several days.\nThe Department has now confirmed that the animal is recovering well and has resumed its usual feeding habits.\nThe Department of National Zoological Gardens also expressed appreciation to Dr. Dammika Perera, veterinary surgeon Dr. Hasitha Rupathunga, the Dehiwala Zoo Veterinary Hospital staff and animal care teams for their contributions to the successful surgery and the zebra’s recovery.\nVideo: https://web.facebook.com/reel/1667597384708675",
+      "word_count": 252,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A zebra at the Dehiwala National Zoological Gardens is recovering well and has resumed eating normally following a successful emergency surgery to remove an obstruction from its digestive tract.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260766.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Dehiwala-Zoo-Zebra.jpg",
+          "alt": "Dehiwala Zoo Zebra recovering well after successful emergency surgery"
+        }
+      ]
+    },
+    {
+      "id": 260763,
+      "title": "Monk who linked assault to NPP now says he assumed victim was protest supporter",
+      "url": "https://www.newswire.lk/2026/10/15/monk-who-linked-assault-to-npp-now-says-he-assumed-victim-was-protest-supporter/",
+      "published": "2026-10-15T14:50:43+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Ven. Thiththagalle Anandasiri Thera has responded to allegations by Sri Lanka Police that he spread false information about an assault during a protest march demanding the release of imprisoned Buddhist monk Ven. Galagoda Aththe Gnanasara Thera, acknowledging that he had initially assumed the injured man was a supporter of the march.\nIn his initial video, the monk alleged that individuals linked to the ruling National People’s Power (NPP) were responsible for attacking a man who had assisted the protest march from Kandy to Colombo.\nHowever, responding to a police statement rejecting those claims, the monk said he had believed the injured man was someone supporting the march because the assault occurred in front of the protesters.\nHe did not repeat his earlier allegation directly linking the attackers to the NPP in his latest explanation, instead focusing on the police response to the incident.\nThe monk maintained that the assault had occurred in the presence of police officers deployed along the protest route and questioned why they had allegedly failed to intervene.\nAccording to Ven. Anandasiri Thera, the victim was bleeding following the attack, and he helped clean the man’s wounds before arranging for him to be taken to hospital by ambulance.\nHe also claimed that those accompanying the march had recorded the registration number of the motorcycle involved and provided the information to police.\nThe monk questioned why police had focused on accusing him of spreading misinformation rather than examining the alleged failure of officers to act when the assault occurred.\nHe further suggested that police had taken action only after his video attracted public attention.\nHis response follows a statement issued by Sri Lanka Police on Oct. 15, rejecting claims that a supporter of the march had been attacked.\nPolice said investigations revealed that the incident occurred on Oct. 14 near the Veediyawatta Devalaya in the Weeragula police area following a traffic-related dispute between a man travelling in a lorry and a motorcyclist.\nAccording to police, an argument arising from traffic congestion escalated into a confrontation during which the lorry occupant was struck with a helmet.\nPolice said the injured man had confirmed in a statement that he was travelling for personal reasons and had no connection to the protest march.\nThe injured man was admitted to Wathupitiwala Hospital, while the motorcyclist involved in the dispute was also admitted to Gampaha Hospital for treatment.\nPolice accused Ven. Anandasiri Thera of misleading the public by presenting the injured man as a supporter of the march who had been deliberately attacked.\nThe monk, however, rejected suggestions that he had deliberately spread false information, maintaining that he had intervened to help an injured person and publicised the incident to draw attention to the assault.\nHe also criticised the government’s handling of the protest and reiterated that the march would continue towards Colombo despite heavy rain.\nPolice said the matter would be reported to court and warned that legal action could be taken against those spreading false or unverified information capable of causing public unrest.\nFurther investigations are underway.",
+      "word_count": 506,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 16,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Ven. Thiththagalle Anandasiri Thera has responded to allegations by Sri Lanka Police that he spread false information about an assault during a protest march demanding the release of imprisoned Buddhist monk Ven. Galagoda Aththe Gnanasara Thera, acknowledging that he had initially assumed the injured man was a supporter of the march.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260763.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261015_144716_Editor-Lite.jpg",
+          "alt": "Monk who linked assault to NPP now says he assumed victim was protest supporter"
+        }
+      ]
+    },
+    {
+      "id": 260760,
+      "title": "SC grants leave to appeal in former Deputy Minister’s Rs. 50,000 bribery case",
+      "url": "https://www.newswire.lk/2026/10/15/sc-grants-leave-to-appeal-in-former-deputy-ministers-rs-50000-bribery-case/",
+      "published": "2026-10-15T14:30:29+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Supreme Court has granted special leave to appeal in a bribery case involving former Deputy Minister Shantha Premaratne, who was sentenced to four years of rigorous imprisonment for soliciting and accepting a Rs. 50,000 bribe in exchange for promising employment.\nPremaratne, a former United People’s Freedom Alliance (UPFA) politician and Sri Lanka Freedom Party (SLFP) organiser in the Ampara District, was convicted by the High Court in 2017.\nAccording to the Bribery Commission, Premaratne had solicited and accepted Rs. 50,000 from a party supporter after promising to secure employment for her son-in-law at the Ceylon Electricity Board (CEB).\nThe Court of Appeal upheld his conviction on Nov. 5, 2024, prompting Premaratne to challenge the ruling before the Supreme Court.\nA three-judge bench comprising Justices Achala Wengappuli, Arjuna Obeyesekere and Gihan Kulatunga granted special leave to appeal on the question of whether the charge in the indictment had been proved during the trial.\nPremaratne has maintained that the money was received as a donation towards the construction of a party headquarters and not as a bribe in exchange for employment.\nHe also claimed that political rivals had instigated complaints against him after he lost a party selection contest in June 2008.\nThe Supreme Court fixed the appeal for argument on March 29, 2027.\nAttorneys Hafeel Farisz, Prashan Wickramaratne and Sanjeewa Kodithuwakku appeared for Premaratne, while Additional Director General Ruvini Wickramasinghe represented the Bribery Commission.",
+      "word_count": 234,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 25,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Supreme Court has granted special leave to appeal in a bribery case involving former Deputy Minister Shantha Premaratne, who was sentenced to four years of rigorous imprisonment for soliciting and accepting a Rs. 50,000 bribe in exchange for promising employment.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260760.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261015_142835_Chrome.jpg",
+          "alt": "SC grants leave to appeal in former Deputy Minister’s Rs. 50,000 bribery case"
+        }
+      ]
+    },
+    {
+      "id": 260757,
+      "title": "Over 14,300 visas issued to foreigners through Port City recommendations: Parliament raises monitoring concerns",
+      "url": "https://www.newswire.lk/2026/10/15/over-14300-visas-issued-to-foreigners-through-port-city-recommendations-parliament-raises-monitoring-concerns/",
+      "published": "2026-10-15T14:26:00+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka’s Parliamentary Committee on Public Finance has raised concerns over the monitoring of foreign nationals after it was revealed that approximately 14,300 visas had been issued on the recommendation of the Colombo Port City Economic Commission.\nThe matter was discussed during a committee meeting held on Oct. 8 under the chairmanship of MP Dr. Harsha de Silva, according to a parliamentary statement issued on Oct. 15.\nCommittee members examined the practical feasibility of monitoring the activities of foreign nationals who had obtained visas through recommendations made by the Port City Commission.\nThe discussions focused on the issuance of visa recommendations for foreign workers and the mechanisms available to monitor their activities within the country.\nThe committee also emphasized the importance of strengthening regulatory measures to prevent illegal activities within Colombo Port City and safeguard Sri Lanka’s international reputation.\nMeanwhile, members questioned the mechanisms used to identify the beneficial owners of companies investing in Port City, ensure transparency in foreign investments and prevent money laundering and terrorist financing.\nThe committee also reviewed the progress of investment projects within Colombo Port City.\nOfficials revealed that nine land plots valued at approximately US$1.12 billion had already been leased, while plans were underway to lease another six plots worth US$1 billion.\nThe Commission also informed the committee that four government-owned land plots were being prepared for the market.\nAccording to officials, the land had been leased for 99 years at an average value of US$3,000 per square metre.\nThe committee further examined whether businesses approved to operate within Port City had commenced operations and whether the expected foreign investments and employment opportunities had materialized.\nConcerns were also raised regarding the protection of deposits paid by investors purchasing condominium units, particularly the use of escrow accounts to ensure that funds were used exclusively for the relevant development projects.\nThe discussions were attended by Deputy Ministers Chathuranga Abeysinghe and Nishantha Jayawera, along with several government and opposition MPs.",
+      "word_count": 323,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 25,
+        "Finance": 24,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka’s Parliamentary Committee on Public Finance has raised concerns over the monitoring of foreign nationals after it was revealed that approximately 14,300 visas had been issued on the recommendation of the Colombo Port City Economic Commission. Committee members examined the practical feasibility of monitoring the activities of foreign nationals who had obtained visas through recommendations made by the Port City Commission.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260757.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261015_142424_X.jpg",
+          "alt": "Over 14,300 visas issued to foreigners through Port City recommendations: Parliament raises monitoring concerns"
+        }
+      ]
+    },
+    {
+      "id": 260753,
+      "title": "TISL warns new anti-terrorism Bill could restrict public protests and freedom of expression",
+      "url": "https://www.newswire.lk/2026/10/15/tisl-warns-new-anti-terrorism-bill-could-restrict-public-protests-and-freedom-of-expression/",
+      "published": "2026-10-15T14:17:02+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Protection of the State from Terrorism",
+        "PTA",
+        "TISL"
+      ],
+      "text": "Transparency International Sri Lanka (TISL) has raised serious concerns over the proposed Protection of the State from Terrorism Bill, warning that several provisions could undermine fundamental rights, judicial independence and democratic freedoms.\nIn a statement , TISL expressed concern over the Bill, gazetted on September 22, 2026, which seeks to replace the existing Prevention of Terrorism Act (PTA).\nThe organisation highlighted concerns regarding the Bill’s broad definition of terrorism, expanded executive powers, administrative detention provisions and restrictions on fundamental freedoms.\nTISL warned that the proposed definition of terrorism covers a wide range of activities, including damage to property, the environment, cultural property and electronic systems, potentially bringing offences that should be addressed under ordinary criminal law within the scope of terrorism legislation.\nIt further cautioned that the broad definitions could result in disproportionate restrictions on freedom of expression, association and legitimate civic activities.\nThe organisation also raised concerns over provisions granting the armed forces and Coast Guard extensive powers of arrest, search, seizure and questioning, warning that insufficient safeguards could create accountability gaps and increase the risk of arbitrary action.\nRegarding detention provisions, TISL noted that the Bill allows the Secretary to the Ministry of Defence to issue detention orders for an initial period of two months, while limiting the Magistrate’s authority to independently assess the necessity of detention.\nThe organisation warned that these provisions could concentrate excessive powers within the executive while weakening judicial oversight.\nTISL also expressed concern over provisions allowing the President to proscribe organisations, noting that the absence of specified time limits and adequate safeguards could lead to arbitrary restrictions on freedom of association and civic activities.\nWhile acknowledging the State’s responsibility to address legitimate national security concerns, TISL stressed that counter-terrorism legislation must not undermine fundamental rights, due process or judicial independence.\nTISL urged the Government to withdraw the proposed Protection of the State from Terrorism Bill 2026 and repeal the existing Prevention of Terrorism Act without further delay.\nThe organisation further called for any replacement legislation to establish clear limits on executive authority, effective accountability mechanisms and adequate safeguards against arbitrary detention and the misuse of counter-terrorism powers.",
+      "word_count": 354,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 13,
+        "Finance": 2,
+        "Tech": 0
+      },
+      "summary": "Transparency International Sri Lanka (TISL) has raised serious concerns over the proposed Protection of the State from Terrorism Bill, warning that several provisions could undermine fundamental rights, judicial independence and democratic freedoms. In a statement , TISL expressed concern over the Bill, gazetted on September 22, 2026, which seeks to replace the existing Prevention of Terrorism Act (PTA).",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260753.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Protection-of-state-terorism.jpg",
+          "alt": "TISL warns new anti-terrorism Bill could restrict public protests and freedom of expression"
+        }
+      ]
+    },
+    {
+      "id": 260750,
+      "title": "Pathum Nissanka ruled out of ODI tri-series in Pakistan, Lahiru Udara likely replacement",
+      "url": "https://www.newswire.lk/2026/10/15/pathum-nissanka-ruled-out-of-odi-tri-series-in-pakistan-lahiru-udara-likely-replacement/",
+      "published": "2026-10-15T14:05:35+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka opening batter Pathum Nissanka has been ruled out of the upcoming ODI tri-series in Pakistan, with Lahiru Udara likely to be named as his replacement.\nNissanka has been recovering from an injury sustained during Sri Lanka’s recent ODI series against England.\nHis absence will be a setback for Sri Lanka ahead of the tri-series, which also features Pakistan and England.\nUdara is expected to join the Sri Lankan ODI team as a replacement, although an official announcement is awaited.\nThe tri-series will see each team play the other two sides twice, with the top two teams advancing to the final.",
+      "word_count": 102,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka opening batter Pathum Nissanka has been ruled out of the upcoming ODI tri-series in Pakistan, with Lahiru Udara likely to be named as his replacement. Udara is expected to join the Sri Lankan ODI team as a replacement, although an official announcement is awaited.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-15/260750.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261015_140513_ChatGPT.jpg",
+          "alt": "Pathum Nissanka ruled out of ODI tri-series in Pakistan, Lahiru Udara likely replacement"
+        }
+      ]
+    },
     {
       "id": 260745,
       "title": "LOLC rejects allegations over People’s Bank loan facility, warns of legal action",
@@ -1410,22 +1683,22 @@
       "images": [
         {
           "src": "images/2026-10-15/260551.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/494712802_10088732994490305_1006201407822303574_n.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/1000-stjosephscollegelk_cover-1.jpg",
           "alt": "St. Joseph’s College Honours Mrs Nimala Perera’s Five Decades of Service"
         },
         {
           "src": "images/2026-10-15/260551-2.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/495882772_10088732944490310_6587668755026813676_n-1.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/494712802_10088732994490305_1006201407822303574_n.jpg",
           "alt": "St. Joseph’s College Honours Mrs Nimala Perera’s Five Decades of Service"
         },
         {
           "src": "images/2026-10-15/260551-3.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/494515729_10088732894490315_4685354296962277019_n-1.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/495882772_10088732944490310_6587668755026813676_n-1.jpg",
           "alt": "St. Joseph’s College Honours Mrs Nimala Perera’s Five Decades of Service"
         },
         {
           "src": "images/2026-10-15/260551-4.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/495725731_10088732997823638_2463930789231546855_n-1.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/494515729_10088732894490315_4685354296962277019_n-1.jpg",
           "alt": "St. Joseph’s College Honours Mrs Nimala Perera’s Five Decades of Service"
         }
       ]
@@ -1647,338 +1920,6 @@
           "src": "images/2026-10-15/260543.jpg",
           "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Visual-Stories-34.jpg",
           "alt": "“We are not telling students to attend tuition classes. If they are causing pressure, let’s change that,” – PM"
-        }
-      ]
-    },
-    {
-      "id": 260539,
-      "title": "Male-to-male sexual contact a major factor in rising HIV cases in Sri Lanka",
-      "url": "https://www.newswire.lk/2026/10/14/male-to-male-sexual-contact-a-major-factor-in-rising-hiv-cases-in-sri-lanka/",
-      "published": "2026-10-14T15:58:18+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "HIV infection",
-        "Nimali Jayasuriya"
-      ],
-      "text": "Sri Lanka continues to record an increase in HIV infections, with health experts warning that sexually transmitted infections (STIs), including syphilis, hepatitis B and hepatitis C, are becoming major public health concerns.\nConsultant Venereologist Dr. Nimali Jayasuriya, President of the Sri Lanka College of Sexual Health and HIV Medicine (SLCoSHH), said HIV cases have been increasing since 2023, with the upward trend continuing into 2026.\nSpeaking at a media briefing organized by the Ministry of Health and Mass Media on October 14, she said Sri Lanka had maintained effective control of HIV and other STIs until 2021, but the COVID-19 pandemic disrupted prevention and control efforts.\nShe identified increased internet access, the economic crisis, drug use and the growing number of people injecting drugs as factors contributing to the rise in infections.\nDr. Jayasuriya said HIV cases are being reported across all age groups and professions throughout the country, with Colombo recording the highest number of cases.\nShe also highlighted that men account for a significantly higher proportion of reported HIV infections, with approximately seven male cases recorded for every female case.\nAccording to Dr. Jayasuriya, unprotected sexual activity among men who have sex with men remains a major factor in HIV transmission, while infections linked to injecting drug use are also emerging as a growing concern.\nShe further warned of a sharp increase in other sexually transmitted infections.\nSyphilis cases, which previously numbered around 80 to 100 annually before 2021, have increased to approximately 1,500 cases per year.\nHepatitis B cases reported in 2026 have doubled compared to the previous year, while hepatitis C cases increased approximately fourfold in 2025, she said.\nDespite the concerning trends, Dr. Jayasuriya said Sri Lanka continues to provide free HIV treatment, including newer medications with fewer side effects and simplified treatment regimens.\nShe stressed that existing prevention and awareness programs remain insufficient to address the growing public health challenge.\nMeanwhile, the Sri Lanka College of Sexual Health and HIV Medicine announced that its 31st Annual Academic Sessions will be held from October 29 to 31 at ITC Ratnadipa in Colombo, in collaboration with the British HIV Association.\nThe conference will focus on advancing sexual health and HIV medicine through collaboration and innovation.",
-      "word_count": 369,
-      "is_lead": false,
-      "category": "General",
-      "category_scores": {
-        "Political": 4,
-        "Finance": 2,
-        "Tech": 5
-      },
-      "summary": "Sri Lanka continues to record an increase in HIV infections, with health experts warning that sexually transmitted infections (STIs), including syphilis, hepatitis B and hepatitis C, are becoming major public health concerns. Consultant Venereologist Dr. Nimali Jayasuriya, President of the Sri Lanka College of Sexual Health and HIV Medicine (SLCoSHH), said HIV cases have been increasing since 2023, with the upward trend continuing into 2026.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260539.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/HIV-SL.jpg",
-          "alt": "Male-to-male sexual contact a major factor in rising HIV cases in Sri Lanka"
-        }
-      ]
-    },
-    {
-      "id": 260526,
-      "title": "Sri Lanka seeks to strengthen bilateral relations with Rwanda",
-      "url": "https://www.newswire.lk/2026/10/14/sri-lanka-seeks-to-strengthen-bilateral-relations-with-rwanda/",
-      "published": "2026-10-14T15:40:03+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "Rwanda",
-        "Sri Lanka"
-      ],
-      "text": "Sri Lanka has reaffirmed its commitment to strengthening bilateral relations with Rwanda, with a visit by Sri Lanka’s Minister of Foreign Affairs to Rwanda expected in December 2026.\nAccording to the Sri Lankan High Commission in Nairobi, Acting High Commissioner of Sri Lanka to Kenya Ruvini De Silva highlighted the planned visit during a diplomatic meeting held at the Nairobi Serena Hotel on October 8.\nThe meeting was attended by Rwanda’s State Minister for Foreign Affairs and International Cooperation, Dr. Usta Kaitesi, Minister of Infrastructure Damien Murwanashyaka, the Rwandan High Commissioner to Kenya, and other diplomatic representatives accredited to Rwanda from Kenya.\nDuring the discussions, De Silva highlighted the friendly relations between Sri Lanka and Rwanda and expressed Sri Lanka’s commitment to expanding cooperation in areas of mutual interest.\nShe also recalled the meeting between the Foreign Ministers of Sri Lanka and Rwanda on the sidelines of the Raisina Dialogue 2026 in New Delhi.\nThe Acting High Commissioner welcomed the initiative by the Rwandan High Commission in Kenya to bring together diplomatic representatives, noting that it provided an opportunity to strengthen bilateral and regional cooperation.\nThe High Commission stated that the meeting also served as a platform to explore new opportunities for diplomatic engagement and cooperation between Rwanda and its international partners.",
-      "word_count": 212,
-      "is_lead": false,
-      "category": "Political",
-      "category_scores": {
-        "Political": 44,
-        "Finance": 1,
-        "Tech": 0
-      },
-      "summary": "Sri Lanka has reaffirmed its commitment to strengthening bilateral relations with Rwanda, with a visit by Sri Lanka’s Minister of Foreign Affairs to Rwanda expected in December 2026. The Acting High Commissioner welcomed the initiative by the Rwandan High Commission in Kenya to bring together diplomatic representatives, noting that it provided an opportunity to strengthen bilateral and regional cooperation.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260526.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/SL-Rwanda.jpg",
-          "alt": "Sri Lanka seeks to strengthen bilateral relations with Rwanda"
-        }
-      ]
-    },
-    {
-      "id": 260536,
-      "title": "President expresses gratitude to Saudi Arabia, vows to stand by Sri Lankans overseas",
-      "url": "https://www.newswire.lk/2026/10/14/president-expresses-gratitude-to-saudi-arabia-vows-to-stand-by-sri-lankans-overseas/",
-      "published": "2026-10-14T15:27:16+05:30",
-      "source_categories": [
-        "Lead Story",
-        "News"
-      ],
-      "tags": [],
-      "text": "President Anura Kumara Dissanayake has welcomed the decision by the Supreme Court of Saudi Arabia to set aside the death sentence imposed on Sri Lankan national Anojan Sivarasa.\nIn a statement, the President said the decision had brought immense relief to Sivarasa, his family and Sri Lankans who had followed the case with deep concern.\nHe said the outcome reflected the importance of patient diplomacy, respect for the legal processes of a friendly nation and the tireless efforts of those who supported the Sri Lankan national.\nThe President expressed his appreciation to the Government of Saudi Arabia for the decision and thanked Saudi Arabian and Sri Lankan diplomats, civil servants and legal teams for their contributions.\nPresident Dissanayake also assured that the Sri Lankan government would continue to provide all necessary assistance to Sivarasa and his family until the remaining legal proceedings are concluded.\n“No Sri Lankan who leaves our shores in search of a livelihood should ever feel that they stand alone,” the President said.\nHe reiterated the government’s commitment to supporting Sri Lankan nationals facing difficulties overseas.",
-      "word_count": 179,
-      "is_lead": true,
-      "category": "Political",
-      "category_scores": {
-        "Political": 28,
-        "Finance": 0,
-        "Tech": 0
-      },
-      "summary": "President Anura Kumara Dissanayake has welcomed the decision by the Supreme Court of Saudi Arabia to set aside the death sentence imposed on Sri Lankan national Anojan Sivarasa. The President expressed his appreciation to the Government of Saudi Arabia for the decision and thanked Saudi Arabian and Sri Lankan diplomats, civil servants and legal teams for their contributions.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260536.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/images-30.jpeg",
-          "alt": "President expresses gratitude to Saudi Arabia, vows to stand by Sri Lankans overseas"
-        }
-      ]
-    },
-    {
-      "id": 260522,
-      "title": "20 Sri Lankan education officials visit India for training programme",
-      "url": "https://www.newswire.lk/2026/10/14/20-sri-lankan-education-officials-visit-india-for-training-programme/",
-      "published": "2026-10-14T15:15:30+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "educators",
-        "India",
-        "training"
-      ],
-      "text": "A delegation of 20 Sri Lankan education administrators is currently in India to participate in a capacity development programme aimed at strengthening educational planning, management and administration.\nAccording to the Sri Lankan High Commission in New Delhi, the delegation includes Provincial and Zonal Directors of Education representing the Central, Western, Uva, Sabaragamuwa, Northern, North Western and Southern Provinces.\nThe officials are participating in a Capacity Development Programme organised by India’s National Institute of Educational Planning and Administration (NIEPA), from October 5 to 16.\nAs part of the visit, the delegation met with the Sri Lankan High Commissioner at her official residence in New Delhi on October 7.\nDuring the meeting, the High Commissioner highlighted the importance of the India–Sri Lanka partnership in supporting Sri Lanka’s economic growth and development through capacity-building, skills development, investment, trade and tourism.\nShe also emphasised the longstanding cultural and people-to-people ties between the two countries as a foundation for strengthening bilateral cooperation.\nThe High Commission said the programme aims to enhance the professional knowledge and skills of Sri Lankan education administrators.",
-      "word_count": 176,
-      "is_lead": false,
-      "category": "Political",
-      "category_scores": {
-        "Political": 13,
-        "Finance": 9,
-        "Tech": 0
-      },
-      "summary": "A delegation of 20 Sri Lankan education administrators is currently in India to participate in a capacity development programme aimed at strengthening educational planning, management and administration. The officials are participating in a Capacity Development Programme organised by India’s National Institute of Educational Planning and Administration (NIEPA), from October 5 to 16.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260522.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/SL-educators-India.jpg",
-          "alt": "20 Sri Lankan education officials visit India for training programme"
-        }
-      ]
-    },
-    {
-      "id": 260533,
-      "title": "Fire breaks out at apartment complex in Bambalapitiya",
-      "url": "https://www.newswire.lk/2026/10/14/fire-breaks-out-at-apartment-complex-in-bambalapitiya/",
-      "published": "2026-10-14T15:04:16+05:30",
-      "source_categories": [
-        "Lead Story",
-        "News"
-      ],
-      "tags": [],
-      "text": "A fire has broken out on the fourth floor of an apartment complex on Castle Road in Bambalapitiya, Colombo.\nThe Fire Service Department said five fire engines have been dispatched to the scene to bring the blaze under control.\nFurther details are awaited.",
-      "word_count": 43,
-      "is_lead": true,
-      "category": "General",
-      "category_scores": {
-        "Political": 0,
-        "Finance": 0,
-        "Tech": 0
-      },
-      "summary": "A fire has broken out on the fourth floor of an apartment complex on Castle Road in Bambalapitiya, Colombo. The Fire Service Department said five fire engines have been dispatched to the scene to bring the blaze under control.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260533.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261014_150256_ChatGPT.jpg",
-          "alt": "Fire breaks out at apartment complex in Bambalapitiya"
-        }
-      ]
-    },
-    {
-      "id": 260530,
-      "title": "German police seize robot after alleged sexual harassment of 16-year-old girl",
-      "url": "https://www.newswire.lk/2026/10/14/german-police-seize-robot-after-alleged-sexual-harassment-of-16-year-old-girl/",
-      "published": "2026-10-14T14:57:01+05:30",
-      "source_categories": [
-        "International",
-        "News"
-      ],
-      "tags": [],
-      "text": "German police have seized a robot and launched an investigation after it allegedly sexually harassed a 16-year-old girl outside a fast-food restaurant in Cologne, Germany.\nAccording to Cologne Police, the incident occurred late Saturday, Oct. 10, when a red-and-gold robot, approximately 120 centimetres tall, approached the girl from behind while she was standing with friends near the city centre.\nThe robot allegedly touched and slapped the girl’s buttocks, causing her to scream and flee the scene.\nPolice identified two suspects, aged 16 and 19, who are believed to have been involved in operating the robot.\nInvestigators suspect the two teenagers livestreamed the incident on social media while commenting on what was happening.\nFollowing an emergency call, officers located the suspects nearby and discovered the robot in the back of a parked vehicle belonging to the 16-year-old suspect.\nPolice seized the robot and two mobile phones as part of the investigation.\nAuthorities are now examining whether the robot’s movements were deliberately controlled by a person or were the result of preprogrammed actions.\nThe incident has raised questions about the misuse of robotic technology and accountability for actions carried out through remotely operated machines.\nPolice investigations are ongoing, and responsibility for the alleged assault has yet to be established.",
-      "word_count": 207,
-      "is_lead": false,
-      "category": "Tech",
-      "category_scores": {
-        "Political": 0,
-        "Finance": 0,
-        "Tech": 22
-      },
-      "summary": "German police have seized a robot and launched an investigation after it allegedly sexually harassed a 16-year-old girl outside a fast-food restaurant in Cologne, Germany. According to Cologne Police, the incident occurred late Saturday, Oct. 10, when a red-and-gold robot, approximately 120 centimetres tall, approached the girl from behind while she was standing with friends near the city centre.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260530.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/images-28.jpeg",
-          "alt": "German police seize robot after alleged sexual harassment of 16-year-old girl"
-        }
-      ]
-    },
-    {
-      "id": 260518,
-      "title": "Mano writes to Sajith expressing disappointment over Kiriella’s remarks",
-      "url": "https://www.newswire.lk/2026/10/14/mano-writes-to-sajith-expressing-disappointment-over-kiriellas-remarks/",
-      "published": "2026-10-14T14:45:46+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [],
-      "text": "Tamil Progressive Alliance (TPA) Leader Mano Ganesan has expressed deep disappointment over remarks reportedly made by senior Samagi Jana Balawegaya (SJB) member Lakshman Kiriella during a meeting with the Mahanayake Thero in Kandy.\nIn a letter dated Oct. 13 addressed to Opposition Leader Sajith Premadasa, Ganesan raised concerns over Kiriella’s reported suggestion that the government was using the controversy surrounding Ven. Galagoda Aththe Gnanasara Thero to appease Tamil-speaking citizens and communities outside the Sinhala-Buddhist majority.\nGanesan also criticised the reported use of outdated terminology when referring to Tamil and Muslim communities, warning that such language could reinforce divisive narratives and undermine the dignity of fellow citizens.\nHe said it was regrettable that such remarks were reportedly made during a discussion with the country’s senior Buddhist religious leadership.\nAddressing the imprisonment of Gnanasara Thero, Ganesan stressed the importance of upholding the rule of law, noting that many had refrained from questioning the judicial outcome.\nHe also said he would not object if President Anura Kumara Dissanayake, acting within the law, granted a fresh presidential pardon after addressing the legal deficiencies identified in the previous pardon.\nReferring to the controversy over Gnanasara Thero’s prison attire, Ganesan said the matter should be addressed through the committee appointed by the President to examine existing prison regulations and propose amendments.\nHe said he had already appealed to Tamil-speaking Sri Lankans to refrain from publicly commenting on the issue while the relevant process was underway.\nHowever, Ganesan stressed that disagreements over Gnanasara Thero’s imprisonment or prison attire should not be used to justify language that could marginalise Tamil and Muslim citizens.\n“One may hold differing views on the legal proceedings involving the Venerable Gnanasara Thero, but none of these issues justifies language that could be interpreted as marginalising or disparaging Tamil and Muslim citizens,” he wrote.\nGanesan urged Premadasa to consider his concerns constructively, warning against reviving divisive language and attitudes of the past.",
-      "word_count": 318,
-      "is_lead": false,
-      "category": "Political",
-      "category_scores": {
-        "Political": 60,
-        "Finance": 0,
-        "Tech": 0
-      },
-      "summary": "Tamil Progressive Alliance (TPA) Leader Mano Ganesan has expressed deep disappointment over remarks reportedly made by senior Samagi Jana Balawegaya (SJB) member Lakshman Kiriella during a meeting with the Mahanayake Thero in Kandy.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260518.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261014_143454_Editor-Lite.jpg",
-          "alt": "Mano writes to Sajith expressing disappointment over Kiriella’s remarks"
-        }
-      ]
-    },
-    {
-      "id": 260519,
-      "title": "Army deployed to Thambuttegama Hospital following staff strike",
-      "url": "https://www.newswire.lk/2026/10/14/army-deployed-to-thambuttegama-hospital-following-staff-strike/",
-      "published": "2026-10-14T14:32:41+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "Army",
-        "Thambuttegama Base Hospital"
-      ],
-      "text": "Sri Lanka Army personnel have been deployed to the Thambuttegama Base Hospital to ensure the uninterrupted continuation of essential healthcare services following a strike launched by the hospital’s minor staff.\nAccording to a statement issued by the Sri Lanka Army, the hospital’s minor staff commenced strike action on Tuesday (13), affecting normal operations.\nThe Army said troops were deployed following a request made by the Provincial Director of Health Services.\nThe deployment was carried out on the instructions of Security Force Headquarters (Wanni), with Army personnel taking necessary measures to support the continuation of essential services at the hospital.\nThe Army stated that its intervention was aimed at ensuring that essential healthcare services remain operational despite the ongoing staff strike.",
-      "word_count": 120,
-      "is_lead": false,
-      "category": "General",
-      "category_scores": {
-        "Political": 0,
-        "Finance": 0,
-        "Tech": 0
-      },
-      "summary": "Sri Lanka Army personnel have been deployed to the Thambuttegama Base Hospital to ensure the uninterrupted continuation of essential healthcare services following a strike launched by the hospital’s minor staff. According to a statement issued by the Sri Lanka Army, the hospital’s minor staff commenced strike action on Tuesday (13), affecting normal operations.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260519.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Army-Thambuththegama-Hospital.jpg",
-          "alt": "Army deployed to Thambuttegama Hospital following staff strike"
-        }
-      ]
-    },
-    {
-      "id": 260515,
-      "title": "Road to Rumesh Tharanga’s residence to be developed at Rs. 8 Mn",
-      "url": "https://www.newswire.lk/2026/10/14/road-to-rumesh-tharangas-residence-to-be-developed-at-rs-8-mn/",
-      "published": "2026-10-14T14:19:41+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "Rumesh Tharanga Road"
-      ],
-      "text": "The Millaniya Pradeshiya Sabha has announced plans to develop the road leading to the residence of Sri Lankan javelin throw champion Rumesh Tharanga at an estimated cost of Rs. 8 million.\nThe announcement was made by the Chairman of the Millaniya Pradeshiya Sabha during its monthly council meeting held on Tuesday (13).\nDuring the meeting, Councillor Gayan Sampath proposed naming the road after the athlete as “Javelin Throw Champion Rumesh Tharanga” in recognition of his sporting achievements.\nMeanwhile, former Pradeshiya Sabha Chairman Sanjeewa Kulathilaka called for the road to be developed to a high standard using asphalt carpeting.\nCouncil members also expressed opposition to the proposal to concrete the road, instead requesting that it be carpeted.\nThe proposed development is expected to improve access to the athlete’s residence.",
-      "word_count": 128,
-      "is_lead": false,
-      "category": "Political",
-      "category_scores": {
-        "Political": 12,
-        "Finance": 0,
-        "Tech": 0
-      },
-      "summary": "The Millaniya Pradeshiya Sabha has announced plans to develop the road leading to the residence of Sri Lankan javelin throw champion Rumesh Tharanga at an estimated cost of Rs. 8 million. During the meeting, Councillor Gayan Sampath proposed naming the road after the athlete as “Javelin Throw Champion Rumesh Tharanga” in recognition of his sporting achievements.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260515.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Rumesh-Tharanga-road.jpg",
-          "alt": "Road to Rumesh Tharanga’s residence to be developed at Rs. 8 Mn"
-        }
-      ]
-    },
-    {
-      "id": 260513,
-      "title": "Mahinda still receiving treatment at hospital – SLPP",
-      "url": "https://www.newswire.lk/2026/10/14/mahinda-still-receiving-treatment-at-hospital-slpp/",
-      "published": "2026-10-14T14:15:17+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "Mahinda Rajapaksa"
-      ],
-      "text": "Former President Mahinda Rajapaksa remains hospitalized and is continuing to receive medical treatment, according to Sri Lanka Podujana Peramuna (SLPP) member Sanjeewa Edirimanna.\nCommenting on the former President’s health condition, Edirimanna said that only medical professionals and relevant experts are authorised to disclose details regarding a person’s medical condition.\nAddressing the media, he stated that Rajapaksa is currently receiving treatment at a hospital but declined to provide further details, citing the need to respect his privacy and safety.\n“What I can say at present is that Mahinda Rajapaksa remains admitted to hospital and is receiving treatment. I must respect his privacy and safety, so I can only disclose this information for now,” Edirimanna said.\nHe emphasised that any further information regarding the former President’s medical condition should be communicated by the relevant medical professionals.",
-      "word_count": 134,
-      "is_lead": false,
-      "category": "Political",
-      "category_scores": {
-        "Political": 33,
-        "Finance": 0,
-        "Tech": 0
-      },
-      "summary": "Former President Mahinda Rajapaksa remains hospitalized and is continuing to receive medical treatment, according to Sri Lanka Podujana Peramuna (SLPP) member Sanjeewa Edirimanna. “What I can say at present is that Mahinda Rajapaksa remains admitted to hospital and is receiving treatment.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260513.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Mahinda-Rajapaksa.jpg",
-          "alt": "Mahinda still receiving treatment at hospital – SLPP"
-        }
-      ]
-    },
-    {
-      "id": 260509,
-      "title": "Committee submits report on prison regulations for clergy",
-      "url": "https://www.newswire.lk/2026/10/14/committee-submits-report-on-prison-regulations-for-clergy/",
-      "published": "2026-10-14T14:12:14+05:30",
-      "source_categories": [
-        "News"
-      ],
-      "tags": [
-        "clergy",
-        "prison attire",
-        "report"
-      ],
-      "text": "The interim report of the special committee appointed to review and update prison regulations concerning Buddhist monks and other religious clergy has been submitted to the Secretary to the President, Nandika Sanath Kumanayake.\nAccording to the President’s Media Division (PMD), the report was handed over at the Presidential Secretariat this morning (14) by committee Chairperson Prince Senadheera, Secretary to the Ministry of Buddhasasana, Religious and Cultural Affairs.\nThe committee was appointed following discussions between President Anura Kumara Dissanayake and the Maha Sangha representing the three Buddhist Nikayas on October 8.\nIt was tasked with reviewing existing rules, regulations and standing orders under the Prisons Ordinance and submitting proposals for amendments within two weeks.\nAccordingly, the committee has submitted revised proposals relating to regulations governing the imprisonment of Buddhist monks and other religious clergy.\nThe PMD said committee members Piyumanthi Peiris, Additional Secretary to the Ministry of Justice and National Integration; Wasantha Ariyaratne, Additional Secretary to the Ministry of Public Administration, Provincial Councils and Local Government; R. M. G. Senaratne, Commissioner-General of Buddhist Affairs; and A. C. Gajanayake, a Commissioner of the Department of Prisons, were also present.",
-      "word_count": 187,
-      "is_lead": false,
-      "category": "Political",
-      "category_scores": {
-        "Political": 24,
-        "Finance": 0,
-        "Tech": 0
-      },
-      "summary": "The interim report of the special committee appointed to review and update prison regulations concerning Buddhist monks and other religious clergy has been submitted to the Secretary to the President, Nandika Sanath Kumanayake. Accordingly, the committee has submitted revised proposals relating to regulations governing the imprisonment of Buddhist monks and other religious clergy.",
-      "enriched_by": "keywords",
-      "images": [
-        {
-          "src": "images/2026-10-15/260509.jpg",
-          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Prison-regulation-clergy.jpg",
-          "alt": "Committee submits report on prison regulations for clergy"
         }
       ]
     }
