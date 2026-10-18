@@ -1,0 +1,813 @@
+{
+  "source": "https://www.newswire.lk/",
+  "fetched_via": "wp-rest-api",
+  "edition_date": "2026-10-18",
+  "generated_at": "2026-10-18T14:27:45+05:30",
+  "window": {
+    "from": "2026-10-17T14:27:45+05:30",
+    "to": "2026-10-18T14:27:45+05:30"
+  },
+  "enrichment": "keywords",
+  "categories": [
+    "Political",
+    "Finance",
+    "Tech",
+    "General"
+  ],
+  "counts": {
+    "Political": 12,
+    "Finance": 2,
+    "Tech": 0,
+    "General": 13
+  },
+  "articles": [
+    {
+      "id": 261289,
+      "title": "Ramanna Sect Deputy Chief Prelate Ven. Sirivimala Thera passes away",
+      "url": "https://www.newswire.lk/2026/10/18/ramanna-sect-deputy-chief-prelate-ven-sirivimala-thera-passes-away/",
+      "published": "2026-10-18T14:12:05+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Deputy Chief Prelate of the Sri Lanka Ramanna Sect and Chief Incumbent of the historic Getambe Rajopavanaramaya in Kandy, Most Venerable Kappetiyagoda Sirivimala Thera, has passed away at the age of 95.\nThe senior Buddhist monk passed away on Sunday (October 18).\nVen. Sirivimala Thera was a prominent figure in Sri Lanka’s Buddhist clergy and served as Chief Incumbent of the Getambe Rajopavanaramaya for more than four decades.\nDetails regarding the final rites are expected to be announced later.",
+      "word_count": 80,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Deputy Chief Prelate of the Sri Lanka Ramanna Sect and Chief Incumbent of the historic Getambe Rajopavanaramaya in Kandy, Most Venerable Kappetiyagoda Sirivimala Thera, has passed away at the age of 95. Ven. Sirivimala Thera was a prominent figure in Sri Lanka’s Buddhist clergy and served as Chief Incumbent of the Getambe Rajopavanaramaya for more than four decades.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261289.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_140814_Facebook.jpg",
+          "alt": "Ramanna Sect Deputy Chief Prelate Ven. Sirivimala Thera passes away"
+        }
+      ]
+    },
+    {
+      "id": 261285,
+      "title": "70-year-old man found dead on Wellawatte beach",
+      "url": "https://www.newswire.lk/2026/10/18/70-year-old-man-found-dead-on-wellawatte-beach/",
+      "published": "2026-10-18T13:50:02+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The body of a 70-year-old father of three was found on the Wellawatte beach in the Boswell area, police said.\nThe deceased was a resident of Waidya Road, Dehiwala.\nPolice said officers visited the location following information that the body of an unidentified person had been found on the beach. The man’s relatives later arrived and identified the body.\nClose relatives told police that he had left his wristwatch and a pair of shoes at home when he went out.\nWellawatte Police are conducting further investigations.",
+      "word_count": 86,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The body of a 70-year-old father of three was found on the Wellawatte beach in the Boswell area, police said. Police said officers visited the location following information that the body of an unidentified person had been found on the beach.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261285.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Wellawatta.jpg",
+          "alt": "70-year-old man found dead on Wellawatte beach"
+        }
+      ]
+    },
+    {
+      "id": 261282,
+      "title": "President AKD accuses 2 TV channels of creating artificial unrest, cites past drug-related allegation against one",
+      "url": "https://www.newswire.lk/2026/10/18/president-akd-accuses-2-tv-channels-of-creating-artificial-unrest-cites-past-drug-related-allegation-against-one/",
+      "published": "2026-10-18T13:36:31+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "President Anura Kumara Dissanayake has accused two television channels of contributing to what he described as artificial unrest against the government’s crackdown on corruption, drug trafficking and organised crime, while referring to a past drug-related allegation involving a relative of the owner of one channel.\nAddressing the National People’s Power (NPP) women’s rally in Badulla on Sunday (October 18), the President alleged that individuals who had previously benefited from corruption, drug trafficking and organised criminal networks were becoming increasingly concerned about the government’s efforts to dismantle them.\nHe claimed that certain groups were attempting to create unrest through two television channels, despite there being no significant unrest at the grassroots level.\nThe President also referred to a past allegation involving a relative of the owner of one television channel, citing a statement allegedly made by a former police spokesman during a previous administration.\nAccording to Dissanayake, the former police spokesman had publicly claimed that the brother of a television channel owner had received money from notorious drug trafficker Wele Suda.\nHe emphasised that the allegation had been made under a previous government and was not a new accusation originating from his administration.\nThe President did not name either of the two television channels he accused of contributing to unrest.\nHe further alleged that criminal networks in Sri Lanka had historically included politicians, individuals engaged in illicit business activities, underworld figures and elements within the media.\nAccording to the President, individuals who had benefited from these networks through money, vehicles, houses and other forms of support were now attempting to obstruct the government’s crackdown.\nHe claimed that these groups feared the NPP government’s continued efforts would threaten their interests.\nDissanayake reiterated that dismantling drug trafficking and organised criminal networks was essential to creating a safer country for children.",
+      "word_count": 297,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 36,
+        "Finance": 2,
+        "Tech": 0
+      },
+      "summary": "President Anura Kumara Dissanayake has accused two television channels of contributing to what he described as artificial unrest against the government’s crackdown on corruption, drug trafficking and organised crime, while referring to a past drug-related allegation involving a relative of the owner of one channel.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261282.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_133531_YouTube.jpg",
+          "alt": "President AKD accuses 2 TV channels of creating artificial unrest, cites past drug-related allegation against one"
+        }
+      ]
+    },
+    {
+      "id": 261279,
+      "title": "No change to Supreme Court decisions: President AKD sends clear message amid Gnanasara Thera pardon demands",
+      "url": "https://www.newswire.lk/2026/10/18/no-change-to-supreme-court-decisions-president-akd-sends-clear-message-amid-gnanasara-thera-pardon-demands/",
+      "published": "2026-10-18T13:04:25+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "President Anura Kumara Dissanayake has effectively ruled out granting a presidential pardon to Ven. Galagoda Aththe Gnanasara Thera, stressing that his government will respect Supreme Court decisions and will not interfere with the judicial process.\nAddressing the National People’s Power (NPP) women’s rally in Badulla on Sunday (October 18), the President said the government would accept the final decisions of the judiciary and warned that no one should expect the executive to overturn them.\nAlthough the President did not specifically mention Gnanasara Thera or his imprisonment, his remarks appeared to be directed at the ongoing controversy surrounding the monk’s imprisonment and demands for a presidential pardon.\nThe President explained that Parliament was responsible for enacting laws, while institutions such as the police, Criminal Investigation Department and Commission to Investigate Allegations of Bribery or Corruption were responsible for investigations and enforcement.\nHowever, he stressed that the final authority to interpret and apply the law rested with the judiciary, particularly the Supreme Court.\n“When the Supreme Court delivers a judgment, some people start shouting, demanding that it be removed. How can a country function with laws like that?” the President questioned.\nHe said the government considered judicial decisions to be the authoritative determination of the law and would abide by them.\n“We will abide by the decisions delivered by the courts. Beyond that, no one should expect decisions from us,” he declared.\nThe remarks come amid mounting demands from several Buddhist monks and opposition politicians for the release of Gnanasara Thera.\nOn September 10, the Supreme Court invalidated the presidential pardon granted to Gnanasara Thera by former President Maithripala Sirisena in 2019, ruling that the decision was unlawful.\nFollowing the judgment, the Court of Appeal ordered on October 5 that the monk’s six-year prison sentence for contempt of court be enforced.\nThe decision has triggered protests by groups demanding his release, including a demonstration by Buddhist monks in Colombo.\nThe President’s latest remarks represent his clearest public indication yet that he is unwilling to intervene in the matter, although he stopped short of explicitly announcing a decision on a fresh presidential pardon.\nSeparately, government sources have indicated that the President would not grant Gnanasara Thera a pardon or yield to pressure to circumvent the law.\nThe President also warned against attempts to undermine the legal system, saying that a country where the law is applied equally to everyone is essential to ensuring a secure future for its children.",
+      "word_count": 406,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 44,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "President Anura Kumara Dissanayake has effectively ruled out granting a presidential pardon to Ven. Galagoda Aththe Gnanasara Thera, stressing that his government will respect Supreme Court decisions and will not interfere with the judicial process. On September 10, the Supreme Court invalidated the presidential pardon granted to Gnanasara Thera by former President Maithripala Sirisena in 2019, ruling that the decision was unlawful.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261279.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_130354_YouTube.jpg",
+          "alt": "No change to Supreme Court decisions: President AKD sends clear message amid Gnanasara Thera pardon demands"
+        }
+      ]
+    },
+    {
+      "id": 261276,
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "url": "https://www.newswire.lk/2026/10/18/european-diplomats-attacked-by-israeli-settlers-in-west-bank/",
+      "published": "2026-10-18T12:45:27+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [],
+      "text": "European diplomats, Palestinian civilians and a visiting French mayor were attacked by Israeli settlers in the occupied West Bank, prompting condemnation from officials and calls for accountability.\nThe incident occurred on Saturday (October 17) in the Palestinian village of Taybeh, where masked settlers targeted a group that included Belgium’s consul general to the Palestinians, French and Polish diplomats, and Catholic representatives, Belgian Foreign Minister Maxime Prévot said.\nFrench mayor Bernard Baudoux, who was participating in olive harvesting activities in solidarity with the local Palestinian community, was also assaulted. A vehicle belonging to the Belgian diplomatic mission was damaged during the incident.\nPrévot condemned the attacks and called on Israeli authorities to protect Palestinians, diplomats and journalists, urging that those responsible be brought to justice. He also said Belgium would continue pushing for European Union sanctions against those responsible for the violence.\nIsrael’s Foreign Minister Gideon Sa’ar condemned the incident, describing the perpetrators as Israeli rioters. However, he said the diplomatic visit had not been coordinated with the Israeli military, adding that such coordination could have helped protect those involved.\nIsraeli police have opened an investigation into the incident.\nThe attack came a day after Israeli settlers assaulted Palestinians harvesting olives in another part of the West Bank, seriously injuring Washington Post photojournalist Heidi Levine, who was covering the activity.\nThe incidents have renewed concerns over escalating settler violence during the annual Palestinian olive harvest, a vital source of income for many farming communities.",
+      "word_count": 243,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 22,
+        "Finance": 10,
+        "Tech": 0
+      },
+      "summary": "European diplomats, Palestinian civilians and a visiting French mayor were attacked by Israeli settlers in the occupied West Bank, prompting condemnation from officials and calls for accountability. The attack came a day after Israeli settlers assaulted Palestinians harvesting olives in another part of the West Bank, seriously injuring Washington Post photojournalist Heidi Levine, who was covering the activity.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261276.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG_4033.jpeg",
+          "alt": "European diplomats attacked by Israeli settlers in West Bank"
+        }
+      ]
+    },
+    {
+      "id": 261273,
+      "title": "Litro gas shipment carrying 3,900 MT due today, 350,000 cylinders to be issued",
+      "url": "https://www.newswire.lk/2026/10/18/litro-gas-shipment-carrying-3900-mt-due-today-350000-cylinders-to-be-issued/",
+      "published": "2026-10-18T12:36:54+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "A vessel carrying 3,900 metric tonnes of gas is scheduled to arrive in Sri Lanka today (18), Litro Gas Lanka announced.\nThe company said unloading operations would begin as soon as possible after the vessel arrives.\nWith the arrival of the shipment, a further 350,000 domestic gas cylinders will be released to the market over the next three days, the company said.\nLitro added that it had already released 350,000 domestic gas cylinders to the market over the past three days, including today, as part of efforts to maintain an uninterrupted gas supply.\nThe company also urged consumers to refrain from unnecessarily stockpiling gas cylinders.",
+      "word_count": 105,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 5,
+        "Tech": 0
+      },
+      "summary": "A vessel carrying 3,900 metric tonnes of gas is scheduled to arrive in Sri Lanka today (18), Litro Gas Lanka announced. Litro added that it had already released 350,000 domestic gas cylinders to the market over the past three days, including today, as part of efforts to maintain an uninterrupted gas supply.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261273.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG_4032.jpeg",
+          "alt": "Litro gas shipment carrying 3,900 MT due today, 350,000 cylinders to be issued"
+        }
+      ]
+    },
+    {
+      "id": 261271,
+      "title": "Severe lightning advisory issued for six provinces and four districts",
+      "url": "https://www.newswire.lk/2026/10/18/severe-lightning-advisory-issued-for-six-provinces-and-four-districts/",
+      "published": "2026-10-18T12:29:52+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Department of Meteorology has issued an amber advisory for severe lightning in six provinces and four additional districts, warning of thunderstorms accompanied by intense lightning and temporary strong winds.\nThe advisory, issued at 11:30 a.m. on Sunday (October 18), will remain valid until 1 a.m. on Monday (October 19).\nAccording to the Natural Hazards Early Warning Centre, thunderstorms accompanied by severe lightning are likely at several locations in the Western, Sabaragamuwa, Central, North Central, Eastern and Uva provinces.\nThe warning also covers the Kurunegala, Jaffna, Vavuniya and Mullaitivu districts.\nThe department warned that temporary localized strong winds could occur during thunderstorms and urged the public to take necessary precautions to minimize damage caused by lightning.\nResidents have been advised to remain indoors during thunderstorms, avoid sheltering under trees and stay away from open areas, including paddy fields, tea plantations and bodies of water.\nThe public has also been urged to avoid using wired telephones, connected electrical appliances and open vehicles such as bicycles, tractors and boats during thunderstorms.\nAuthorities further advised residents to remain alert to fallen trees and power lines and contact local disaster management authorities in emergencies.\nThe amber advisory indicates that the public should remain prepared for potentially dangerous weather conditions.",
+      "word_count": 205,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Meteorology has issued an amber advisory for severe lightning in six provinces and four additional districts, warning of thunderstorms accompanied by intense lightning and temporary strong winds. According to the Natural Hazards Early Warning Centre, thunderstorms accompanied by severe lightning are likely at several locations in the Western, Sabaragamuwa, Central, North Central, Eastern and Uva provinces.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261271.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/09/Lightning.jpg",
+          "alt": "Severe lightning advisory issued for six provinces and four districts"
+        }
+      ]
+    },
+    {
+      "id": 261268,
+      "title": "India provides financial relief to Maldives with USD 320 million rollover",
+      "url": "https://www.newswire.lk/2026/10/18/india-provides-financial-relief-to-maldives-with-usd-320-million-rollover/",
+      "published": "2026-10-18T12:03:34+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [],
+      "text": "India has reportedly agreed to extend a USD 320 million currency swap facility for the Maldives by another three months, providing additional financial relief to the island nation as it manages its repayment obligations.\nThe Maldivian government welcomed India’s decision to roll over the first INR 30 billion (approximately USD 320 million) withdrawal under the bilateral currency swap arrangement between the Reserve Bank of India (RBI) and the Maldives Monetary Authority (MMA).\nAccording to media reports, the extension follows a request from the Maldivian government, with repayment originally due in approximately 10 days.\nAlthough the extension has been welcomed by the Maldives, an official announcement confirming the three-month rollover has yet to be issued by the Indian government.\nIn a statement, the Maldivian government expressed appreciation for India’s continued financial support, describing it as a reflection of the longstanding friendship and cooperation between the two countries.\nThe government, led by President Mohamed Muizzu, reaffirmed its commitment to strengthening bilateral relations with India and acknowledged assistance provided under Prime Minister Narendra Modi’s Neighbourhood First policy.\nIndia approved the initial USD 320 million withdrawal on April 23, 2026, under the SAARC Currency Swap Framework.\nThe arrangement was established following an agreement reached during President Muizzu’s state visit to India in October 2024.\nThe Maldives also repaid USD 50 million in debt owed to India in September.\nThe reported extension is expected t provide additional time for the Maldives to meet its financial obligations while supporting its foreign exchange requirements and economic stability.",
+      "word_count": 250,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 21,
+        "Finance": 34,
+        "Tech": 0
+      },
+      "summary": "India has reportedly agreed to extend a USD 320 million currency swap facility for the Maldives by another three months, providing additional financial relief to the island nation as it manages its repayment obligations.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261268.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_120102_WhatsApp.jpg",
+          "alt": "India provides financial relief to Maldives with USD 320 million rollover"
+        }
+      ]
+    },
+    {
+      "id": 261265,
+      "title": "19 killed in stampede at religious festival in Kolkata, India",
+      "url": "https://www.newswire.lk/2026/10/18/19-killed-in-stampede-at-religious-festival-in-kolkata-india/",
+      "published": "2026-10-18T11:50:48+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [],
+      "text": "At least 19 people were killed and 25 others injured in a stampede at a Durga Puja festival venue in Kolkata, eastern India, on Saturday evening (October 17).\nThe incident occurred at the Chorbagan Sarbojanin Durga Puja pandal in north Kolkata amid heavy crowds and rain, as devotees gathered at the venue.\nPolice said the stampede occurred near the exit gate after worshippers began moving amid the downpour, causing people to fall and triggering a crush.\nAuthorities have launched an investigation into possible crowd-control and safety lapses. Seven people, including members of the organising committee and security personnel, have been arrested in connection with the incident.\nWest Bengal Chief Minister Suvendu Adhikari announced that a special investigation team headed by a sitting judge of the Calcutta High Court would investigate the tragedy.\nPrime Minister Narendra Modi announced compensation of 200,000 Indian rupees for the family of each deceased person and 50,000 rupees for each injured person.",
+      "word_count": 156,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 7,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "At least 19 people were killed and 25 others injured in a stampede at a Durga Puja festival venue in Kolkata, eastern India, on Saturday evening (October 17). The incident occurred at the Chorbagan Sarbojanin Durga Puja pandal in north Kolkata amid heavy crowds and rain, as devotees gathered at the venue.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261265.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG_4028.jpeg",
+          "alt": "19 killed in stampede at religious festival in Kolkata, India"
+        }
+      ]
+    },
+    {
+      "id": 261262,
+      "title": "France rocked by riots as 1,200 arrested and 150 police injured",
+      "url": "https://www.newswire.lk/2026/10/18/france-rocked-by-riots-as-1200-arrested-and-150-police-injured/",
+      "published": "2026-10-18T11:09:04+05:30",
+      "source_categories": [
+        "News",
+        "Trending"
+      ],
+      "tags": [],
+      "text": "Violent clashes, arson and looting erupted across France as nationwide demonstrations over rising living costs and deteriorating public services escalated, with more than 1,200 people arrested and around 150 police officers injured, according to reports.\nHundreds of thousands of people took part in demonstrations on Saturday, October 17, across cities including Paris, Lyon, Marseille and Limoges. The rallies brought together students, trade unions and supporters of the Yellow Vest movement, who voiced concerns over inflation, declining purchasing power and conditions in schools.\nWhile many demonstrations remained peaceful, groups of masked protesters clashed with police, prompting officers to use tear gas and water cannons. Shops were looted, vehicles set on fire and public buildings targeted during the unrest.\nIn Limoges, a fire severely damaged the city hall, while protesters broke into Marseille’s city hall and vandalised the building. A tourism office in Lyon was also set ablaze, according to reports.\nThe demonstrations followed weeks of student-led protests over education funding, staffing shortages and deteriorating school facilities, which have expanded into a broader movement against economic inequality and government spending priorities.\nFrench authorities blamed the violence on radical groups and individuals who exploited the demonstrations to engage in vandalism and looting. Prime Minister Sébastien Lecornu condemned the violence, while President Emmanuel Macron pledged action against those responsible for attacks on public institutions.\nThe unrest comes about six months before France’s next presidential election, adding to political tensions as the government faces mounting public dissatisfaction over economic pressures and public services.",
+      "word_count": 248,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 19,
+        "Finance": 10,
+        "Tech": 0
+      },
+      "summary": "Violent clashes, arson and looting erupted across France as nationwide demonstrations over rising living costs and deteriorating public services escalated, with more than 1,200 people arrested and around 150 police officers injured, according to reports. The unrest comes about six months before France’s next presidential election, adding to political tensions as the government faces mounting public dissatisfaction over economic pressures and public services.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261262.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG_4027.jpeg",
+          "alt": "France rocked by riots as 1,200 arrested and 150 police injured"
+        }
+      ]
+    },
+    {
+      "id": 261259,
+      "title": "Police seize firearms, ammunition and grenades from cinema hall",
+      "url": "https://www.newswire.lk/2026/10/18/police-seize-firearms-ammunition-and-grenades-from-cinema-hall/",
+      "published": "2026-10-18T10:57:18+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The owner of a cinema hall was arrested with several firearms, live ammunition and hand grenades following a search conducted by officers of the Colombo District Crime Division in the Hanwella Road area within the Kirindiwela Police Division on October 17.\nThe search was carried out based on information received by the officers.\nThe items seized included two foreign-made pistols, one revolver, one foreign-made repeater firearm, one foreign-made 12-bore firearm, 398 rounds of 12-bore live ammunition, 35 rounds of 16-bore live ammunition, 278 rounds of 9mm ammunition, 49 rounds of .32-calibre ammunition, 3,083 rounds of .22-calibre ammunition and two live hand grenades.\nThe suspect, aged 38, is a resident of the Millathe area.\nThe Colombo District Crime Division is conducting further investigations.",
+      "word_count": 122,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The owner of a cinema hall was arrested with several firearms, live ammunition and hand grenades following a search conducted by officers of the Colombo District Crime Division in the Hanwella Road area within the Kirindiwela Police Division on October 17.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261259.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Zafran-2.jpeg",
+          "alt": "Police seize firearms, ammunition and grenades from cinema hall"
+        }
+      ]
+    },
+    {
+      "id": 261256,
+      "title": "Independent probe to be conducted into Kavanthissa’s death – Environment Minister",
+      "url": "https://www.newswire.lk/2026/10/18/independent-probe-to-be-conducted-into-kavanthissas-death-environment-minister/",
+      "published": "2026-10-18T10:45:07+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Environment Minister Dr. Dhammika Patabendi has said an independent investigation will be conducted into the death of Kavanthissa, an elephant that recently received treatment.\nSpeaking to the media after an event in Kilinochchi, the Minister said the investigation would examine whether any mistakes were made during the elephant’s treatment or whether there had been any deliberate act intended to harm the animal.\nHe said the veterinary team had made every possible effort to treat the elephant but expressed regret that its life could not be saved.\nThe Minister added that the Environment Ministry would take steps to further improve the treatment of sick animals by veterinary services and the Department of Wildlife Conservation.\nHe said the investigation would also examine whether the elephant had been deliberately harmed without the authorities’ knowledge, adding that strict action would be taken if any wrongdoing was identified.",
+      "word_count": 143,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 13,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Environment Minister Dr. Dhammika Patabendi has said an independent investigation will be conducted into the death of Kavanthissa, an elephant that recently received treatment. Speaking to the media after an event in Kilinochchi, the Minister said the investigation would examine whether any mistakes were made during the elephant’s treatment or whether there had been any deliberate act intended to harm the animal.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261256.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Zafran-1.jpeg",
+          "alt": "Independent probe to be conducted into Kavanthissa’s death – Environment Minister"
+        }
+      ]
+    },
+    {
+      "id": 261254,
+      "title": "Heavy showers of over 75mm expected in several areas today",
+      "url": "https://www.newswire.lk/2026/10/18/heavy-showers-of-over-75mm-expected-in-several-areas-today/",
+      "published": "2026-10-18T10:30:00+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "WEATHER FORECAST FOR 18 OCTOBER 2026\nIssued at 05.30 a.m. on 18 October 2026.\nShowers or thundershowers will occur at several places in most parts of the island after 1.00 p.m.\nFairly heavy falls above 75 mm are likely at some places in Sabaragamuwa, Central and Uva provinces and in Polonnaruwa, Trincomalee and Mullaitivu districts.\nShower may occur in the coastal areas of the Puttalam, Mannar and Jaffna districts during the morning.\nThe general public is kindly requested to take adequate precautions to minimize damage caused by temporary localized strong winds and lightning during thundershowers.\nMisty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces during the early hours of the morning",
+      "word_count": 117,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "WEATHER FORECAST FOR 18 OCTOBER 2026\nIssued at 05.30 a.m. on 18 October 2026. Showers or thundershowers will occur at several places in most parts of the island after 1.00 p.m.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261254.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Rain.jpg",
+          "alt": "Heavy showers of over 75mm expected in several areas today"
+        }
+      ]
+    },
+    {
+      "id": 261250,
+      "title": "Sri Lanka’s Transport Minister meets Sri Lankan-born Norwegian counterpart",
+      "url": "https://www.newswire.lk/2026/10/18/sri-lankas-transport-minister-meets-sri-lankan-born-norwegian-counterpart/",
+      "published": "2026-10-18T02:15:38+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka’s Minister of Transport Bimal Rathnayake has met Norway’s Transport Minister Kamzy Gunaratnam, a Sri Lankan-born politician, for discussions on road safety, sustainable transport and national reconciliation.\nIn a social media post, Gunaratnam said she was pleased to welcome Rathnayake and his delegation to Norway’s Ministry of Transport.\nThe discussions focused on the transition to greener transport, preventing social dumping in the transport sector and improving road safety.\nGunaratnam said Rathnayake had informed her that more than 2,700 people lost their lives in road accidents in Sri Lanka last year, including many young people.\nDescribing the figures as heartbreaking, she stressed that road safety was not merely a transport issue but one involving human lives, families and futures.\nThe two ministers also discussed social inclusion and the importance of representing people from different ethnic, social and geographical backgrounds.\nGunaratnam, who was born in Jaffna, highlighted the continuing impact of Sri Lanka’s civil war and expressed support for reconciliation efforts.\nShe wished the Sri Lankan delegation success in developing infrastructure that addresses climate and transport challenges while helping to bridge social divisions.\n“Because that’s exactly what good transport policy is about. Connecting people together,” she said.\nGunaratnam, a member of Norway’s Labour Party and a former deputy mayor of Oslo, was appointed Norway’s Transport Minister in September 2026.",
+      "word_count": 218,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 23,
+        "Finance": 0,
+        "Tech": 1
+      },
+      "summary": "Sri Lanka’s Minister of Transport Bimal Rathnayake has met Norway’s Transport Minister Kamzy Gunaratnam, a Sri Lankan-born politician, for discussions on road safety, sustainable transport and national reconciliation. In a social media post, Gunaratnam said she was pleased to welcome Rathnayake and his delegation to Norway’s Ministry of Transport.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261250.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792269761280.jpg",
+          "alt": "Sri Lanka’s Transport Minister meets Sri Lankan-born Norwegian counterpart"
+        }
+      ]
+    },
+    {
+      "id": 261247,
+      "title": "Sajith slams alleged attack on monks, praises Dawatagaha Mosque for helping protesters",
+      "url": "https://www.newswire.lk/2026/10/18/sajith-slams-alleged-attack-on-monks-praises-dawatagaha-mosque-for-helping-protesters/",
+      "published": "2026-10-18T00:25:56+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Opposition Leader Sajith Premadasa has condemned the alleged assault on Buddhist monks protesting at Viharamahadevi Park in Colombo, accusing the government of using force against monks engaged in religious chanting.\nHowever, Sri Lanka Police have denied the allegations, stating that Ven. Balangoda Kassapa Thero slipped and fell on a concrete step during a confrontation with officers and was not assaulted.\nPremadasa also accused authorities of obstructing sanitation facilities and removing temporary shelters used by the monks.\nHe urged President Anura Kumara Dissanayake to ensure the safety of the monks and prevent any threat to religious harmony.\nThe Opposition Leader also thanked the Dawatagaha Mosque administration for providing sanitation facilities to the protesting monks, describing the gesture as an example of religious coexistence.",
+      "word_count": 122,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 33,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Opposition Leader Sajith Premadasa has condemned the alleged assault on Buddhist monks protesting at Viharamahadevi Park in Colombo, accusing the government of using force against monks engaged in religious chanting. The Opposition Leader also thanked the Dawatagaha Mosque administration for providing sanitation facilities to the protesting monks, describing the gesture as an example of religious coexistence.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261247.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_002519_Editor-Lite.jpg",
+          "alt": "Sajith slams alleged attack on monks, praises Dawatagaha Mosque for helping protesters"
+        }
+      ]
+    },
+    {
+      "id": 261244,
+      "title": "Balangoda Kassapa Thero slipped and fell : Police issues statement",
+      "url": "https://www.newswire.lk/2026/10/18/balangoda-kassapa-thero-slipped-and-fell-police-issues-statement/",
+      "published": "2026-10-18T00:15:51+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka Police have denied allegations that officers assaulted Ven. Balangoda Kassapa Thero during a protest at Viharamahadevi Park in Colombo on Saturday (October 17), stating that the monk slipped and fell on a concrete step during a confrontation.\nIn an official statement responding to a video circulating on social media alleging that police assaulted the monk while pirith chanting was underway, police said the claims were false.\nAccording to a report submitted by Cinnamon Gardens Police, the incident occurred when officers intervened as protesters attempted to use a loudspeaker and erect a temporary shelter using tent material near the Buddha statue at Viharamahadevi Park.\nPolice said officers informed the protesters that these activities were not legally permitted.\nThe statement said Ven. Balangoda Kassapa Thero and others subsequently moved forward, pushing against police officers.\nPolice claimed that the monk slipped on a concrete step while attempting to move forward by pushing officers and fell to the ground.\nHe was subsequently transported to the National Hospital of Sri Lanka for medical treatment.\nPolice maintained that officers had not assaulted the monk, contrary to claims circulating on social media.\nMeanwhile, Newsfirst reported that Ven. Balangoda Kassapa Thero had left the hospital after being admitted following the incident.\nPolice also warned that legal action would be taken against individuals spreading false or unverified information that could cause public unrest.\nCinnamon Gardens Police are conducting further investigations into the incident.\nThe protest was organised to demand the release of imprisoned Buddhist monk Ven. Galagoda Aththe Gnanasara Thero through the appropriate legal procedures.\nPolice have urged the public to exercise caution when sharing unverified videos and information on social media.",
+      "word_count": 275,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 3
+      },
+      "summary": "Sri Lanka Police have denied allegations that officers assaulted Ven. Balangoda Kassapa Thero during a protest at Viharamahadevi Park in Colombo on Saturday (October 17), stating that the monk slipped and fell on a concrete step during a confrontation. The statement said Ven. Balangoda Kassapa Thero and others subsequently moved forward, pushing against police officers.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261244.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_001522_Facebook.jpg",
+          "alt": "Balangoda Kassapa Thero slipped and fell : Police issues statement"
+        }
+      ]
+    },
+    {
+      "id": 261241,
+      "title": "Police deny assault allegations as Balangoda Kassapa Thero leaves hospital",
+      "url": "https://www.newswire.lk/2026/10/17/police-deny-assault-allegations-as-balangoda-kassapa-thero-leaves-hospital/",
+      "published": "2026-10-17T23:40:55+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka Police have denied allegations that officers assaulted Buddhist monks protesting at Colombo’s Viharamahadevi Park, stating that no complaint has been received regarding such an incident.\nPolice Spokesman said no complaint had been lodged over an alleged assault on monks participating in the ongoing protest and warned that strict legal action would be taken against individuals spreading false information regarding the incident.\nMeanwhile, Ven. Balangoda Kassapa Thero, who was taken to the National Hospital of Sri Lanka following allegations that he had been assaulted, has left the hospital, Newsfirst reported.\nThe monk was transported to the hospital in a Suwa Seriya ambulance on Saturday (October 17) after tensions erupted between police and protesters at Viharamahadevi Park.\nParticipants in the protest alleged that police officers had assaulted Ven. Kassapa Thero during the confrontation. However, police have rejected the allegations.\nThe incident occurred during an ongoing satyagraha demanding the release of imprisoned Buddhist monk Ven. Galagoda Aththe Gnanasara Thero.\nThe protesters relocated to Viharamahadevi Park on Friday (October 16) after a court order prevented them from remaining near the Presidential Secretariat.\nThe monks have vowed to continue their protest until their demands are addressed.",
+      "word_count": 193,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka Police have denied allegations that officers assaulted Buddhist monks protesting at Colombo’s Viharamahadevi Park, stating that no complaint has been received regarding such an incident. Meanwhile, Ven. Balangoda Kassapa Thero, who was taken to the National Hospital of Sri Lanka following allegations that he had been assaulted, has left the hospital, Newsfirst reported.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261241.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792260597898.jpg",
+          "alt": "Police deny assault allegations as Balangoda Kassapa Thero leaves hospital"
+        }
+      ]
+    },
+    {
+      "id": 261238,
+      "title": "DFCC Bank and Toyota Lanka Introduce Sri Lanka’s First 10-Year Lease for Brand-New Toyota Passenger Vehicles",
+      "url": "https://www.newswire.lk/business/dfcc-bank-and-toyota-lanka-introduce-sri-lankas-first-10-year-lease-for-brand-new-toyota-passenger-vehicles/",
+      "published": "2026-10-17T22:04:21+05:30",
+      "source_categories": [
+        "Bizwire"
+      ],
+      "tags": [],
+      "text": "Customers can combine a tenure of up to 10 years with a residual value of up to 50% for greater flexibility over monthly repayments\nDFCC Bank, in partnership with Toyota Lanka, has introduced a new leasing proposition for brand-new Toyota passenger vehicles, combining a tenure of up to 10 years with residual value options of up to 50%.\nThis is Sri Lanka’s first 10-year leasing facility for brand-new Toyota passenger vehicles. The proposition was formalised through a Memorandum of Understanding between DFCC Bank and Toyota Lanka.\nThe facility is designed to give customers greater flexibility in managing the monthly financial commitment associated with purchasing a brand-new vehicle. The combination of the extended tenure and residual value option can reduce the monthly rental by approximately 20% compared with a five-year lease, depending on the applicable interest rate, tenure and residual value selected.\nThe residual value is calculated against the amount financed and remains payable at the end of the initial lease.\nCustomers who prefer not to settle this amount as a lump sum at maturity may apply for a fresh five-year lease facility. The new facility will be subject to a separate credit evaluation, approval and the lending terms applicable at that time.\nCommenting on the partnership, Thimal Perera, Director and Chief Executive Officer of DFCC Bank, said, “Customers need financing that considers both what they can afford each month and how they will meet the amount due at maturity. By combining a longer tenure with residual value options and a further financing pathway, we are giving them greater flexibility to plan both. It reflects our commitment to developing practical solutions around the way customers manage their finances.”\nThe proposition is intended for salaried professionals, self-employed individuals, SME owners and business owners seeking a brand-new Toyota passenger vehicle for personal or everyday mobility subject to final validation by the Bank. By lowering the monthly commitment, it may help eligible customers balance vehicle financing with their other household and business responsibilities.\nManohara Atukorala, Managing Director and Chief Executive Officer of Toyota Lanka, said, “Our partnership with DFCC Bank gives customers a more flexible way to plan the purchase of a brand-new Toyota. It combines practical financing with our island-wide network, comprehensive after-sales care and dependable service support, we are committed to delivering a rewarding ownership experience and helping customers approach their journey with Toyota with greater confidence.”\nThe proposition builds on the relationship between DFCC Bank and Toyota Lanka, bringing together DFCC Bank’s leasing capabilities and Toyota Lanka’s position as the authorised distributor for Toyota vehicles in Sri Lanka.\nCustomers will also have access to genuine parts and after-sales support through Toyota Lanka, which remain important considerations in maintaining vehicle quality, reliability and long-term value.\nThrough the partnership, DFCC Bank continues to develop leasing solutions around customers’ changing financial needs while making brand-new vehicle ownership more accessible to eligible buyers.",
+      "word_count": 478,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 28,
+        "Tech": 0
+      },
+      "summary": "Customers can combine a tenure of up to 10 years with a residual value of up to 50% for greater flexibility over monthly repayments\nDFCC Bank, in partnership with Toyota Lanka, has introduced a new leasing proposition for brand-new Toyota passenger vehicles, combining a tenure of up to 10 years with residual value options of up to 50%.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261238.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-17-at-22.03.23.jpeg",
+          "alt": "DFCC Bank and Toyota Lanka Introduce Sri Lanka’s First 10-Year Lease for Brand-New Toyota Passenger Vehicles"
+        }
+      ]
+    },
+    {
+      "id": 261231,
+      "title": "Bangladesh is battling measles. It’s a ‘real warning’ to other nations",
+      "url": "https://www.newswire.lk/2026/10/17/bangladesh-is-battling-measles-its-a-real-warning-to-other-nations/",
+      "published": "2026-10-17T20:55:34+05:30",
+      "source_categories": [
+        "International"
+      ],
+      "tags": [],
+      "text": "Bangladesh’s measles vaccination programme had been a success story. But in 2025, amid political turmoil, it faltered. Its unvaccinated children are now paying the price.\nBangladesh is battling to contain the world’s worst measles outbreak, a crisis exacerbated by weak data, inadequate outreach and vaccination gaps that experts say offers a warning to other nations about the deadly risk of falling immunisation rates.\nBangladesh, whose routine vaccination programme faltered in 2025, reported 202,000 suspected measles cases – 22,000 of them laboratory-confirmed – since the start of the outbreak in mid-March to October 9, the World Health Organization said. That’s more suspected cases than any other country this year.\nSo far, 1,147 people have died of the highly contagious disease, with 94% of reported deaths among children under five years old, the WHO said.\nBangladesh’s experience shows the challenge of containing an outbreak when vaccination coverage falls below 95%, a level the WHO says is needed to prevent outbreaks. Bangladesh almost achieved that in recent years but in 2025 coverage dropped.\nA Reuters review of WHO documents, alongside interviews with more than a dozen scientists, health workers and officials, shows Bangladesh was also hampered in its emergency response by data that left out millions of children, shortcomings in preparation and a failure to reach enough parents.\n“This is a real warning to every country,” said Mark Jit, a WHO vaccine adviser and professor at the School of Global Public Health at New York University. Preventing an outbreak through vaccinations was easier, cheaper and safer than responding to an emergency, he said.\n“The response will stop the outbreak eventually, but in the meantime, many will have had measles, and some will have died,” he said.\nZiauddin Hyder, special assistant on health affairs to Prime Minister Tarique Rahman, told Reuters in September the government was doing everything it could to end the outbreak. The government did not respond to further questions sent in October for this article. ‘THEY CAME ONLY AFTER I BURIED MY SON’ In the northeast Sylhet region, one of the worst-hit areas in the nation of 178 million people, two-year-old Arman Hossain died unvaccinated in July, 24 hours after admission to hospital for treatment paid for by selling the family’s three-wheeled auto rickshaw. His unvaccinated four-year-old sister survived.\nHis father Amin Mia, 26, said no health workers came to their remote village in Sylhet to offer vaccinations in time. “They came only after I buried my son,” he said. Measles usually kills two or three people in every 1,000 cases, the WHO says, but the disease can be more deadly in poorer nations because of factors such as malnutrition.\nThis is a real warning to every country.\nMark Jit, a WHO vaccine adviser\nIn the town of Chhatak, also in the Sylhet region, the daughter of 30-year-old carpenter Humayun Rashid died unvaccinated in June aged nine months. Labiba Akter could have received an inoculation in April when an emergency programme lowered the vaccination age to six months from nine.\n“No health worker came to tell us,” her father said.\nIn May, Health Minister Sardar Md. Sakhawat Husain said the emergency drive had brought cases in hotspots “almost to zero” and the outbreak was under control.\nYet in September, Bangladesh reported a daily average of 1,198 new cases of measles, which causes a high fever, cough and telltale rash. That was the highest total since May.\nThe Bangladesh outbreak comes as vaccine hesitancy is rising, particularly in wealthier nations, amid skepticism championed by figures such as US Health Secretary Robert F. Kennedy Jr.\nIn Bangladesh, access to inoculations and awareness are bigger hurdles, experts said.\nUntil recently, Bangladesh had been a vaccination success story. The WHO and the United Nations children’s agency UNICEF estimated that in 2024 it achieved 96% coverage for the first vaccine dose and 93% for the second, which is given to capture the small percentage of children who don’t develop immunity after one shot.\nBut that same year, protests erupted that ended 15 years of rule by Prime Minister Sheikh Hasina. In the ensuing political turmoil, health workers went on strike, vaccine orders were delayed and follow-up vaccinations that usually accompany routine programmes were disrupted.\nIn a report published in July this year, WHO and UNICEF estimated first-dose coverage in 2025 had fallen to 90%, while second-dose coverage was 86%, several percentage points below the 95% needed for herd immunity.\nThe report also raised questions about the quality of official data on vaccinations for measles and other diseases for the years 2023 to 2025.\nIt said preliminary figures sometimes showed numbers of those inoculated exceeded 100% of those targeted, indicating mistakes in counting doses or target numbers.\nEMERGENCY PROGRAMME MISSED MILLIONS\nStill, when the measles outbreak erupted, Bangladesh responded swiftly and initially seemed to be winning the battle.\nAn emergency programme was followed by an initial slowdown in new cases after almost 20 million children received a vaccination in April and May. The government said it had covered every child in the target age group of six months to five years.\nBut in reality the programme fell short. This emerged when another routine health intervention in June had a target list with 4 million more children than the measles campaign despite covering the same age group.\n“There is a gap,” prime ministerial adviser Hyder told Reuters on September 14, as measles cases rose again, blaming vaccine hesitancy by parents or child illnesses for keeping kids away.\nOther challenges have also emerged.\nDocuments detailing meetings in April and August between the government, the WHO and other health partners, reviewed by Reuters and not previously reported, show how efforts to act fast may have led to shortcomings.\nMinutes from the April 19 meeting outlined how the government opted for just one round of so-called readiness checks before launching its emergency vaccination programme due to time constraints, instead of the typical four rounds. Checks cover everything from ensuring fridges are available for keeping vaccines cool to determining how many children should be vaccinated.\nThe single round of checks suggested most – but not all – districts were ready, according to the minutes.\nTHE POOREST ‘PAY THE PRICE’\n“When preparedness checks are not done properly, it is often the poorest and hardest-to-reach children who miss out on vaccination and pay the price,” said Professor Mahmudur Rahman, an epidemiologist and chair of Bangladesh’s National Verification Committee for Measles and Rubella Elimination.\nHyder said the April campaign was launched in four weeks. Yet Tajul Islam Abdul Bari, who led immunisation in Bangladesh until 2017, said campaigns usually demand months of planning.\nBy the August meeting, shortcomings in the rollout were identified. Minutes noted the proportion of children with confirmed measles cases who had not been vaccinated was “virtually unchanged between pre-campaign (82%) and post-campaign (85%) … underscoring persistent coverage gaps”.\nThe WHO did not respond to questions about the April and August meetings. But deputy WHO representative to Bangladesh, Dr Rajesh Narwal, said the WHO was determined to support the government in its goal of vaccinating every child at risk.\n“Routine immunisation must become more effective and resilient so that these gaps do not develop again,” he said.\nIn Sylhet, where official records show 180 children have died, 8 of 16 families Reuters interviewed in September said they had not seen health workers offering vaccinations. At least six families said health workers visited only after a child had died from measles in their community.\nAt the end of September, the government launched a new campaign to target 3.4 million children previously missed.\n“We will involve people across villages so that no child is left behind,” the health minister told a news conference.\nAt the end of September, the government launched a new campaign to target 3.4 million children previously missed.\n“We will involve people across villages so that no child is left behind,” the health minister told a news conference.\nBangladesh battles a measles outbreak\nThe South Asian nation has reported more than 200,000 suspected measles cases this year. Hundreds of people have died, most of them children. Sylhet is among the worst-hit regions.\nYet reaching every child remains a challenge. UNICEF and the Bangladesh Bureau of Statistics say as many as 40% of children go unregistered, while government data showed around a third of health worker posts are unfilled.\nHealth experts are also pushing the government to expand the programme to vaccinate children over five. That age group represents a third of measles cases, the WHO says.\nIn addition, scientists in Bangladesh are studying why immunity is waning faster than expected in babies up to six months or so. They are usually still protected by maternal antibodies, experts say.\nEnsuring prompt medical care is vital, the WHO says, another challenge for Bangladesh as it also fights a dengue epidemic.\nIn September, every ward in Sylhet’s 100-bed Shahid Shamsuddin Ahmed Hospital, which is treating measles, appeared overwhelmed. On the day Reuters visited, 178 patients were admitted.",
+      "word_count": 1493,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 26,
+        "Finance": 3,
+        "Tech": 0
+      },
+      "summary": "Bangladesh’s measles vaccination programme had been a success story. Bangladesh is battling to contain the world’s worst measles outbreak, a crisis exacerbated by weak data, inadequate outreach and vaccination gaps that experts say offers a warning to other nations about the deadly risk of falling immunisation rates.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261231.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Bangladesh-is-battling.jpg",
+          "alt": "Bangladesh is battling measles. It’s a ‘real warning’ to other nations"
+        }
+      ]
+    },
+    {
+      "id": 261228,
+      "title": "“Kavantissa was like an 80-year-old human”: Wildlife DG defends protection efforts",
+      "url": "https://www.newswire.lk/2026/10/17/kavantissa-was-like-an-80-year-old-human-wildlife-dg-defends-protection-efforts/",
+      "published": "2026-10-17T19:43:33+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Director General of Wildlife Conservation Ranjan Marasinghe has defended the department’s efforts to protect iconic tusker Kavantissa, who died after receiving treatment for a gunshot injury, saying the elephant was over 45 years old and approaching the latter stages of his natural lifespan.\nResponding to questions about the department’s failure to prevent attacks on the animal, Marasinghe said wild elephants generally live for around 50 to 60 years.\n“We estimate that this elephant was over 45 years old. In the wild, elephants generally live for a maximum of 50 to 60 years. In human terms, he was like an 80-year-old person,” he said.\nMarasinghe rejected suggestions that wildlife authorities had completely failed to protect the tusker, arguing that the animal had survived for more than four decades under the existing conservation system.\n“We have protected this animal for all these years. If someone says this was a complete failure, I cannot accept that. Keeping an elephant protected for around 45 years is itself a significant achievement,” he said.\nThe Wildlife Director General was also questioned about why Sri Lanka had not introduced special protection programmes for iconic tuskers, similar to conservation initiatives for Africa’s super tuskers.\nHe said the department’s responsibility extended beyond individual elephants, noting that threats such as gunshot injuries affected the wider elephant population.\n“The threats faced by this elephant are faced by other elephants as well. Our objective is to protect the entire elephant population,” he said.\nResponding to questions about GPS tracking collars, Marasinghe said the department had previously attempted to introduce collars for more than 100 elephants but encountered practical difficulties.\nHe explained that fitting tracking collars requires tranquilising elephants, a procedure that could pose health risks, particularly for older animals.\nKavantissa died on October 16 after receiving veterinary treatment for several weeks following a reported gunshot injury to his front leg.\nHis death has prompted calls from environmentalists and opposition politicians for an independent investigation into the shooting, the treatment provided and the circumstances surrounding his death.\nThe death of Kavantissa has raised questions over the measures taken to protect prominent wild elephants, particularly those known to face threats from human activity.\nEnvironmentalists have called for an independent investigation to determine who was responsible for shooting the tusker and whether sufficient steps were taken to safeguard him before his death.\nMarasinghe maintained that wildlife authorities had made every possible effort to protect the animal, while acknowledging the challenges involved in monitoring and protecting Sri Lanka’s wild elephant population.",
+      "word_count": 415,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Director General of Wildlife Conservation Ranjan Marasinghe has defended the department’s efforts to protect iconic tusker Kavantissa, who died after receiving treatment for a gunshot injury, saying the elephant was over 45 years old and approaching the latter stages of his natural lifespan.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261228.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261017_194207_Editor-Lite.jpg",
+          "alt": "“Kavantissa was like an 80-year-old human”: Wildlife DG defends protection efforts"
+        }
+      ]
+    },
+    {
+      "id": 261225,
+      "title": "Over 150 mm rain alert for 6 districts",
+      "url": "https://www.newswire.lk/2026/10/17/over-150-mm-rain-alert-for-6-districts/",
+      "published": "2026-10-17T19:24:15+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "The Department of Meteorology has issued an amber advisory for Sabaragamuwa and Central provinces and Badulla District, warning of heavy rainfall exceeding 150 mm in some areas.\nShowers or thundershowers are expected across most parts of Sri Lanka.\nThe advisory is valid from 7 p.m. on October 17 until 6 a.m. on October 18.\nResidents in affected areas are urged to remain alert and take necessary precautions.",
+      "word_count": 67,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Meteorology has issued an amber advisory for Sabaragamuwa and Central provinces and Badulla District, warning of heavy rainfall exceeding 150 mm in some areas. Residents in affected areas are urged to remain alert and take necessary precautions.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261225.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/05/Heavy-Rain-Alert.jpg",
+          "alt": "Over 150 mm rain alert for 6 districts"
+        },
+        {
+          "src": "images/2026-10-18/261225-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261017_192208_Samsung-Notes.jpg",
+          "alt": "Over 150 mm rain alert for 6 districts"
+        }
+      ]
+    },
+    {
+      "id": 261218,
+      "title": "Sajith pays last respects to Kavantissa, calls for foreign experts to investigate death",
+      "url": "https://www.newswire.lk/2026/10/17/sajith-pays-last-respects-to-kavantissa-calls-for-foreign-experts-to-investigate-death/",
+      "published": "2026-10-17T18:54:41+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Opposition Leader Sajith Premadasa has called for an independent and transparent investigation into the death of iconic Sri Lankan tusker Kavantissa, involving both local and international experts.\nSpeaking during a visit to Siyambalangamuwa on Saturday (17) to pay his final respects to the tusker, Premadasa said a comprehensive examination was essential to establish the circumstances surrounding the elephant’s death.\nHe stressed that local and foreign specialists should be involved in the post-mortem investigation to ensure transparency and establish the facts.\nPremadasa, who described himself as an environmentalist, zoologist and wildlife photographer, recalled his long association with Kavantissa, saying he had personally named the elephant after encountering it near the Siyambalangamuwa reservoir several years ago.\nHe said Kavantissa was among Sri Lanka’s most magnificent wild tuskers, alongside other well-known elephants such as Mahasen, Agbo and Sando.\nThe Opposition Leader also called for the establishment of a special task force to protect Sri Lanka’s remaining tuskers, saying a similar proposal he had made previously had been ignored by the government.\nPremadasa said Kavantissa’s death highlighted the urgent need to address the human-elephant conflict through a comprehensive national programme that protects both wildlife and farming communities.\nHe also proposed establishing a dedicated veterinary hospital for elephants and other wildlife, with international assistance, while strengthening the wildlife and veterinary sectors with additional resources and personnel.\nPremadasa said he was prepared to lead an elephant conservation initiative involving Sri Lanka’s younger generation.\nHe stressed that those in positions of responsibility should never encourage people to shoot elephants, while acknowledging the need to protect farmers and communities affected by human-elephant conflict.\n“The lives of elephants are just as important as human lives,” Premadasa said, calling for collective action to prevent further losses of Sri Lanka’s remaining wild tuskers.\nKavantissa died on Friday (16) following weeks of veterinary treatment for an apparent gunshot injury to his right front leg. Wildlife officials had reported that the wound was healing, but the elephant’s condition deteriorated after he stopped eating and suffered dehydration.",
+      "word_count": 333,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 28,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Opposition Leader Sajith Premadasa has called for an independent and transparent investigation into the death of iconic Sri Lankan tusker Kavantissa, involving both local and international experts. Speaking during a visit to Siyambalangamuwa on Saturday (17) to pay his final respects to the tusker, Premadasa said a comprehensive examination was essential to establish the circumstances surrounding the elephant’s death.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261218.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792239658167.jpg",
+          "alt": "Sajith pays last respects to Kavantissa, calls for foreign experts to investigate death"
+        },
+        {
+          "src": "images/2026-10-18/261218-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792239655783.jpg",
+          "alt": "Sajith pays last respects to Kavantissa, calls for foreign experts to investigate death"
+        },
+        {
+          "src": "images/2026-10-18/261218-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792239660554.jpg",
+          "alt": "Sajith pays last respects to Kavantissa, calls for foreign experts to investigate death"
+        },
+        {
+          "src": "images/2026-10-18/261218-4.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792239663708.jpg",
+          "alt": "Sajith pays last respects to Kavantissa, calls for foreign experts to investigate death"
+        }
+      ]
+    },
+    {
+      "id": 261215,
+      "title": "Protest held outside Presidential Secretariat demanding action against corruption",
+      "url": "https://www.newswire.lk/2026/10/17/protest-held-outside-presidential-secretariat-demanding-action-against-corruption/",
+      "published": "2026-10-17T18:13:39+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "A protest organized by “Janawarame Purawasiyo” (Citizens of the People’s Mandate) was held outside the Presidential Secretariat in Colombo on Saturday (17).\nThe demonstration was held under the theme “Defeat conspiracies against punishing the corrupt,” with participants opposing alleged attempts to obstruct legal action against individuals accused of corruption.\nThe protesters initially gathered at Colombo Fort before marching towards Galle Face and holding their demonstration outside the Presidential Secretariat.",
+      "word_count": 69,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 15,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A protest organized by “Janawarame Purawasiyo” (Citizens of the People’s Mandate) was held outside the Presidential Secretariat in Colombo on Saturday (17). The demonstration was held under the theme “Defeat conspiracies against punishing the corrupt,” with participants opposing alleged attempts to obstruct legal action against individuals accused of corruption.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261215.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261017_180000_Facebook.jpg",
+          "alt": "Protest held outside Presidential Secretariat demanding action against corruption"
+        }
+      ]
+    },
+    {
+      "id": 261212,
+      "title": "Re-scrutinized 2026 Grade 5 Scholarship Exam results released : Doenets.lk",
+      "url": "https://www.newswire.lk/2026/10/17/re-scrutinized-2026-grade-5-scholarship-exam-results-released-downets-lk/",
+      "published": "2026-10-17T16:51:14+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Department of Examinations has released the re-scrutinized results of the 2026 Grade 5 Scholarship Examination.\nCandidates can check their results through the department’s official website: www.doenets.lk .",
+      "word_count": 28,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Examinations has released the re-scrutinized results of the 2026 Grade 5 Scholarship Examination. Candidates can check their results through the department’s official website: www.doenets.lk .",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261212.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/09/scholarship-exam-1.jpg",
+          "alt": "Re-scrutinized 2026 Grade 5 Scholarship Exam results released : Doenets.lk"
+        }
+      ]
+    },
+    {
+      "id": 261210,
+      "title": "NSO denies power plant breakdown reports, expects full restoration by 6:30 p.m.",
+      "url": "https://www.newswire.lk/2026/10/17/nso-denies-power-plant-breakdown-reports-expects-full-restoration-by-630-p-m/",
+      "published": "2026-10-17T15:38:12+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "The National System Operator (NSO) has dismissed reports claiming that several power plants have suffered breakdowns following the nationwide electricity failure, confirming that no generating plant breakdowns have been reported.\nIn its latest update, the NSO said all hydropower plants that were operational before the grid failure remain operational and are currently being used to restore electricity supplies.\nThe NSO clarified that the Norochcholai Coal Power Plant was shut down in accordance with standard procedures following the system failure, rather than due to a mechanical breakdown.\nThe operator said electricity supplies have been successfully restored area by area since noon.\nThe NSO expects the national electricity grid to be restored by around 6:30 p.m. on Saturday (October 17).\nThe clarification follows reports that multiple power generation facilities had suffered breakdowns after the nationwide blackout.",
+      "word_count": 134,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The National System Operator (NSO) has dismissed reports claiming that several power plants have suffered breakdowns following the nationwide electricity failure, confirming that no generating plant breakdowns have been reported. The NSO clarified that the Norochcholai Coal Power Plant was shut down in accordance with standard procedures following the system failure, rather than due to a mechanical breakdown.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261210.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2025/02/Power-cut.jpg",
+          "alt": "NSO denies power plant breakdown reports, expects full restoration by 6:30 p.m."
+        }
+      ]
+    },
+    {
+      "id": 261207,
+      "title": "Repeated nationwide blackouts: Rajiv Amarasuriya calls for lasting solution",
+      "url": "https://www.newswire.lk/2026/10/17/repeated-nationwide-blackouts-rajiv-amarasuriya-calls-for-lasting-solution/",
+      "published": "2026-10-17T15:34:41+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Bar Association Chairman Rajiv Amarasuriya has called on the government to take urgent steps to strengthen Sri Lanka’s national electricity grid following another islandwide power failure on Saturday (October 17).\nIn a social media post, Amarasuriya said the latest blackout was not an isolated incident, pointing to similar nationwide power failures in 2020, 2021, 2023 and 2025.\nHe said repeated failures had exposed longstanding weaknesses in the country’s electricity infrastructure and highlighted the need for investment in a more resilient national grid.\nAmarasuriya referred to the 2025 blackout, which reportedly followed a monkey coming into contact with equipment at the Panadura substation, as an example of the vulnerability of the national power system.\nHe noted that nationwide blackouts were exceptionally rare in countries such as Singapore, Japan and Germany, adding that Sri Lanka should aspire to similar standards.\n“The economic and social losses arising from these repeated failures may never be fully quantified,” he said.\nAmarasuriya said the government has an opportunity to address the longstanding issue by learning from previous failures and implementing recommendations made following earlier investigations.\n“This Government has an opportunity to address this longstanding problem once and for all,” he said.\nHe urged authorities to invest in strengthening the national grid to ensure a more reliable electricity supply and prevent similar disruptions in the future.\n“Let this be an opportunity to find a lasting solution to a problem that has persisted for far too long,” he added.\nThe latest power failure disrupted electricity supplies across the country, with the National System Operator confirming that grid instability had caused a total system failure. Efforts to restore supply are continuing.",
+      "word_count": 272,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 21,
+        "Finance": 5,
+        "Tech": 1
+      },
+      "summary": "Bar Association Chairman Rajiv Amarasuriya has called on the government to take urgent steps to strengthen Sri Lanka’s national electricity grid following another islandwide power failure on Saturday (October 17). In a social media post, Amarasuriya said the latest blackout was not an isolated incident, pointing to similar nationwide power failures in 2020, 2021, 2023 and 2025.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261207.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792231395688.jpg",
+          "alt": "Repeated nationwide blackouts: Rajiv Amarasuriya calls for lasting solution"
+        }
+      ]
+    },
+    {
+      "id": 261205,
+      "title": "Power supply restored for some areas : Latest update",
+      "url": "https://www.newswire.lk/2026/10/17/power-supply-restored-for-some-areas-latest-update/",
+      "published": "2026-10-17T15:19:23+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Electricity supply has been restored in several areas of Colombo, Gampaha, Galle and Badulla following a nationwide power outage that affected Sri Lanka on Saturday (October 17), according to the National System Operator (NSO).\nMeanwhile, all three power generation units at the Norochcholai Coal Power Plant have been shut down following the power failure, according to the plant’s management.\nThe nationwide blackout occurred after instability in the national electricity grid caused a total system failure on Saturday morning.\nThe National System Operator said efforts were underway to restore electricity supplies in stages.\nAuthorities have also requested owners of rooftop solar power systems to disconnect their installations until further notice to support efforts to stabilise and restore the national grid.\nThe shutdown of all three units at Norochcholai, one of the country’s major electricity generation facilities, adds to the challenges facing authorities as they work to restore normal supply.\nHowever, there has been no official confirmation of when the Norochcholai units will resume operations or when electricity will be fully restored across the country.\nThe NSO has yet to announce a timeline for the complete restoration of the national grid.",
+      "word_count": 189,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Electricity supply has been restored in several areas of Colombo, Gampaha, Galle and Badulla following a nationwide power outage that affected Sri Lanka on Saturday (October 17), according to the National System Operator (NSO). Meanwhile, all three power generation units at the Norochcholai Coal Power Plant have been shut down following the power failure, according to the plant’s management.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-18/261205.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2025/02/Power-cut.jpg",
+          "alt": "Power supply restored for some areas : Latest update"
+        }
+      ]
+    }
+  ]
+}
