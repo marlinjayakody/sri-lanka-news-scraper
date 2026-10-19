@@ -1,0 +1,1243 @@
+{
+  "source": "https://www.newswire.lk/",
+  "fetched_via": "wp-rest-api",
+  "edition_date": "2026-10-19",
+  "generated_at": "2026-10-19T15:36:05+05:30",
+  "window": {
+    "from": "2026-10-18T15:36:05+05:30",
+    "to": "2026-10-19T15:36:05+05:30"
+  },
+  "enrichment": "keywords",
+  "categories": [
+    "Political",
+    "Finance",
+    "Tech",
+    "General"
+  ],
+  "counts": {
+    "Political": 11,
+    "Finance": 12,
+    "Tech": 1,
+    "General": 15
+  },
+  "articles": [
+    {
+      "id": 261459,
+      "title": "Akurana accident: Driver arrested as death toll reaches four",
+      "url": "https://www.newswire.lk/2026/10/19/akurana-accident-driver-arrested-as-death-toll-reaches-four/",
+      "published": "2026-10-19T15:19:28+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Accident",
+        "Akurana"
+      ],
+      "text": "The driver of the cement lorry involved in the multi-vehicle collision in the Akurana area today (19), which claimed four lives, has been arrested.\nAccording to the Police, the driver was arrested by the Alawathugoda Police following the fatal accident.\nThe accident occurred this morning at Kurugoda Junction, near the 7th milepost in Akurana, along the Kandy–Matale A9 Road.\nPolice stated that a bulk tanker lorry transporting cement powder from Alawathugoda towards Kandy had reportedly gone out of the driver’s control and collided with several vehicles travelling ahead of it before overturning.\nFour individuals were killed in the accident, while six others sustained serious injuries and were admitted to hospitals in Kandy and Akurana.\nAlawathugoda Police are conducting further investigations into the incident.",
+      "word_count": 123,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The driver of the cement lorry involved in the multi-vehicle collision in the Akurana area today (19), which claimed four lives, has been arrested. According to the Police, the driver was arrested by the Alawathugoda Police following the fatal accident.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261459.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261019_113456_Editor-Lite.jpg",
+          "alt": "Akurana accident: Driver arrested as death toll reaches four"
+        }
+      ]
+    },
+    {
+      "id": 261456,
+      "title": "Microfinance loans under scrutiny over excessive interest rates",
+      "url": "https://www.newswire.lk/2026/10/19/microfinance-loans-under-scrutiny-over-excessive-interest-rates/",
+      "published": "2026-10-19T15:16:49+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Lakmali Hemachandra",
+        "microfinance",
+        "Parliament"
+      ],
+      "text": "Sri Lanka’s Parliamentary Sectoral Oversight Committee on Economic Development and International Relations has called for the speedy implementation of the Microfinance and Credit Regulatory Authority Act to regulate lending institutions and protect borrowers from excessive interest rates.\nThe committee, chaired by MP Lakmali Hemachandra, discussed the matter during a recent meeting with representatives of the Sri Lanka Microfinance Practitioners’ Association.\nAccording to Parliament, particular attention was given to lending institutions charging excessively high interest rates through informal practices, causing financial hardship to the public.\nThe committee stressed the importance of establishing a fair regulatory framework while ensuring that properly functioning microfinance institutions can continue their operations.\nDiscussions also focused on simplifying licensing procedures, allowing regulated microfinance institutions to accept limited public deposits under supervision and providing access to lower-cost funding.\nThe possibility of securing concessional funding from international institutions, including the Asian Development Bank, to help reduce lending interest rates was also considered.\nThe committee further examined consumer protection measures, the establishment of the proposed Regulatory Authority and deadlines for institutions to obtain licences.\nMeanwhile, the committee discussed a request by state-owned Lanka Mineral Sands Limited (LMSL) seeking exclusive mining rights over 68 grids containing mineral sand deposits along Sri Lanka’s northeastern coastline.\nLMSL requested that these deposits not be allocated to private institutions.\nThe committee also reviewed concerns over previously issued mining licences, including alleged irregularities, and noted that information relating to certain irregularities had been referred to the Criminal Investigation Department (CID).\nThe committee decided to issue recommendations on mining rights and operational support for LMSL, while also considering measures to strengthen transparency in future mining licence approvals.",
+      "word_count": 270,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 9,
+        "Finance": 13,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka’s Parliamentary Sectoral Oversight Committee on Economic Development and International Relations has called for the speedy implementation of the Microfinance and Credit Regulatory Authority Act to regulate lending institutions and protect borrowers from excessive interest rates. The possibility of securing concessional funding from international institutions, including the Asian Development Bank, to help reduce lending interest rates was also considered.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261456.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Lakmali-microfinance-loans.jpg",
+          "alt": "Microfinance loans under scrutiny over excessive interest rates"
+        }
+      ]
+    },
+    {
+      "id": 261453,
+      "title": "“I was misled” – Maithri apologizes, reveals what went wrong with Gnanasara Thera’s presidential pardon",
+      "url": "https://www.newswire.lk/2026/10/19/i-was-misled-maithri-apologizes-reveals-what-went-wrong-with-gnanasara-theras-presidential-pardon/",
+      "published": "2026-10-19T15:14:36+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Former President Maithripala Sirisena has claimed that officials at the Presidential Secretariat misled him during the process of granting a presidential pardon to Ven. Galagoda Aththe Gnanasara Thera, resulting in a technical error that eventually led to the monk’s reimprisonment.\nIn a statement issued on October 19, Sirisena said he had studied a copy of the relevant court judgment and understood that a technical defect in documents submitted by the Presidential Secretariat had contributed to the court’s decision.\nHe said Gnanasara Thera had faced two cases before the Homagama Magistrate’s Court, identified as B 7417/10 and 40042.\nAccording to Sirisena, the additional senior secretary in charge of legal affairs at the Presidential Secretariat had informed him that approval from the Ministry of Justice and Prisons was required in connection with the pardon.\nHowever, he alleged that the necessary documents were never forwarded to the ministry and that his signature was obtained without securing the required approval.\n“This was misleading me,” Sirisena said.\nThe former President claimed that the error committed by officials during his presidency had ultimately resulted in Gnanasara Thera being imprisoned again, following legal proceedings initiated through a complaint by Sandya Ekneligoda involving an organization associated with Paikiasothy Saravanamuttu.\nSirisena said he respected the court’s decision and accepted that the judgment was correct.\nHe also apologized to the Buddhist clergy for the mistake, although he maintained that it had been committed by officials serving under his administration.\nThe former President said he issued the statement following inquiries from Buddhist monks, journalists and members of the public seeking clarification about the technical error that affected the presidential pardon.",
+      "word_count": 269,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 29,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Former President Maithripala Sirisena has claimed that officials at the Presidential Secretariat misled him during the process of granting a presidential pardon to Ven. Galagoda Aththe Gnanasara Thera, resulting in a technical error that eventually led to the monk’s reimprisonment.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261453.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261019_150930_Google.jpg",
+          "alt": "“I was misled” – Maithri apologizes, reveals what went wrong with Gnanasara Thera’s presidential pardon"
+        }
+      ]
+    },
+    {
+      "id": 261450,
+      "title": "Akurana tragedy: New CCTV footage reveals terrifying moments before crash",
+      "url": "https://www.newswire.lk/2026/10/19/akurana-tragedy-new-cctv-footage-reveals-terrifying-moments-before-crash/",
+      "published": "2026-10-19T14:36:55+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sensitive CCTV footage has emerged showing the cement truck involved in the deadly Akurana accident pushing a motorcycle at high speed moments before the crash.\nThe accident occurred at Kurugoda Junction in Akurana on the morning of October 19.\nAccording to the footage, the cement-laden truck was seen travelling at high speed while pushing a motorcycle along the road before the collision.\nThe truck had reportedly gone out of the driver’s control and crashed into eight vehicles, including three-wheelers, another lorry and several motorcycles.\nSix people were killed in the accident, while five others were injured and admitted to hospital. (Newswire)\nSensitive CCTV footage has emerged from the deadly Akurana accident, showing the cement truck pushing a motorcycle at high speed moments before the crash. The truck later collided with eight vehicles. Six people were killed and five others were injured pic.twitter.com/h7IDI6xGr5 — NewsWire 🇱🇰 (@NewsWireLK) October 19, 2026\nSensitive CCTV footage has emerged from the deadly Akurana accident, showing the cement truck pushing a motorcycle at high speed moments before the crash. The truck later collided with eight vehicles. Six people were killed and five others were injured pic.twitter.com/h7IDI6xGr5\n— NewsWire 🇱🇰 (@NewsWireLK) October 19, 2026",
+      "word_count": 197,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sensitive CCTV footage has emerged showing the cement truck involved in the deadly Akurana accident pushing a motorcycle at high speed moments before the crash. (Newswire)\nSensitive CCTV footage has emerged from the deadly Akurana accident, showing the cement truck pushing a motorcycle at high speed moments before the crash.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261450.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261019_143610_X.jpg",
+          "alt": "Akurana tragedy: New CCTV footage reveals terrifying moments before crash"
+        }
+      ]
+    },
+    {
+      "id": 261442,
+      "title": "Sri Lankan Tusker ‘Agbo’ found safe and healthy in Nachchaduwa Reserve",
+      "url": "https://www.newswire.lk/2026/10/19/sri-lankan-tusker-agbo-found-safe-and-healthy-in-nachchaduwa-reserve/",
+      "published": "2026-10-19T13:07:38+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "Agbo",
+        "Sajith Premadasa",
+        "Tusker"
+      ],
+      "text": "Sri Lankan Tusker ‘Agbo’ has been found safe and in good health in the Nachchaduwa Tank Reserve following a joint search operation conducted by the Department of Wildlife Conservation and the Sri Lanka Army.\nAccording to the Ministry of Environment, the elephant was located following an extensive search operation carried out by wildlife officers and Army personnel.\nWildlife Range Officer Buddhika, who is in charge of the area, confirmed that Agbo was in good health and physical condition when located.\nThe Ministry further stated that wildlife officials have confirmed that the elephant is currently roaming freely within the Nachchaduwa Tank Reserve and is not facing any immediate danger.\nThe successful operation comes after several days of search efforts to locate Agbo, following earlier reports that the elephant may have sustained injuries.\nThe Ministry of Environment has now officially confirmed that Agbo is safe, healthy and moving freely within the reserve.\nMeanwhile, commenting on the successful tracing of the elephant, Opposition Leader Sajith Premadasa welcomed the development in a post on X.\nDescribing it as “excellent news,” Premadasa said Agbo was safe and well, according to reliable information received from wildlife sources.\nHe also congratulated officials of the Department of Wildlife Conservation and the supporting armed forces personnel who were instrumental in making the search operation a success.",
+      "word_count": 217,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 15,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lankan Tusker ‘Agbo’ has been found safe and in good health in the Nachchaduwa Tank Reserve following a joint search operation conducted by the Department of Wildlife Conservation and the Sri Lanka Army. The Ministry of Environment has now officially confirmed that Agbo is safe, healthy and moving freely within the reserve.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261442.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Agbo-3.jpg",
+          "alt": "Sri Lankan Tusker ‘Agbo’ found safe and healthy in Nachchaduwa Reserve"
+        }
+      ]
+    },
+    {
+      "id": 261439,
+      "title": "26-year-old arrested over attempt to sell leopard tooth for Rs. 50,000",
+      "url": "https://www.newswire.lk/2026/10/19/26-year-old-arrested-over-attempt-to-sell-leopard-tooth-for-rs-50000/",
+      "published": "2026-10-19T12:49:57+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "leopard tooth",
+        "Matara"
+      ],
+      "text": "A 26-year-old suspect arrested for attempting to sell a leopard tooth for Rs. 50,000 in Matara has been released on two bail bonds of Rs. 200,000 each by the Matara Additional Magistrate’s Court.\nThe suspect, a resident of Beruwala in the Kalutara District, was arrested during a raid conducted by officers of the Panahaduwa Range Protection Office of the Udawalawe National Park on October 14.\nThe suspect was produced before the Matara Additional Magistrate’s Court on the same day, along with the seized leopard tooth.\nThe court subsequently ordered his release on bail, while the case is scheduled to be taken up again on December 11.\nAccording to wildlife authorities, the Sri Lankan leopard (Panthera pardus kotiya) is a strictly protected animal under the Fauna and Flora Protection Ordinance.\nAuthorities emphasised that the possession, transportation, display and trade of body parts belonging to protected wildlife species are strictly prohibited.\nThe public has also been urged to report wildlife crimes through the emergency hotline 1992, as authorities continue efforts to prevent the illegal trade in protected animal parts.",
+      "word_count": 177,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 6,
+        "Tech": 0
+      },
+      "summary": "A 26-year-old suspect arrested for attempting to sell a leopard tooth for Rs. 50,000 in Matara has been released on two bail bonds of Rs. 200,000 each by the Matara Additional Magistrate’s Court. The suspect was produced before the Matara Additional Magistrate’s Court on the same day, along with the seized leopard tooth.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261439.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Leopard-tooth-1.jpg",
+          "alt": "26-year-old arrested over attempt to sell leopard tooth for Rs. 50,000"
+        }
+      ]
+    },
+    {
+      "id": 261434,
+      "title": "Union Assurance Renews Exclusive Partnership with Nations Trust Bank Strengthening Bancassurance Partnership",
+      "url": "https://www.newswire.lk/business/union-assurance-renews-exclusive-partnership-with-nations-trust-bank-strengthening-bancassurance-partnership/",
+      "published": "2026-10-19T12:37:35+05:30",
+      "source_categories": [
+        "Bizwire"
+      ],
+      "tags": [],
+      "text": "Union Assurance PLC and Nations Trust Bank PLC (NTB) have renewed their long-standing exclusive bancassurance partnership, further strengthening an alliance that has played a pivotal role in expanding access to financial protection solutions for customers across the country.\nThe renewed partnership reflects the shared commitment of both organisations to delivering holistic financial solutions that seamlessly combine banking convenience with Life Insurance protection. Through this collaboration, customers will continue to have convenient access to solutions designed to help safeguard their financial futures while supporting their evolving aspirations and life goals.\nOver the years, the partnership has evolved into one of Sri Lanka’s leading bancassurance collaborations, underpinned by a strong focus on customer centricity, innovation, and service excellence. By combining NTB’s branch network, growing digital banking ecosystem and customer reach with Union Assurance’s expertise in Life Insurance, the partnership has enabled thousands of customers to access comprehensive protection, savings, and investment solutions tailored to their individual needs.\nThe renewal marks a significant milestone in the relationship between the two organisations and sets the foundation for the next phase of growth. Together, Union Assurance and Nations Trust Bank will continue to enhance the customer experience through digital innovation, strengthened advisory capabilities, and customer-focused solutions that respond to the changing financial and protection needs of Sri Lankans.\nCommenting on the partnership renewal Hemantha Gunetilleke, Director and Chief Executive Officer at Nations Trust Bank, said, “The renewal of our partnership with Union Assurance reinforces our commitment to providing customers with comprehensive financial solutions through a trusted Life Insurance partner. As customer expectations continue to evolve, the need for integrated banking and protection offerings has become increasingly important. Together with Union Assurance, we look forward to further enhancing our bancassurance proposition and delivering greater value through innovative, customer-centric solutions.”\nSenath Jayatilake, Director and Chief Executive Officer of Union Assurance, said, “Our partnership with Nations Trust Bank has been built on a shared vision of creating meaningful value for customers through seamless access to financial protection solutions. Over the years, this collaboration has consistently delivered strong outcomes by combining the strength of two trusted institutions. As we renew this partnership, we remain committed to driving innovation, expanding accessibility, and helping more Sri Lankans protect what matters most while progressing confidently towards their future goals.”",
+      "word_count": 377,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 47,
+        "Tech": 12
+      },
+      "summary": "Union Assurance PLC and Nations Trust Bank PLC (NTB) have renewed their long-standing exclusive bancassurance partnership, further strengthening an alliance that has played a pivotal role in expanding access to financial protection solutions for customers across the country.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261434.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-12.30.01-PM.jpeg",
+          "alt": "Union Assurance Renews Exclusive Partnership with Nations Trust Bank Strengthening Bancassurance Partnership"
+        }
+      ]
+    },
+    {
+      "id": 261431,
+      "title": "CBSL rates: Sri Lankan rupee depreciates slightly against USD",
+      "url": "https://www.newswire.lk/2026/10/19/cbsl-rates-sri-lankan-rupee-depreciates-slightly-against-usd-4/",
+      "published": "2026-10-19T12:19:54+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "CBSL",
+        "Dollar",
+        "Rupee"
+      ],
+      "text": "The Sri Lankan Rupee has depreciated slightly against the US Dollar today (19), compared to last Friday, with the US Dollar selling rate steady at Rs. 335.\nAccording to the Central Bank of Sri Lanka, the buying rate of the US Dollar has increased from Rs. 326.67 to Rs. 326.89.\nThe selling rate of the US Dollar has also increased from Rs. 335.64 to Rs. 335.95.\nThe rupee has changed slightly against a basket of currencies, including Gulf currencies.",
+      "word_count": 79,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 41,
+        "Tech": 0
+      },
+      "summary": "The Sri Lankan Rupee has depreciated slightly against the US Dollar today (19), compared to last Friday, with the US Dollar selling rate steady at Rs. 335. The rupee has changed slightly against a basket of currencies, including Gulf currencies.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261431.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2021/11/200524052157WBQT-1.jpg",
+          "alt": "CBSL rates: Sri Lankan rupee depreciates slightly against USD"
+        },
+        {
+          "src": "images/2026-10-19/261431-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/CBSL-rates-8.jpg",
+          "alt": "CBSL rates: Sri Lankan rupee depreciates slightly against USD"
+        }
+      ]
+    },
+    {
+      "id": 261427,
+      "title": "Severe lightning alert issued for six provinces and four districts",
+      "url": "https://www.newswire.lk/2026/10/19/severe-lightning-alert-issued-for-six-provinces-and-four-districts/",
+      "published": "2026-10-19T12:10:55+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Lightning",
+        "weather"
+      ],
+      "text": "The Department of Meteorology has issued an advisory for severe lightning in several parts of Sri Lanka, valid until 1.00 a.m. tomorrow (20).\nAccording to the advisory issued at 11.30 a.m. today (19), severe lightning is likely at several places in the Central, Sabaragamuwa, North-central, Eastern, Uva and Southern provinces.\nThe warning also applies to the Kurunegala, Jaffna, Vavuniya and Mullaitivu districts.\nThe Met Department warned that thundershowers accompanied by severe lightning are likely in these areas, while temporary localized strong winds may also occur during thundershowers.\nThe public has been urged to take adequate precautions to minimize damage caused by lightning activity.\nAccordingly, people are advised to seek shelter indoors, avoid open areas such as paddy fields and tea plantations, and stay away from open water bodies during thunderstorms.\nThe Department also advised against using wired telephones, connected electrical appliances and open vehicles such as bicycles, tractors and boats during thunderstorms.\nThe public has been urged to remain cautious of fallen trees and power lines and contact local disaster management authorities in the event of an emergency.",
+      "word_count": 178,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Meteorology has issued an advisory for severe lightning in several parts of Sri Lanka, valid until 1.00 a.m. tomorrow (20). According to the advisory issued at 11.30 a.m. today (19), severe lightning is likely at several places in the Central, Sabaragamuwa, North-central, Eastern, Uva and Southern provinces.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261427.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Lightning-1.jpg",
+          "alt": "Severe lightning alert issued for six provinces and four districts"
+        },
+        {
+          "src": "images/2026-10-19/261427-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Lightning-2.jpg",
+          "alt": "Severe lightning alert issued for six provinces and four districts"
+        }
+      ]
+    },
+    {
+      "id": 261424,
+      "title": "Four killed, several injured in multi-vehicle collision in Akurana",
+      "url": "https://www.newswire.lk/2026/10/19/four-killed-several-injured-in-multi-vehicle-collision-in-akurana/",
+      "published": "2026-10-19T12:02:55+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "At least four people have been killed and several others injured following a major road accident involving multiple vehicles in the Kurugoda area of Akurana along the Kandy-Matale main road.\nThe accident occurred near the 7th kilometre post when a cement lorry collided with several other vehicles.\nSeveral people sustained injuries in the collision, with some reportedly in critical condition.\nSevere traffic congestion has also been reported along the Kandy-Matale main road following the accident, disrupting vehicle movement in the area.\nFurther details regarding the circumstances of the collision are yet to be confirmed.",
+      "word_count": 94,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "At least four people have been killed and several others injured following a major road accident involving multiple vehicles in the Kurugoda area of Akurana along the Kandy-Matale main road. Several people sustained injuries in the collision, with some reportedly in critical condition.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261424.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792391351373.jpg",
+          "alt": "Four killed, several injured in multi-vehicle collision in Akurana"
+        }
+      ]
+    },
+    {
+      "id": 261418,
+      "title": "Army and wildlife officers continue search for missing elephant Agbo",
+      "url": "https://www.newswire.lk/2026/10/19/army-and-wildlife-officers-continue-search-for-missing-elephant-agbo/",
+      "published": "2026-10-19T11:59:23+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Agbo",
+        "Elephant",
+        "Wildlife"
+      ],
+      "text": "Search operations to locate the injured elephant ‘Agbo’ are continuing today (19), with Sri Lanka Army personnel and wildlife officers conducting a joint operation in the Nachchaduwa area.\nAccording to Minister of Environment Dammika Patabendi, a team of 75 personnel, comprising 65 Army personnel and 10 officers from the Department of Wildlife Conservation, has been deployed for the operation.\nThe Army team consists of nine officers and 56 other ranks, while the search resumed this morning with the participation of the Officer-in-Charge of the local Wildlife Beat Office.\nThe Minister stated that several wild elephants have been spotted in the search area, while local residents reported seeing Agbo in the area last afternoon (18).\nHowever, authorities have yet to confirm the elephant’s exact location due to the vast extent of the area being searched.\nMeanwhile, drones are already being used to assist the search, while a special surveillance drone belonging to the Sri Lanka Air Force is expected to be deployed shortly.\nMinister Patabendi stated that the joint operation will continue with the aim of locating Agbo and providing the elephant with urgent medical treatment.",
+      "word_count": 185,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 6,
+        "Finance": 0,
+        "Tech": 6
+      },
+      "summary": "Search operations to locate the injured elephant ‘Agbo’ are continuing today (19), with Sri Lanka Army personnel and wildlife officers conducting a joint operation in the Nachchaduwa area. According to Minister of Environment Dammika Patabendi, a team of 75 personnel, comprising 65 Army personnel and 10 officers from the Department of Wildlife Conservation, has been deployed for the operation.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261418.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Elephant-Agbo-search.jpg",
+          "alt": "Army and wildlife officers continue search for missing elephant Agbo"
+        }
+      ]
+    },
+    {
+      "id": 261415,
+      "title": "Sri Lankan woman gives birth aboard flight from Kuwait to Colombo",
+      "url": "https://www.newswire.lk/2026/10/19/sri-lankan-woman-gives-birth-aboard-flight-from-kuwait-to-colombo/",
+      "published": "2026-10-19T11:52:19+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "baby birth",
+        "Jazeera Airways",
+        "Kuwait"
+      ],
+      "text": "A Sri Lankan woman has given birth to a baby boy aboard a Jazeera Airways flight travelling from Kuwait to Bandaranaike International Airport (BIA) in Katunayake early today (19).\nThe woman, a 30-year-old resident of Trincomalee, had travelled to Kuwait in 2024 for employment as a domestic worker.\nAccording to reports, she experienced labour pains while travelling aboard Jazeera Airways flight J9-551, which departed from Kuwait City Airport at 2.52 a.m. today.\nThe woman subsequently gave birth to a baby boy mid-flight with the assistance of flight attendants, reportedly without any complications.\nIt is also reported that the woman had allegedly concealed her pregnancy from airline officials by wearing tight-fitting denim trousers, as women nearing childbirth are generally subject to air travel restrictions.\nFollowing the delivery, the pilot informed authorities at Bandaranaike International Airport, enabling arrangements to be made for emergency medical assistance upon landing.\nA medical team, including doctors, nurses and ambulance personnel, was stationed near the aircraft to attend to the mother and newborn immediately after arrival.\nThe mother and baby were subsequently transferred to the Negombo General Hospital for further medical care.\nAccording to hospital sources, both the mother and newborn are in good health.",
+      "word_count": 198,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A Sri Lankan woman has given birth to a baby boy aboard a Jazeera Airways flight travelling from Kuwait to Bandaranaike International Airport (BIA) in Katunayake early today (19). The woman subsequently gave birth to a baby boy mid-flight with the assistance of flight attendants, reportedly without any complications.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261415.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Jazeera-Aiways-Baby.jpg",
+          "alt": "Sri Lankan woman gives birth aboard flight from Kuwait to Colombo"
+        }
+      ]
+    },
+    {
+      "id": 261406,
+      "title": "Major accident reported in Akurana, Kandy (Video)",
+      "url": "https://www.newswire.lk/2026/10/19/major-accident-reported-in-akurana-kandy-video/",
+      "published": "2026-10-19T11:35:40+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "At least four people have been killed and several others injured following a major road accident involving multiple vehicles in the Kurugoda area of Akurana along the Kandy-Matale main road.\nThe accident occurred near the 7th kilometre post when a cement lorry collided with several other vehicles.\nSeveral people sustained injuries in the collision, with some reportedly in critical condition.\nSevere traffic congestion has also been reported along the Kandy-Matale main road following the accident, disrupting vehicle movement in the area.\nFurther details regarding the circumstances of the collision are yet to be confirmed.\n⚠️ Viewer discretion advised A major road accident involving several vehicles has been reported in Akurana, Kandy. The extent of injuries and damage is yet to be confirmed. Warning: The following visuals may be disturbing to some viewers. pic.twitter.com/IY38wPNDd6 — NewsWire 🇱🇰 (@NewsWireLK) October 19, 2026\n⚠️ Viewer discretion advised\nA major road accident involving several vehicles has been reported in Akurana, Kandy.\nThe extent of injuries and damage is yet to be confirmed.\nWarning: The following visuals may be disturbing to some viewers. pic.twitter.com/IY38wPNDd6\n— NewsWire 🇱🇰 (@NewsWireLK) October 19, 2026",
+      "word_count": 186,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "At least four people have been killed and several others injured following a major road accident involving multiple vehicles in the Kurugoda area of Akurana along the Kandy-Matale main road. Warning: The following visuals may be disturbing to some viewers. pic.twitter.com/IY38wPNDd6 — NewsWire 🇱🇰 (@NewsWireLK) October 19, 2026\n⚠️ Viewer discretion advised\nA major road accident involving several vehicles has been reported in Akurana, Kandy.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261406.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261019_113456_Editor-Lite.jpg",
+          "alt": "Major accident reported in Akurana, Kandy (Video)"
+        }
+      ]
+    },
+    {
+      "id": 261404,
+      "title": "Browns Hotels & Resorts Triumphs with Gold and Silver Awards at the South Asian Travel Awards 2026",
+      "url": "https://www.newswire.lk/business/browns-hotels-resorts-triumphs-with-gold-and-silver-awards-at-the-south-asian-travel-awards-2026/",
+      "published": "2026-10-19T11:34:01+05:30",
+      "source_categories": [
+        "Bizwire"
+      ],
+      "tags": [],
+      "text": "Browns Hotels & Resorts has secured five prestigious accolades at the South Asian Travel Awards (SATA) 2026, held in the Maldives, earning two Gold and three Silver awards across five properties in its portfolio. The achievement celebrates the group’s diverse hospitality offering, spanning Sri Lanka’s tea heritage, luxury wellness, all-inclusive holidays, beachfront resorts and boutique experiences, strengthening its presence on the international tourism stage.\nLeading the Gold wins, Newburgh Ella – The Tea Factory Resort clinched South Asia’s Best New Hotel , while Ayugiri Ayurveda Wellness Resort secured South Asia’s Leading Wellness Resort .\nAs the newest addition to the Browns Hotels & Resorts portfolio, Newburgh Ella – The Tea Factory Resort, under the leadership of General Manager Gangadara Velasamy, is a former tea factory dating back to 1903, transformed into a contemporary hospitality experience. This significant achievement, places the property among the region’s leading new hospitality offerings and recognises its unique identity in a competitive field of hotels from across Asia.\nIts historic architecture and considered design preserve the character of the original factory while introducing modern comforts. The tea factory tour and immersive tea experiences set Newburgh Ella apart as a one-of-a-kind experience in Asia. The property also operates as a fully paperless hotel, embracing digital solutions across its operations to enhance efficiency and support more sustainable hospitality practices.\nThe experience extends beyond the property into the surrounding landscapes of Ella, with access to renowned attractions and trails, including Ella Rock, Little Adam’s Peak and the Pekoe Trail.\nWinning Gold at the South Asian Travel Awards 2026 as South Asia’s Leading Wellness Resort , Ayugiri Ayurveda Wellness Resort in Sigiriya, led by General Manager Sujeewa de Zoysa, offers a considered approach to luxury wellness. Set across 44 acres in Sigiriya, the resort combines personalised wellbeing with Sri Lanka’s rich cultural heritage and abundant wildlife, including opportunities for elephant spotting.\nGuided by its philosophy, The Art of Living Well , Ayugiri features 22 suites with private plunge pools, including two Presidential Suites. Its wellness experiences include personalised programmes, yoga, meditation, sound healing and treatments at the Ayuwasa Wellness Centre, complemented by the Beheth Oruwa, a traditional medicinal boat, and a resident doctor-led approach to wellbeing.\nThe experience extends to dining, with international gourmet cuisine and authentic local flavours served in memorable settings, from lakeside locations to a rock-top setting, tree hut and a restaurant with the view of the Sigiriya rock.\nAt Club Hotel Dolphin in Negombo, General Manager Manoj Perera and his team clinched South Asia’s Leading All-Inclusive Resort for the third consecutive time, reinforcing the property’s established reputation for energetic, experience-led family holidays, with an extensive range of dining, leisure and entertainment activities for guests of all ages.\nCluster General Manager Rohan Gamage and the team at The Eden Beruwala secured the Silver award for South Asia’s Leading Beach Resort for the second consecutive time. Located along Sri Lanka’s renowned Golden Mile, this five-star beachfront resort combines coastal surroundings with varied dining experiences, including beach dining, alongside a range of watersports and leisure activities.\nLantern Boutique Hotel by Reveal the Collection, part of Browns Hotels & Resorts, clinched the Silver award for South Asia’s Leading Boutique Hotel , celebrating its approach to boutique hospitality. Led by General Manager Sharmen Perera, the property is located in Mirissa and offers an intimate, design-led stay shaped by its coastal surroundings.\nCommenting on the achievement, Eksath Wijeratne, Director/Chief Executive Officer of Browns Hotels & Resorts, said:\n“ What makes this achievement particularly meaningful for Browns Hotels & Resorts is the diversity of the recognition. Each property has its own identity, purpose and guest proposition, yet all share the same commitment to delivering memorable and elevated experiences and showcasing the best of Sri Lankan hospitality. These accolades belong to the people behind every guest experience, whose dedication and passion make the difference every day. We look forward to welcoming more travellers to discover our properties, experience Sri Lanka in different ways and create stories of their own. ”\nEstablished in 2016, the South Asian Travel Awards (SATA) marked its 10th anniversary in 2026, celebrating a decade of recognising outstanding achievement in travel, tourism and hospitality across South Asia.\nAs Browns Hotels & Resorts continues to expand its presence across Sri Lanka, the group remains focused on elevating guest experiences through portfolio growth into new destinations, the remodelling of existing properties, evolving dining concepts and menus, and sustainability-led initiatives.",
+      "word_count": 736,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 16,
+        "Tech": 3
+      },
+      "summary": "Browns Hotels & Resorts has secured five prestigious accolades at the South Asian Travel Awards (SATA) 2026, held in the Maldives, earning two Gold and three Silver awards across five properties in its portfolio.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261404.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/bhr-all-awards.jpg",
+          "alt": "Browns Hotels & Resorts Triumphs with Gold and Silver Awards at the South Asian Travel Awards 2026"
+        },
+        {
+          "src": "images/2026-10-19/261404-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/newburgh-ella.jpg",
+          "alt": "Browns Hotels & Resorts Triumphs with Gold and Silver Awards at the South Asian Travel Awards 2026"
+        }
+      ]
+    },
+    {
+      "id": 261401,
+      "title": "Four arrested in India over attempt to smuggle 137 kg of crystal meth to Sri Lanka",
+      "url": "https://www.newswire.lk/2026/10/19/four-arrested-in-india-over-attempt-to-smuggle-137-kg-of-crystal-meth-to-sri-lanka/",
+      "published": "2026-10-19T11:28:03+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Chrystal Meth",
+        "India",
+        "Tamil Nadu"
+      ],
+      "text": "Indian authorities have seized 137 kg of crystal methamphetamine intended to be smuggled into Sri Lanka through a maritime route, following a major anti-narcotics operation in Tamil Nadu.\nAccording to India’s Ministry of Finance, the Directorate of Revenue Intelligence (DRI) intercepted the consignment in a coastal village in Nagapattinam district during an intelligence-led operation conducted on October 16 and 17.\nInvestigations revealed that the narcotics were intended to be smuggled to Sri Lanka through a mid-sea transfer, with the estimated value of the seized drugs exceeding Indian Rs. 100 crore in the illegal drug market.\nThe operation was launched following specific intelligence that a large consignment of narcotics had been transported to a coastal location in Nagapattinam for storage and subsequent smuggling to Sri Lanka.\nDuring the search, DRI officers recovered six duffel bags containing 27 silver-foil packets, each weighing approximately 5 kg. The packets contained a white crystalline substance suspected to be high-purity methamphetamine.\nMeanwhile, a simultaneous search at the premises of the suspected organiser resulted in the seizure of Indian Rs. 10 lakh in cash, believed to be proceeds from drug sales.\nAuthorities also seized two four-wheel vehicles and a motorcycle suspected of being used to transport the narcotics.\nFour individuals linked to the suspected drug trafficking network were arrested under India’s Narcotic Drugs and Psychotropic Substances (NDPS) Act, 1985, and remanded to judicial custody.\nAccording to the Indian Ministry of Finance, the operation uncovered a network allegedly involved in organising the coastal smuggling, transportation, storage and logistics of the narcotics consignment.\nThe Ministry stated that the seizure was among the largest narcotics recoveries in Tamil Nadu’s coastal region in recent years and highlighted ongoing efforts to prevent India’s coastline from being used for international drug trafficking.",
+      "word_count": 289,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 9,
+        "Tech": 0
+      },
+      "summary": "Indian authorities have seized 137 kg of crystal methamphetamine intended to be smuggled into Sri Lanka through a maritime route, following a major anti-narcotics operation in Tamil Nadu. Four individuals linked to the suspected drug trafficking network were arrested under India’s Narcotic Drugs and Psychotropic Substances (NDPS) Act, 1985, and remanded to judicial custody.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261401.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/India-ICE.jpg",
+          "alt": "Four arrested in India over attempt to smuggle 137 kg of crystal meth to Sri Lanka"
+        }
+      ]
+    },
+    {
+      "id": 261399,
+      "title": "Five more arrested in connection with shooting of Tusker ‘Kawantissa’",
+      "url": "https://www.newswire.lk/2026/10/19/five-more-arrested-in-connection-with-shooting-of-tusker-kawantissa/",
+      "published": "2026-10-19T11:24:46+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Kavantissa"
+      ],
+      "text": "Five more suspects have been arrested during a joint operation conducted by wildlife authorities and Police in connection with the shooting of the late Sri Lankan Tusker ‘Kavantissa’.\nAccording to the Government Information Department, the arrests were made during a special search operation carried out by the Department of Wildlife Conservation, the Panadura Walana Central Anti-Corruption Task Force and Police.\nInvestigations have revealed that the main suspect who was initially arrested in connection with the incident has been identified as being directly involved in the shooting of the elephant.\nMeanwhile, the five newly arrested suspects are believed to be linked to other illegal activities carried out in the area.\nWildlife officials and Galgamuwa Police are currently questioning the suspects as part of ongoing investigations.\nAuthorities have also expanded investigations to identify the firearms used in the shooting and determine whether an organised illegal wildlife trafficking network had been operating in the area.",
+      "word_count": 152,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 1,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Five more suspects have been arrested during a joint operation conducted by wildlife authorities and Police in connection with the shooting of the late Sri Lankan Tusker ‘Kavantissa’. Investigations have revealed that the main suspect who was initially arrested in connection with the incident has been identified as being directly involved in the shooting of the elephant.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261399.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Kawanthissa-Tusker.jpg",
+          "alt": "Five more arrested in connection with shooting of Tusker ‘Kawantissa’"
+        }
+      ]
+    },
+    {
+      "id": 261393,
+      "title": "SriLankan Airlines warns public of fake mobile app scam",
+      "url": "https://www.newswire.lk/2026/10/19/srilankan-airlines-warns-public-of-fake-mobile-app-scam/",
+      "published": "2026-10-19T11:22:19+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "mobile",
+        "scam",
+        "SriLankan Airlines"
+      ],
+      "text": "SriLankan Airlines has issued a warning to passengers over fraudulent mobile applications impersonating the airline, urging the public to avoid downloading apps from unofficial sources.\nIn a public advisory, the national carrier warned passengers against downloading mobile applications through unofficial websites, social media links, messaging platforms or third-party app stores.\nSriLankan Airlines clarified that it never requests customers to download mobile applications through links shared via WhatsApp, SMS, email or social media messages.\nThe airline further emphasised that it never requests One-Time Passwords (OTPs), banking PINs, credit card details or other financial information.\nPassengers have been advised that the official SriLankan Airlines mobile application is available only through the Apple App Store and Google Play Store.\nThe airline also urged users to verify that the publisher is listed as SriLankan Airlines Limited before downloading or updating the application.\nSriLankan Airlines stated that all official promotions, offers and digital services are available only through its official website, www.srilankan.com, mobile application and verified social media accounts.\nPassengers who come across suspicious applications claiming to represent the airline have been advised not to install them or provide personal or payment information, and to report such applications immediately through the airline’s official channels.",
+      "word_count": 199,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 6,
+        "Tech": 22
+      },
+      "summary": "SriLankan Airlines has issued a warning to passengers over fraudulent mobile applications impersonating the airline, urging the public to avoid downloading apps from unofficial sources. Passengers have been advised that the official SriLankan Airlines mobile application is available only through the Apple App Store and Google Play Store.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261393.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Srilankan-scam.jpg",
+          "alt": "SriLankan Airlines warns public of fake mobile app scam"
+        },
+        {
+          "src": "images/2026-10-19/261393-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/SriLankan-scam-1.jpg",
+          "alt": "SriLankan Airlines warns public of fake mobile app scam"
+        },
+        {
+          "src": "images/2026-10-19/261393-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/SriLankan-scam-2.jpg",
+          "alt": "SriLankan Airlines warns public of fake mobile app scam"
+        },
+        {
+          "src": "images/2026-10-19/261393-4.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/SriLankan-scam-3.jpg",
+          "alt": "SriLankan Airlines warns public of fake mobile app scam"
+        }
+      ]
+    },
+    {
+      "id": 261391,
+      "title": "Dollar rate today: Sri Lankan Rupee depreciates slightly against USD",
+      "url": "https://www.newswire.lk/2026/10/19/dollar-rate-today-sri-lankan-rupee-depreciates-slightly-against-usd-3/",
+      "published": "2026-10-19T10:55:01+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "bank",
+        "Dollar",
+        "Rupee"
+      ],
+      "text": "The Sri Lankan Rupee has depreciated slightly against the US Dollar across commercial banks in Sri Lanka today (19), compared to last Friday, with the selling rate steady at Rs. 335.\nAccording to Seylan Bank, the buying rate of the US Dollar remains unchanged at Rs. 326.95, while the selling rate is also unchanged at Rs. 336.20.\nAt NDB Bank, the buying rate has increased from Rs. 326.60 to Rs. 326.75, while the selling rate has also increased from Rs. 335.60 to Rs. 335.75.\nPeople’s Bank reports that the buying rate has increased from Rs. 327.07 to Rs. 327.36, while the selling rate has also increased from Rs. 335.18 to Rs. 335.48.\nAt Commercial Bank, the buying rate has increased from Rs. 325.09 to Rs. 325.33, while the selling rate has also increased from Rs. 335.00 to Rs. 335.25.\nAt Sampath Bank, the buying rate of the US Dollar has increased from Rs. 327.00 to Rs. 327.50, while the selling rate has also increased from Rs. 335.00 to Rs. 335.50.",
+      "word_count": 170,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 38,
+        "Tech": 0
+      },
+      "summary": "The Sri Lankan Rupee has depreciated slightly against the US Dollar across commercial banks in Sri Lanka today (19), compared to last Friday, with the selling rate steady at Rs. 335. At Sampath Bank, the buying rate of the US Dollar has increased from Rs. 327.00 to Rs. 327.50, while the selling rate has also increased from Rs. 335.00 to Rs. 335.50.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261391.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2023/08/Dollar-Rupee.jpg",
+          "alt": "Dollar rate today: Sri Lankan Rupee depreciates slightly against USD"
+        }
+      ]
+    },
+    {
+      "id": 261388,
+      "title": "The Fear of Knowing: Why Millions of Sri Lankans are Ignoring Diabetes Until It’s Too Late",
+      "url": "https://www.newswire.lk/2026/10/19/the-fear-of-knowing-why-millions-of-sri-lankans-are-ignoring-diabetes-until-its-too-late/",
+      "published": "2026-10-19T10:34:35+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Channa Wijewardena",
+        "sugar level"
+      ],
+      "text": "When legendary choreographer Kalasuri Channa Wijewardena recently took to screens showing off his trademark energy and fluid movement, it was a striking reminder of what active, vibrant aging looks like. Yet, behind his display of vitality lies a darker national health crisis – one that millions of Sri Lankans are actively choosing to ignore out of fear, denial, and deep-seated cultural misconceptions.\nThe recent Diabetasol campaign featuring Channa Wijewardena addresses a reality that hits far closer to home than most would like to admit. Beneath the surface of daily life, an alarmingly high number of Sri Lankans are living with unmanaged blood sugar levels, too afraid to test, or willfully ignoring a diagnosis they received years ago.\nThe Shocking Reality in Numbers and the Growing Threat to Youth\nAccording to recent findings from the Sri Lanka Health and Ageing Study (SLHAS 2018 -19 data published in 2025) alongside WHO national data, nearly 50% of Sri Lankan adults – half the adult population – are living with some form of altered blood sugar regulation. What makes this statistic truly alarming is the invisible nature of the epidemic: more than 4 in 10 Sri Lankan adults (41.4%) with diabetes do not even know they have the condition. They walk among us every day, feeling relatively healthy, while silent vascular and metabolic damage accumulates unnoticed.\nThe gap between diagnosis and actual care remains equally staggering. Among Sri Lankan adults aged 30 and above who suffer from diabetes, 41% – representing approximately 2.4 million individuals – receive no medical treatment whatsoever. Even among those who do seek medical advice, there exists a widespread illusion of control. A shocking 67% of diagnosed individuals fail to keep their blood sugar levels within standard recommended targets. For most, diabetes management has devolved into a single routine blood test followed by years of neglect, taking a prescribed pill without ever tracking long-term control.\nThis pervasive indifference and avoidance have exacted a heavy toll. Over the last two decades, diabetes prevalence in Sri Lanka has more than doubled – rising from 10.3% in 2005 – 06 to over 22% in recent national surveys. Consequently, between 2000 and 2019, premature deaths attributed to diabetes in Sri Lanka surged by 100%, turning a manageable lifestyle condition into a silent killer.\nEqually concerning is the shifting demographic of the disease. Diabetes is no longer confined to older adults. Over the past twenty years, Sri Lanka has seen a steep rise in both Type 1 and young-onset Type 2 diabetes among adolescents and young adults. The median age of diagnosis for young-onset diabetes has dropped to just 15 years old. Sedentary modern lifestyles, shifting dietary habits, and high-carbohydrate diets are placing school-going children and young professionals at risk long before they reach middle age – making early family-wide awareness more urgent than ever.\nPsychological Barriers: Why Sri Lankans Avoid Testing\nThe primary driver behind this crisis isn’t a lack of access to healthcare facilities; it is a deep-rooted psychological barrier – the fear of confirmation. In Sri Lankan culture, diabetes is widely misperceived not as a manageable medical condition, but as an irreversible “death sentence” that marks the end of an active, fulfilling life. This fear drives people to ignore subtle warning signs like chronic fatigue or blurred vision until severe complications set in.\nSocial alienation at the family dining table also plays a significant role. In a culture where sharing meals is the cornerstone of family life, being diagnosed with diabetes carries a social stigma. Many fear being labeled as “sick,” being forced to eat separate meals, or becoming an emotional and financial burden on their caregivers. Furthermore, the prevalent myth that diabetes management requires an immediate, radical elimination of all sugars and carbohydrates overnight creates an “all-or-nothing” mindset. Overwhelmed by the prospect of extreme dietary restriction, most individuals choose not to take even the smallest preventative step.\nTaking Control Back: Management, Not Restriction\nChanna Wijewardena’s journey demonstrates that a diabetes diagnosis does not mean surrendering your passion, career, or active rhythm. Managing blood sugar is not about living like an invalid or giving up the joy of food; it is about adopting balanced nutrition, targeted specialized nutritional support, and consistent lifestyle discipline.\nManaging diabetes is not just about restricting what you eat, it’s about making smarter food choices. Today, we know more than ever about how the right foods can help support better blood sugar management while providing the nutrition and energy needed to stay active and engaged in life.\nHowever, the restrictions people place on themselves can sometimes mean they miss out on essential nourishment, leaving them feeling weak, tired, or depleted. This is why even nutritional drinks and supplements should be chosen carefully. People with diabetes should look for products specifically formulated for their needs, such as specialized nutritional supplements like Diabetasol, and check for the Low GI (Glycemic Index) symbol, which indicates a lower impact on blood sugar levels.\nIgnoring the warning signs out of fear does not protect your health – it merely hands control over to the disease. With more diabetes-friendly choices becoming available, managing the condition can be about making better choices rather than giving up the life you enjoy. By choosing early screening, embracing proper medical guidance, and adopting specialized nutritional care, Sri Lankans can reclaim their vitality, safeguard their families, and keep their life’s rhythm going strong for years to come.",
+      "word_count": 898,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 1,
+        "Finance": 2,
+        "Tech": 0
+      },
+      "summary": "When legendary choreographer Kalasuri Channa Wijewardena recently took to screens showing off his trademark energy and fluid movement, it was a striking reminder of what active, vibrant aging looks like. Yet, behind his display of vitality lies a darker national health crisis – one that millions of Sri Lankans are actively choosing to ignore out of fear, denial, and deep-seated cultural misconceptions.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261388.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Kalasuri-Channa-Wijewardena-sugar.jpg",
+          "alt": "The Fear of Knowing: Why Millions of Sri Lankans are Ignoring Diabetes Until It’s Too Late"
+        }
+      ]
+    },
+    {
+      "id": 261384,
+      "title": "Sri Lanka’s first insulin manufacturing factory to begin production in 2027",
+      "url": "https://www.newswire.lk/2026/10/19/sri-lankas-first-insulin-manufacturing-factory-to-begin-production-in-2027/",
+      "published": "2026-10-19T10:11:33+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "insulin manufacturing factory",
+        "Nalinda Jayatissa"
+      ],
+      "text": "Sri Lanka’s first insulin manufacturing factory, established at an investment of over Rs. 3 billion, is expected to commence production in 2027, according to the Ministry of Health.\nThe factory, operated by Premium International Injectable (Pvt) Ltd, is located at the Koggala Export Processing Zone in Galle.\nAccording to the Ministry, construction of the facility has been completed, with production scheduled to begin next year following the completion of the required validation process.\nIn addition to insulin, the factory plans to manufacture anaesthetic drugs, painkillers and other pharmaceutical products, with plans to eventually expand production to 33 types of medicines.\nMinister of Health and Mass Media Dr. Nalinda Jayatissa, who inspected the facility on October 17, said reducing dependence on pharmaceutical imports and strengthening local production would be key government priorities over the next decade.\nThe Minister revealed that Sri Lanka currently imports around 85–90 percent of the medicines required for its hospital system, while locally manufactured medicines account for only 10–15 percent.\nHe further stated that the government has managed to fulfil approximately 96 percent of the pharmaceutical supply requirements of hospitals, although procurement difficulties remain for 37 types of medicines due to a lack of suppliers.\nThe Minister noted that expanding local pharmaceutical manufacturing would help save foreign exchange spent on imports while creating opportunities to generate export revenue.\nHe also revealed that discussions are underway to supply medicines to the Maldives through the State Pharmaceuticals Manufacturing Corporation (SPMC), while requests have been received from other countries, including Timor-Leste.\nThe new insulin manufacturing facility is being established as a joint venture with the SPMC, with a 15-year pharmaceutical supply agreement already in place.\nAccording to the Ministry, the company also intends to export its products after meeting domestic demand.",
+      "word_count": 291,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 11,
+        "Finance": 21,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka’s first insulin manufacturing factory, established at an investment of over Rs. 3 billion, is expected to commence production in 2027, according to the Ministry of Health. In addition to insulin, the factory plans to manufacture anaesthetic drugs, painkillers and other pharmaceutical products, with plans to eventually expand production to 33 types of medicines.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261384.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Nalinda-Insulin-factory.jpg",
+          "alt": "Sri Lanka’s first insulin manufacturing factory to begin production in 2027"
+        }
+      ]
+    },
+    {
+      "id": 261381,
+      "title": "Sajith raises concerns over possible HSBC Global Service Centre exit from Sri Lanka",
+      "url": "https://www.newswire.lk/2026/10/19/sajith-raises-concerns-over-possible-hsbc-global-service-centre-exit-from-sri-lanka/",
+      "published": "2026-10-19T10:08:30+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "Sajith Premadasa"
+      ],
+      "text": "Opposition Leader Sajith Premadasa has raised concerns over reports that the HSBC Global Service Centre may relocate its operations from Sri Lanka to the Philippines, warning that such a move could result in significant job losses and an economic setback for the country.\nIn a statement on ‘X’, Premadasa said he had received information suggesting that the HSBC Global Service Centre may withdraw from Sri Lanka by December 2027, potentially resulting in the loss of 3,000 direct jobs and 500 indirect jobs.\nHowever, the Opposition Leader expressed hope that the information was inaccurate, warning that such a withdrawal, if confirmed, would have serious consequences for Sri Lanka’s economy.\nQuestioning the country’s investment climate, Premadasa said Sri Lanka should be attracting substantial foreign direct investment (FDI) rather than witnessing the withdrawal of major foreign investors.\nHis remarks come amid the withdrawal of China Merchants Port Holdings from a proposed US$ 392 million logistics hub project at the Port of Colombo.\nThe Chinese port operator confirmed the termination of the South Asia Commercial and Logistics Hub (SACLH) project in a filing to the Hong Kong Stock Exchange on October 15, 2026.\nThe project, which was expected to become one of South Asia’s largest logistics complexes, was planned under a 50-year build-operate-transfer arrangement.\nChina Merchants Port held a 70% stake in the project through its subsidiary, Fortune Centre Group Limited, while the Sri Lanka Ports Authority (SLPA) and Access Engineering PLC each held 15%.\nAccording to the filing, the project was cancelled due to changes in external circumstances, implementation challenges and commercial considerations.\nFollowing the cancellation, the SLPA agreed to pay US$ 21.905 million to the project company as part of a settlement agreement.\nThe proposed five-storey logistics complex had received Strategic Development Project status in December 2023, with several tax concessions granted to support the investment.\nHowever, the project faced implementation delays, as well as reported land and regulatory issues, preventing it from progressing as planned.\nThe SLPA is expected to seek fresh investment proposals for the land following the cancellation of the project.",
+      "word_count": 342,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 27,
+        "Finance": 26,
+        "Tech": 0
+      },
+      "summary": "Opposition Leader Sajith Premadasa has raised concerns over reports that the HSBC Global Service Centre may relocate its operations from Sri Lanka to the Philippines, warning that such a move could result in significant job losses and an economic setback for the country.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261381.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Sajith-Port-City-HSBC.jpg",
+          "alt": "Sajith raises concerns over possible HSBC Global Service Centre exit from Sri Lanka"
+        }
+      ]
+    },
+    {
+      "id": 261379,
+      "title": "Sri Lanka earns over US$ 2.2 Bn in tourism revenue in first nine months of 2026",
+      "url": "https://www.newswire.lk/2026/10/19/sri-lanka-earns-over-us-2-2-bn-in-tourism-revenue-in-first-nine-months-of-2026/",
+      "published": "2026-10-19T10:05:22+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Tourism"
+      ],
+      "text": "Sri Lanka has earned more than US$ 2,000 million in tourism revenue during the nine-month period from January to September 2026, according to the Central Bank of Sri Lanka (CBSL).\nThe latest Central Bank data shows that the country generated a total of US$ 2,245.2 million in tourism revenue during the period, compared to US$ 2,472.9 million recorded during the corresponding period in 2025, reflecting a decline of 9.2%.\nA total of 1,693,679 tourists visited Sri Lanka during the first nine months of 2026, representing a 1.8% decrease compared to the same period last year.\nMeanwhile, tourism revenue in September reached US$ 185.6 million, marking a 1.5% increase compared to US$ 182.9 million recorded in September 2025.\nThis marked the second consecutive month of year-on-year growth in tourism earnings, following a 2.1% increase recorded in August, when revenue reached US$ 264.4 million.\nHowever, tourist arrivals declined by 0.3% in September, despite the increase in tourism earnings.\nThe tourism sector has also faced challenges due to geopolitical tensions in the Middle East, while revisions to tourism expenditure estimates have complicated comparisons with previous years.\nMeanwhile, the government revised its tourism targets for 2026 in August, increasing the annual tourist arrivals target from 2.5 million to 2.7 million and the revenue target from US$ 3.5 billion to US$ 4.2 billion.\nWith US$ 2.24 billion earned by the end of September, Sri Lanka will need to generate approximately US$ 1.96 billion during the final three months of the year to achieve its annual tourism revenue target.\nThis would require average monthly earnings of approximately US$ 653 million between October and December.\nIn comparison, Sri Lanka recorded US$ 3.22 billion in tourism revenue in 2025, with a record 2.36 million tourist arrivals.",
+      "word_count": 288,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 4,
+        "Finance": 44,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka has earned more than US$ 2,000 million in tourism revenue during the nine-month period from January to September 2026, according to the Central Bank of Sri Lanka (CBSL).",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261379.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/04/Tourists.jpg",
+          "alt": "Sri Lanka earns over US$ 2.2 Bn in tourism revenue in first nine months of 2026"
+        }
+      ]
+    },
+    {
+      "id": 261376,
+      "title": "Navy arrests 55 suspects over illegal fishing and suspected drug smuggling",
+      "url": "https://www.newswire.lk/2026/10/19/navy-arrests-55-suspects-over-illegal-fishing-and-suspected-drug-smuggling/",
+      "published": "2026-10-19T10:01:55+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "illegal fishing",
+        "Navy"
+      ],
+      "text": "The Sri Lanka Navy has apprehended 55 individuals in connection with illegal fishing activities and suspected narcotics smuggling during operations conducted in several coastal areas this month.\nAccording to the Navy, 50 individuals were apprehended for engaging in illegal fishing during operations conducted between October 2 and 17, 2026.\nThe operations also resulted in the seizure of 33 dinghies, one canoe and unauthorised fishing equipment.\nThe operations were carried out by the Eastern, Northern and Northwestern Naval Commands in several coastal areas of Trincomalee, Jaffna and Puttalam.\nThe arrested individuals, seized fishing vessels and unauthorised fishing equipment were handed over to officials of the Department of Fisheries and Aquatic Resources for further legal action.\nMeanwhile, five suspects were apprehended along with a multi-day fishing trawler during a separate naval operation conducted in the southern seas on October 13, on suspicion of narcotics smuggling.\nThe Navy stated that the five suspects and the seized trawler were handed over to the Police Narcotics Bureau (PNB) for further investigations and legal action.",
+      "word_count": 169,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Sri Lanka Navy has apprehended 55 individuals in connection with illegal fishing activities and suspected narcotics smuggling during operations conducted in several coastal areas this month. According to the Navy, 50 individuals were apprehended for engaging in illegal fishing during operations conducted between October 2 and 17, 2026.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261376.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/illegal-fishing.jpg",
+          "alt": "Navy arrests 55 suspects over illegal fishing and suspected drug smuggling"
+        }
+      ]
+    },
+    {
+      "id": 261371,
+      "title": "Sri Lanka promotes ready-to-invest projects at Malaysia investment expo",
+      "url": "https://www.newswire.lk/2026/10/19/sri-lanka-promotes-ready-to-invest-projects-at-malaysia-investment-expo/",
+      "published": "2026-10-19T09:33:40+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Expo",
+        "Malaysia"
+      ],
+      "text": "Sri Lanka has showcased investment opportunities in several key sectors, including energy, tourism, technology and manufacturing, at the 6th Selangor Investment & Industrial Park Expo (SPARK 2026) in Malaysia, as part of efforts to attract foreign direct investment (FDI).\nAccording to the Sri Lankan High Commission in Malaysia, the event was held at the Kuala Lumpur Convention Centre from October 14 to 17, bringing together more than 1,000 participants, including investors, business leaders and industry representatives.\nThe Sri Lankan High Commission, with the support of the Board of Investment (BOI), presented a portfolio of Ready-To-Invest (RTI) projects targeting Malaysian investors.\nThe investment opportunities covered energy, tourism and leisure, ICT and technology parks, manufacturing, agriculture, shipping and logistics, and real estate.\nThe inauguration of Sri Lanka’s presentation on October 14 was attended by the Crown Prince of Selangor, Tengku Amir Shah, who joined Sri Lankan High Commissioner to Malaysia Dharshana M. Perera for the ribbon-cutting ceremony and traditional lighting of the oil lamp.\nSri Lanka also used the event to promote Expo 2027, aiming to raise awareness and encourage international participation.\nThe High Commission stated that Sri Lanka’s participation in SPARK 2026 was part of its broader economic diplomacy efforts to strengthen bilateral economic cooperation with Malaysia, attract foreign investment and establish new business partnerships.",
+      "word_count": 214,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 5,
+        "Finance": 39,
+        "Tech": 9
+      },
+      "summary": "Sri Lanka has showcased investment opportunities in several key sectors, including energy, tourism, technology and manufacturing, at the 6th Selangor Investment & Industrial Park Expo (SPARK 2026) in Malaysia, as part of efforts to attract foreign direct investment (FDI). The Sri Lankan High Commission, with the support of the Board of Investment (BOI), presented a portfolio of Ready-To-Invest (RTI) projects targeting Malaysian investors.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261371.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/SL-Malaysia-Expo.jpg",
+          "alt": "Sri Lanka promotes ready-to-invest projects at Malaysia investment expo"
+        }
+      ]
+    },
+    {
+      "id": 261363,
+      "title": "Harshana Rajakaruna denies links to firearms suspect, warns of legal action",
+      "url": "https://www.newswire.lk/2026/10/19/harshana-rajakaruna-denies-links-to-firearms-suspect-warns-of-legal-action/",
+      "published": "2026-10-19T09:16:05+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Harshana Rajakaruna"
+      ],
+      "text": "Opposition MP Harshana Rajakaruna has condemned media reports suggesting a connection between him and an individual arrested with firearms by the Colombo Crimes Division (CCD), clarifying that he has no involvement in the incident.\nIn a statement issued on Sunday (18), the Gampaha District MP said several media outlets, including a social media account belonging to a government-affiliated newspaper organisation, had published reports implying a connection between him and the arrested suspect.\nClarifying the matter, Rajakaruna said he is the only son in a family with three sisters and does not have any brothers.\nHe questioned whether an offence committed by an individual bearing a particular surname should be attributed to everyone sharing that surname.\nThe MP further stated that, despite serving in Parliament for 11 years, he had never obtained the firearm provided to MPs. He added that his late father, Sarath Chandra Rajakaruna, had also never possessed a firearm.\nRajakaruna alleged that certain media institutions had deliberately linked his name to an incident with which he had no connection, in an attempt to politically damage his reputation.\nHe said he had instructed his lawyers to consider legal action against the media institutions responsible for publishing the reports.\nThe Opposition MP also accused the National People’s Power (NPP) government of engaging in such activities to divert public attention from mounting social pressure and criticism of the government.",
+      "word_count": 228,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 26,
+        "Finance": 0,
+        "Tech": 1
+      },
+      "summary": "Opposition MP Harshana Rajakaruna has condemned media reports suggesting a connection between him and an individual arrested with firearms by the Colombo Crimes Division (CCD), clarifying that he has no involvement in the incident.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261363.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Harshana-Rajakaruna-1.jpg",
+          "alt": "Harshana Rajakaruna denies links to firearms suspect, warns of legal action"
+        },
+        {
+          "src": "images/2026-10-19/261363-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Harshana-Rajakaruna-letter.jpg",
+          "alt": "Harshana Rajakaruna denies links to firearms suspect, warns of legal action"
+        }
+      ]
+    },
+    {
+      "id": 261361,
+      "title": "Heavy rain exceeding 75 mm forecast for several parts of Sri Lanka",
+      "url": "https://www.newswire.lk/2026/10/19/heavy-rain-exceeding-75-mm-forecast-for-several-parts-of-sri-lanka/",
+      "published": "2026-10-19T08:19:53+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Heavy showers exceeding 75 mm are forecast in parts of Western, Sabaragamuwa, Central and Uva provinces, as well as Kurunegala, Polonnaruwa, Trincomalee and Mullaitivu districts on Monday (October 19).\nThe Department of Meteorology says showers or thundershowers are expected across most parts of Sri Lanka after 1 p.m.\nThe public is advised to take precautions against strong winds and lightning during thundershowers.",
+      "word_count": 62,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Heavy showers exceeding 75 mm are forecast in parts of Western, Sabaragamuwa, Central and Uva provinces, as well as Kurunegala, Polonnaruwa, Trincomalee and Mullaitivu districts on Monday (October 19). The Department of Meteorology says showers or thundershowers are expected across most parts of Sri Lanka after 1 p.m.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261361.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG_3606.jpeg",
+          "alt": "Heavy rain exceeding 75 mm forecast for several parts of Sri Lanka"
+        }
+      ]
+    },
+    {
+      "id": 261357,
+      "title": "Could tattoos and long hair land you in jail? Saliya Pieris raises alarm over new Bill",
+      "url": "https://www.newswire.lk/2026/10/18/could-tattoos-and-long-hair-land-you-in-jail-saliya-pieris-raises-alarm-over-new-bill/",
+      "published": "2026-10-18T23:30:33+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Former Bar Association of Sri Lanka (BASL) President, President’s Counsel Saliya Pieris, has raised serious concerns over the government’s proposed Organised Crimes Bill, warning that it could undermine promised reforms to Sri Lanka’s anti-terrorism laws and enable arbitrary arrests, prolonged detention and police abuse.\nIn a statement, Pieris questioned whether the government was attempting to reassure the European Union and the international community about human rights reforms while introducing similar controversial provisions through separate legislation.\nHe noted that successive Sri Lankan governments had pledged to reform or abolish the Prevention of Terrorism Act (PTA), partly to maintain the European Union’s GSP+ trade concessions, which are considered important to the country’s economy.\nPieris said the proposed Protection of the State from Terrorism Act (PSTA), presented as a replacement for the PTA, would remove provisions allowing confessions made to senior police officers to be admitted as evidence in court.\nHe argued that the use of such confessions under the PTA had contributed to a culture of torture and abuse within the police and security apparatus.\nHowever, Pieris alleged that the government’s separately proposed Organised Crimes Bill would reintroduce similar provisions by allowing confessions made to police officers of the rank of Assistant Superintendent of Police (ASP) and above to be used as evidence against accused persons.\nHe also raised concerns about provisions relating to bail and detention.\nAccording to Pieris, the proposed legislation would permit suspects to obtain bail only from the High Court, while magistrates would be required to remand arrested individuals even where there was insufficient evidence against them.\nAnother provision highlighted by Pieris would allow courts to consider a person’s hairstyle, tattoos or clothing when determining whether the individual belongs to an organised criminal group.\nHe warned that such provisions could expose individuals to arbitrary arrests and prolonged detention based on their appearance.\nPieris further cautioned that police could use the proposed Organised Crimes Act instead of the PSTA to record confessions and detain suspects, effectively continuing practices that anti-terrorism reforms were intended to eliminate.\nHe questioned whether introducing such legislation while promising reforms under the PSTA would satisfy the European Union’s human rights expectations.\n“Can this type of manipulation successfully dupe the EU and the international community to answer human rights questions and secure GSP+?” Pieris questioned.\nHis remarks raise concerns over whether the government’s proposed legal reforms would strengthen fundamental rights protections or allow controversial powers currently associated with the PTA to continue under different legislation.",
+      "word_count": 409,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 14,
+        "Finance": 5,
+        "Tech": 0
+      },
+      "summary": "Former Bar Association of Sri Lanka (BASL) President, President’s Counsel Saliya Pieris, has raised serious concerns over the government’s proposed Organised Crimes Bill, warning that it could undermine promised reforms to Sri Lanka’s anti-terrorism laws and enable arbitrary arrests, prolonged detention and police abuse.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261357.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_232828_ChatGPT.jpg",
+          "alt": "Could tattoos and long hair land you in jail? Saliya Pieris raises alarm over new Bill"
+        }
+      ]
+    },
+    {
+      "id": 261353,
+      "title": "Bollywood actor Tiger Shroff escapes assassination attempt in Mumbai",
+      "url": "https://www.newswire.lk/2026/10/18/bollywood-actor-tiger-shroff-escapes-assassination-attempt-in-mumbai/",
+      "published": "2026-10-18T22:53:13+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Bollywood actor Tiger Shroff narrowly escaped a shooting attack in Mumbai on Sunday (October 18), after unidentified gunmen opened fire at his vehicle in the Juhu area.\nAccording to Indian media reports, the incident occurred near Pushpa Park shortly after the actor had finished playing football and was preparing to leave the venue.\nThree unidentified men reportedly opened fire at Shroff’s vehicle while a crowd of fans had gathered nearby.\nAlthough the actor escaped unharmed, his driver and an autorickshaw driver sustained injuries during the shooting. The injured were taken to hospital for treatment.\nMumbai Police confirmed that Shroff was safe and had not sustained any gunshot injuries.\nDeputy Commissioner of Police Mohit Garg said the incident was reported within the jurisdiction of the Juhu Police Station and that an investigation was underway.\nMeanwhile, the Lawrence Bishnoi gang has reportedly claimed responsibility for the shooting through a message circulated on social media.\nHowever, police have not officially confirmed the gang’s involvement or established the motive behind the attack.\nMaharashtra Minister Ashish Shelar condemned the incident and said he had discussed the matter with Mumbai Police Commissioner Deven Bharti.\nPolice are examining CCTV footage and attempting to identify the attackers, who fled the scene following the shooting.\nThe incident has raised fresh concerns over the security of Bollywood celebrities in Mumbai. (Newswire)\nBollywood actor Tiger Shroff narrowly escaped a shooting attack in Mumbai’s Juhu area on Sunday (October 18). According to Indian media reports, unidentified gunmen opened fire near the actor shortly after he finished playing football. Shroff escaped unharmed, while his driver… pic.twitter.com/mX7WzhFoqo — NewsWire 🇱🇰 (@NewsWireLK) October 18, 2026\nBollywood actor Tiger Shroff narrowly escaped a shooting attack in Mumbai’s Juhu area on Sunday (October 18).\nAccording to Indian media reports, unidentified gunmen opened fire near the actor shortly after he finished playing football. Shroff escaped unharmed, while his driver… pic.twitter.com/mX7WzhFoqo\n— NewsWire 🇱🇰 (@NewsWireLK) October 18, 2026\nA new video shows two men clearly standing and shooting directly towards Tiger Shroff through the windshield and the side window, just as he is being driven in his BMW sedan from a football ground, in an assassination attempt that he survived without injury in Juhu, Mumbai, on… pic.twitter.com/aQAuWk8KEm — NDTV (@ndtv) October 18, 2026\nA new video shows two men clearly standing and shooting directly towards Tiger Shroff through the windshield and the side window, just as he is being driven in his BMW sedan from a football ground, in an assassination attempt that he survived without injury in Juhu, Mumbai, on… pic.twitter.com/aQAuWk8KEm\n— NDTV (@ndtv) October 18, 2026",
+      "word_count": 429,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 2,
+        "Finance": 0,
+        "Tech": 1
+      },
+      "summary": "Bollywood actor Tiger Shroff narrowly escaped a shooting attack in Mumbai on Sunday (October 18), after unidentified gunmen opened fire at his vehicle in the Juhu area. Shroff escaped unharmed, while his driver… pic.twitter.com/mX7WzhFoqo — NewsWire 🇱🇰 (@NewsWireLK) October 18, 2026\nBollywood actor Tiger Shroff narrowly escaped a shooting attack in Mumbai’s Juhu area on Sunday (October 18).",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261353.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/HU7dJ2_aMAAmMT9.png",
+          "alt": "Bollywood actor Tiger Shroff escapes assassination attempt in Mumbai"
+        }
+      ]
+    },
+    {
+      "id": 261350,
+      "title": "Five high-powered motorcycles seized by Police",
+      "url": "https://www.newswire.lk/2026/10/18/five-high-powered-motorcycles-seized-by-police/",
+      "published": "2026-10-18T21:53:08+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Police have arrested a 50-year-old man in Jaffna after discovering five high-powered motorcycles concealed inside a house in the Kopay Police Division.\nAccording to the Police Media Division, officers from the Jaffna Divisional Crime Investigation Bureau conducted a raid on October 17 following information received about suspicious activities at a residence in the Kalviyankadu area.\nDuring the operation, officers recovered five motorcycles with high-capacity engines that had been hidden inside the house.\nPolice also arrested a suspect allegedly involved in preparing forged vehicle registration certificates.\nThe suspect, a 50-year-old resident of Kalviyankadu, was handed over to the Kopay Police Station along with the seized motorcycles.\nKopay Police are conducting further investigations into the incident.",
+      "word_count": 114,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Police have arrested a 50-year-old man in Jaffna after discovering five high-powered motorcycles concealed inside a house in the Kopay Police Division. The suspect, a 50-year-old resident of Kalviyankadu, was handed over to the Kopay Police Station along with the seized motorcycles.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261350.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_215119_Gmail.jpg",
+          "alt": "Five high-powered motorcycles seized by Police"
+        }
+      ]
+    },
+    {
+      "id": 261347,
+      "title": "Suspect arrested with two firearms over shooting of iconic tusker Kavantissa",
+      "url": "https://www.newswire.lk/2026/10/18/suspect-arrested-with-two-firearms-over-shooting-of-iconic-tusker-kavantissa/",
+      "published": "2026-10-18T21:38:01+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Police have arrested a man suspected of shooting iconic Sri Lankan tusker Kavantissa, who died on October 16 after receiving weeks of veterinary treatment for a gunshot injury.\nAccording to police, the suspect was arrested during a joint operation conducted by the Walana Anti-Corruption Unit and the Department of Wildlife Conservation in the Galgamuwa area.\nTwo firearms were also recovered during the operation, police said.\nKavantissa, one of Sri Lanka’s most iconic wild tuskers, died after battling serious health complications following a gunshot injury to his right front leg.\nWildlife veterinarians had been treating the elephant since September 24, with several teams deployed in efforts to save his life.\nHis death sparked widespread public concern and renewed calls for stronger measures to protect Sri Lanka’s wild elephants.\nEnvironmentalists and wildlife conservation groups had also demanded an independent investigation into the circumstances surrounding the shooting and the tusker’s subsequent death.\nThe arrest marks a significant development in the investigation into the shooting of Kavantissa.\nFurther investigations are underway to establish the circumstances of the shooting and determine whether the recovered firearms were used in the incident.",
+      "word_count": 185,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Police have arrested a man suspected of shooting iconic Sri Lankan tusker Kavantissa, who died on October 16 after receiving weeks of veterinary treatment for a gunshot injury. According to police, the suspect was arrested during a joint operation conducted by the Walana Anti-Corruption Unit and the Department of Wildlife Conservation in the Galgamuwa area.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261347.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_213521_Editor-Lite.jpg",
+          "alt": "Suspect arrested with two firearms over shooting of iconic tusker Kavantissa"
+        }
+      ]
+    },
+    {
+      "id": 261344,
+      "title": "Free Gnanasara Thera or we may have to elect a new President: Balangoda Kassapa Thera",
+      "url": "https://www.newswire.lk/2026/10/18/free-gnanasara-thera-or-we-may-have-to-elect-a-new-president-balangoda-kassapa-thera/",
+      "published": "2026-10-18T21:10:51+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Ven. Balangoda Kassapa Thera, who was hospitalized on Saturday (October 17), returned to the protest at Viharamahadevi Park in Colombo on Sunday (October 18), warning that protesters would seek to elect a new President if the current President refuses to grant a pardon to Ven. Galagoda Aththe Gnanasara Thera.\nAddressing those gathered at the protest site, Kassapa Thera said their primary objective was to secure the unconditional release of Gnanasara Thera, who is currently serving a prison sentence.\nHe claimed that the government had misunderstood the protest, believing that the monks were attempting to remove it from power.\n“The government thinks we have come to topple them. But the responsibility for releasing Gnanasara Thera lies with the President,” he said.\nReferring to the President’s constitutional powers, Kassapa Thera said that if the President continued to refuse their demand, protesters would have to consider other options.\n“If the President continues to act stubbornly, and if there is no other legal way to secure his release, what else can we do? We will have to elect another President, if necessary, to get it done,” he said.\nKassapa Thera also explained his decision to return to the protest despite being hospitalized the previous day.\nHe said he had refused additional comforts offered by fellow monks, arguing that they could not enjoy such privileges while Gnanasara Thera was suffering in prison.\n“We did not come here to enjoy comforts. When Gnanasara Thera is suffering, how can we live comfortably?” he asked.\nHe said he had returned despite experiencing pain because he wanted to strengthen the ongoing protest.\nThe monks have been demanding the release of Gnanasara Thera, with protesters continuing their demonstration at Viharamahadevi Park following earlier protests near the Presidential Secretariat.",
+      "word_count": 288,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 26,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Ven. Balangoda Kassapa Thera, who was hospitalized on Saturday (October 17), returned to the protest at Viharamahadevi Park in Colombo on Sunday (October 18), warning that protesters would seek to elect a new President if the current President refuses to grant a pardon to Ven. Galagoda Aththe Gnanasara Thera.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261344.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_210919_Editor-Lite.jpg",
+          "alt": "Free Gnanasara Thera or we may have to elect a new President: Balangoda Kassapa Thera"
+        }
+      ]
+    },
+    {
+      "id": 261341,
+      "title": "Karu warns of consequences as Sri Lanka falls short of economic targets",
+      "url": "https://www.newswire.lk/2026/10/18/karu-warns-of-consequences-as-sri-lanka-falls-short-of-economic-targets/",
+      "published": "2026-10-18T19:37:54+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Former Speaker Karu Jayasuriya has raised concerns over Sri Lanka’s progress in implementing the Economic Transformation Act of 2024, warning that delays in economic and institutional reforms could have serious long-term consequences.\nIn a social media statement, Jayasuriya pointed out that Sri Lanka’s exports remain at approximately 16% of gross domestic product (GDP), compared to the 25% target he cited under the legislation.\nHe also expressed concern over the country’s foreign direct investment (FDI) performance, claiming that investment targets were significantly underperforming.\nJayasuriya noted that Sri Lanka’s foreign exchange reserves remained largely unchanged at US$6.85 billion, while institutional reforms involving the Board of Investment (BOI) had stalled.\nHe stressed that the Economic Transformation Act sets out clear economic targets and requires annual progress reports to be submitted to Parliament.\nHowever, he questioned whether sufficient progress had been made toward achieving those objectives.\n“Implement it or amend it openly, together with stakeholders. No action is a disaster growing in silence,” Jayasuriya said.",
+      "word_count": 161,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 5,
+        "Finance": 27,
+        "Tech": 1
+      },
+      "summary": "Former Speaker Karu Jayasuriya has raised concerns over Sri Lanka’s progress in implementing the Economic Transformation Act of 2024, warning that delays in economic and institutional reforms could have serious long-term consequences. He stressed that the Economic Transformation Act sets out clear economic targets and requires annual progress reports to be submitted to Parliament.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261341.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_193656_Chrome.jpg",
+          "alt": "Karu warns of consequences as Sri Lanka falls short of economic targets"
+        }
+      ]
+    },
+    {
+      "id": 261332,
+      "title": "Major setback as Chinese firm abandons US$392 million Sri Lanka investment",
+      "url": "https://www.newswire.lk/2026/10/18/major-setback-as-chinese-firm-abandons-us392-million-sri-lanka-investment/",
+      "published": "2026-10-18T19:12:08+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "China Merchants Port Holdings has withdrawn from a proposed US$392 million logistics hub project at the Port of Colombo, with the Sri Lanka Ports Authority (SLPA) agreeing to a US$21.9 million settlement following the cancellation.\nThe Chinese port operator confirmed the termination of the South Asia Commercial and Logistics Hub (SACLH) project in a filing to the Hong Kong Stock Exchange on October 15, 2026.\nThe project, originally planned as one of South Asia’s largest logistics complexes, was to be developed under a 50-year build-operate-transfer arrangement.\nAccording to the stock exchange filing, the decision to abandon the project followed changes in external circumstances, adjustments to the project’s implementation environment and timetable, and commercial considerations among the parties.\nChina Merchants Port held a 70% stake in the project through its subsidiary, Fortune Centre Group Limited, while the SLPA and Sri Lanka’s Access Engineering PLC each held 15%.\nThe three shareholders had invested a combined US$37.14 million in the project, including US$26 million contributed by the Chinese company’s subsidiary.\nUnder the settlement agreement, the SLPA will pay US$21.905 million to the project company within 30 days. The payment, together with approximately US$7.85 million in remaining distributable cash, will be allocated among the shareholders according to their ownership stakes, after applicable deductions and expenses.\nThe proposed five-story logistics complex was granted Strategic Development Project status by Sri Lanka in December 2023, providing several tax concessions, including exemptions from corporate income tax and dividend taxes for 15 years.\nHowever, the project encountered delays and implementation difficulties, preventing it from progressing as originally planned.\nAccording to maritime industry publication Lloyd’s List, the project also faced land and regulatory hurdles.\nThe SLPA is expected to seek fresh investment proposals for the land following the cancellation.\nThe withdrawal marks the collapse of a major planned foreign investment in Sri Lanka’s port logistics sector, which was intended to strengthen Colombo’s position as a regional shipping and logistics hub.",
+      "word_count": 320,
+      "is_lead": true,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 37,
+        "Tech": 0
+      },
+      "summary": "China Merchants Port Holdings has withdrawn from a proposed US$392 million logistics hub project at the Port of Colombo, with the Sri Lanka Ports Authority (SLPA) agreeing to a US$21.9 million settlement following the cancellation. The three shareholders had invested a combined US$37.14 million in the project, including US$26 million contributed by the Chinese company’s subsidiary.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261332.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_191103_Editor-Lite.jpg",
+          "alt": "Major setback as Chinese firm abandons US$392 million Sri Lanka investment"
+        },
+        {
+          "src": "images/2026-10-19/261332-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_190741_Chrome-1.jpg",
+          "alt": "Major setback as Chinese firm abandons US$392 million Sri Lanka investment"
+        },
+        {
+          "src": "images/2026-10-19/261332-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_190810_Chrome.jpg",
+          "alt": "Major setback as Chinese firm abandons US$392 million Sri Lanka investment"
+        },
+        {
+          "src": "images/2026-10-19/261332-4.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_190820_Chrome.jpg",
+          "alt": "Major setback as Chinese firm abandons US$392 million Sri Lanka investment"
+        }
+      ]
+    },
+    {
+      "id": 261328,
+      "title": "Anuradhapura is to Theravada Buddhists what Vatican is to Catholics: Ranil",
+      "url": "https://www.newswire.lk/2026/10/18/anuradhapura-is-to-theravada-buddhists-what-vatican-is-to-catholics-ranil/",
+      "published": "2026-10-18T17:23:06+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Former President Ranil Wickremesinghe has called for stronger cooperation among Theravada Buddhist countries, describing Anuradhapura as a sacred centre for Buddhists across the region and highlighting Sri Lanka’s historical role in spreading Buddhism to Southeast Asia.\nSpeaking at the unveiling ceremony of the pinnacle of the Mihindu Maha Seya at Mihintale, Wickremesinghe said Sri Lanka and Thailand shared a centuries-old religious and cultural relationship that should be strengthened through economic cooperation.\nHe said Anuradhapura should not be regarded as a sacred city belonging exclusively to Sri Lankan Buddhists, but as a place of religious significance to the entire Theravada Buddhist world.\nDrawing comparisons with other major religious sites, Wickremesinghe said Anuradhapura held a special place for Theravada Buddhists, just as the Vatican, Jerusalem and Mecca were sacred to followers of other religions.\nThe former President also renewed his call for the establishment of a “Theravada economy,” referring to his earlier efforts to strengthen economic ties with Buddhist-majority countries, including the signing of a free trade agreement with Thailand.\nWickremesinghe traced the history of Theravada Buddhism in Sri Lanka to the arrival of Arahant Mahinda Thera during the reign of King Devanampiya Tissa, following the Third Buddhist Council in India.\nHe said Sri Lankan Buddhist monks subsequently played a significant role in spreading Theravada teachings to Thailand and Cambodia, while religious exchanges between the countries helped preserve and restore Buddhist traditions over the centuries.\nAddressing the constitutional position of Buddhism, Wickremesinghe said both Sri Lanka and Thailand recognised the importance of protecting Buddhism while guaranteeing religious freedom.\nHe noted that Article 9 of Sri Lanka’s Constitution gives Buddhism the foremost place, while stressing that every citizen must have the freedom to practise a religion of their choice without discrimination.\nThe former President also referred to Thailand’s historical support for Buddhism, including the contribution of King Rama V to Anagarika Dharmapala’s efforts concerning the Buddhist holy site of Bodh Gaya in India.\nWickremesinghe thanked the Thai people and the visiting Deputy Prime Minister of Thailand for their contribution to the restoration and unveiling of the stupa’s pinnacle.\nHe concluded by expressing his wish that the religious merit of the ceremony be shared with the King of Thailand and the Thai people",
+      "word_count": 369,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 41,
+        "Finance": 9,
+        "Tech": 0
+      },
+      "summary": "Former President Ranil Wickremesinghe has called for stronger cooperation among Theravada Buddhist countries, describing Anuradhapura as a sacred centre for Buddhists across the region and highlighting Sri Lanka’s historical role in spreading Buddhism to Southeast Asia.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261328.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_171833_Editor-Lite.jpg",
+          "alt": "Anuradhapura is to Theravada Buddhists what Vatican is to Catholics: Ranil"
+        }
+      ]
+    },
+    {
+      "id": 261325,
+      "title": "New elephant protection initiative launched in memory of Kavantissa",
+      "url": "https://www.newswire.lk/2026/10/18/new-elephant-protection-initiative-launched-in-memory-of-kavantissa/",
+      "published": "2026-10-18T16:58:04+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Opposition Leader Sajith Premadasa has called for constitutional amendments to recognize the rights of elephants, wildlife, biodiversity and the environment as fundamental rights, allowing violations to be challenged before the courts.\nSpeaking at a meeting with wildlife conservationists, civil society representatives and other stakeholders at the Opposition Leader’s Office on Sunday (October 18), Premadasa said the existing constitutional provisions on environmental protection were insufficient to ensure accountability.\nHe explained that while fundamental rights under Chapter III of the Constitution are enforceable through the courts, the Directive Principles of State Policy under Chapter VI do not provide the same legal remedies.\nPremadasa proposed extending fundamental rights protections to wildlife, plants and the environment, enabling legal action when their interests are threatened.\nThe meeting was held following the death of Kavantissa, one of Sri Lanka’s most iconic wild tuskers, who died on October 16 after receiving treatment for several weeks following a gunshot injury.\nPremadasa also called for a comprehensive investigation involving local and international experts into the circumstances surrounding Kavantissa’s death.\nHe said he would seek details in Parliament regarding the elephant’s blood test results, post-mortem findings, veterinary treatment and actions taken by wildlife authorities.\nThe Opposition Leader proposed establishing a dedicated hospital for elephants, an emergency veterinary response team and a special protection unit to safeguard prominent tuskers, including Mahasen and Agbo.\nHe also called for the development of a national database of elephants, with contributions from wildlife photographers, researchers and conservationists who have closely monitored individual animals over the years.\nPremadasa said Sri Lanka needed a national land-use plan based on scientific data to protect elephant habitats and migration corridors, particularly in areas such as Wilpattu, Wilachchiya, Thabbowa, Anamaduwa and Kahalla-Pallekele.\nHighlighting shortcomings within the Department of Wildlife Conservation, he raised concerns over shortages of staff and resources, as well as disputes involving scientific, veterinary and administrative services.\nHe criticized wildlife conservation efforts focused on publicity rather than practical action, calling for reforms to strengthen veterinary services and improve coordination between government agencies and civil society.\nPremadasa also argued that wildlife protection receives inadequate political attention because animals and the environment do not have voting power.\nHe urged citizens to work collectively, regardless of political affiliation, to ensure that the authorities give greater priority to wildlife conservation.\nCalling for stronger legislation, Premadasa said the killing of elephants and tuskers should be tackled with the same determination as efforts to combat drug trafficking.\nHe also proposed making environmental education compulsory in schools and establishing a rapid-response unit to address wildlife emergencies.\nDuring the meeting, steps were taken to establish a community-based organization named the Kavantissa Elephant Protection Organization, bringing together wildlife enthusiasts, conservationists and civil society representatives.\nPremadasa said he would allocate 45 minutes at the Parliamentary Forum on Climate Change, which he co-chairs, to discuss elephant conservation and invited stakeholders to submit evidence-based proposals.\nHe stressed that although Kavantissa could not be saved, urgent action was needed to protect Sri Lanka’s remaining elephant population and prevent similar deaths in the future.",
+      "word_count": 502,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 46,
+        "Finance": 0,
+        "Tech": 2
+      },
+      "summary": "Opposition Leader Sajith Premadasa has called for constitutional amendments to recognize the rights of elephants, wildlife, biodiversity and the environment as fundamental rights, allowing violations to be challenged before the courts. During the meeting, steps were taken to establish a community-based organization named the Kavantissa Elephant Protection Organization, bringing together wildlife enthusiasts, conservationists and civil society representatives.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261325.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_165644_Editor-Lite.jpg",
+          "alt": "New elephant protection initiative launched in memory of Kavantissa"
+        }
+      ]
+    },
+    {
+      "id": 261322,
+      "title": "Principal accused of brutally assaulting Grade 7 student",
+      "url": "https://www.newswire.lk/2026/10/18/principal-accused-of-brutally-assaulting-grade-7-student/",
+      "published": "2026-10-18T16:27:51+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "A complaint has been lodged with Bandaragama Police alleging that the principal of a school in Welmilla, Bandaragama, brutally assaulted a Grade 7 student over accusations that he had used abusive language.\nAccording to the complaint filed by the student’s father, the principal allegedly slapped the child repeatedly across the face using both hands.\nThe father claimed that the assault left visible injuries on his son’s face and that the child was experiencing such severe pain that he was unable even to brush his teeth.\nThe injured student was initially admitted to the Wethara District Hospital for treatment before being transferred to the Homagama Base Hospital for further medical care.\nThe allegations were reported to Bandaragama Police by the student’s father.",
+      "word_count": 121,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A complaint has been lodged with Bandaragama Police alleging that the principal of a school in Welmilla, Bandaragama, brutally assaulted a Grade 7 student over accusations that he had used abusive language. According to the complaint filed by the student’s father, the principal allegedly slapped the child repeatedly across the face using both hands.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261322.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_162536_ChatGPT.jpg",
+          "alt": "Principal accused of brutally assaulting Grade 7 student"
+        }
+      ]
+    },
+    {
+      "id": 261319,
+      "title": "Community service instead of jail? Sri Lanka proposes new legal changes",
+      "url": "https://www.newswire.lk/2026/10/18/community-service-instead-of-jail-sri-lanka-proposes-new-legal-changes/",
+      "published": "2026-10-18T16:17:15+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Sri Lankan government has proposed amendments to the Community Based Corrections Act to strengthen the supervision of offenders, introduce new procedures for community service orders and increase penalties for violations.\nThe Community Based Corrections (Amendment) Bill, published in a Gazette supplement issued on October 13, 2026, seeks to amend the Community Based Corrections Act, No. 46 of 1999.\nUnder the proposed legislation, courts will be required to refer eligible offenders to a community corrections officer, who will explain the benefits of a community-based correction order before the offender decides whether to consent.\nOffenders will be given a continuous period of 48 hours to communicate their decision to the court, excluding Saturdays, Sundays and public holidays.\nThe bill also proposes increasing the maximum fine under Section 14 of the existing Act from Rs. 5,000 to Rs. 25,000.\nAnother significant change is the introduction of a revised schedule specifying the number of hours offenders may be required to perform unpaid community work, depending on the length of imprisonment or the amount of the fine involved.\nUnder the proposed schedule:\n* Offenders facing imprisonment of one year or more may be assigned 200 to 300 hours of unpaid community work over one year.\n* Those facing imprisonment of six months to less than one year may be assigned 100 to 200 hours over six months.\n* Those facing imprisonment of less than six months may be assigned 50 to 100 hours over three months.\n* Offenders facing a fine of Rs. 50,000 may be assigned 200 to 300 hours of community work over two years.\n* Those facing fines below Rs. 20,000 may be assigned 50 to 75 hours over three months.\nThe amendments also provide for the appointment of community corrections officers, who will be responsible for supervising offenders, conducting inquiries and assisting courts in implementing community-based correction orders.\nThe proposed legislation was ordered to be published by the Minister of Justice and National Integration.\nThe amendments remain proposals under the published bill and will require parliamentary approval before becoming law.",
+      "word_count": 340,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 12,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Sri Lankan government has proposed amendments to the Community Based Corrections Act to strengthen the supervision of offenders, introduce new procedures for community service orders and increase penalties for violations.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261319.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_161647_ChatGPT.jpg",
+          "alt": "Community service instead of jail? Sri Lanka proposes new legal changes"
+        }
+      ]
+    },
+    {
+      "id": 261316,
+      "title": "New bill proposes allowing witnesses to give evidence in Sri Lankan courts from overseas via video link",
+      "url": "https://www.newswire.lk/2026/10/18/new-bill-proposes-allowing-witnesses-to-give-evidence-in-sri-lankan-courts-from-overseas-via-video-link/",
+      "published": "2026-10-18T16:05:33+05:30",
+      "source_categories": [
+        "News",
+        "Trending"
+      ],
+      "tags": [],
+      "text": "The Sri Lankan government has published a bill to amend the Civil Procedure Code, allowing witnesses to give evidence before courts through live audio-visual technology from locations within Sri Lanka or overseas.\nThe Civil Procedure Code (Amendment) Bill, published in a Gazette supplement dated October 16, 2026, was ordered to be published by the Minister of Justice and National Integration.\nUnder the proposed legislation, courts will be empowered to permit witnesses to testify remotely through video links, either with the agreement of all parties, following an application by one party, or on the court’s own initiative.\nHowever, courts must consider objections raised by the parties or witnesses and ensure that remote testimony does not undermine the fairness of judicial proceedings.\nThe bill also introduces provisions allowing witnesses residing overseas to give evidence without travelling to Sri Lanka.\nIn such cases, courts may appoint diplomatic officers attached to Sri Lankan embassies, high commissions or consulates to coordinate the examination of witnesses.\nWhere diplomatic representation is unavailable, other qualified persons, including legal practitioners or notaries, may be appointed.\nThe proposed legislation also allows courts, under specified conditions, to permit overseas testimony without appointing a commissioner, provided adequate safeguards are in place.\nSpecial arrangements are proposed for witnesses unable to attend court due to illness or physical limitations, allowing evidence to be recorded from their homes or other locations.\nThe bill further introduces safeguards concerning witness identification, confidentiality, electronic recording of evidence and the prevention of unauthorized recordings.\nEvidence given remotely would carry the same legal standing as testimony delivered physically in court, including the application of laws relating to perjury and contempt of court.\nCourts would also have the authority to suspend or reschedule proceedings in the event of technical failures affecting video connections.\nThe proposed amendments are intended to facilitate the examination of witnesses through modern communication technology while maintaining existing judicial procedures and protections.\nThe legislation remains a bill and will require parliamentary approval before becoming law. Its substantive provisions would take effect on a date subsequently appointed by the minister through a Gazette notification.",
+      "word_count": 345,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 24,
+        "Finance": 0,
+        "Tech": 6
+      },
+      "summary": "The Sri Lankan government has published a bill to amend the Civil Procedure Code, allowing witnesses to give evidence before courts through live audio-visual technology from locations within Sri Lanka or overseas. The bill also introduces provisions allowing witnesses residing overseas to give evidence without travelling to Sri Lanka.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261316.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_160502_ChatGPT.jpg",
+          "alt": "New bill proposes allowing witnesses to give evidence in Sri Lankan courts from overseas via video link"
+        }
+      ]
+    },
+    {
+      "id": 261309,
+      "title": "Electricity supply under pressure as Norochcholai remains offline : Update from NSO",
+      "url": "https://www.newswire.lk/2026/10/18/electricity-supply-under-pressure-as-norochcholai-remains-offline-update-from-nso/",
+      "published": "2026-10-18T15:36:47+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "The National System Operator (NSO) has launched an internal investigation into the recent nationwide power failure to determine the exact cause and sequence of events that led to the collapse of Sri Lanka’s electricity system.\nAccording to the NSO, the system collapse followed the sudden disconnection of a power plant unit, prompting an investigation into the circumstances surrounding the incident.\nThe Norochcholai Coal Power Plant remains temporarily disconnected from the national grid as part of safety procedures, resulting in a loss of 810 megawatts (MW) of generation capacity.\nHowever, the NSO said favourable rainfall conditions have increased hydropower generation, while electricity demand has also declined relatively.\nThese conditions are expected to help manage the electricity supply despite the significant loss of generation capacity from Norochcholai.\nThe NSO assured that electricity supplies would be carefully managed over the coming days to minimise disruptions to consumers.\nSri Lanka experienced a nationwide power outage on October 17 following instability in the national electricity system.\nThe NSO subsequently carried out restoration operations, gradually reconnecting affected areas to the national grid.",
+      "word_count": 176,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The National System Operator (NSO) has launched an internal investigation into the recent nationwide power failure to determine the exact cause and sequence of events that led to the collapse of Sri Lanka’s electricity system. These conditions are expected to help manage the electricity supply despite the significant loss of generation capacity from Norochcholai.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-19/261309.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261018_152458_Chrome.jpg",
+          "alt": "Electricity supply under pressure as Norochcholai remains offline : Update from NSO"
+        },
+        {
+          "src": "images/2026-10-19/261309-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792316999827.jpg",
+          "alt": "Electricity supply under pressure as Norochcholai remains offline : Update from NSO"
+        }
+      ]
+    }
+  ]
+}
