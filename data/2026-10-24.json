@@ -1,0 +1,1429 @@
+{
+  "source": "https://www.newswire.lk/",
+  "fetched_via": "wp-rest-api",
+  "edition_date": "2026-10-24",
+  "generated_at": "2026-10-24T14:28:33+05:30",
+  "window": {
+    "from": "2026-10-23T14:28:33+05:30",
+    "to": "2026-10-24T14:28:33+05:30"
+  },
+  "enrichment": "keywords",
+  "categories": [
+    "Political",
+    "Finance",
+    "Tech",
+    "General"
+  ],
+  "counts": {
+    "Political": 14,
+    "Finance": 6,
+    "Tech": 4,
+    "General": 23
+  },
+  "articles": [
+    {
+      "id": 262528,
+      "title": "Government issues urgent cybersecurity update to all state institutions",
+      "url": "https://www.newswire.lk/2026/10/24/government-issues-urgent-cybersecurity-update-to-all-state-institutions/",
+      "published": "2026-10-24T14:09:30+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Ministry of Digital Economy has directed all government institutions to take immediate action to address critical security vulnerabilities affecting websites and web applications developed using PHP software.\nIn a circular issued to ministry secretaries, department heads, provincial councils, commissions, statutory bodies and state-owned companies, the ministry warned that the vulnerabilities could expose government systems to unauthorized access, data theft and operational disruptions.\nThe circular, numbered MODE/2026/03 and signed by Ministry Secretary Waruna Sri Dhanapala, identifies two security vulnerabilities under the codes CVE-2026-109618 and CVE-2026-109619.\nGovernment institutions have been instructed to identify all systems and web applications using PHP, verify their software versions and immediately install relevant security updates.\nOfficials have also been directed to examine system logs for suspicious activity and restrict internet access to high-risk systems that cannot be updated immediately.\nThe ministry said GovTech Sri Lanka has developed a vulnerability detection tool, accessible through www.govtech.lk/cvesecure, to help technical officers identify potential security weaknesses.\nInstitutions have also been advised to coordinate with Sri Lanka CERT for technical assistance.\nThe ministry stressed the need for immediate preventive measures to minimize potential cybersecurity risks across government digital infrastructure.",
+      "word_count": 188,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 9,
+        "Finance": 3,
+        "Tech": 27
+      },
+      "summary": "The Ministry of Digital Economy has directed all government institutions to take immediate action to address critical security vulnerabilities affecting websites and web applications developed using PHP software. Government institutions have been instructed to identify all systems and web applications using PHP, verify their software versions and immediately install relevant security updates.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262528.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/04/Cyberscurity.jpg",
+          "alt": "Government issues urgent cybersecurity update to all state institutions"
+        },
+        {
+          "src": "images/2026-10-24/262528-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792831012964.jpg",
+          "alt": "Government issues urgent cybersecurity update to all state institutions"
+        },
+        {
+          "src": "images/2026-10-24/262528-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792831014869.jpg",
+          "alt": "Government issues urgent cybersecurity update to all state institutions"
+        }
+      ]
+    },
+    {
+      "id": 262525,
+      "title": "Polonnaruwa to get new elephant transit home",
+      "url": "https://www.newswire.lk/2026/10/24/polonnaruwa-to-get-new-elephant-transit-home/",
+      "published": "2026-10-24T13:50:42+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "A new elephant transit home is planned on 15 hectares of land in Kalahagala, near Polonnaruwa, to treat orphaned and injured elephant calves rescued from Sri Lanka’s Northern and North Central regions.\nPolonnaruwa District Secretary Sujantha Ekanayake said the site was selected following a survey by a specialist committee, with the Forest Department agreeing to allocate the land.\nThe facility is expected to reduce the time needed to transport rescued calves to the existing transit home in Udawalawe from seven to nine hours to about one or two hours before treatment can begin.\nFormer Director General of Wildlife Conservation and elephant researcher Dr. Sumith Pilapitiya said the centre would also enable calves to be rehabilitated and released into wildlife reserves in their respective regions, helping preserve the natural separation of Sri Lanka’s three main elephant subpopulations.\nThe project is also expected to support tourism and create employment opportunities for local residents.",
+      "word_count": 151,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 1,
+        "Tech": 0
+      },
+      "summary": "A new elephant transit home is planned on 15 hectares of land in Kalahagala, near Polonnaruwa, to treat orphaned and injured elephant calves rescued from Sri Lanka’s Northern and North Central regions.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262525.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Angamedilla-national-park.jpg",
+          "alt": "Polonnaruwa to get new elephant transit home"
+        }
+      ]
+    },
+    {
+      "id": 262522,
+      "title": "Govt gazettes new rules allowing imprisoned religious leaders to wear religious attire",
+      "url": "https://www.newswire.lk/2026/10/24/govt-gazettes-new-rules-allowing-imprisoned-religious-leaders-to-wear-religious-attire/",
+      "published": "2026-10-24T13:46:17+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The government has issued an Extraordinary Gazette introducing new regulations allowing Buddhist monks imprisoned in Sri Lanka to wear their robes under specified conditions.\nThe Gazette, dated October 20, 2026, amends the Standing Orders of the Department of Prisons under the Prisons Ordinance (Chapter 54), with the approval of the Minister of Justice and National Integration.\nUnder the new regulations, when a Buddhist monk is imprisoned, the Commissioner of Prisons must consult the Department of Buddhist Affairs regarding the removal of robes at the time of imprisonment.\nThe Department of Buddhist Affairs must inform the relevant Nikaya or Chapter and communicate its decision to the Commissioner of Prisons within 10 days.\nIf no response is received within that period, the Commissioner of Prisons may take necessary action in accordance with the relevant provisions.\nThe amendments also permit imprisoned Buddhist monks to wear their robes when taken outside prison in the capacity of a prisoner.\nHowever, if the relevant Nikaya or Chapter has not permitted the monk to wear robes, the Commissioner of Prisons must take appropriate action.\nThe Commissioner must also request the Department of Buddhist Affairs to obtain the necessary approval from the relevant Nikaya or Chapter within seven working days of imprisonment.\nThe Gazette further states that these provisions will apply, with necessary modifications, to priests of other religions.\nThe new regulations come amid public debate over the treatment of imprisoned Buddhist monks and whether they should be permitted to wear religious attire while in custody.",
+      "word_count": 248,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 6,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The government has issued an Extraordinary Gazette introducing new regulations allowing Buddhist monks imprisoned in Sri Lanka to wear their robes under specified conditions. The new regulations come amid public debate over the treatment of imprisoned Buddhist monks and whether they should be permitted to wear religious attire while in custody.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262522.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Gnanasara-prison-attire.jpg",
+          "alt": "Govt gazettes new rules allowing imprisoned religious leaders to wear religious attire"
+        },
+        {
+          "src": "images/2026-10-24/262522-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_134031_Chrome.jpg",
+          "alt": "Govt gazettes new rules allowing imprisoned religious leaders to wear religious attire"
+        }
+      ]
+    },
+    {
+      "id": 262516,
+      "title": "50 days behind bars, 500 for the country’s sake: Namal writes",
+      "url": "https://www.newswire.lk/2026/10/24/50-days-behind-bars-500-for-the-countrys-sake-namal-writes/",
+      "published": "2026-10-24T13:10:40+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa has declared that he is prepared to remain imprisoned for even 500 days if his detention could help ease the economic burden on the public and protect the country’s cultural heritage.\nIn a lengthy statement dated October 23, Rajapaksa reflected on his imprisonment, saying that October 24 would mark 50 days since he was taken into custody.\n“If my country can benefit and our cultural heritage can be protected, then I am willing to remain imprisoned for not just 50 days, but even 500 days,” he said.\nRajapaksa questioned the Government’s economic performance, claiming that people continued to face severe financial difficulties despite statements about the country’s improving financial position.\nHe referred to several promises and proposals, including reducing electricity bills by two-thirds, lowering fuel prices, increasing salaries every six months, providing interest-free loans without collateral, making Toyota Vitz cars available for around Rs. 1.2 million and removing taxes on essential goods, healthcare and education.\nRajapaksa also criticised what he described as attempts to divert attention from national problems by targeting a single political family.\n“At such a critical moment, attempting to conceal the weight of a country’s problems behind one family is absurd,” he said.\nReferring to the death of the iconic tusker Kavantissa, Rajapaksa expressed sadness over the country’s failure to protect the animal and stressed the importance of safeguarding Sri Lanka’s cultural and natural heritage.\nHe also praised his father, former President Mahinda Rajapaksa, describing him as a leader who had protected the country’s heritage and allowed living beings to exist safely.\nAddressing concerns over religion and culture, Rajapaksa said democratic societies should allow civil discussions but warned against insults, distortion of facts and the spread of hatred.\n“Religion is not a competition; it is coexistence. It is not a performance; it is understanding,” he said.\nRajapaksa expressed confidence that the judiciary would eventually acquit him of the allegations against him.\nHe said his imprisonment had provided an opportunity to reflect on life and politics, adding that being behind bars had not restricted his thoughts or political convictions.\n“Although you may imprison me, you cannot imprison the aspirations of the people who stand with our camp,” he said.",
+      "word_count": 369,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 43,
+        "Finance": 14,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa has declared that he is prepared to remain imprisoned for even 500 days if his detention could help ease the economic burden on the public and protect the country’s cultural heritage.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262516.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_130856_Editor-Lite.jpg",
+          "alt": "50 days behind bars, 500 for the country’s sake: Namal writes"
+        },
+        {
+          "src": "images/2026-10-24/262516-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG-20261024-WA0024.jpg",
+          "alt": "50 days behind bars, 500 for the country’s sake: Namal writes"
+        },
+        {
+          "src": "images/2026-10-24/262516-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG-20261024-WA0025.jpg",
+          "alt": "50 days behind bars, 500 for the country’s sake: Namal writes"
+        }
+      ]
+    },
+    {
+      "id": 262513,
+      "title": "Two arrested with 20 lobsters during Coast Guard raid",
+      "url": "https://www.newswire.lk/2026/10/24/two-arrested-with-20-lobsters-during-coast-guard-raid/",
+      "published": "2026-10-24T12:33:03+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Two individuals have been arrested with 20 lobsters suspected of being illegally caught while being prepared for sale near Haraspola Fisheries Harbour in Brahmanawatta, the Sri Lanka Coast Guard said.\nThe arrests were made during an intelligence-led operation conducted by the Coast Guard.\nAccording to the Coast Guard, the suspects were apprehended for allegedly violating Section 34 of the Fisheries and Aquatic Resources Act, No. 2 of 1996, and regulations prohibiting lobster fishing during October.\nThe suspects and the seized lobsters were taken into custody for further investigation and legal action.\nThe operation was part of ongoing efforts to prevent illegal fishing and protect the country’s marine resources, the Coast Guard said.",
+      "word_count": 112,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Two individuals have been arrested with 20 lobsters suspected of being illegally caught while being prepared for sale near Haraspola Fisheries Harbour in Brahmanawatta, the Sri Lanka Coast Guard said. The arrests were made during an intelligence-led operation conducted by the Coast Guard.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262513.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/858299532_1467227632250328_5617573250695015079_n.jpg",
+          "alt": "Two arrested with 20 lobsters during Coast Guard raid"
+        }
+      ]
+    },
+    {
+      "id": 262510,
+      "title": "Weather: Severe lightning advisory issued for two provinces",
+      "url": "https://www.newswire.lk/2026/10/24/weather-severe-lightning-advisory-issued-for-two-provinces/",
+      "published": "2026-10-24T12:30:51+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Department of Meteorology has issued a severe lightning advisory for the Eastern and Uva provinces and the Polonnaruwa District, warning of thundershowers accompanied by severe lightning until 1:30 a.m. on Oct. 25.\nThe department warned that temporary localized strong winds could occur during thundershowers and urged the public to take precautions against lightning.\nPeople have been advised to seek shelter indoors and avoid standing under trees or remaining in open areas, including paddy fields, tea plantations and near water bodies, during thunderstorms.\nThe public has also been urged to avoid using wired telephones and electrical appliances connected to power sources during thunderstorms, and to stay away from open vehicles such as bicycles, tractors and boats.\nResidents have been cautioned to watch for fallen trees and power lines and to contact local disaster management authorities for emergency assistance.",
+      "word_count": 138,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Meteorology has issued a severe lightning advisory for the Eastern and Uva provinces and the Polonnaruwa District, warning of thundershowers accompanied by severe lightning until 1:30 a.m. on Oct. 25. The department warned that temporary localized strong winds could occur during thundershowers and urged the public to take precautions against lightning.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262510.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/05/weather-lightning.jpg",
+          "alt": "Weather: Severe lightning advisory issued for two provinces"
+        },
+        {
+          "src": "images/2026-10-24/262510-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-24-at-12.27.11-PM.jpeg",
+          "alt": "Weather: Severe lightning advisory issued for two provinces"
+        }
+      ]
+    },
+    {
+      "id": 262507,
+      "title": "British Airways resumes flights to Sri Lanka after 10 years",
+      "url": "https://www.newswire.lk/2026/10/24/british-airways-resumes-flights-to-sri-lanka-after-10-years/",
+      "published": "2026-10-24T11:40:03+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "British Airways has resumed flights to Sri Lanka after a 10-year break, with its first aircraft arriving at Bandaranaike International Airport (BIA) in Katunayake on Saturday (October 24).\nThe Boeing 777-200ER aircraft, operating as flight BA2045 from London Gatwick Airport, arrived in Colombo in the morning, marking the airline’s return to Sri Lanka.\nThe airline is scheduled to operate three flights a week between London Gatwick and Colombo, strengthening air connectivity between Sri Lanka and the United Kingdom.\nThe resumption of services is expected to provide a boost to Sri Lanka’s tourism industry, particularly as the UK remains one of the country’s key tourist markets.\nThe new service is also expected to facilitate business travel and strengthen trade, tourism and people-to-people connections between the two countries.\nAdvantis Aviation Services, a subsidiary of Sri Lanka’s Hayleys Group, will serve as British Airways’ General Sales Agent (GSA) in the country.\nAccording to British Airways, the Colombo route will operate as a seasonal service during the winter schedule, offering passengers economy, premium economy and business class options.",
+      "word_count": 174,
+      "is_lead": true,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 15,
+        "Tech": 0
+      },
+      "summary": "British Airways has resumed flights to Sri Lanka after a 10-year break, with its first aircraft arriving at Bandaranaike International Airport (BIA) in Katunayake on Saturday (October 24). According to British Airways, the Colombo route will operate as a seasonal service during the winter schedule, offering passengers economy, premium economy and business class options.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262507.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG-20261024-WA0021.jpg",
+          "alt": "British Airways resumes flights to Sri Lanka after 10 years"
+        }
+      ]
+    },
+    {
+      "id": 262504,
+      "title": "New Head Coach appointed for Mumbai Indians",
+      "url": "https://www.newswire.lk/2026/10/24/new-head-coach-appointed-for-mumbai-indians/",
+      "published": "2026-10-24T10:44:17+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Former West Indies all-rounder Kieron Pollard has been appointed head coach of Mumbai Indians ahead of the 2027 Indian Premier League (IPL) season, replacing Sri Lankan cricket legend Mahela Jayawardene.\nAccording to India Today, Pollard has been promoted from his previous position as batting coach, extending his long association with the five-time IPL champions.\nPollard represented Mumbai Indians for 13 seasons as a player before moving into a coaching role following his retirement from the IPL.\nThe appointment marks a new chapter for the franchise, with Pollard taking charge of the team’s preparations for IPL 2027.\nHis promotion also brings an end to Jayawardene’s latest tenure as Mumbai Indians head coach.\nJayawardene stepped down on October 17, ending a decade-long association with Mumbai Indians. During his coaching tenure, the franchise won three IPL titles in 2017, 2019 and 2020.\nMumbai Indians reached the playoffs in 2025 but struggled during the 2026 season, finishing ninth in the 10-team competition.\nPollard will now be tasked with rebuilding the team’s fortunes as the franchise prepares for the next IPL season.",
+      "word_count": 177,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Former West Indies all-rounder Kieron Pollard has been appointed head coach of Mumbai Indians ahead of the 2027 Indian Premier League (IPL) season, replacing Sri Lankan cricket legend Mahela Jayawardene. His promotion also brings an end to Jayawardene’s latest tenure as Mumbai Indians head coach.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262504.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/kieron-pollard-244232742-16x9_0.jpeg",
+          "alt": "New Head Coach appointed for Mumbai Indians"
+        }
+      ]
+    },
+    {
+      "id": 262499,
+      "title": "A major step forward in cancer treatment? New vaccine delivers promising results",
+      "url": "https://www.newswire.lk/2026/10/24/a-major-step-forward-in-cancer-treatment/",
+      "published": "2026-10-24T10:24:02+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "A 75-year-old man who took part in a personalised skin cancer vaccine trial at Addenbrooke’s Hospital has described the findings as “groundbreaking” after results showed the treatment combination reduced the risk of melanoma returning or death by 42%.\nTony Chapman, from North Northamptonshire, was diagnosed with stage three melanoma in 2019 and had a tumour removed from his chest. Four years later, a lump under his armpit led to further surgery to remove lymph nodes.\nChapman was one of more than 1,000 patients with high-risk melanoma who took part in an international phase three trial testing the personalised mRNA vaccine Intismeran alongside Keytruda, an immunotherapy drug.\nThe trial found the combination reduced the risk of melanoma spreading by 38% over two years compared with Keytruda alone.\nNeither Chapman nor the researchers know whether he received the vaccine or a placebo, as part of the double-blind trial. He completed treatment last year and remains cancer-free. Pippa Corrie, a consultant medical oncologist at Addenbrooke’s Hospital and the trial’s principal investigator at the site, said the vaccine is designed using genetic sequencing of a patient’s tumour to target remaining cancer cells after surgery.\nThe full trial results are due to be presented at the European Society for Medical Oncology conference in Madrid. The findings have yet to be peer-reviewed, and regulatory approval would be required before the treatment could be made available on the NHS. (NHS/Newswire)",
+      "word_count": 233,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A 75-year-old man who took part in a personalised skin cancer vaccine trial at Addenbrooke’s Hospital has described the findings as “groundbreaking” after results showed the treatment combination reduced the risk of melanoma returning or death by 42%.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262499.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG_6759.jpeg",
+          "alt": "A major step forward in cancer treatment? New vaccine delivers promising results"
+        }
+      ]
+    },
+    {
+      "id": 262495,
+      "title": "Mysterious deaths of two Sri Lankan women in Kuwait under investigation",
+      "url": "https://www.newswire.lk/2026/10/24/mysterious-deaths-of-two-sri-lankan-women-in-kuwait-under-investigation/",
+      "published": "2026-10-24T10:08:46+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Two Sri Lankan women have been found dead in separate incidents in Kuwait, prompting investigations by local authorities, according to Kuwaiti media reports.\nKuwaiti media reported that the bodies were discovered at residences in the Ali Sabah Al-Salem and Al-Nahda areas, with authorities registering cases of unnatural death.\nIn the first incident, a Sri Lankan woman born in 1988 was found dead inside a rooftop storeroom of a house in Ali Sabah Al-Salem after a Kuwaiti citizen alerted authorities.\nThe Ahmadi Public Prosecution ordered the registration of a case and the transfer of the body to the forensic department to determine the cause of death.\nIn a separate incident, another Sri Lankan woman, born in 1999, was found dead at a residence in the Al-Nahda area.\nAccording to Kuwaiti media, the Jahra Public Prosecution directed forensic experts and criminal investigators to examine the scene and collect evidence.\nAccording to Kuwait’s Arab Times newspaper, both deaths were registered as cases involving suspected foul play, although the exact causes have yet to be established.\nThe bodies have been referred for forensic examinations, while investigations are underway to determine the circumstances surrounding both incidents.\nAuthorities have not disclosed whether the two deaths are connected or whether any suspects have been identified.",
+      "word_count": 208,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Two Sri Lankan women have been found dead in separate incidents in Kuwait, prompting investigations by local authorities, according to Kuwaiti media reports. Authorities have not disclosed whether the two deaths are connected or whether any suspects have been identified.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262495.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_100709_Gallery.jpg",
+          "alt": "Mysterious deaths of two Sri Lankan women in Kuwait under investigation"
+        }
+      ]
+    },
+    {
+      "id": 262492,
+      "title": "Sri Lanka climb ICC rankings, leaving England and Afghanistan behind",
+      "url": "https://www.newswire.lk/2026/10/24/sri-lanka-climb-icc-rankings-leaving-england-and-afghanistan-behind/",
+      "published": "2026-10-24T09:54:52+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka have climbed to sixth place in the ICC Men’s ODI Team Rankings, moving ahead of England following their historic victory over the English side in Rawalpindi.\nAccording to the ICC rankings, Sri Lanka have accumulated 3,896 points from 41 matches, with a rating of 95.\nSri Lanka are now ahead of Afghanistan, who are seventh with a rating of 94, and England, who have slipped to eighth with a rating of 93.\nIndia lead the rankings with a rating of 115, followed by New Zealand (109), South Africa (104), Pakistan (103) and Australia (102).\nThe rankings come after Sri Lanka successfully chased a target of 430 against England, recording the second-highest successful run chase in men’s ODI history.\nThe latest rankings, updated on October 23, confirm Sri Lanka’s sixth-place position. The team had been ranked seventh in the October 18 standings.",
+      "word_count": 143,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka have climbed to sixth place in the ICC Men’s ODI Team Rankings, moving ahead of England following their historic victory over the English side in Rawalpindi. According to the ICC rankings, Sri Lanka have accumulated 3,896 points from 41 matches, with a rating of 95.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262492.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Janith.jpg",
+          "alt": "Sri Lanka climb ICC rankings, leaving England and Afghanistan behind"
+        },
+        {
+          "src": "images/2026-10-24/262492-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_095203_Chrome.jpg",
+          "alt": "Sri Lanka climb ICC rankings, leaving England and Afghanistan behind"
+        }
+      ]
+    },
+    {
+      "id": 262481,
+      "title": "Sports Minister suspends cycling and badminton bodies, appoints transformation committees",
+      "url": "https://www.newswire.lk/2026/10/24/sports-minister-suspends-cycling-and-badminton-bodies-appoints-transformation-committees/",
+      "published": "2026-10-24T09:35:28+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Minister of Youth Affairs and Sports Sunil Kumara Gamage has issued two Extraordinary Gazette notifications temporarily suspending the registrations of the Cycling Federation of Sri Lanka and Sri Lanka Badminton.\nThe Gazette notifications, dated October 20, 2026, were issued under Sections 32 and 33 of the Sports Law, No. 25 of 1973, as amended.\nThe Minister has appointed separate transformation committees to oversee the administration and restructuring of the two sporting bodies.\nAccording to the Gazettes, the committees have been tasked with investigating fraud, corruption and other irregularities, introducing new constitutions, registering eligible members and conducting Special General Meetings and Annual General Meetings.\nThe Cycling Transformation Committee will be chaired by Anura Mahaarachchi, while the Sri Lanka Badminton Transformation Committee will be headed by M.H.S.S. Kusum Kumara.\nBoth committees have been authorized to manage the respective organizations until new office bearers are elected.\nThe Gazettes require elections to be held within 90 days of the registration of the new constitutions.\nThe Cycling Federation notification also revokes the Extraordinary Gazette issued on August 21, 2025, with immediate effect.",
+      "word_count": 177,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 19,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Minister of Youth Affairs and Sports Sunil Kumara Gamage has issued two Extraordinary Gazette notifications temporarily suspending the registrations of the Cycling Federation of Sri Lanka and Sri Lanka Badminton. The Minister has appointed separate transformation committees to oversee the administration and restructuring of the two sporting bodies.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262481.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_093217_ChatGPT.jpg",
+          "alt": "Sports Minister suspends cycling and badminton bodies, appoints transformation committees"
+        },
+        {
+          "src": "images/2026-10-24/262481-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_092641_Chrome.jpg",
+          "alt": "Sports Minister suspends cycling and badminton bodies, appoints transformation committees"
+        },
+        {
+          "src": "images/2026-10-24/262481-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_092709_Chrome.jpg",
+          "alt": "Sports Minister suspends cycling and badminton bodies, appoints transformation committees"
+        }
+      ]
+    },
+    {
+      "id": 262452,
+      "title": "Japan invites Sri Lankans to design logo marking 75 years of diplomatic relations",
+      "url": "https://www.newswire.lk/2026/10/24/japan-invites-sri-lankans-to-design-logo-marking-75-years-of-diplomatic-relations/",
+      "published": "2026-10-24T09:34:43+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Government of Japan has announced a public logo design competition to commemorate the 75th anniversary of diplomatic relations between Japan and Sri Lanka in 2027.\nAccording to Japan’s Ministry of Foreign Affairs, the winning design will be selected as the official logo for a series of commemorative events planned to celebrate the milestone and strengthen relations between the two countries.\nThe competition is open to citizens of Japan and Sri Lanka, regardless of age or country of residence.\nParticipants must submit their designs by November 13, 2026, via email to japansrilanka75@mofa.go.jp, with the subject line “Logo Entry.”\nSubmissions must include both color and black-and-white versions of the logo, along with a separate explanation of approximately 80 words describing the design.\nEntries must be submitted in JPEG, PDF or EPS format, with a maximum file size of 3 MB and a resolution of at least 300 DPI.\nThe ministry has specifically prohibited the use of generative artificial intelligence (AI) in creating logos, citing potential copyright concerns.\nAll designs must be original, unpublished and free from copyright or trademark infringements.\nThe winning design is expected to be announced through the ministry’s official website around late December 2026.\nHowever, the ministry clarified that the selected designer will not receive prize money, an award or any other form of compensation.\nCopyright and other rights relating to submitted designs will belong to Japan’s Ministry of Foreign Affairs under the competition’s terms.\nThe selected logo will be used in official activities commemorating 75 years of diplomatic relations between the two countries. (Newswire)\nMore details",
+      "word_count": 259,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 25,
+        "Finance": 0,
+        "Tech": 6
+      },
+      "summary": "The Government of Japan has announced a public logo design competition to commemorate the 75th anniversary of diplomatic relations between Japan and Sri Lanka in 2027. According to Japan’s Ministry of Foreign Affairs, the winning design will be selected as the official logo for a series of commemorative events planned to celebrate the milestone and strengthen relations between the two countries.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262452.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261023_223706_Chrome.jpg",
+          "alt": "Japan invites Sri Lankans to design logo marking 75 years of diplomatic relations"
+        }
+      ]
+    },
+    {
+      "id": 262485,
+      "title": "President reviews Rs. 7.7 Bn Anuradhapura sacred city project",
+      "url": "https://www.newswire.lk/2026/10/24/president-reviews-rs-7-7-bn-anuradhapura-sacred-city-development-project/",
+      "published": "2026-10-24T09:34:14+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "President Anura Kumara Dissanayake inspected the proposed Anuradhapura Sacred City Development Project on Oct. 23, highlighting the need to preserve the historic city’s archaeological and religious significance.\nThe project, estimated to cost Rs. 7.7 billion, is earmarked to receive funding from the Government of India. It aims to improve access roads, facilities for devotees and tourists, and waste management.\nDuring the visit, the president inspected road development work near three historic ponds, archaeological excavations at the Western Monastery complex and a proposed car park near the Ruwanwelisaya.\nDissanayake instructed officials to expedite the project while protecting the sacred area’s heritage and religious value, and to resolve implementation issues through consultations with relevant stakeholders.",
+      "word_count": 113,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 23,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "President Anura Kumara Dissanayake inspected the proposed Anuradhapura Sacred City Development Project on Oct. 23, highlighting the need to preserve the historic city’s archaeological and religious significance. The project, estimated to cost Rs. 7.7 billion, is earmarked to receive funding from the Government of India.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262485.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/AKD-Anuradhapura.jpg",
+          "alt": "President reviews Rs. 7.7 Bn Anuradhapura sacred city project"
+        }
+      ]
+    },
+    {
+      "id": 262479,
+      "title": "Construction of elephant underpass at Kasikote completed",
+      "url": "https://www.newswire.lk/2026/10/24/construction-of-elephant-underpass-at-kasikote-completed/",
+      "published": "2026-10-24T09:29:02+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Construction of the elephant underpass at Kasikote, between Galgamuwa and Ambanpola, has been completed.\nDevelopment work on the underpass, which has been built beneath the railway line in an area known for frequent elephant crossings, resumed in February this year.\nThe project initiated in 2025 aims to provide a safe passage for wild elephants to cross beneath the railway tracks, reducing the risk of train collisions and helping mitigate human-elephant conflict.\nThe underpass is intended to allow elephants to move between habitats on either side of the railway line without crossing the tracks, improving safety for both wildlife and railway operations.",
+      "word_count": 101,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Construction of the elephant underpass at Kasikote, between Galgamuwa and Ambanpola, has been completed. Development work on the underpass, which has been built beneath the railway line in an area known for frequent elephant crossings, resumed in February this year.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262479.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Kasikote-elephant-crossing-underpass.png",
+          "alt": "Construction of elephant underpass at Kasikote completed"
+        }
+      ]
+    },
+    {
+      "id": 262476,
+      "title": "Suspected narcotics found in sacks on Talalla beach",
+      "url": "https://www.newswire.lk/2026/10/24/suspected-narcotics-found-in-sacks-on-talalla-beach/",
+      "published": "2026-10-24T09:14:08+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "A stock of sacks suspected to contain narcotics was discovered on the beach at Talalla in Matara on Saturday morning, the Sri Lanka Navy said.\nThe sacks were found during a special joint search operation conducted by the Navy in collaboration with the Department of Coast Guard, according to the Navy.\nFurther details about the suspected narcotics and the quantity recovered will be released in due course, the Navy said.",
+      "word_count": 70,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 2,
+        "Tech": 0
+      },
+      "summary": "A stock of sacks suspected to contain narcotics was discovered on the beach at Talalla in Matara on Saturday morning, the Sri Lanka Navy said. The sacks were found during a special joint search operation conducted by the Navy in collaboration with the Department of Coast Guard, according to the Navy.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262476.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Talalla-beach-drugs.png",
+          "alt": "Suspected narcotics found in sacks on Talalla beach"
+        }
+      ]
+    },
+    {
+      "id": 262473,
+      "title": "Fowzie’s court-ordered apology published in state newspaper",
+      "url": "https://www.newswire.lk/2026/10/24/fowzies-court-ordered-apology-published-in-state-newspaper/",
+      "published": "2026-10-24T08:50:49+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Former Disaster Management Minister A.H.M. Fowzie has published a public apology in a Sinhala-language state newspaper on Saturday (October 24), following a Supreme Court ruling over the misuse of a government vehicle for personal purposes.\nThe apology advertisement follows the Supreme Court’s September 29 ruling ordering Fowzie to pay approximately Rs. 6.6 million to the state’s Consolidated Fund and publish public apologies in Sinhala, Tamil and English newspapers.\nThe Supreme Court found that Fowzie had violated the fundamental right to equality under Article 12(1) of the Constitution by using a vehicle provided by the Netherlands government for Sri Lanka’s disaster management activities for his personal benefit.\nThe court described his conduct as a “textbook betrayal” of public trust.\nThe three-judge bench comprised Chief Justice Preethi Padman Surasena and Justices Janak de Silva and Arjuna Obeyesekere.\nThe ruling followed a fundamental rights petition filed by former Ceylon Chamber of Commerce Chairman Chandra Jayaratne.\nThe court also directed Fowzie to publish half-page apology advertisements, featuring a photograph of the vehicle, in the state newspapers Silumina, Sunday Observer and Thinakaran.",
+      "word_count": 177,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 7,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Former Disaster Management Minister A.H.M. Fowzie has published a public apology in a Sinhala-language state newspaper on Saturday (October 24), following a Supreme Court ruling over the misuse of a government vehicle for personal purposes.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262473.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_084527_Editor-Lite.jpg",
+          "alt": "Fowzie’s court-ordered apology published in state newspaper"
+        }
+      ]
+    },
+    {
+      "id": 262469,
+      "title": "Sports Minister suspends registration of National Sports Association for Automobile Sports",
+      "url": "https://www.newswire.lk/2026/10/24/sports-minister-suspends-registration-of-automobile-association/",
+      "published": "2026-10-24T08:13:01+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Minister of Youth Affairs and Sports Sunil Kumara Gamage has temporarily suspended the registration of Sri Lanka’s national sports association for automobile sports and appointed the Secretary to the Ministry as the Competent Authority.\nThe decision was announced through Extraordinary Gazette No. 2511/21, published on October 20, 2026, under Sections 32 and 33 of Sports Law No. 25 of 1973, as amended.\nAccording to the Gazette, the suspension has been imposed to facilitate the proper administration of the association and complete necessary reforms, including amendments to its constitution in accordance with the Sports Law.\nThe Ministry Secretary has been appointed as the Competent Authority with effect from October 15, 2026.\nThe appointed authority will oversee the association’s administration, complete the constitutional amendment process and conduct elections to appoint new office-bearers.\nThe Gazette further states that the Ministry Secretary will continue to exercise the functions of the association until new office-bearers are duly elected at an Annual General Meeting held in accordance with its amended constitution.\nThe regulations were signed by Sports Minister Sunil Kumara Gamage on October 15, 2026.",
+      "word_count": 179,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 30,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Minister of Youth Affairs and Sports Sunil Kumara Gamage has temporarily suspended the registration of Sri Lanka’s national sports association for automobile sports and appointed the Secretary to the Ministry as the Competent Authority. The regulations were signed by Sports Minister Sunil Kumara Gamage on October 15, 2026.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262469.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_081221_ChatGPT.jpg",
+          "alt": "Sports Minister suspends registration of National Sports Association for Automobile Sports"
+        },
+        {
+          "src": "images/2026-10-24/262469-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_080519_Chrome.jpg",
+          "alt": "Sports Minister suspends registration of National Sports Association for Automobile Sports"
+        }
+      ]
+    },
+    {
+      "id": 262466,
+      "title": "Prostitution : 5 Thai women arrested during raid on Marine Drive massage centre",
+      "url": "https://www.newswire.lk/2026/10/24/prostitution-5-thai-women-arrested-during-raid-on-marine-drive-massage-centre/",
+      "published": "2026-10-24T07:38:51+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Five Thai women have been arrested during a police raid on a suspected brothel operating under the guise of a massage centre in Wellawatte.\nAccording to police, the raid was conducted on October 23 at a premises on Marine Drive following information received by Wellawatte Police.\nOne woman was arrested on suspicion of managing the establishment, while four others were arrested over alleged involvement in prostitution.\nAll five suspects are Thai nationals aged between 35 and 43.\nWellawatte Police are conducting further investigations.",
+      "word_count": 83,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Five Thai women have been arrested during a police raid on a suspected brothel operating under the guise of a massage centre in Wellawatte. According to police, the raid was conducted on October 23 at a premises on Marine Drive following information received by Wellawatte Police.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262466.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_073823_Maps.jpg",
+          "alt": "Prostitution : 5 Thai women arrested during raid on Marine Drive massage centre"
+        }
+      ]
+    },
+    {
+      "id": 262464,
+      "title": "Police freeze Rs. 33 million worth of assets in major investigation",
+      "url": "https://www.newswire.lk/2026/10/24/police-freeze-rs-33-million-worth-of-assets-in-major-investigation/",
+      "published": "2026-10-24T07:33:45+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Police have frozen properties and a bus worth approximately Rs. 33 million in two separate investigations into assets suspected to have been acquired using proceeds from drug trafficking.\nThe Illegal Assets Investigation Division arrested a 45-year-old resident of Eluwila, Panadura, on October 23 in connection with an investigation into alleged drug trafficking.\nPolice subsequently froze a two-story house and 13-perch property in Malamulla, Panadura, valued at approximately Rs. 20 million, along with two additional plots of land worth a combined Rs. 5 million.\nThe properties have been frozen for 14 days, effective October 23.\nThe suspect is scheduled to be produced before the Panadura Magistrate’s Court on October 24.\nMeanwhile, police also froze a bus valued at approximately Rs. 8 million, suspected to have been purchased using proceeds from drug trafficking.\nThe bus had previously been taken into police custody during investigations into the February 13 killing of a married couple at a parking facility in Thalangama.\nInvestigators suspect the bus was used to transport the gunman involved in the double murder.\nThe Illegal Assets Investigation Division is conducting further investigations into both cases.",
+      "word_count": 184,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 1,
+        "Tech": 0
+      },
+      "summary": "Police have frozen properties and a bus worth approximately Rs. 33 million in two separate investigations into assets suspected to have been acquired using proceeds from drug trafficking. Police subsequently froze a two-story house and 13-perch property in Malamulla, Panadura, valued at approximately Rs. 20 million, along with two additional plots of land worth a combined Rs. 5 million.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262464.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/09/Illegal-assets.jpg",
+          "alt": "Police freeze Rs. 33 million worth of assets in major investigation"
+        }
+      ]
+    },
+    {
+      "id": 262462,
+      "title": "Bay of Bengal system likely to develop into cyclonic storm : Will Sri Lanka be affected?",
+      "url": "https://www.newswire.lk/2026/10/24/bay-of-bengal-system-likely-to-develop-into-cyclonic-storm-will-sri-lanka-be-affected/",
+      "published": "2026-10-24T07:29:29+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Department of Meteorology has warned of increased rainfall in southwestern parts of Sri Lanka over the next few days as a low-pressure system over the Bay of Bengal is expected to intensify into a cyclonic storm.\nAccording to the weather forecast issued at 5:30 a.m. on Saturday (October 24), the low-pressure area near the North Andaman Islands is likely to develop into a depression during the day.\nThe system is expected to move west-northwestwards, intensifying into a deep depression by October 25 and a cyclonic storm over the west-central Bay of Bengal by the morning of October 26.\nHowever, the department said the system is not expected to directly affect Sri Lanka.\nShowers or thundershowers are forecast at times in the Western, Sabaragamuwa, Northern and Northwestern provinces.\nShowers or thundershowers are also expected after 1 p.m. in other parts of the country, with fairly heavy rainfall exceeding 50 mm possible in some areas.\nThe public has been advised to take precautions against temporary strong winds and lightning during thundershowers.\nMeanwhile, misty conditions are expected in parts of the Central and Uva provinces during the early morning hours.",
+      "word_count": 188,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Meteorology has warned of increased rainfall in southwestern parts of Sri Lanka over the next few days as a low-pressure system over the Bay of Bengal is expected to intensify into a cyclonic storm.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262462.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Rain-thundershower-weather.jpg",
+          "alt": "Bay of Bengal system likely to develop into cyclonic storm : Will Sri Lanka be affected?"
+        }
+      ]
+    },
+    {
+      "id": 262458,
+      "title": "Scientists develop technology to transmit smells over the internet",
+      "url": "https://www.newswire.lk/2026/10/24/scientists-develop-technology-to-transmit-smells-over-the-internet/",
+      "published": "2026-10-24T01:07:42+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Scientists have developed a new technology capable of detecting smells and recreating them at distant locations, potentially allowing people to experience scents during video calls, online shopping and other digital interactions.\nResearchers at Ohio State University in the United States, working with collaborators in China, developed the system known as Scentronic, which uses artificial intelligence to identify odors and transmit information about them over the internet.\nAccording to Reuters, the technology combines an electronic nose equipped with gas sensors and a machine-learning system that identifies specific smells.\nThe information is then transmitted to a receiving device, which releases scent molecules to recreate the original aroma.\nThe researchers have successfully tested the system with five familiar smells: coffee, cake, oranges, beer and red wine.\nIn one experiment involving 14 volunteers, participants correctly identified the recreated scents approximately 73% of the time.\nThe technology could eventually allow people to share the smell of food with friends and family living overseas, experience scents during video conversations or sample perfumes and other products while shopping online.\nResearchers have also developed wearable versions of the scent-generating device, including wristbands and necklaces.\nHowever, the technology remains experimental and cannot reproduce every smell. The receiving device must contain the appropriate scented liquids to recreate a particular aroma.\nScientists say further improvements are needed to expand the range of detectable scents, improve accuracy and develop smaller, more practical devices.\nThe findings were published in the scientific journal Science Advances.",
+      "word_count": 241,
+      "is_lead": true,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 38
+      },
+      "summary": "Scientists have developed a new technology capable of detecting smells and recreating them at distant locations, potentially allowing people to experience scents during video calls, online shopping and other digital interactions.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262458.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_010711_Gallery.jpg",
+          "alt": "Scientists develop technology to transmit smells over the internet"
+        }
+      ]
+    },
+    {
+      "id": 262455,
+      "title": "JVP files police complaint against Ven. Balangoda Kassapa Thera",
+      "url": "https://www.newswire.lk/2026/10/24/jvp-files-police-complaint-against-ven-balangoda-kassapa-thera/",
+      "published": "2026-10-24T00:53:56+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "The Janatha Vimukthi Peramuna (JVP) filed a complaint with the Cinnamon Gardens Police on October 23, seeking an investigation into a statement made by Ven. Balangoda Kassapa Thera.\nThe complaint follows the monk’s allegation that a man reportedly apprehended with two knives by Buddhist monks protesting near Viharamahadevi Park was connected to the JVP headquarters in Pelawatte.\nThe JVP has denied any connection between the suspect and its Pelawatte office.\nAccording to the complaint, registered under reference number CIB II 289/237, the party alleges that the statement was false and could potentially provoke public unrest.\nThe JVP also raised concerns about possible security threats to its headquarters, noting that President Anura Kumara Dissanayake regularly visits the premises.\nThe party has requested a fair investigation into the allegation and submitted relevant video footage and social media posts to the police.",
+      "word_count": 139,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 26,
+        "Finance": 0,
+        "Tech": 1
+      },
+      "summary": "The Janatha Vimukthi Peramuna (JVP) filed a complaint with the Cinnamon Gardens Police on October 23, seeking an investigation into a statement made by Ven. Balangoda Kassapa Thera. The complaint follows the monk’s allegation that a man reportedly apprehended with two knives by Buddhist monks protesting near Viharamahadevi Park was connected to the JVP headquarters in Pelawatte.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262455.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261024_005321_Editor-Lite.jpg",
+          "alt": "JVP files police complaint against Ven. Balangoda Kassapa Thera"
+        }
+      ]
+    },
+    {
+      "id": 262449,
+      "title": "Two prohibited knives recovered from suspect at monks’ protest site",
+      "url": "https://www.newswire.lk/2026/10/23/two-prohibited-knives-recovered-from-suspect-at-monks-protest-site/",
+      "published": "2026-10-23T22:18:22+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "A 58-year-old man was arrested after police allegedly found two prohibited knives in his possession at the protest site in Viharamahadevi Park, Colombo.\nAccording to police, the suspect was arrested on the night of October 21 by officers of the Colombo South Divisional Criminal Investigation Bureau during a search at the protest site in the Cinnamon Gardens Police Division.\nThe suspect has been identified as a resident of Kendaliyaddapaluwa, Ragama.\nPolice investigations have revealed that the individual had reportedly been associated with the protest march for several days and had participated in the demonstration.\nPolice said further investigations are underway to determine whether the suspect had remained at the protest site with the intention of committing a criminal offence.\nThe suspect was produced before the Colombo Chief Magistrate’s Court on October 22 and released on personal bail of Rs. 100,000.\nThe case is scheduled to be taken up again on November 30.",
+      "word_count": 152,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A 58-year-old man was arrested after police allegedly found two prohibited knives in his possession at the protest site in Viharamahadevi Park, Colombo. According to police, the suspect was arrested on the night of October 21 by officers of the Colombo South Divisional Criminal Investigation Bureau during a search at the protest site in the Cinnamon Gardens Police Division.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262449.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261023_221634_Facebook.jpg",
+          "alt": "Two prohibited knives recovered from suspect at monks’ protest site"
+        }
+      ]
+    },
+    {
+      "id": 262446,
+      "title": "Red alert issued for Bay of Bengal as new low-pressure system threatens cyclone",
+      "url": "https://www.newswire.lk/2026/10/23/red-alert-issued-for-bay-of-bengal-as-new-low-pressure-system-threatens-cyclone/",
+      "published": "2026-10-23T21:37:41+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Department of Meteorology has issued a red alert for strong winds and rough seas, specifically warning multi-day fishing vessels operating in the deep sea areas of the Bay of Bengal.\nIssued at 04:30PM. today (23) and valid for the next 24 hours, the warning follows the formation of a new low-pressure area off the Northern Andaman Islands.\nAccording to the department, the system is expected to intensify into a depression within the next 24 hours (by October 24). It is projected to move west-northwestward, further strengthening into a deep depression by October 25 and developing into a cyclonic storm over the west-central Bay of Bengal by the morning of October 26.\nNaval and fishing communities operating in the sea area bounded by latitude 10° N to 20° N and longitude 80° E to 95° E are strictly advised to refrain from maritime activities until further notice, while those currently in the affected waters are urged to navigate to safe zones immediately. The public and maritime workers are requested to stay attentive to upcoming forecasts and official advisories issued by the Department of Meteorology.",
+      "word_count": 184,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Meteorology has issued a red alert for strong winds and rough seas, specifically warning multi-day fishing vessels operating in the deep sea areas of the Bay of Bengal. Issued at 04:30PM. today (23) and valid for the next 24 hours, the warning follows the formation of a new low-pressure area off the Northern Andaman Islands.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262446.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Rough-sea-1.jpg",
+          "alt": "Red alert issued for Bay of Bengal as new low-pressure system threatens cyclone"
+        }
+      ]
+    },
+    {
+      "id": 262443,
+      "title": "Sri Lanka donates essential medicines worth over Rs. 5 million to Maldives",
+      "url": "https://www.newswire.lk/2026/10/23/sri-lanka-donates-essential-medicines-worth-over-rs-5-million-to-maldives/",
+      "published": "2026-10-23T21:00:42+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "The Sri Lankan government has donated a consignment of essential medicines worth over Rs. 5 million to the Maldives following a request from the Maldivian government.\nThe official handover took place at the Ministry of Health and Mass Media in Colombo on October 22.\nHealth and Mass Media Minister Dr. Nalinda Jayatissa handed over the medicines to Maldivian High Commissioner to Sri Lanka Masood Imad.\nAccording to the Ministry, the donation was made following a request by Maldivian Minister of Health, Family and Welfare Geela Ali.\nThe consignment was arranged with contributions from the Medical Supplies Division, the State Pharmaceuticals Manufacturing Corporation and the Sri Lanka Pharmaceutical Manufacturers’ Association.\nSpeaking at the ceremony, High Commissioner Masood Imad expressed his appreciation to the Sri Lankan government and President Anura Kumara Dissanayake for the donation.\nHe also highlighted the longstanding friendship and close relations between Sri Lanka and the Maldives.\nSeveral senior health officials, including Health Ministry Secretary Dr. Anil Jasinghe and Director General of Health Services Dr. Asela Gunawardena, attended the handover ceremony.",
+      "word_count": 172,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 22,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Sri Lankan government has donated a consignment of essential medicines worth over Rs. 5 million to the Maldives following a request from the Maldivian government. Health and Mass Media Minister Dr. Nalinda Jayatissa handed over the medicines to Maldivian High Commissioner to Sri Lanka Masood Imad.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262443.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261023_205741_Gmail.jpg",
+          "alt": "Sri Lanka donates essential medicines worth over Rs. 5 million to Maldives"
+        }
+      ]
+    },
+    {
+      "id": 262440,
+      "title": "Fire breaks out at Nittambuwa electrical and machinery store",
+      "url": "https://www.newswire.lk/2026/10/23/fire-breaks-out-at-nittambuwa-electrical-and-machinery-store/",
+      "published": "2026-10-23T20:30:39+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "A fire broke out at a machinery and electrical appliance store located in Nittambuwa town this afternoon (23).\nNittambuwa Police stated that two fire trucks were deployed to douse the flames.\nThe cause of the fire and the extent of the property damage have not yet been determined, and authorities are conducting further inquiries.",
+      "word_count": 54,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 1,
+        "Tech": 0
+      },
+      "summary": "A fire broke out at a machinery and electrical appliance store located in Nittambuwa town this afternoon (23). Nittambuwa Police stated that two fire trucks were deployed to douse the flames.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262440.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2025/05/Campaign-Finance-4.jpg",
+          "alt": "Fire breaks out at Nittambuwa electrical and machinery store"
+        }
+      ]
+    },
+    {
+      "id": 262438,
+      "title": "India’s IIT Madras and Dialog Axiata sign MoU to boost tech collaboration in Sri Lanka",
+      "url": "https://www.newswire.lk/2026/10/23/indias-iit-madras-and-dialog-axiata-sign-mou-to-boost-tech-collaboration-in-sri-lanka/",
+      "published": "2026-10-23T20:26:48+05:30",
+      "source_categories": [
+        "News",
+        "Trending"
+      ],
+      "tags": [],
+      "text": "India’s IIT Madras Pravartak Technologies Foundation and Sri Lanka’s Dialog Axiata PLC have signed a Memorandum of Understanding (MoU) to strengthen cooperation in technology, innovation, artificial intelligence (AI) and research.\nThe agreement was signed on October 22 in the presence of Indian High Commissioner to Sri Lanka Santosh Jha.\nAccording to the Indian High Commission in Colombo, the partnership aims to connect international research and technical expertise with Sri Lankan industries and universities.\nThe collaboration will focus on five key areas: innovation and startup incubation, applied research and university laboratories, AI and human-centric solutions, industry skills and talent development, and international knowledge sharing.\nThe MoU was signed by Dr. M. J. Shankar Raman, CEO of IIT Madras Pravartak Technologies Foundation, and Supun Weerasinghe, Group Chief Executive and Executive Director of Dialog Axiata PLC.\nDuring the event, High Commissioner Jha also held discussions with Dialog Axiata’s senior leadership on technology, trade, supply chains and trusted partnerships.\nThe Indian High Commission said the agreement would further strengthen technological and research and development cooperation between India and Sri Lanka.",
+      "word_count": 176,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 4,
+        "Finance": 9,
+        "Tech": 49
+      },
+      "summary": "India’s IIT Madras Pravartak Technologies Foundation and Sri Lanka’s Dialog Axiata PLC have signed a Memorandum of Understanding (MoU) to strengthen cooperation in technology, innovation, artificial intelligence (AI) and research. The MoU was signed by Dr. M. J. Shankar Raman, CEO of IIT Madras Pravartak Technologies Foundation, and Supun Weerasinghe, Group Chief Executive and Executive Director of Dialog Axiata PLC.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262438.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261023_202409_Gmail.jpg",
+          "alt": "India’s IIT Madras and Dialog Axiata sign MoU to boost tech collaboration in Sri Lanka"
+        }
+      ]
+    },
+    {
+      "id": 262430,
+      "title": "Minister clarifies driving licence rules for Sri Lankans living abroad",
+      "url": "https://www.newswire.lk/2026/10/23/minister-clarifies-driving-licence-rules-for-sri-lankans-living-abroad/",
+      "published": "2026-10-23T20:08:37+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Transport, Highways and Urban Development Minister Bimal Rathnayake has clarified that Sri Lankan citizens living overseas can use their existing Sri Lankan driving licences when returning to the country, without obtaining additional permits or paying unnecessary fees.\nAddressing Parliament, the Minister said Sri Lankans who already hold a valid driving licence issued in Sri Lanka can legally drive vehicles during their visits to the country.\nHe also explained the procedure for Sri Lankans who have surrendered their local driving licences to foreign authorities in exchange for licences issued by those countries.\nAccording to the Minister, such individuals can obtain a Sri Lankan driving licence upon returning to the country by submitting the relevant documents to the authorities.\nMeanwhile, Sri Lankans who have lost their local driving licences while living overseas can apply for replacements through the standard procedure, including submitting a police complaint.\nThe Minister said these arrangements apply to Sri Lankan citizens returning from any country, including Finland and Kuwait.\nHe emphasised that Sri Lankan citizens are entitled to access driving licence services under their existing citizenship rights without making unnecessary additional payments.\nThe clarification was made in Parliament in response to concerns over the procedures applicable to Sri Lankan citizens living overseas.",
+      "word_count": 204,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 18,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Transport, Highways and Urban Development Minister Bimal Rathnayake has clarified that Sri Lankan citizens living overseas can use their existing Sri Lankan driving licences when returning to the country, without obtaining additional permits or paying unnecessary fees. Addressing Parliament, the Minister said Sri Lankans who already hold a valid driving licence issued in Sri Lanka can legally drive vehicles during their visits to the country.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262430.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261023_200757_Chrome.jpg",
+          "alt": "Minister clarifies driving licence rules for Sri Lankans living abroad"
+        }
+      ]
+    },
+    {
+      "id": 262432,
+      "title": "Woman arrested in Grandpass with over 2kg of Ice and Heroin",
+      "url": "https://www.newswire.lk/2026/10/23/woman-arrested-in-grandpass-with-over-2kg-of-ice-and-heroin/",
+      "published": "2026-10-23T20:08:07+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Officers from the Kelaniya Division Crimes Investigation Bureau arrested a 46-year-old female suspect in the early hours of yesterday (October 22) within the Grandpass police division, recovering 1 kilogram and 45 grams of crystal methamphetamine (Ice) along with 1 kilogram and 86 grams of heroin.\nFollowing the arrest, officers conducted a search of a rented house where the suspect had been staying, seizing an electronic scale, a mobile phone suspected of being used for drug trafficking and Rs. 850,000 in cash believed to be proceeds from the illicit trade.\nThe suspect is a resident of the same area, and the Kelaniya Division Crimes Investigation Bureau is conducting further investigations to uncover the wider drug network.",
+      "word_count": 115,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 2,
+        "Tech": 0
+      },
+      "summary": "Officers from the Kelaniya Division Crimes Investigation Bureau arrested a 46-year-old female suspect in the early hours of yesterday (October 22) within the Grandpass police division, recovering 1 kilogram and 45 grams of crystal methamphetamine (Ice) along with 1 kilogram and 86 grams of heroin.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262432.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/images-7.jpeg",
+          "alt": "Woman arrested in Grandpass with over 2kg of Ice and Heroin"
+        }
+      ]
+    },
+    {
+      "id": 262428,
+      "title": "Sri Lanka Railways launches joint initiative to overhaul S11 locomotives",
+      "url": "https://www.newswire.lk/2026/10/23/sri-lanka-railways-launches-joint-initiative-to-overhaul-s11-locomotives/",
+      "published": "2026-10-23T20:05:10+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Sri Lanka Railways Department has launched a new joint initiative this year with the Government Factory to conduct heavy schedule maintenance on S11 locomotives alongside existing operations at the Ratmalana Railway Workshop.\nDeputy Minister of Transport and Highways Dr. Prasanna Gunasena inspected the ongoing maintenance work under this collaborative project at the Maligawatta Railway Yard today.\nAs part of the overhaul, the locomotive’s old fiberglass front face is being replaced with a newly fabricated, durable stainless steel structure. Maintenance work is expected to be completed swiftly, with the upgraded S11 engine scheduled to return to active service by January. The initiative aims to strengthen rail transport services through inter-agency state cooperation.",
+      "word_count": 112,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 5,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Sri Lanka Railways Department has launched a new joint initiative this year with the Government Factory to conduct heavy schedule maintenance on S11 locomotives alongside existing operations at the Ratmalana Railway Workshop. The initiative aims to strengthen rail transport services through inter-agency state cooperation.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262428.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/859812144_1060763810325236_4127777863549373363_n.jpeg",
+          "alt": "Sri Lanka Railways launches joint initiative to overhaul S11 locomotives"
+        }
+      ]
+    },
+    {
+      "id": 262425,
+      "title": "Chinese Ambassador meets family of historic Rubber-Rice Pact signatory R.G. Senanayake",
+      "url": "https://www.newswire.lk/2026/10/23/chinese-ambassador-meets-family-of-historic-rubber-rice-pact-signatory-r-g-senanayake/",
+      "published": "2026-10-23T19:24:00+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Newly appointed Chinese Ambassador to Sri Lanka Wei Huaxiang recently met with the family members of the late Hon. R.G. Senanayake, the former Sri Lankan Minister of Trade and Commerce who played a pivotal role in negotiating and signing the historic 1952 Rubber-Rice Pact between Sri Lanka and China.\nDuring the meeting, Ambassador Wei reaffirmed China’s commitment to honoring long-standing diplomatic and economic ties, emphasizing that China will never forget its historic allies. He expressed his desire for the enduring bilateral friendship forged through early milestones like the Rubber-Rice Pact to be preserved and passed down through generations.",
+      "word_count": 98,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 18,
+        "Finance": 4,
+        "Tech": 0
+      },
+      "summary": "Newly appointed Chinese Ambassador to Sri Lanka Wei Huaxiang recently met with the family members of the late Hon. R.G. Senanayake, the former Sri Lankan Minister of Trade and Commerce who played a pivotal role in negotiating and signing the historic 1952 Rubber-Rice Pact between Sri Lanka and China.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262425.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-19.19.37.jpeg",
+          "alt": "Chinese Ambassador meets family of historic Rubber-Rice Pact signatory R.G. Senanayake"
+        }
+      ]
+    },
+    {
+      "id": 262422,
+      "title": "Medical Supplies Division receives 15 modern forklifts and reach trucks worth Rs. 130 million",
+      "url": "https://www.newswire.lk/2026/10/23/medical-supplies-division-receives-15-modern-forklifts-and-reach-trucks-worth-rs-130-million/",
+      "published": "2026-10-23T18:56:48+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Medical Supplies Division (MSD) was officially handed over 11 modern reach trucks and four forklifts valued at Rs. 130 million today (23) to enhance the operational quality, safety and efficiency of the logistics management process under the Ministry of Health and Mass Media.\nThe procurement represents the first time in nearly 25 years that a large bulk consignment of 15 material-handling vehicles equipped with modern technology has been acquired at once, fulfilling a long-standing requirement for the MSD, which previously relied on a limited number of aging forklifts and rented vehicles. The handing over ceremony was held under the patronage of Minister of Health and Mass Media Dr. Nalinda Jayatissa, with the consignment provided through World Bank project funding.\nIn addition to the equipment, loan assistance under the World Bank project will fund the construction of three new pharmaceutical warehouse complexes in Galle, Colombo and Anuradhapura to expand island-wide medicine storage capacity by an additional 20,000 to 30,000 cubic meters, with construction scheduled to begin in 2027.\nThe Ministry of Health expects this comprehensive modernization programme to streamline public health drug distribution and supply chain management across Sri Lanka.",
+      "word_count": 190,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 4,
+        "Finance": 12,
+        "Tech": 3
+      },
+      "summary": "The Medical Supplies Division (MSD) was officially handed over 11 modern reach trucks and four forklifts valued at Rs. 130 million today (23) to enhance the operational quality, safety and efficiency of the logistics management process under the Ministry of Health and Mass Media.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262422.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-18.53.17.jpeg",
+          "alt": "Medical Supplies Division receives 15 modern forklifts and reach trucks worth Rs. 130 million"
+        }
+      ]
+    },
+    {
+      "id": 262416,
+      "title": "Silent protest in Galle demands action against corruption and drug trafficking",
+      "url": "https://www.newswire.lk/2026/10/23/silent-protest-in-galle-demands-action-against-corruption-and-drug-trafficking/",
+      "published": "2026-10-23T18:30:43+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "A silent protest was held in Galle town today (23) against various conspiracies attempting to derail the legal process of punishing thieves, corrupt individuals and drug traffickers.\nOrganized by the civil organization ‘Janawarame Purawasiyo’ (Citizens of the People’s Mandate), the demonstration aimed to safeguard the rule of law in Sri Lanka and advocate for decisive measures against corruption.\nA large crowd, including members of the Maha Sangha, gathered in Galle town center to participate in the peaceful demonstration. Protesters emphasized that the judicial process must remain transparent and demanded that no obstacles be placed in the way of enforcing the law against criminals and corrupt actors.",
+      "word_count": 106,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A silent protest was held in Galle town today (23) against various conspiracies attempting to derail the legal process of punishing thieves, corrupt individuals and drug traffickers. Organized by the civil organization ‘Janawarame Purawasiyo’ (Citizens of the People’s Mandate), the demonstration aimed to safeguard the rule of law in Sri Lanka and advocate for decisive measures against corruption.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262416.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-17.39.06.jpeg",
+          "alt": "Silent protest in Galle demands action against corruption and drug trafficking"
+        },
+        {
+          "src": "images/2026-10-24/262416-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/protest-pix.jpeg",
+          "alt": "Silent protest in Galle demands action against corruption and drug trafficking"
+        }
+      ]
+    },
+    {
+      "id": 262413,
+      "title": "Government moves to shut down or merge 34 state institutions",
+      "url": "https://www.newswire.lk/2026/10/23/government-moves-to-shut-down-or-merge-34-state-institutions/",
+      "published": "2026-10-23T18:13:36+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "President Anura Kumara Dissanayake has revealed that the Ministry of Finance has appointed a committee to examine the closure or merger of 34 state institutions identified as unnecessary or inefficient.\nAddressing the 100th Annual Conference of the Government Surveyors’ Association at Waters Edge in Battaramulla on Friday (23), the President said the move was part of broader efforts to establish an efficient public service staffed by capable and highly qualified professionals.\nHe noted that political appointments made in the past had resulted in excessive staffing at lower levels of the public service, creating a substantial financial burden on the Government.\nThe President said the Government was working to make public sector employment more attractive to qualified professionals, particularly engineers, IT specialists and managers, whose recruitment and retention had become increasingly difficult.\nReferring to public sector salaries, President Dissanayake said the Government had introduced a three-phase increase in basic salaries covering 2025, 2026 and 2027.\nHe explained that each phase would cost the Government approximately Rs. 110 billion, bringing the additional annual salary expenditure to Rs. 330 billion by 2027 compared with 2024.\nHowever, he confirmed that no further increase in basic salaries was planned under the 2028 Budget, although greater consideration could be given to allowances.\nThe President also stressed the importance of strengthening public administration to ensure that the benefits of economic recovery reach people at the grassroots level.\nHe said an efficient state machinery was essential to improving public services, resolving land-related issues and expanding access to agricultural, educational and healthcare facilities.\nThe President further pledged government support to modernise the surveying service through advanced technology, improved human resource development and necessary reforms to existing service regulations.\nAccording to the President’s Media Division, the Government is prepared to allocate funds for modern surveying equipment based on an assessment of the sector’s technological requirements.",
+      "word_count": 305,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 26,
+        "Finance": 10,
+        "Tech": 3
+      },
+      "summary": "President Anura Kumara Dissanayake has revealed that the Ministry of Finance has appointed a committee to examine the closure or merger of 34 state institutions identified as unnecessary or inefficient.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262413.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261023_181242_Gallery.jpg",
+          "alt": "Government moves to shut down or merge 34 state institutions"
+        }
+      ]
+    },
+    {
+      "id": 262410,
+      "title": "Wildlife Department strengthens field operations with 229 new recruits",
+      "url": "https://www.newswire.lk/2026/10/23/wildlife-department-strengthens-field-operations-with-229-new-recruits/",
+      "published": "2026-10-23T17:21:00+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "recruitment",
+        "Wildlife"
+      ],
+      "text": "The Department of Wildlife Conservation has recruited 229 new Wildlife Rangers, including six women, to strengthen field operations and address human-elephant conflict across Sri Lanka.\nAccording to the Ministry of Environment, appointment letters were presented to the 229 Grade III Wildlife Rangers at a ceremony held at the Ministry premises in Battaramulla today (23), under the patronage of the Minister of Environment and with the participation of the Deputy Minister.\nThe new recruits comprise 223 men and six women, selected through a competitive examination and a series of interviews.\nThe Ministry stated that the newly appointed officers will be responsible for protecting wildlife and natural resources, preventing illegal activities in protected areas and assisting communities affected by human-elephant conflict.\nTheir duties will include driving wild elephants away from villages, maintaining electric fences, protecting lives and property in conflict-affected areas, and conducting raids against illegal hunting, unauthorised entry into protected areas and the setting of animal traps.\nThe officers will also conduct round-the-clock patrols in national parks, sanctuaries and nature reserves, while assisting in the rescue and treatment of injured or trapped wild animals.\nThe Ministry highlighted the importance of female officers in engaging with communities affected by human-elephant conflict, particularly women, children and families in rural areas.\nMeanwhile, all 229 recruits will undergo a six-month residential training programme covering wildlife management, law enforcement, practical field skills and professional development.\nThe training will be conducted at wildlife training centres in Randenigala, Ritigala, Maduru Oya and Giritale.\nUpon successfully completing the training programme, the officers will be appointed to permanent service and deployed for wildlife conservation duties, with particular emphasis on reducing human-elephant conflict across the country.\nMinistry Secretary K. R. Uduwawala, Director General of Wildlife Conservation Ranjan Marasinghe and several senior officials attended the appointment ceremony.",
+      "word_count": 295,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 9,
+        "Finance": 1,
+        "Tech": 0
+      },
+      "summary": "The Department of Wildlife Conservation has recruited 229 new Wildlife Rangers, including six women, to strengthen field operations and address human-elephant conflict across Sri Lanka. Meanwhile, all 229 recruits will undergo a six-month residential training programme covering wildlife management, law enforcement, practical field skills and professional development.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262410.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Wildlife-officers.jpg",
+          "alt": "Wildlife Department strengthens field operations with 229 new recruits"
+        }
+      ]
+    },
+    {
+      "id": 262404,
+      "title": "Train services suspended between Rambukkana, Peradeniya and Gampola for two days",
+      "url": "https://www.newswire.lk/2026/10/23/train-services-suspended-between-rambukkana-peradeniya-and-gampola-for-two-days/",
+      "published": "2026-10-23T17:08:08+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka Railways has announced the temporary suspension of all train services between Rambukkana, Peradeniya and Gampola on October 24 and 25 due to adverse weather conditions.\nThe decision follows a landslide near Kadigamuwa Railway Station, where a mound of earth collapsed onto the railway track.\nEmergency repairs will be carried out over the two days to clear the obstruction and restore the railway line.\nSri Lanka Railways said passengers who have already booked tickets for the affected dates can obtain a full refund from any railway station.",
+      "word_count": 88,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka Railways has announced the temporary suspension of all train services between Rambukkana, Peradeniya and Gampola on October 24 and 25 due to adverse weather conditions. Emergency repairs will be carried out over the two days to clear the obstruction and restore the railway line.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262404.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/07/train.jpg",
+          "alt": "Train services suspended between Rambukkana, Peradeniya and Gampola for two days"
+        }
+      ]
+    },
+    {
+      "id": 262397,
+      "title": "Fake iPhone Duo sales: Buyers warned of online scams",
+      "url": "https://www.newswire.lk/2026/10/23/fake-iphone-duo-sales-buyers-warned-of-online-scams/",
+      "published": "2026-10-23T16:42:43+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "iPhone Duo",
+        "Kaspersky"
+      ],
+      "text": "Cybersecurity company Kaspersky has warned consumers against fraudulent websites offering fake discounts and preorder deals for Apple’s new iPhone Duo, cautioning that scammers are attempting to steal personal and financial information from potential buyers.\nIn a statement issued today (23), Kaspersky said its researchers had detected several scam campaigns targeting consumers in different parts of the world, coinciding with the official launch of Apple’s first foldable smartphone.\nAccording to Kaspersky, one fraudulent English-language website advertised a 25% discount on the device, using a design similar to Apple’s official website to mislead customers.\nThe website also displayed a countdown timer claiming that the offer would expire within 30 minutes, creating a false sense of urgency to encourage purchases.\nAt checkout, customers were asked to provide their contact details and delivery addresses, while being informed that a representative would contact them later to confirm payment and delivery arrangements.\nKaspersky warned that such methods could be used to obtain further personal and financial information, potentially resulting in financial losses.\nThe cybersecurity company also identified fraudulent multilingual websites offering fake preorders, allowing customers to select their preferred language and payment currency.\nSome websites falsely suggested that customers would be redirected to Apple’s official website to complete their purchases.\nMeanwhile, another scam targeting Portuguese-speaking consumers attempted to obtain WhatsApp-linked phone numbers and email addresses under the pretext of checking product availability.\nKaspersky warned that this information could subsequently be used for further fraudulent activities and social engineering attacks.\nCommenting on the findings, Kaspersky Senior Web Content Analyst Olga Altukhova said scammers often exploit the excitement surrounding major product launches to pressure consumers into making quick decisions without verifying the authenticity of offers.\nShe cautioned that unofficial discounts, preorder opportunities and product availability checks should be treated as potential warning signs of fraud.\nKaspersky has advised consumers to purchase devices only through official or reputable retailers and carefully verify website addresses before providing personal information.\nThe company also recommended using reliable security software, secure payment methods, password managers and multi-factor authentication to protect financial and personal information.\nConsumers were further advised to regularly monitor their bank accounts and financial statements for unauthorised transactions.",
+      "word_count": 357,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 11,
+        "Tech": 21
+      },
+      "summary": "Cybersecurity company Kaspersky has warned consumers against fraudulent websites offering fake discounts and preorder deals for Apple’s new iPhone Duo, cautioning that scammers are attempting to steal personal and financial information from potential buyers. Kaspersky warned that such methods could be used to obtain further personal and financial information, potentially resulting in financial losses.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262397.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/kaspersky-iPhone-scam.jpg",
+          "alt": "Fake iPhone Duo sales: Buyers warned of online scams"
+        }
+      ]
+    },
+    {
+      "id": 262391,
+      "title": "Chamara Sampath granted bail in four bribery cases, further remanded in another",
+      "url": "https://www.newswire.lk/2026/10/23/chamara-sampath-granted-bail-in-four-bribery-cases-further-remanded-in-another/",
+      "published": "2026-10-23T16:22:02+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Chamara Sampath Dassanayake"
+      ],
+      "text": "MP Chamara Sampath Dassanayake and his former secretary have been granted bail in four bribery cases filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), following an order issued by the Colombo Magistrate’s Court today (23).\nHowever, the court rejected their bail applications in a separate bribery case involving phosphate export licences and ordered that both suspects be further remanded until November 6.\nColombo Chief Magistrate Asanga S. Bodaragama issued the orders after considering submissions made by the Bribery Commission and the attorneys representing the suspects.\nAccordingly, the Magistrate ordered that each suspect be released on two surety bonds of Rs. 1 million each, separately applicable to each of the four cases. Overseas travel bans were also imposed on both suspects.\nThree of the cases relate to allegations that Dassanayake accepted bribes from gem businessmen to allow them to continue their businesses without interference during his tenure as State Minister of Primary Industries.\nAccording to the Bribery Commission, the first case involves allegations that Dassanayake demanded Rs. 1.2 million from one gem owner and obtained Rs. 500,000 as a bribe.\nThe second case concerns allegations of demanding and accepting Rs. 1 million from another gem owner, while the third involves an alleged bribe of Rs. 200,000 from another gem owner.\nThe Bribery Commission informed the court that Liyanarachchige Sumathipala Liyanarachchi had been named as the second suspect in the proceedings.\nThe court granted bail to the suspects in these three cases and one additional bribery case, with all four cases scheduled to be taken up again on January 26.\nMeanwhile, in the separate phosphate export licence case, Dassanayake and his former secretary are accused of accepting bribes amounting to Rs. 8.1 million from three private companies in connection with issuing licences required for phosphate exports, and aiding and abetting the alleged offence.\nThe Magistrate rejected their bail applications in this case and ordered that both suspects remain in remand custody until November 6.",
+      "word_count": 326,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 7,
+        "Finance": 11,
+        "Tech": 0
+      },
+      "summary": "MP Chamara Sampath Dassanayake and his former secretary have been granted bail in four bribery cases filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), following an order issued by the Colombo Magistrate’s Court today (23).",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262391.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2025/03/Chamara-Sampath-Dassanayake-2.jpg",
+          "alt": "Chamara Sampath granted bail in four bribery cases, further remanded in another"
+        }
+      ]
+    },
+    {
+      "id": 262385,
+      "title": "Court refuses to withdraw order against monks’ satyagraha at Viharamahadevi Park",
+      "url": "https://www.newswire.lk/2026/10/23/court-refuses-to-withdraw-order-against-monks-satyagraha-at-viharamahadevi-park/",
+      "published": "2026-10-23T16:16:14+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Colombo Chief Magistrate’s Court has rejected a request by lawyers representing Buddhist monks staging a satyagraha at Viharamahadevi Park to withdraw or amend an order directing protesters to leave the premises.\nColombo Chief Magistrate Asanga S. Bodaragama ruled on Friday (Oct. 23) that the court order issued on Thursday (Oct. 22) could not be changed.\nThe magistrate also stated that police could take appropriate legal action under the Penal Code if the order was violated.\nLawyers representing the protesters and the Attorney General filed separate motions before the court on Friday.\nThe protesters’ lawyers sought the withdrawal or amendment of the earlier order to allow the satyagraha to continue.\nThe court, however, refused the request.",
+      "word_count": 116,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 2,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Colombo Chief Magistrate’s Court has rejected a request by lawyers representing Buddhist monks staging a satyagraha at Viharamahadevi Park to withdraw or amend an order directing protesters to leave the premises. Colombo Chief Magistrate Asanga S. Bodaragama ruled on Friday (Oct. 23) that the court order issued on Thursday (Oct. 22) could not be changed.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262385.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261023_161543_Facebook.jpg",
+          "alt": "Court refuses to withdraw order against monks’ satyagraha at Viharamahadevi Park"
+        }
+      ]
+    },
+    {
+      "id": 262386,
+      "title": "Hulangamuwa not advisor : Ranil’s office denies Harsha’s claim",
+      "url": "https://www.newswire.lk/2026/10/23/hulangamuwa-not-advisor-ranils-office-denies-harshas-claim/",
+      "published": "2026-10-23T16:14:51+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Duminda Hulangamuwa",
+        "Ranil Wickremesinghe"
+      ],
+      "text": "The Office of former President Ranil Wickremesinghe has issued a clarification regarding the economic advisors who served during his presidency, stating that Duminda Hulangamuwa was not among his key economic advisors.\nIn a statement issued yesterday (22), Wickremesinghe’s Office said Wickremesinghe had three key economic advisors during his tenure as President and Minister of Finance.\nThey were former Treasury Secretary Dr. R. H. Samaratunga, Treasury Secretary Mahinda Siriwardena and Central Bank Governor Dr. Nandalal Weerasinghe.\nAccording to the statement, Wickremesinghe appointed the three advisors after assuming office during the 2022 economic crisis, despite claims at the time that the crisis could not be resolved.\nThe statement noted that the three officials represented Sri Lanka in discussions with key domestic and international institutions, including the International Monetary Fund (IMF).\nIt further stated that the officials had also appeared before the Committee on Public Finance, chaired by Opposition MP Harsha de Silva.\nMeanwhile, the former President’s Office clarified that Duminda Hulangamuwa did not serve as an economic advisor to Wickremesinghe.\nInstead, Hulangamuwa was a member of an ad hoc group that contributed to the country’s economic growth strategy, representing the Chamber of Commerce, the statement said.\nThe clarification comes in response to recent remarks made by Opposition MP Harsha de Silva in Parliament this week, during which he claimed that Duminda Hulangamuwa, who had served as an economic advisor to former President Ranil Wickremesinghe, was now advising President Anura Kumara Dissanayake.",
+      "word_count": 239,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 56,
+        "Finance": 28,
+        "Tech": 0
+      },
+      "summary": "The Office of former President Ranil Wickremesinghe has issued a clarification regarding the economic advisors who served during his presidency, stating that Duminda Hulangamuwa was not among his key economic advisors.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262386.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Ranil-Hulangamuwa.jpg",
+          "alt": "Hulangamuwa not advisor : Ranil’s office denies Harsha’s claim"
+        }
+      ]
+    },
+    {
+      "id": 262382,
+      "title": "Fake Vap Poya Day bank rewards message: SLCERT issues warning",
+      "url": "https://www.newswire.lk/2026/10/23/fake-vap-poya-day-bank-rewards-message-slcert-issues-warning/",
+      "published": "2026-10-23T15:57:30+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "scam",
+        "SLCERT",
+        "VAP Poya"
+      ],
+      "text": "The Sri Lanka Computer Emergency Readiness Team (SLCERT) has warned the public against a fraudulent social media message claiming that a leading bank in Sri Lanka is offering special rewards to mark the upcoming Vap Poya Day.\nIn a statement, SLCERT said the message, which is circulating on social media, falsely claims that the bank is offering a special gift in celebration of Vap Poya Day, which falls on Sunday (25).\nThe organisation confirmed that the bank concerned has not announced or introduced any such reward scheme.\nAccording to SLCERT, the message is believed to be part of a scam aimed at obtaining personal information, banking details and other sensitive information from unsuspecting individuals.\nThe organisation warned that individuals who fall victim to the scam could also face the risk of having their bank accounts compromised.\nAccordingly, SLCERT has urged the public not to click on links accompanying such messages and to remain vigilant against fraudulent offers circulating online.",
+      "word_count": 159,
+      "is_lead": true,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 15,
+        "Tech": 6
+      },
+      "summary": "The Sri Lanka Computer Emergency Readiness Team (SLCERT) has warned the public against a fraudulent social media message claiming that a leading bank in Sri Lanka is offering special rewards to mark the upcoming Vap Poya Day.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262382.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/SLCERT-VAP-Poya.jpg",
+          "alt": "Fake Vap Poya Day bank rewards message: SLCERT issues warning"
+        }
+      ]
+    },
+    {
+      "id": 262372,
+      "title": "From a Question to a Legacy: The Story of Taian Lanka Steel",
+      "url": "https://www.newswire.lk/business/from-a-question-to-a-legacy-the-story-of-taian-lanka-steel/",
+      "published": "2026-10-23T15:54:58+05:30",
+      "source_categories": [
+        "Bizwire"
+      ],
+      "tags": [],
+      "text": "Every great journey begins with a question. For Taian Lanka Steel, it was a simple thought that sparked an extraordinary vision: Why can’t we build something of our own?\nIn 2010, that question became the foundation of Taian Lanka Steel, established by K. Pathmanathan with a vision to strengthen Sri Lanka’s manufacturing industry. As Sri Lanka’s first steel pipe manufacturer , Taian embarked on a journey to build local manufacturing capabilities and demonstrate the potential of Sri Lankan industry.\nWhat began as an ambitious vision grew through determination, bold decisions, and a belief in the possibilities of local manufacturing. From its early beginnings to the expansion of its manufacturing capabilities, every milestone reflected a commitment to building something meaningful — not just a business, but opportunities for people, industries, and the nation.\nBehind this journey were people who believed in the vision. The early support of Pathmanathan’s elder brother, Thiyagarajah, the longstanding partnership with its Chinese partners, including Shagang Group International, and the dedication of its employees have all played an important role in shaping the company’s story.\nOver the past 15 years, Taian Lanka Steel has continued to strengthen its position in the steel manufacturing industry, achieving a production capacity of approximately 8,000 metric tonnes per month and extending its reach to international markets, including the United States, Africa, and the Maldives.\nYet, the true story of Taian is not measured by production capacity or milestones alone. It lives in the trust built with customers, the opportunities created for hundreds of people, and the determination to keep moving forward.\nAs Taian Lanka Steel celebrates its 15th anniversary, it honours not only how far it has come, but also the people, partnerships, and purpose that made the journey possible.\nThe question that inspired its beginning continues to shape its future. Because Taian Lanka Steel’s story has never been just about manufacturing steel — it has been about building possibilities, strengthening Sri Lankan industry, and creating a legacy that reaches far beyond its foundations.\n15 Years of Strength. A Legacy of Trust. A Future Built in Sri Lanka.",
+      "word_count": 347,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 10,
+        "Tech": 0
+      },
+      "summary": "Every great journey begins with a question. In 2010, that question became the foundation of Taian Lanka Steel, established by K. Pathmanathan with a vision to strengthen Sri Lanka’s manufacturing industry.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262372.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Brown-Beige-Luxury-Hotel-Promotion-Instagram-Post-1080-x-1080-px-1.jpg.jpeg",
+          "alt": "From a Question to a Legacy: The Story of Taian Lanka Steel"
+        }
+      ]
+    },
+    {
+      "id": 262376,
+      "title": "Treatment continues for collapsed wild elephant in Sammanthurai",
+      "url": "https://www.newswire.lk/2026/10/23/treatment-continues-for-collapsed-wild-elephant-in-sammanthurai/",
+      "published": "2026-10-23T15:54:03+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Elephant",
+        "Samanthurai"
+      ],
+      "text": "Veterinary treatment is continuing for a wild elephant that fell ill and collapsed in the Sammanthurai area of the Ampara District, with wildlife officials working around the clock to save the animal.\nAccording to the Ministry of Environment, the male elephant, estimated to be between 25 and 30 years old, is receiving intensive veterinary care under a joint operation involving wildlife officials, veterinary teams, the Sri Lanka Army and Police.\nThe Ministry stated that although the elephant appears to be well-built and generally in good physical condition, its abdomen is unusually swollen, despite having no visible external injuries.\nVeterinary officials initially suspect that the animal’s condition may have been caused by poisoning or a gastrointestinal blockage resulting from the consumption of indigestible materials such as polythene.\nThe Eastern Regional Wildlife Veterinary Unit, Ampara Wildlife Range Office and Sammanthurai Beat Office are jointly coordinating the treatment efforts.\nThe Ministry said essential antibiotics were administered to the elephant yesterday (22), while wildlife officials continue to monitor its condition.\nMeanwhile, heavy rainfall in the area has caused flooding at the location where the elephant collapsed, creating difficulties for the ongoing treatment.\nAuthorities are currently preparing the ground using sand to ensure that treatment can continue without interruption.\nThe Sri Lanka Army has deployed 10 personnel to assist the Department of Wildlife Conservation, while Police have also extended support to the operation.\nAccording to the Ministry, a team of wildlife officers remains at the location day and night to monitor the elephant, ensure its safety and administer medication at the required times.",
+      "word_count": 258,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Veterinary treatment is continuing for a wild elephant that fell ill and collapsed in the Sammanthurai area of the Ampara District, with wildlife officials working around the clock to save the animal. Meanwhile, heavy rainfall in the area has caused flooding at the location where the elephant collapsed, creating difficulties for the ongoing treatment.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262376.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Samanthurai-elephant-2.jpg",
+          "alt": "Treatment continues for collapsed wild elephant in Sammanthurai"
+        }
+      ]
+    },
+    {
+      "id": 262374,
+      "title": "New cyclone forming in Bay of Bengal; increased rainfall expected in Sri Lanka",
+      "url": "https://www.newswire.lk/2026/10/23/new-cyclone-forming-in-bay-of-bengal-increased-rainfall-expected-in-sri-lanka/",
+      "published": "2026-10-23T15:53:35+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "A new low-pressure system developing over the Bay of Bengal is expected to intensify into a cyclonic storm by October 26, while Sri Lanka is likely to experience increased rainfall over the next few days, the Department of Meteorology has warned.\nAccording to the weather forecast issued at 2 p.m. on October 23, the new low-pressure area has formed near the North Andaman Islands and is expected to intensify into a depression by October 24.\nThe system is then forecast to move west-northwestwards, strengthening into a deep depression by October 25 before developing into a cyclonic storm over the west-central Bay of Bengal by the morning of October 26.\nHowever, the Meteorology Department said the developing weather system is not expected to directly affect Sri Lanka.\nNevertheless, increased rainfall is expected over the southwestern parts of the island during the next few days due to wind patterns associated with the system.\nMeanwhile, the low-pressure area previously located near Sri Lanka is moving westwards, away from the island.\nFor October 24, showers or thundershowers are forecast at times in the Western, Sabaragamuwa, Central, Northern and North-western provinces, as well as in the Galle and Matara districts.\nFairly heavy rainfall exceeding 75 mm is expected in some areas.\nThe public has been advised to take precautions against temporary strong winds and lightning during thundershowers.\nMisty conditions are also expected in parts of the Central and Uva provinces during the early morning hours.",
+      "word_count": 240,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A new low-pressure system developing over the Bay of Bengal is expected to intensify into a cyclonic storm by October 26, while Sri Lanka is likely to experience increased rainfall over the next few days, the Department of Meteorology has warned.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262374.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG-20261022-WA0132.jpg",
+          "alt": "New cyclone forming in Bay of Bengal; increased rainfall expected in Sri Lanka"
+        }
+      ]
+    },
+    {
+      "id": 262369,
+      "title": "Treasury Secretary recognises Customs officers for revenue collection efforts",
+      "url": "https://www.newswire.lk/2026/10/23/treasury-secretary-recognises-customs-officers-for-revenue-collection-efforts/",
+      "published": "2026-10-23T15:50:35+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Customs",
+        "Treasury"
+      ],
+      "text": "Treasury Secretary Harshana Suriyapperuma has commended Sri Lanka Customs officers for their contribution to government revenue collection, following the department’s achievement of exceeding its annual revenue target for 2026 ahead of schedule.\nSpeaking at a ceremony held at the Customs Department yesterday (22) to recognise the contributions of Customs officers, Suriyapperuma highlighted the importance of their efforts in maintaining the country’s economic stability.\nAccording to the Ministry of Finance, Sri Lanka Customs exceeded its annual revenue target of Rs. 2,207 billion for 2026, collecting Rs. 2,208 billion by October 13.\nThe department’s revenue continued to increase, reaching Rs. 2,286 billion as of October 21.\nThe Ministry stated that Sri Lanka Customs had exceeded its monthly revenue targets throughout 2026, achieving a higher annual revenue target within a shorter period compared to 2025, when the target was reached on November 11.\nAddressing the gathering, the Treasury Secretary stated that revenue collected by Customs officers would be utilised for public welfare, including infrastructure development, education, healthcare, future investments and emergency relief.\nHe further stated that revenue collected by institutions such as Sri Lanka Customs had supported the government’s ability to allocate Rs. 500 billion to respond to the Ditwah disaster and provide relief against rising fuel prices linked to the Middle East conflict.\nSuriyapperuma also highlighted the importance of efficient government revenue collection in strengthening economic stability, noting that international credit rating agencies consider such factors when assessing Sri Lanka’s creditworthiness.\nMeanwhile, he emphasised the need to modernise Customs operations through technology, improve information sharing among relevant institutions and strengthen measures to prevent fraudulent activities.\nHe noted that Sri Lanka Customs had successfully implemented its paperless Customs declaration programme despite initial challenges.\nSpeaking at the event, Director General of Sri Lanka Customs Wimal Liyanagamage attributed the achievement to the dedication and professional expertise of Customs officers.\nHe also expressed appreciation for the leadership and support provided by the President, the Deputy Ministers of Finance and the Treasury Secretary in strengthening the department’s operations.",
+      "word_count": 331,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 8,
+        "Finance": 48,
+        "Tech": 3
+      },
+      "summary": "Treasury Secretary Harshana Suriyapperuma has commended Sri Lanka Customs officers for their contribution to government revenue collection, following the department’s achievement of exceeding its annual revenue target for 2026 ahead of schedule. Addressing the gathering, the Treasury Secretary stated that revenue collected by Customs officers would be utilised for public welfare, including infrastructure development, education, healthcare, future investments and emergency relief.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262369.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Treasury-Customs.jpg",
+          "alt": "Treasury Secretary recognises Customs officers for revenue collection efforts"
+        }
+      ]
+    },
+    {
+      "id": 262366,
+      "title": "Palitha Bandara claims silver in men’s shot put at Asian Para Games",
+      "url": "https://www.newswire.lk/2026/10/23/palitha-bandara-claims-silver-in-mens-shot-put-at-asian-para-games/",
+      "published": "2026-10-23T15:41:00+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Asian Para Games",
+        "Palitha Bandara"
+      ],
+      "text": "Sri Lankan athlete Palitha Bandara has won a silver medal in the men’s shot put event at the 2026 Asian Para Games in Aichi-Nagoya, Japan.\nBandara secured the silver medal with a performance of 14.02 metres, adding another medal to Sri Lanka’s tally at the Games.\nEarlier today (23), Sri Lanka secured two gold medals through Pradeep Somasiri and Janani Dhananjana Wickramasinghe.\nPradeep Somasiri claimed gold in the men’s 1,500m T46 event, with athletes from India and the Philippines securing the silver and bronze medals, respectively.\nMeanwhile, Janani Dhananjana Wickramasinghe won gold in the women’s long jump T47 event, setting a new Games record with a jump of 5.52 metres.\nWith Bandara’s silver medal, Sri Lanka has secured two gold medals and one silver medal from these three performances at the Games.",
+      "word_count": 132,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lankan athlete Palitha Bandara has won a silver medal in the men’s shot put event at the 2026 Asian Para Games in Aichi-Nagoya, Japan. Bandara secured the silver medal with a performance of 14.02 metres, adding another medal to Sri Lanka’s tally at the Games.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-24/262366.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Asian-para-games-Palitha-banadraa.jpg",
+          "alt": "Palitha Bandara claims silver in men’s shot put at Asian Para Games"
+        }
+      ]
+    }
+  ]
+}
