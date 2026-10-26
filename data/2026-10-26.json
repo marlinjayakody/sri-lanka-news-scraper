@@ -1,0 +1,1544 @@
+{
+  "source": "https://www.newswire.lk/",
+  "fetched_via": "wp-rest-api",
+  "edition_date": "2026-10-26",
+  "generated_at": "2026-10-26T15:50:37+05:30",
+  "window": {
+    "from": "2026-10-25T15:50:37+05:30",
+    "to": "2026-10-26T15:50:37+05:30"
+  },
+  "enrichment": "keywords",
+  "categories": [
+    "Political",
+    "Finance",
+    "Tech",
+    "General"
+  ],
+  "counts": {
+    "Political": 16,
+    "Finance": 7,
+    "Tech": 1,
+    "General": 24
+  },
+  "articles": [
+    {
+      "id": 262863,
+      "title": "Sri Lanka, Romania discuss expanding job opportunities for Sri Lankan workers",
+      "url": "https://www.newswire.lk/2026/10/26/sri-lanka-romania-discuss-expanding-job-opportunities-for-sri-lankan-workers/",
+      "published": "2026-10-26T15:32:09+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Arun Hemachandra",
+        "Romania"
+      ],
+      "text": "Sri Lanka and Romania have held discussions on expanding employment opportunities for Sri Lankan workers and strengthening cooperation to ensure their welfare and wellbeing.\nAccording to the Ministry of Foreign Affairs, the discussions took place during a meeting between Deputy Minister of Foreign Affairs and Foreign Employment Arun Hemachandra and Romania’s Minister of Labour, Family, Youth and Social Solidarity, Petre-Florin Manole, in Bucharest today (26).\nDuring the meeting, Deputy Minister Hemachandra conveyed greetings from Sri Lanka’s Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and congratulated the Romanian Minister on his recent reappointment.\nThe two sides discussed strengthening bilateral labour cooperation, identifying suitable employment opportunities for Sri Lankan workers and promoting their welfare.\nThe discussions also focused on building upon the progress achieved through the Sri Lanka–Romania Joint Working Group on Labour Cooperation and exploring new areas of collaboration.\nAccording to the Foreign Ministry, the meeting reaffirmed the commitment of both countries to strengthening bilateral relations and expanding cooperation for mutual benefit.\nRomania’s Secretary of State at the Ministry of Labour, Family, Youth and Social Solidarity, Ciprian-Nicolae Vacaru, and Sri Lanka’s Ambassador to Romania, Samantha Pathirana, were also present at the meeting.",
+      "word_count": 194,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 33,
+        "Finance": 1,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka and Romania have held discussions on expanding employment opportunities for Sri Lankan workers and strengthening cooperation to ensure their welfare and wellbeing. According to the Ministry of Foreign Affairs, the discussions took place during a meeting between Deputy Minister of Foreign Affairs and Foreign Employment Arun Hemachandra and Romania’s Minister of Labour, Family, Youth and Social Solidarity, Petre-Florin Manole, in Bucharest today (26).",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262863.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Arun-hemachandra-romania.jpg",
+          "alt": "Sri Lanka, Romania discuss expanding job opportunities for Sri Lankan workers"
+        }
+      ]
+    },
+    {
+      "id": 262861,
+      "title": "Rajinikanth’s Jailer 2 becomes highest-grossing Tamil film of all time",
+      "url": "https://www.newswire.lk/2026/10/26/rajinikanths-jailer-2-becomes-highest-grossing-tamil-film-of-all-time/",
+      "published": "2026-10-26T15:29:07+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Rajinikanth’s latest blockbuster, Jailer 2, has become the highest-grossing Tamil film of all time, collecting more than Indian Rs. 710 crore worldwide in just 11 days.\nAccording to box office tracking platform Sacnilk, the film earned Indian Rs. 710.35 crore globally as of October 25, surpassing the lifetime collection of Rajinikanth’s 2018 blockbuster 2.0, which grossed approximately Indian Rs. 691 crore.\nThe achievement also makes Jailer 2 the first Tamil film to cross the Indian Rs. 700 crore mark at the worldwide box office.\nThe film, directed by Nelson Dilipkumar and released on October 15, has collected Indian Rs. 466.85 crore at the domestic box office, while overseas earnings have reached Indian Rs. 243.50 crore.\nThe action drama has performed strongly across multiple language versions, including Tamil, Telugu, Hindi and Kannada.\nProduced by Sun Pictures, Jailer 2 features an ensemble cast including Mohanlal, Shiva Rajkumar, Jackie Shroff, Ramya Krishnan, Vidya Balan, Mithun Chakraborty and Hrithik Roshan.\nThe sequel has also emerged as the highest-grossing Tamil film of 2026, with its theatrical run continuing across India and international markets.",
+      "word_count": 178,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 2,
+        "Tech": 0
+      },
+      "summary": "Rajinikanth’s latest blockbuster, Jailer 2, has become the highest-grossing Tamil film of all time, collecting more than Indian Rs. 710 crore worldwide in just 11 days. According to box office tracking platform Sacnilk, the film earned Indian Rs. 710.35 crore globally as of October 25, surpassing the lifetime collection of Rajinikanth’s 2018 blockbuster 2.0, which grossed approximately Indian Rs. 691 crore.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262861.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2023/08/jailer-Rajnikanth.jpg",
+          "alt": "Rajinikanth’s Jailer 2 becomes highest-grossing Tamil film of all time"
+        }
+      ]
+    },
+    {
+      "id": 262841,
+      "title": "David Pieris Automobiles Launches GWM ORA 5 EV and Haval Jolion MAX PHEV in Sri Lanka",
+      "url": "https://www.newswire.lk/business/david-pieris-automobiles-launches-gwm-ora-5-ev-and-haval-jolion-max-phev-in-sri-lanka/",
+      "published": "2026-10-26T15:25:46+05:30",
+      "source_categories": [
+        "Bizwire"
+      ],
+      "tags": [
+        "David Pieris Automobiles",
+        "electric cars Sri Lanka",
+        "electric vehicle price Sri Lanka",
+        "EV Sri Lanka",
+        "GWM ORA 5 Sri Lanka",
+        "GWM Sri Lanka",
+        "Haval Jolion MAX Sri Lanka",
+        "Haval Sri Lanka",
+        "hybrid cars Sri Lanka",
+        "plug-in hybrid Sri Lanka"
+      ],
+      "text": "New models expand the GWM portfolio with fully electric mobility, plug-in hybrid performance, advanced technology and intelligent safety\nDavid Pieris Automobiles (Private) Limited (DPA), the four-wheeler sales arm of David Pieris Group, has expanded its GWM portfolio in Sri Lanka with the launch of two new models: the fully electric GWM ORA 5 and the Haval Jolion MAX Plug-in Hybrid Electric Vehicle (PHEV). The launch was held at the GWM Experience Centre operated by DPA at Access Towers, Union Place, Colombo 02.\nGWM ORA 5: A New Era of Electric Mobility The GWM ORA 5 is a fully electric premium hatchback combining contemporary styling, comfort and advanced technology. Powered by a 100 kW electric motor and a 58.3 kWh battery, it offers a driving range of up to 520 km under New European Driving Cycle (NEDC) testing conditions.\nIts premium features include electric seats, a panoramic glass roof, a power tailgate and a 3.2-litre cooling box. Technology highlights include a 14.6-inch touchscreen display, voice control, wireless charging, a 360-degree camera with transparent chassis view and Vehicle-to-Load (V2L) functionality, enabling external electrical devices to be powered directly from the vehicle.\nThe ORA 5 also features advanced driver assistance technologies, including adaptive cruise control, automatic emergency braking, lane keep assist, front collision warning and traffic sign recognition. With 175 mm of ground clearance and four driving modes — Eco, Normal, Sport and Well Being — it is designed to meet diverse everyday driving needs.\nHaval Jolion MAX PHEV: Performance Meets Efficiency The Haval Jolion MAX PHEV combines electric driving capability with the flexibility of a petrol engine. Its 1.5-litre turbo plug-in hybrid powertrain delivers 240 kW of combined power and 513 Nm of torque, with an electric driving range of up to 108 km under NEDC testing conditions.\nThe SUV features a premium cabin with leather-appointed interiors, electrically adjustable and ventilated front seats, spacious second-row seating and a panoramic sunroof. Technology highlights include a 12.3-inch infotainment display, head-up display, 360-degree camera and voice control.\nSafety features include Level 2 Advanced Driver Assistance Systems (ADAS), adaptive cruise control, lane keep assist, blind spot monitoring, forward collision warning and autonomous emergency braking. The Haval Jolion MAX range also offers a Hybrid Electric Vehicle (HEV) variant that recharges its battery while driving without requiring external charging.\nExpanding the GWM Portfolio and Customer Support DPA currently offers a range of GWM vehicles in Sri Lanka, including the Haval H6 (HEV/PHEV), Tank 500 (HEV), Tank 300 (HEV) and Haval H6 GT (PHEV). The addition of the ORA 5 and Haval Jolion MAX PHEV further broadens its electrified vehicle portfolio.\nTo complement its vehicle offering, DPA operates a dedicated aftersales service centre at Hyde Park Corner, Colombo 02, supported by an islandwide dealer network. This infrastructure provides customers with access to aftersales service and maintenance support.\nThrough these introductions, David Pieris Automobiles continues to strengthen its GWM offering, responding to evolving customer expectations for performance, comfort, safety and more efficient mobility solutions.\nFor more information, contact David Pieris Automobiles on 0117 888 666 .",
+      "word_count": 506,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 4,
+        "Tech": 27
+      },
+      "summary": "New models expand the GWM portfolio with fully electric mobility, plug-in hybrid performance, advanced technology and intelligent safety\nDavid Pieris Automobiles (Private) Limited (DPA), the four-wheeler sales arm of David Pieris Group, has expanded its GWM portfolio in Sri Lanka with the launch of two new models: the fully electric GWM ORA 5 and the Haval Jolion MAX Plug-in Hybrid Electric Vehicle (PHEV).",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262841.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/1000.jpg",
+          "alt": "David Pieris Automobiles Launches GWM ORA 5 EV and Haval Jolion MAX PHEV in Sri Lanka"
+        },
+        {
+          "src": "images/2026-10-26/262841-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-11.y56.42-AM.jpeg",
+          "alt": "David Pieris Automobiles Launches GWM ORA 5 EV and Haval Jolion MAX PHEV in Sri Lanka"
+        },
+        {
+          "src": "images/2026-10-26/262841-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-att-11.56.42-AM.jpeg",
+          "alt": "David Pieris Automobiles Launches GWM ORA 5 EV and Haval Jolion MAX PHEV in Sri Lanka"
+        },
+        {
+          "src": "images/2026-10-26/262841-4.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-26-at-11.56.l42-AM.jpeg",
+          "alt": "David Pieris Automobiles Launches GWM ORA 5 EV and Haval Jolion MAX PHEV in Sri Lanka"
+        }
+      ]
+    },
+    {
+      "id": 262844,
+      "title": "Fisheries Department issues warning to fishermen over Cyclone Arnab",
+      "url": "https://www.newswire.lk/2026/10/26/fisheries-department-issues-warning-to-fishermen-over-cyclone-arnab/",
+      "published": "2026-10-26T15:17:17+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Arnab",
+        "cyclone",
+        "fishermen"
+      ],
+      "text": "The Department of Fisheries and Aquatic Resources has warned fishing vessels operating in sea areas affected by Cyclone Arnab to remain away from the storm’s centre and expected path, as wind speeds could exceed 100 km/h.\nIn a special notice issued today (26), Director General of Fisheries and Aquatic Resources Susantha Kahawatta said the depression in the Bay of Bengal has intensified into a cyclonic storm named Arnab.\nAccording to the Department of Meteorology’s latest advisory, the storm is currently located near latitude 15° 04′ North and longitude 088° 09′ East.\nThe cyclonic storm is expected to intensify further and move in a northwesterly direction, with a greater tendency towards the west.\nThe Fisheries Department warned that wind speeds in sea areas north of latitude 10° North could reach 100 km/h or even exceed that level at times due to the storm’s influence.\nAccordingly, fishing vessels currently operating in the affected sea areas have been strongly advised to maintain a safe distance from the centre of the cyclone and its projected path.\nThe Department further warned that sea areas surrounding Sri Lanka could also become rough due to the influence of the weather system.\nDirector General Kahawatta urged the fishing community to remain vigilant and closely follow future weather advisories issued by the relevant authorities.",
+      "word_count": 215,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Fisheries and Aquatic Resources has warned fishing vessels operating in sea areas affected by Cyclone Arnab to remain away from the storm’s centre and expected path, as wind speeds could exceed 100 km/h.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262844.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Cyclone-Arnab.jpg",
+          "alt": "Fisheries Department issues warning to fishermen over Cyclone Arnab"
+        }
+      ]
+    },
+    {
+      "id": 262838,
+      "title": "Another 12-year prison sentence for Easter attacks convict Nowfer Moulavi",
+      "url": "https://www.newswire.lk/2026/10/26/another-12-year-prison-sentence-for-easter-attacks-convict-nowfer-moulavi/",
+      "published": "2026-10-26T14:34:05+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Colombo Trial-at-Bar has sentenced Nowfer Moulavi and another individual to 12 years of rigorous imprisonment each after they pleaded guilty to charges linked to the collection of firearms and explosives at Lactowatte in Wanathavilluwa in 2018, alongside Zahran Hashim and other extremists.\nNowfer Moulavi had already been sentenced to 220 years of rigorous imprisonment in September 2026 following his conviction in the 2019 Easter Sunday terrorist attacks case.",
+      "word_count": 69,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Colombo Trial-at-Bar has sentenced Nowfer Moulavi and another individual to 12 years of rigorous imprisonment each after they pleaded guilty to charges linked to the collection of firearms and explosives at Lactowatte in Wanathavilluwa in 2018, alongside Zahran Hashim and other extremists.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262838.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261026_143336_Chrome.jpg",
+          "alt": "Another 12-year prison sentence for Easter attacks convict Nowfer Moulavi"
+        }
+      ]
+    },
+    {
+      "id": 262835,
+      "title": "SC rules Ranil violated fundamental rights over amnesty granted to man jailed following marriage dispute",
+      "url": "https://www.newswire.lk/2026/10/26/sc-rules-ranil-violated-fundamental-rights-over-amnesty-granted-to-man-jailed-following-marriage-dispute/",
+      "published": "2026-10-26T14:02:52+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Supreme Court has declared null and void a presidential amnesty granted under former President Ranil Wickremesinghe to a man sentenced to 29 months in prison for failing to pay Rs. 1.74 million in maintenance arrears.\nIn a judgment delivered on October 23, a three-judge bench ruled that the remission of the sentence granted to Mohamed Ameen Mohamed Naseem under the September 2024 general amnesty violated the fundamental right to equality and equal protection of the law guaranteed under Article 12(1) of the Constitution.\nThe judgment was delivered by Justice Janak De Silva, with Justices Dr. Sobhitha Rajakaruna and Sampath K.B. Wijeratne agreeing.\nThe case was filed by Naseem’s former wife, Ahamend Jaleel Farmilla Begum, who challenged his release after he had served less than two months of his 29-month prison sentence.\nNaseem was imprisoned in July 2024 following his failure to comply with a maintenance order issued by the Quazi Court. However, he was released on September 12, 2024, under a general amnesty granted to mark Prisoners’ Day.\nThe Supreme Court found that Naseem had received preferential treatment because his imprisonment had been recorded as resulting from the non-payment of a fine, while another prisoner jailed for similar maintenance arrears received only a one-week reduction in his sentence.\nThe court held that the difference in wording between the two prisoners’ commitment warrants did not justify such unequal treatment.\nConsequently, the Supreme Court ruled that former President Ranil Wickremesinghe, the Secretary to the Ministry of Justice and the Commissioner General of Prisons had violated the petitioner’s fundamental rights.\nThe court declared the remission granted to Naseem null and void, restoring the legal effect of his original prison sentence.\nIn a significant observation, the Supreme Court stated that Naseem, having been released despite the continuing validity of his sentence, was now a “fugitive from justice.”\nThe judgment said the appropriate course of action was for him to surrender immediately to law enforcement authorities.\nThe court further held that the original warrant issued by the Negombo Magistrate’s Court remained legally valid and provided sufficient authority for prison officials to detain him and enforce the sentence.\nHowever, the Supreme Court said no additional order directing the enforcement of the sentence was necessary, as the relevant Magistrate’s Court already possessed the authority to take the required steps.\nThe judgment also clarified that the President was not prevented from granting a fresh remission, provided it was done in accordance with the law and after considering all relevant circumstances.\nThe ruling was issued in Fundamental Rights Application No. 319/2024.",
+      "word_count": 423,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 37,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Supreme Court has declared null and void a presidential amnesty granted under former President Ranil Wickremesinghe to a man sentenced to 29 months in prison for failing to pay Rs. 1.74 million in maintenance arrears.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262835.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261026_140222_Editor-Lite.jpg",
+          "alt": "SC rules Ranil violated fundamental rights over amnesty granted to man jailed following marriage dispute"
+        }
+      ]
+    },
+    {
+      "id": 262832,
+      "title": "Heavy rains: Provincial authorities authorised to decide on school closures",
+      "url": "https://www.newswire.lk/2026/10/26/heavy-rains-provincial-authorities-authorised-to-decide-on-school-closures/",
+      "published": "2026-10-26T13:54:26+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "closure",
+        "school",
+        "weather"
+      ],
+      "text": "The Ministry of Education has authorised Provincial Education Secretaries and Provincial Directors of Education to decide on the temporary closure of schools in areas affected by adverse weather conditions.\nAccording to the Ministry, the decision has been taken in view of the prevailing heavy rainfall across the country, which could disrupt school activities in certain areas.\nAccordingly, provincial education authorities have been granted full powers to determine whether schools in their respective areas should remain open or be temporarily closed.\nThe Ministry stated that such decisions should be made after considering the prevailing disaster situation, flood risks and road obstructions in the relevant areas.\nThe measure is intended to allow provincial authorities to make appropriate decisions based on local weather conditions and the ability to conduct school activities safely.",
+      "word_count": 129,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Ministry of Education has authorised Provincial Education Secretaries and Provincial Directors of Education to decide on the temporary closure of schools in areas affected by adverse weather conditions. The measure is intended to allow provincial authorities to make appropriate decisions based on local weather conditions and the ability to conduct school activities safely.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262832.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/School-closure.jpg",
+          "alt": "Heavy rains: Provincial authorities authorised to decide on school closures"
+        }
+      ]
+    },
+    {
+      "id": 262829,
+      "title": "Sajith briefs diplomats on concerns over proposed security laws",
+      "url": "https://www.newswire.lk/2026/10/26/sajith-briefs-diplomats-on-concerns-over-proposed-security-laws/",
+      "published": "2026-10-26T13:41:25+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Opposition Leader Sajith Premadasa has held discussions with representatives of diplomatic missions and international organisations in Colombo over concerns surrounding the government’s proposed anti-terrorism and organised crime legislation.\nAccording to a statement issued by the Office of the Leader of the Opposition on October 25, the meeting focused on the proposed Protection of the State from Terrorism Bill and the Prevention of Organised Crimes Bill, particularly their implications for fundamental rights, judicial independence and constitutional safeguards.\nFormer MP M.A. Sumanthiran and other serving and former parliamentarians also raised concerns over the proposed legislation during the discussion.\nPremadasa stressed that while effective laws were necessary to combat terrorism and organised crime, such measures must include adequate judicial oversight and safeguards against the abuse of executive powers.\nThe meeting also highlighted concerns raised by the Human Rights Commission of Sri Lanka (HRCSL), which, in a statement dated October 21, described the proposed organised crime legislation as “wholly incompatible” with the fundamental rights chapter of the Constitution and Sri Lanka’s international human rights obligations.\nThe Commission warned that the proposed legislation could be more draconian than the Prevention of Terrorism Act of 1979 and called for its withdrawal and substantial revision.\nAmong the concerns highlighted were provisions relating to confessions made to senior police officers, executive-authorised detention, broad definitions of serious crimes and restrictions on judicial discretion over remand and bail.\nSeparately, the HRCSL raised concerns about the proposed terrorism legislation, calling for narrower definitions of terrorism, judicial supervision of detention orders, access to legal representation and stronger safeguards for granting bail.\nThe Bar Association of Sri Lanka (BASL) has also called for the withdrawal of the organised crime Bill and the withdrawal or amendment of the proposed terrorism legislation in its present form.\nPremadasa called for the publication of expert committee recommendations and wider consultations with the HRCSL, BASL and other stakeholders before the proposed legislation proceeds.\nHe emphasised that constitutional safeguards were essential not only for politicians and activists but also for ordinary citizens who could come into contact with the criminal justice system.\nThe Opposition Leader also reaffirmed Sri Lanka’s sovereignty, stressing that domestic legal issues should primarily be addressed through Parliament, the judiciary and national institutions, while maintaining constructive engagement with diplomatic representatives.\nHe reiterated the Opposition’s willingness to support effective security legislation that protects the public while upholding constitutional democracy, judicial independence and individual liberties.",
+      "word_count": 397,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 60,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Opposition Leader Sajith Premadasa has held discussions with representatives of diplomatic missions and international organisations in Colombo over concerns surrounding the government’s proposed anti-terrorism and organised crime legislation. Separately, the HRCSL raised concerns about the proposed terrorism legislation, calling for narrower definitions of terrorism, judicial supervision of detention orders, access to legal representation and stronger safeguards for granting bail.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262829.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261026_133928_Editor-Lite.jpg",
+          "alt": "Sajith briefs diplomats on concerns over proposed security laws"
+        }
+      ]
+    },
+    {
+      "id": 262827,
+      "title": "SC orders travel ban on Keheliya over unpaid compensation in medicine case",
+      "url": "https://www.newswire.lk/2026/10/26/sc-orders-travel-ban-on-keheliya-over-unpaid-compensation-in-medicine-case/",
+      "published": "2026-10-26T13:37:49+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Keheliya Rambukwella"
+      ],
+      "text": "The Supreme Court has ordered the release on bonds of former Health Minister Keheliya Rambukwella and three other respondents, while imposing overseas travel bans on them over their failure to fully pay court-ordered compensation in connection with the importation of substandard medicines.\nThe order was issued by a three-member Supreme Court bench headed by Chief Justice Preethi Padman Surasena, following the consideration of a motion filed by Transparency International Sri Lanka.\nThe four respondents include former Health Ministry Secretary Janaka Chandragupta.\nThe motion alleged that the respondents had committed contempt of court by failing to comply with an earlier Supreme Court ruling ordering them to pay compensation.\nIn March 2026, the Supreme Court ruled that fundamental rights had been violated through the importation of substandard medicines during the previous government.\nAccordingly, the court ordered five respondents, including former Minister Keheliya Rambukwella, to pay compensation over the fundamental rights violations.\nRambukwella was ordered to pay Rs. 75 million in compensation. However, during the proceedings, his lawyer informed the court that he had so far paid only Rs. 20 million of the amount.\nThe latest orders were issued following the respondents’ failure to fully settle the compensation amounts as directed by the Supreme Court.",
+      "word_count": 202,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 6,
+        "Finance": 2,
+        "Tech": 0
+      },
+      "summary": "The Supreme Court has ordered the release on bonds of former Health Minister Keheliya Rambukwella and three other respondents, while imposing overseas travel bans on them over their failure to fully pay court-ordered compensation in connection with the importation of substandard medicines. Accordingly, the court ordered five respondents, including former Minister Keheliya Rambukwella, to pay compensation over the fundamental rights violations.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262827.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2025/05/Keheliya-Rambukwella.jpg",
+          "alt": "SC orders travel ban on Keheliya over unpaid compensation in medicine case"
+        }
+      ]
+    },
+    {
+      "id": 262824,
+      "title": "Sri Lanka captain Chamari Athapaththu joins Hobart Hurricanes for WBBL 2026",
+      "url": "https://www.newswire.lk/2026/10/26/sri-lanka-captain-chamari-athapaththu-joins-hobart-hurricanes-for-wbbl-2026/",
+      "published": "2026-10-26T13:32:30+05:30",
+      "source_categories": [
+        "Cricwire",
+        "News"
+      ],
+      "tags": [
+        "Chamari Athapaththu",
+        "Hobart Hurricanes"
+      ],
+      "text": "Sri Lanka Women’s Cricket Captain Chamari Athapaththu has joined the Hobart Hurricanes for the upcoming Women’s Big Bash League (WBBL) 2026 season as an overseas replacement player.\nAccording to the Hobart Hurricanes, Athapaththu will replace England international Danni Wyatt-Hodge, who has been ruled out of the tournament due to injury.\nThe 36-year-old Sri Lankan skipper, currently ranked sixth in the ICC Women’s T20I batting rankings, brings extensive international experience to the defending champions ahead of their season opener against the Melbourne Stars on Thursday.\nAthapaththu has previously featured in seven editions of the WBBL, playing 69 matches for the Perth Scorchers, Melbourne Renegades and Sydney Thunder.\nShe enjoyed an outstanding campaign with Sydney Thunder in WBBL|09, scoring 552 runs at an average of 42.46, including five half-centuries, to claim the Player of the Tournament award.\nShe also took nine wickets during the tournament, highlighting her all-round abilities.\nHurricanes Head of High Performance Salliann Beams welcomed Athapaththu’s signing, describing her as one of the most dangerous batters in world cricket.\n“To be able to bring in someone of Chamari’s quality and experience is a fantastic result for the Hurricanes,” Beams said.\n“She’s one of the most dangerous batters in world cricket, she’s a proven performer in the WBBL and she brings enormous leadership experience as captain of Sri Lanka.”\nBeams also praised Athapaththu’s aggressive style of play, saying it aligns with the team’s approach.\n“Chamari plays an aggressive, fearless brand of cricket that fits perfectly with the way we want to play, and we’re looking forward to welcoming her to Hobart,” she added.\nMeanwhile, the Hurricanes have also signed emerging wicketkeeper-batter Kate Pelle following her impressive performances in the recent Spring Challenge.\nPelle scored 136 runs across four matches, including 61 against the ACT Meteors and 43 against the Perth Scorchers.\nHer inclusion provides the Hurricanes with additional batting flexibility and another wicketkeeping option alongside Lizelle Lee.\nBeams said Pelle had earned her opportunity through her performances and expressed confidence in her ability to contribute to the team during the upcoming season.",
+      "word_count": 341,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 1,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka Women’s Cricket Captain Chamari Athapaththu has joined the Hobart Hurricanes for the upcoming Women’s Big Bash League (WBBL) 2026 season as an overseas replacement player. According to the Hobart Hurricanes, Athapaththu will replace England international Danni Wyatt-Hodge, who has been ruled out of the tournament due to injury.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262824.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Chamari-Hobart-Hurricanes.jpg",
+          "alt": "Sri Lanka captain Chamari Athapaththu joins Hobart Hurricanes for WBBL 2026"
+        }
+      ]
+    },
+    {
+      "id": 262820,
+      "title": "Education Ministry warns public over fake circulars circulating online",
+      "url": "https://www.newswire.lk/2026/10/26/education-ministry-warns-public-over-fake-circulars-circulating-online/",
+      "published": "2026-10-26T13:13:21+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Education Ministry",
+        "fake circular"
+      ],
+      "text": "The Ministry of Education, Higher Education and Vocational Education has warned the public against fake and altered official circulars being circulated through social media and messaging applications.\nIn a statement, the Ministry said it has observed an increasing trend of official circulars being distorted and false information being circulated online.\nThe Ministry expressed serious concern over such misleading information, which could cause confusion among teachers, principals, students, parents and the general public.\nAccordingly, the Ministry urged the public and relevant stakeholders to consider only the circulars published on its official website as accurate and valid.\nThe public has also been advised not to be misled by fake or altered circulars and to refrain from sharing such information through social media and messaging platforms.",
+      "word_count": 123,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 6,
+        "Finance": 0,
+        "Tech": 6
+      },
+      "summary": "The Ministry of Education, Higher Education and Vocational Education has warned the public against fake and altered official circulars being circulated through social media and messaging applications. In a statement, the Ministry said it has observed an increasing trend of official circulars being distorted and false information being circulated online.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262820.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Education-ministry-Circular.jpg",
+          "alt": "Education Ministry warns public over fake circulars circulating online"
+        },
+        {
+          "src": "images/2026-10-26/262820-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Education-ministry-statement.jpg",
+          "alt": "Education Ministry warns public over fake circulars circulating online"
+        }
+      ]
+    },
+    {
+      "id": 262816,
+      "title": "29-year-old death : Serious assault allegations levelled against Police",
+      "url": "https://www.newswire.lk/2026/10/26/29-year-old-death-serious-assault-allegations-levelled-against-police/",
+      "published": "2026-10-26T13:10:09+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Activist Wasantha Mudalige has accused officers attached to the Homagama Police Station of brutally assaulting a 29-year-old man who died after being taken into police custody on October 25.\nThe deceased, identified as Ishara Harsha Kumara, a resident of Kiriwaththuduwa, was arrested during a drug-related investigation.\nIn a statement shared on social media, Mudalige alleged that the young man had been assaulted inside the police station and that officers had delayed providing medical assistance despite repeated requests from his relatives.\nAccording to the family, officers carried Kumara back to the police cell after questioning because he was unable to walk. Relatives claimed that he had visible injuries and was bleeding from his mouth.\nThe family further alleged that police only transferred him to Homagama Base Hospital following repeated requests and that he was already dead when he arrived.\nMudalige also raised concerns over the whereabouts of another young man who was reportedly travelling with Kumara on a motorcycle when they were arrested. He alleged that the man’s whereabouts had not been disclosed.\nHowever, Police Spokesman F.U. Wootler rejected claims that the second individual had been made to disappear, describing the allegations as false.\nThe Police Spokesman said anyone taken into police custody must be produced before court.\nResponding to allegations of police brutality, Wootler said legal action would be taken against any officer found to have acted unlawfully, regardless of rank.\nPolice maintained that Kumara had developed a sudden illness while in custody and died after being admitted to hospital.\nA preliminary investigation has been launched under the supervision of the Homagama Assistant Superintendent of Police.\nThe magisterial inquiry and post-mortem examination were scheduled for today (October 26) to establish the circumstances and cause of death.\nMeanwhile, relatives and residents have demanded an impartial investigation and accountability over the incident.",
+      "word_count": 300,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 1
+      },
+      "summary": "Activist Wasantha Mudalige has accused officers attached to the Homagama Police Station of brutally assaulting a 29-year-old man who died after being taken into police custody on October 25. The Police Spokesman said anyone taken into police custody must be produced before court.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262816.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261026_130939_ChatGPT.jpg",
+          "alt": "29-year-old death : Serious assault allegations levelled against Police"
+        }
+      ]
+    },
+    {
+      "id": 262815,
+      "title": "Police clarify authority of uniformed officers to enforce traffic laws",
+      "url": "https://www.newswire.lk/2026/10/26/police-clarify-authority-of-uniformed-officers-to-enforce-traffic-laws/",
+      "published": "2026-10-26T13:02:43+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "Police",
+        "Traffic offence"
+      ],
+      "text": "Any Police officer wearing the official uniform is authorised to take legal action against traffic offenders under the Motor Traffic Act, Police Spokesman ASP F.U. Wootler has clarified.\nAddressing the media, the Police Spokesman said that the authority to take action over traffic violations is not limited to officers attached to the Traffic Police.\nHe explained that any Police officer in official uniform can initiate legal action over traffic offences, even when carrying out duties alone.\nASP Wootler made the clarification in response to questions circulating on social media regarding the authority of Police officers to enforce traffic laws.\nMeanwhile, responding to concerns about Police officers hiding to catch traffic offenders, the Spokesman said the Inspector General of Police (IGP) has informed all Police officers that it is not necessary to conceal themselves when detecting traffic violations.",
+      "word_count": 137,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 1
+      },
+      "summary": "Any Police officer wearing the official uniform is authorised to take legal action against traffic offenders under the Motor Traffic Act, Police Spokesman ASP F.U. Wootler has clarified. Addressing the media, the Police Spokesman said that the authority to take action over traffic violations is not limited to officers attached to the Traffic Police.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262815.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2024/01/Traffic-fine-police.jpg",
+          "alt": "Police clarify authority of uniformed officers to enforce traffic laws"
+        }
+      ]
+    },
+    {
+      "id": 262812,
+      "title": "Minor flood warning issued for Mahaweli River Basin",
+      "url": "https://www.newswire.lk/2026/10/26/minor-flood-warning-issued-for-mahaweli-river-basin/",
+      "published": "2026-10-26T12:40:42+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "flood warning",
+        "Mahaweli River"
+      ],
+      "text": "The Irrigation Department has issued a minor flood warning for low-lying areas along the Mahaweli River within the Pasbage Korale Divisional Secretariat Division, following heavy rainfall in the river’s upper catchment areas.\nAccording to the Department, significant rainfall recorded over the past few hours has increased the risk of minor flooding in low-lying areas adjacent to the Mahaweli River.\nThe warning, issued at 11.30 a.m. today (26), will remain valid until 11.30 a.m. tomorrow (27).\nThe Irrigation Department has advised residents in the affected areas and motorists travelling along roads passing through these locations to exercise extreme caution.\nPeople living close to the Mahaweli River have also been urged to remain highly vigilant and take necessary precautions against possible flooding.\nMeanwhile, disaster management authorities have been requested to take appropriate precautionary measures to ensure public safety.",
+      "word_count": 136,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Irrigation Department has issued a minor flood warning for low-lying areas along the Mahaweli River within the Pasbage Korale Divisional Secretariat Division, following heavy rainfall in the river’s upper catchment areas. According to the Department, significant rainfall recorded over the past few hours has increased the risk of minor flooding in low-lying areas adjacent to the Mahaweli River.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262812.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Mahaweli-floods.jpg",
+          "alt": "Minor flood warning issued for Mahaweli River Basin"
+        }
+      ]
+    },
+    {
+      "id": 262808,
+      "title": "Severe lightning warning issued for all 25 districts of Sri Lanka",
+      "url": "https://www.newswire.lk/2026/10/26/severe-lightning-warning-issued-for-all-25-districts-of-sri-lanka/",
+      "published": "2026-10-26T12:34:13+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Lightning",
+        "weather"
+      ],
+      "text": "The Department of Meteorology has issued red alerts for severe lightning in four districts and amber alerts for the remaining 21 districts of Sri Lanka, warning of thunderstorms accompanied by lightning and strong winds.\nAccording to the advisory issued at 11.30 a.m. today (26), thunderstorms accompanied by severe lightning are likely at several places in the North-central Province and the Trincomalee and Batticaloa districts.\nThe warning will remain valid until 11.00 p.m. today.\nThe Met Department also warned that temporary, localized strong winds may occur during thundershowers.\nThe public has been advised to take necessary precautions to minimize damage caused by lightning, including seeking shelter indoors and avoiding open areas such as paddy fields, tea plantations and open water bodies.\nPeople have also been advised to avoid using wired telephones and connected electrical appliances during thunderstorms, as well as open vehicles such as bicycles, tractors and boats.\nThe Department further urged the public to remain cautious of fallen trees and power lines and to contact local disaster management authorities in the event of an emergency. ( Newswire)",
+      "word_count": 177,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Meteorology has issued red alerts for severe lightning in four districts and amber alerts for the remaining 21 districts of Sri Lanka, warning of thunderstorms accompanied by lightning and strong winds. According to the advisory issued at 11.30 a.m. today (26), thunderstorms accompanied by severe lightning are likely at several places in the North-central Province and the Trincomalee and Batticaloa districts.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262808.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Lightninga-dvisory-1.jpg",
+          "alt": "Severe lightning warning issued for all 25 districts of Sri Lanka"
+        },
+        {
+          "src": "images/2026-10-26/262808-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Lightninga-dvisory.jpg",
+          "alt": "Severe lightning warning issued for all 25 districts of Sri Lanka"
+        }
+      ]
+    },
+    {
+      "id": 262805,
+      "title": "CBSL rates: Sri Lankan Rupee appreciates slightly against USD",
+      "url": "https://www.newswire.lk/2026/10/26/cbsl-rates-sri-lankan-rupee-appreciates-slightly-against-usd-2/",
+      "published": "2026-10-26T12:23:50+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "CBSL",
+        "Dollar",
+        "Rupee"
+      ],
+      "text": "The Sri Lankan Rupee has appreciated slightly against the US Dollar today (26), compared to last Friday, with the US Dollar selling rate steady at Rs. 336.\nAccording to the Central Bank of Sri Lanka, the buying rate of the US Dollar has decreased from Rs. 327.85 to Rs. 327.79.\nThe selling rate of the US Dollar has also reduced from Rs. 336.84 to Rs. 336.81.\nThe rupee has changed slightly against a basket of currencies, including Gulf currencies.",
+      "word_count": 79,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 41,
+        "Tech": 0
+      },
+      "summary": "The Sri Lankan Rupee has appreciated slightly against the US Dollar today (26), compared to last Friday, with the US Dollar selling rate steady at Rs. 336. The rupee has changed slightly against a basket of currencies, including Gulf currencies.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262805.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2021/05/bigstock-cash-money-dollar-background-241593535-1549211847385.jpg",
+          "alt": "CBSL rates: Sri Lankan Rupee appreciates slightly against USD"
+        },
+        {
+          "src": "images/2026-10-26/262805-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/CBSL-rates-12.jpg",
+          "alt": "CBSL rates: Sri Lankan Rupee appreciates slightly against USD"
+        }
+      ]
+    },
+    {
+      "id": 262802,
+      "title": "Indian national arrested with Kush cannabis worth over Rs. 51 Mn at BIA",
+      "url": "https://www.newswire.lk/2026/10/26/indian-national-arrested-with-kush-cannabis-worth-over-rs-51-mn-at-bia/",
+      "published": "2026-10-26T12:18:28+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Arrest",
+        "BIA",
+        "Indian",
+        "Kush"
+      ],
+      "text": "A 24-year-old Indian national has been arrested at the Bandaranaike International Airport (BIA) in Katunayake with 5.1 kilograms of Kush cannabis valued at over Rs. 51 million.\nAccording to Sri Lanka Customs, the suspect was arrested by officers of the Customs Narcotics Control Unit (NCU) at approximately 1.15 a.m. today (26).\nThe passenger had arrived in Sri Lanka on Vietnam Airlines flight VN671 and was attempting to exit through the Green Channel of the airport’s arrival terminal when Customs officers noticed his suspicious behaviour.\nHe was subsequently detained for further inspection, while his luggage was subjected to scanning.\nFollowing the detection of suspicious items during the scanning process, Customs officers searched the luggage and discovered several sealed polythene packets containing suspected narcotics.\nFurther examination confirmed that the packets contained 5.1 kilograms of Kush cannabis, with an estimated market value exceeding Rs. 51 million.\nFollowing preliminary investigations, Sri Lanka Customs handed over the suspect, the seized narcotics and other evidence to the Police Narcotics Bureau (PNB) for further investigations and legal proceedings.",
+      "word_count": 171,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 7,
+        "Tech": 0
+      },
+      "summary": "A 24-year-old Indian national has been arrested at the Bandaranaike International Airport (BIA) in Katunayake with 5.1 kilograms of Kush cannabis valued at over Rs. 51 million. Further examination confirmed that the packets contained 5.1 kilograms of Kush cannabis, with an estimated market value exceeding Rs. 51 million.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262802.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Kush-BIA-Indian.jpg",
+          "alt": "Indian national arrested with Kush cannabis worth over Rs. 51 Mn at BIA"
+        }
+      ]
+    },
+    {
+      "id": 262798,
+      "title": "Sri Lanka Railways to overhaul three S11 trains at Rs. 25 Mn each",
+      "url": "https://www.newswire.lk/2026/10/26/sri-lanka-railways-to-overhaul-three-s11-trains-at-rs-25-mn-each/",
+      "published": "2026-10-26T12:04:29+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Prasanna Gunasena",
+        "Railways",
+        "S11",
+        "train set"
+      ],
+      "text": "Sri Lanka Railways has launched a new programme to carry out major repairs on three S11-type trains in collaboration with the Government Factory Department, at an estimated cost of Rs. 25 million per train.\nThe initiative, introduced this year, aims to strengthen railway services through cooperation between government institutions while reducing the maintenance workload at the Ratmalana Main Railway Workshop.\nDeputy Minister of Transport and Highways Dr. Prasanna Gunasena inspected the ongoing repair work at the Maligawatta Railway Yard on October 23.\nDuring the visit, the Deputy Minister observed the complete overhaul of an Indian-manufactured S11 train.\nAs part of the refurbishment, the train’s existing fibre front panel will be replaced with a newly designed stainless steel panel.\nThe repairs are expected to be completed shortly, with the train scheduled to return to service in January 2027.\nAccording to the authorities, the new programme is being carried out with the assistance of the Heavy Welding Division of the Government Factory Department, allowing the Ratmalana Main Railway Workshop to carry out its regular maintenance operations more efficiently.\nThe Maligawatta Railway Yard, which covers more than 15 acres, provides maintenance services for trains operating on several railway lines, including the Up-country, Coastal and Kelani Valley lines.\nThe facility handles routine maintenance, running repairs and major overhauls of trains operating across the country.",
+      "word_count": 220,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 11,
+        "Finance": 0,
+        "Tech": 2
+      },
+      "summary": "Sri Lanka Railways has launched a new programme to carry out major repairs on three S11-type trains in collaboration with the Government Factory Department, at an estimated cost of Rs. 25 million per train. The Maligawatta Railway Yard, which covers more than 15 acres, provides maintenance services for trains operating on several railway lines, including the Up-country, Coastal and Kelani Valley lines.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262798.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Railway-S11-trains-1.jpg",
+          "alt": "Sri Lanka Railways to overhaul three S11 trains at Rs. 25 Mn each"
+        }
+      ]
+    },
+    {
+      "id": 262795,
+      "title": "Minor flooding likely in Kalu Ganga Basin within next 24 hours",
+      "url": "https://www.newswire.lk/2026/10/26/minor-flooding-likely-in-kalu-ganga-basin-within-next-24-hours/",
+      "published": "2026-10-26T11:58:13+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "flooding",
+        "Kalu Gnaga",
+        "Mee Oya"
+      ],
+      "text": "The Irrigation Department has issued a minor flood warning for low-lying areas of the Kalu Ganga Basin in the Ratnapura and Kalutara districts, following significant rainfall in the catchment areas.\nAccording to the Department, a minor flood situation is likely to develop in low-lying areas of the Kalu Ganga floodplain within the next 24 hours, based on the prevailing rainfall conditions and water levels recorded at river gauging stations.\nThe warning, which remains valid until 11.30 a.m. tomorrow (27), applies to the following Divisional Secretariat Divisions:\nRatnapura District: Pelmadulla, Nivithigala, Ratnapura, Kuruwita, Ayagama and Elapatha.\nKalutara District: Ingiriya, Horana, Dodangoda, Millaniya, Bulathsinhala, Madurawala and Palindanuwara.\nResidents in the affected areas and motorists travelling through these locations have been advised to remain highly vigilant and take necessary precautions.\nThe Irrigation Department has also requested disaster management authorities to take appropriate precautionary measures.\nMeanwhile, the Department announced that the spill gates of the Inginimitiya Reservoir, located in the Mee Oya River Basin, will be opened to control the increasing water inflow.\nAccordingly, water is expected to be released into Mee Oya at a rate of 1,000 cubic feet per second (cusecs) by 1.00 p.m. today (26).\nResidents living downstream of the reservoir and along both sides of Mee Oya have been advised to remain alert to changes in river water levels and follow instructions issued by the Irrigation Department and disaster management authorities.",
+      "word_count": 231,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Irrigation Department has issued a minor flood warning for low-lying areas of the Kalu Ganga Basin in the Ratnapura and Kalutara districts, following significant rainfall in the catchment areas.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262795.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Flood-warning.jpg",
+          "alt": "Minor flooding likely in Kalu Ganga Basin within next 24 hours"
+        }
+      ]
+    },
+    {
+      "id": 262787,
+      "title": "Discover the World Strengthens Sri Lanka Presence with Appointment of Tuan Kitchilan",
+      "url": "https://www.newswire.lk/business/discover-the-world-strengthens-sri-lanka-presence-with-appointment-of-tuan-kitchilan/",
+      "published": "2026-10-26T11:21:27+05:30",
+      "source_categories": [
+        "Bizwire"
+      ],
+      "tags": [],
+      "text": "Experienced industry professional to lead local market development and expand partnerships across Aviation, Cruise, Transportation and Travel technology.\nDiscover the World, a global travel representation company, has appointed Tuan Kitchilan to strengthen its presence in Sri Lanka and drive further growth across the aviation, travel and tourism sectors.\nTuan brings more than two decades of industry experience in business development, commercial management, sales, marketing and strategic partnerships. Having previously worked with Discover the World, he also brings a strong understanding of the company’s business and global representation network.\nDiscover the World currently represents Hertz, GOL and KM Malta Airlines in Sri Lanka and aims to expand its portfolio through new partnerships across Airlines, Cruise operators, Transportation providers, Travel technology companies, Tourism boards and other travel-related brands.\nCommenting on the appointment, Justin Gosling, Vice President of Discover the World Canada, India & Sri Lanka, said: “Tuan brings an excellent combination of industry experience, commercial expertise and an understanding of Discover the World. His appointment reflects our confidence in the opportunities available in Sri Lanka and our commitment to strengthening our presence.”\n“We see opportunities to help international brands grow through strong local representation, meaningful industry relationships and a proactive understanding of market needs. We welcome airlines, cruise operators, transportation providers, travel technology companies, tourism boards and other travel brands interested in developing their business in Sri Lanka to explore partnership opportunities with Discover the World. Our focus is to represent our partners professionally, understand their objectives and work alongside them to build their presence in the market.”",
+      "word_count": 256,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 22,
+        "Tech": 9
+      },
+      "summary": "Experienced industry professional to lead local market development and expand partnerships across Aviation, Cruise, Transportation and Travel technology. Discover the World, a global travel representation company, has appointed Tuan Kitchilan to strengthen its presence in Sri Lanka and drive further growth across the aviation, travel and tourism sectors.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262787.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Tuan-Kitchilan.jpg",
+          "alt": "Discover the World Strengthens Sri Lanka Presence with Appointment of Tuan Kitchilan"
+        },
+        {
+          "src": "images/2026-10-26/262787-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Appointment-of-Tuan-Kitchilan.jpg",
+          "alt": "Discover the World Strengthens Sri Lanka Presence with Appointment of Tuan Kitchilan"
+        }
+      ]
+    },
+    {
+      "id": 262789,
+      "title": "US Navy ship USS Canberra arrives in Colombo for second visit this year",
+      "url": "https://www.newswire.lk/2026/10/26/us-navy-ship-uss-canberra-arrives-in-colombo-for-second-visit-this-year/",
+      "published": "2026-10-26T11:21:25+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "US Navy",
+        "USS Canberra"
+      ],
+      "text": "The US Navy ship USS Canberra (LCS 30) arrived at the Port of Colombo today (26) for its second visit to Sri Lanka this year, as part of a routine port call.\nAccording to a statement issued by the US Embassy in Sri Lanka, the Independence-variant Littoral Combat Ship previously visited Colombo in June 2026.\nThe Embassy stated that the visit highlights the longstanding partnership between the US and Sri Lankan navies and their shared commitment to strengthening maritime security across the Indo-Pacific region.\nCommenting on the visit, US Ambassador to Sri Lanka Eric Meyer appreciated the support extended by the Sri Lanka Navy.\n“We appreciate the Sri Lanka Navy’s professionalism and support in making these visits smooth and efficient. Each visit reinforces the strength of our naval partnership, built on trust, and our shared commitment to maintaining security and stability across the Indian Ocean,” he said.\nUSS Canberra is an Independence-variant Littoral Combat Ship built in Mobile, Alabama, and designed for operations in both coastal waters and the open ocean.\nEquipped with advanced technology and adaptable mission systems, the vessel is capable of conducting maritime security operations, countering sea mines and supporting US naval operations in the Indo-Pacific region.\nThe ship was named in honour of HMAS Canberra, an Australian warship lost during World War II while fighting alongside US forces in the Battle of Savo Island in 1942.\nUSS Canberra also made history on July 22, 2023, becoming the first US Navy warship to be commissioned in an allied country, during a ceremony held at the Royal Australian Navy’s Fleet Base East in Sydney.",
+      "word_count": 266,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 8,
+        "Finance": 0,
+        "Tech": 3
+      },
+      "summary": "The US Navy ship USS Canberra (LCS 30) arrived at the Port of Colombo today (26) for its second visit to Sri Lanka this year, as part of a routine port call.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262789.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/US-Navy-ship-USS-Canberra-LCS-30.jpg",
+          "alt": "US Navy ship USS Canberra arrives in Colombo for second visit this year"
+        }
+      ]
+    },
+    {
+      "id": 262783,
+      "title": "President AKD hails Brazilian leader Lula’s victory as defeat of corruption",
+      "url": "https://www.newswire.lk/2026/10/26/president-akd-hails-brazilian-leader-lulas-victory-as-defeat-of-corruption/",
+      "published": "2026-10-26T11:09:07+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "Anura Kumara Dissanayake",
+        "Brazil",
+        "Lula da Silva"
+      ],
+      "text": "President Anura Kumara Dissanayake has congratulated Brazilian leader Luiz Inácio Lula da Silva on his reported election victory, describing it as a victory against corruption, division and political dishonesty.\nIn a post shared on his official ‘X’ account, President Dissanayake said the people of Brazil had achieved more than an electoral victory.\n“Today, the people of Brazil did not just win an election; they defeated the forces of corruption, division and political lies,” he stated.\nThe President further described Lula’s victory as a demonstration that people cannot be misled by political dynasties and outdated political forces.\n“Comrade @LulaOficial’s historic victory in Brazil shows that the people cannot be fooled by bankrupt political dynasties and the ghosts of the past who believe might is greater than right,” he said.\nExtending his congratulations to Lula, President Dissanayake praised his leadership and expressed support for continued progress in Brazil.\n“Many congratulations, companheiro, for leading the march of progress yet again!” he added.",
+      "word_count": 159,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 45,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "President Anura Kumara Dissanayake has congratulated Brazilian leader Luiz Inácio Lula da Silva on his reported election victory, describing it as a victory against corruption, division and political dishonesty. The President further described Lula’s victory as a demonstration that people cannot be misled by political dynasties and outdated political forces.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262783.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/brazil-lula-AKD.jpg",
+          "alt": "President AKD hails Brazilian leader Lula’s victory as defeat of corruption"
+        },
+        {
+          "src": "images/2026-10-26/262783-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Brazil-AKD.jpg",
+          "alt": "President AKD hails Brazilian leader Lula’s victory as defeat of corruption"
+        }
+      ]
+    },
+    {
+      "id": 262778,
+      "title": "Cyclonic storm ‘Arnab’ intensifies, fishermen warned of strong winds and rough seas",
+      "url": "https://www.newswire.lk/2026/10/26/cyclonic-storm-arnab-intensifies-fishermen-warned-of-strong-winds-and-rough-seas/",
+      "published": "2026-10-26T11:00:35+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "rough seas",
+        "weather"
+      ],
+      "text": "The Department of Meteorology has issued a red warning for strong winds and rough seas in the Bay of Bengal, following the intensification of a deep depression into cyclonic storm ‘Arnab’.\nAccording to the warning issued at 9.30 a.m. today (26), the deep depression over the east-central and adjoining southeast Bay of Bengal has intensified into a cyclonic storm.\nThe system was located near latitude 15.4°N and longitude 88.9°E at 5.30 a.m. today, after moving westwards.\nThe Met Department stated that the cyclonic storm is very likely to move nearly west-northwestwards and intensify further into a severe cyclonic storm over the west-central Bay of Bengal by tonight (26).\nIt is expected to develop into a very severe cyclonic storm over the same region tomorrow (27).\nWind speeds in the affected sea areas could increase to between 80 and 100 kmph at times, while heavy thundershowers are also expected.\nThe Department warned that wave heights could increase to approximately 3 to 4 metres, making sea conditions very rough.\nAccordingly, naval and fishing communities have been strongly advised not to venture into sea areas bounded by latitudes 10°N to 20°N and longitudes 80°E to 95°E until further notice.\nThose already operating in the affected sea areas have been advised to move away from the region.\nThe Met Department has also urged naval and fishing communities to remain vigilant and closely follow future weather forecasts and warnings.\nThe red warning remains valid for 12 hours from 9.30 a.m. today (26).",
+      "word_count": 247,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Meteorology has issued a red warning for strong winds and rough seas in the Bay of Bengal, following the intensification of a deep depression into cyclonic storm ‘Arnab’. According to the warning issued at 9.30 a.m. today (26), the deep depression over the east-central and adjoining southeast Bay of Bengal has intensified into a cyclonic storm.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262778.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Rough-sea-2.jpg",
+          "alt": "Cyclonic storm ‘Arnab’ intensifies, fishermen warned of strong winds and rough seas"
+        },
+        {
+          "src": "images/2026-10-26/262778-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/rough-sea-1.jpg",
+          "alt": "Cyclonic storm ‘Arnab’ intensifies, fishermen warned of strong winds and rough seas"
+        },
+        {
+          "src": "images/2026-10-26/262778-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/rough-sea-2.jpg",
+          "alt": "Cyclonic storm ‘Arnab’ intensifies, fishermen warned of strong winds and rough seas"
+        }
+      ]
+    },
+    {
+      "id": 262776,
+      "title": "Dollar Rate today: Rupee appreciates slightly against USD",
+      "url": "https://www.newswire.lk/2026/10/26/dollar-rate-today-rupee-appreciates-slightly-against-usd-3/",
+      "published": "2026-10-26T10:57:09+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "bank",
+        "Dollar",
+        "Rupee"
+      ],
+      "text": "The Sri Lankan Rupee has appreciated slightly against the US Dollar across commercial banks in Sri Lanka today (26), compared to last Friday, with the selling rate steady at Rs. 336.\nAccording to Seylan Bank, the buying rate of the US Dollar remains unchanged at Rs. 328.00, while the selling rate is also unchanged at Rs. 337.25.\nAt NDB Bank, the buying rate has decreased from Rs. 327.80 to Rs. 327.70, while the selling rate has also reduced from Rs. 336.80 to Rs. 336.70.\nPeople’s Bank reports that the buying rate has decreased from Rs. 328.11 to Rs. 328.06, while the selling rate has also dropped from Rs. 336.24 to Rs. 336.19.\nAt Commercial Bank, the buying rate remains unchanged at Rs. 326.33, while the selling rate is also unchanged at Rs. 336.25.\nAt Sampath Bank, the buying and selling rates of the US Dollar have decreased from Rs. 328.50 to Rs. 328.25 and from Rs. 336.50 to Rs. 336.25, respectively.",
+      "word_count": 161,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 38,
+        "Tech": 0
+      },
+      "summary": "The Sri Lankan Rupee has appreciated slightly against the US Dollar across commercial banks in Sri Lanka today (26), compared to last Friday, with the selling rate steady at Rs. 336. According to Seylan Bank, the buying rate of the US Dollar remains unchanged at Rs. 328.00, while the selling rate is also unchanged at Rs. 337.25.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262776.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/05/US-Dollar.jpg",
+          "alt": "Dollar Rate today: Rupee appreciates slightly against USD"
+        }
+      ]
+    },
+    {
+      "id": 262774,
+      "title": "Litro to distribute 700,000 gas cylinders islandwide by tomorrow",
+      "url": "https://www.newswire.lk/2026/10/26/litro-to-distribute-700000-gas-cylinders-islandwide-by-tomorrow/",
+      "published": "2026-10-26T10:41:36+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Litro Gas"
+      ],
+      "text": "Litro Gas Lanka says steps are being taken to distribute 700,000 domestic gas cylinders across the country by tomorrow (27), in response to high market demand.\nAccording to state newspaper Dinamina , the company stated that measures have been taken to accelerate gas distribution to meet increasing consumer requirements.\nAccording to Litro Gas Lanka, the vessel GOODWILL arrived in Sri Lanka on October 24 carrying 3,900 metric tonnes of gas, in addition to a shipment that arrived on October 22 and another shipment scheduled to arrive today (26).\nThe company further stated that 350,000 domestic gas cylinders were scheduled to be distributed islandwide from October 23 to 25, using the 3,900 metric tonnes of gas received on October 22.\nLitro Gas Lanka assured that sufficient stocks would be available in the market over the coming days, enabling consumers to purchase domestic gas cylinders without facing shortages.",
+      "word_count": 146,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 4,
+        "Tech": 0
+      },
+      "summary": "Litro Gas Lanka says steps are being taken to distribute 700,000 domestic gas cylinders across the country by tomorrow (27), in response to high market demand. The company further stated that 350,000 domestic gas cylinders were scheduled to be distributed islandwide from October 23 to 25, using the 3,900 metric tonnes of gas received on October 22.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262774.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Litro-gas.jpg",
+          "alt": "Litro to distribute 700,000 gas cylinders islandwide by tomorrow"
+        }
+      ]
+    },
+    {
+      "id": 262771,
+      "title": "Oil slips from near six-months highs despite supply concerns",
+      "url": "https://www.newswire.lk/2026/10/26/oil-slips-from-near-six-months-highs-despite-supply-concerns/",
+      "published": "2026-10-26T10:38:09+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [
+        "Oil price"
+      ],
+      "text": "Oil prices fell on Monday after surging to near six-month highs late last week, although ongoing attacks on Saudi Arabia kept supply concerns in focus.\nUS crude futures were down $1.60, or 1.55 per cent, at $101.67 per barrel by 0018 GMT. Brent crude futures were down $1.56 or 1.34 per cent at $115.16.\nPrices had settled nearly $3 higher on Friday after Houthi attacks in Saudi Arabia stoked energy supply concerns. Brent finished the week up 6 per cent and WTI ended 2.3 per cent higher.\nAttacks continued over the weekend with Houthis saying they had attacked the Saudi airport and oil facilities on Saturday. Saudi Arabia said on Sunday it had intercepted more missiles and drones.\nThe top oil exporter restarted partial operations at its main airport on Sunday after damage in a previous round of Houthi attacks even as the militant group vowed to keep targeting the facility. (CNA/ Reuters)",
+      "word_count": 153,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 2,
+        "Tech": 3
+      },
+      "summary": "Oil prices fell on Monday after surging to near six-month highs late last week, although ongoing attacks on Saudi Arabia kept supply concerns in focus. Prices had settled nearly $3 higher on Friday after Houthi attacks in Saudi Arabia stoked energy supply concerns.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262771.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Oil-price.jpg",
+          "alt": "Oil slips from near six-months highs despite supply concerns"
+        }
+      ]
+    },
+    {
+      "id": 262768,
+      "title": "First international flight takes off from new Sydney airport",
+      "url": "https://www.newswire.lk/2026/10/26/first-international-flight-takes-off-from-new-sydney-airport/",
+      "published": "2026-10-26T10:27:25+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [
+        "Sydney Airport"
+      ],
+      "text": "The first international flight took off on Monday (Oct 26) from a new, multi-billion-dollar airport in the fast-growing western suburbs of Sydney.\nAfter more than four decades of planning, Western Sydney International Airport offers the first alternative to the city’s main airport, which has been operating for more than a century.\nAn Air New Zealand plane from Auckland landed and soon afterwards flew out of the airport in the morning, launching a three-flights-a-week service to Sydney’s largely working-class western suburbs.\n“It’s not every day you get to be part of opening a brand-new international airport,” said Air New Zealand chief operations officer Kate Boyer.\n“Western Sydney is home to more than 2.5 million people and it’s a further gateway for Australian visitors to discover everything our country has to offer.”\nThe new single-runway airport, Australia’s first new major aviation hub in more than five decades, began domestic flights on Sunday, and freight operations in July.\nSydney’s main airport, Kingsford Smith, is Australia’s busiest, its three runways handling more than 42 million passengers last year.\nLying in Botany Bay just 9km from the city centre, planes using the airport roar over many city homes, and a curfew bars passenger aircraft from operating during the night.\nThe new airport in western Sydney has no such restrictions.\n“Through our 24-hour operations, Western Sydney International Airport gives airlines greater flexibility to connect into global hubs and travellers more choice in how they reach the world,” said airport chief executive Simon Hickey.\nQantas’ budget carrier Jetstar is now the main domestic carrier, flying to the Gold Coast, Melbourne and Brisbane.\nThe airport says other international carriers are coming, including Qatar Airways from December 2027, Fiji Airways from March 2027, and Vietjet Air from January 2027.\nBuilt at a cost of A5.3 billion (US 3.7 billion), excluding surrounding transport works, the airport is reachable by road but is not expected to have a direct rail link until at least December 2027.\nPrime Minister Anthony Albanese said the new airport marked a “wonderful new chapter” for Australia.\nIt would also drive economic and jobs into western Sydney, an area often overshadowed by the city’s famed harbour and central business district (CBD), he said at the weekend.\n“For too long, Sydney has looked towards the harbour and the CBD. What this does is turn it around to where people live, to where jobs occur, to where investment occurs in western Sydney.” (CNA/ AFP)",
+      "word_count": 405,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 5,
+        "Finance": 10,
+        "Tech": 0
+      },
+      "summary": "The first international flight took off on Monday (Oct 26) from a new, multi-billion-dollar airport in the fast-growing western suburbs of Sydney. After more than four decades of planning, Western Sydney International Airport offers the first alternative to the city’s main airport, which has been operating for more than a century.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262768.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Sydney-airport.jpg",
+          "alt": "First international flight takes off from new Sydney airport"
+        }
+      ]
+    },
+    {
+      "id": 262766,
+      "title": "Spill gates of several reservoirs opened amid heavy rainfall in Sri Lanka",
+      "url": "https://www.newswire.lk/2026/10/26/spill-gates-of-several-reservoirs-opened-amid-heavy-rainfall-in-sri-lanka/",
+      "published": "2026-10-26T10:11:39+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Irrigation Department",
+        "spill gates"
+      ],
+      "text": "The spill gates of several reservoirs across Sri Lanka have been opened due to the prevailing heavy rainfall, with residents in downstream areas advised to remain vigilant over rising water levels.\nAccording to the Irrigation Department, water is being released from the Deduru Oya, Rajanganaya, Kukule Ganga, Kala Wewa and Thabbowa reservoirs to control increasing water levels.\nEight spill gates of the Deduru Oya Reservoir have been opened by two feet each, releasing 10,400 cubic feet of water per second into Deduru Oya.\nMeanwhile, six spill gates of the Rajanganaya Reservoir have been opened, with two gates opened by four feet each, another two by three feet each and the remaining two by two feet each.\nThe reservoir was initially releasing more than 3,800 cubic feet of water per second into Kala Oya, with the discharge expected to increase to 8,000 cubic feet per second by 9.00 a.m. today (26).\nAt the Kukule Ganga Reservoir, one spill gate has been opened, releasing 45 cubic metres of water per second. An additional 48 cubic metres per second are being discharged during electricity generation, bringing the total water release into Kuda Ganga to 93 cubic metres per second.\nMeanwhile, two emergency spill gates of Kala Wewa have been opened by six inches each, releasing 511 cubic feet of water per second into Kala Oya.\nThe reservoir is receiving approximately 5,500 cubic feet of water per second through Dambulu Oya, while its water storage has increased to 83,782 acre-feet.\nAdditionally, two spill gates of the Thabbowa Reservoir, located in the Mee Oya basin, have been opened by half a foot each to control rising water levels.\nThe Irrigation Department warned that the extent of spill gate openings and water releases could change depending on rainfall in the catchment areas and the volume of water flowing into the reservoirs.\nResidents living along Deduru Oya, Kala Oya and other downstream areas have been advised to remain vigilant over possible changes in water levels.\nThe public has also been urged to follow official announcements and safety instructions issued by the Irrigation Department and disaster management authorities.",
+      "word_count": 350,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The spill gates of several reservoirs across Sri Lanka have been opened due to the prevailing heavy rainfall, with residents in downstream areas advised to remain vigilant over rising water levels. Eight spill gates of the Deduru Oya Reservoir have been opened by two feet each, releasing 10,400 cubic feet of water per second into Deduru Oya.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262766.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/05/Reservoir-sluice-gates.jpg",
+          "alt": "Spill gates of several reservoirs opened amid heavy rainfall in Sri Lanka"
+        }
+      ]
+    },
+    {
+      "id": 262763,
+      "title": "India-backed palm-leaf manuscript digitisation project launched at Gangaramaya Temple",
+      "url": "https://www.newswire.lk/2026/10/26/india-backed-palm-leaf-manuscript-digitisation-project-launched-at-gangaramaya-temple/",
+      "published": "2026-10-26T10:00:36+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Gangaramaya temple",
+        "India",
+        "SAMHiTA"
+      ],
+      "text": "The SAMHiTA (South Asian Manuscript Histories and Textual Archive) Palm-Leaf Manuscript Digitisation Project, aimed at preserving ancient manuscripts and safeguarding their historical and cultural knowledge, was launched at the Gangaramaya Temple in Colombo on October 23.\nAccording to the High Commission of India in Colombo, the project is being implemented by the India International Centre (IIC), Delhi, in collaboration with the Gangaramaya Temple, with financial assistance from the Government of India.\nThe initiative aims to preserve South Asia’s intellectual and cultural heritage by digitising ancient manuscripts containing information on languages, philosophies, religious traditions, rituals, customs and artistic practices.\nThe Gangaramaya Temple is the first institution in Sri Lanka to partner with the IIC under Project SAMHiTA, following the signing of a Memorandum of Understanding (MoU) in July 2026.\nThe digitisation process is currently being carried out by a team of Sri Lankan experts and is expected to be completed by the end of November 2026.\nIndian High Commissioner to Sri Lanka Santosh Jha attended the launch ceremony, along with Gangaramaya Temple Chief Incumbent Ven. Dr. Kirinde Assaji Thero, Ven. Dr. Pallegama Rathnasara Thero, temple trustees and Project Adviser Prof. Gamini Ranasinghe.\nDuring a site visit, the project team demonstrated the manuscript preservation and digitisation process.\nAddressing the ceremony, High Commissioner Jha expressed appreciation for the initiative, stating that the Indian Government was honoured to support efforts to preserve the shared Buddhist heritage of India and Sri Lanka.\nHe also recalled the exposition of the sacred Devnimori Relics of Lord Buddha from India, held at the Gangaramaya Temple in February 2026.\nThe High Commissioner further invited other institutions in Sri Lanka involved in preserving and digitising ancient manuscripts to collaborate with Project SAMHiTA, under which the Indian Government provides grant assistance.\nHe also expressed hope that the project would be expanded to include additional manuscript collections in the future.",
+      "word_count": 308,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 9,
+        "Finance": 4,
+        "Tech": 0
+      },
+      "summary": "The SAMHiTA (South Asian Manuscript Histories and Textual Archive) Palm-Leaf Manuscript Digitisation Project, aimed at preserving ancient manuscripts and safeguarding their historical and cultural knowledge, was launched at the Gangaramaya Temple in Colombo on October 23.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262763.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/India-Gangaramaya-manuscripts.jpg",
+          "alt": "India-backed palm-leaf manuscript digitisation project launched at Gangaramaya Temple"
+        }
+      ]
+    },
+    {
+      "id": 262759,
+      "title": "Five injured in bus-tipper collision in Ahangama",
+      "url": "https://www.newswire.lk/2026/10/26/five-injured-in-bus-tipper-collision-in-ahangama/",
+      "published": "2026-10-26T09:50:43+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Accident",
+        "Ahangama"
+      ],
+      "text": "Five people have been injured following a head-on collision between a bus and a tipper truck near the Katholuwa Junction in Ahangama this morning (26).\nAccording to the Ahangama Police, the accident occurred at around 7.30 a.m. when a bus travelling from Galle towards Matara collided with a tipper truck travelling in the opposite direction.\nThe injured were rushed to the Galle National Hospital in Suwa Seriya ambulances, with the assistance of police officers and local residents.\nThe accident also caused heavy traffic congestion along the Galle–Matara main road.\nThe Ahangama Police are conducting further investigations into the incident.",
+      "word_count": 99,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Five people have been injured following a head-on collision between a bus and a tipper truck near the Katholuwa Junction in Ahangama this morning (26). According to the Ahangama Police, the accident occurred at around 7.30 a.m. when a bus travelling from Galle towards Matara collided with a tipper truck travelling in the opposite direction.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262759.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Ahangama-accident-1.jpg",
+          "alt": "Five injured in bus-tipper collision in Ahangama"
+        },
+        {
+          "src": "images/2026-10-26/262759-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Ahangama-accident-2.jpg",
+          "alt": "Five injured in bus-tipper collision in Ahangama"
+        }
+      ]
+    },
+    {
+      "id": 262753,
+      "title": "Norochcholai Power Plant’s second generator shut down for maintenance",
+      "url": "https://www.newswire.lk/2026/10/26/norochcholai-power-plants-second-generator-shut-down-for-maintenance/",
+      "published": "2026-10-26T09:37:56+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Lakvijaya",
+        "Norochcholai",
+        "power plant"
+      ],
+      "text": "The second generating unit of the Lakvijaya Coal Power Plant in Norochcholai has been shut down for maintenance work.\nAccording to reports, the National System Operator (NSO) Company has been informed of the shutdown.\nHowever, the NSO has assured that the shutdown will not cause any disruption to the country’s electricity supply.\nThe generating unit has been taken offline to carry out necessary maintenance and repair work.",
+      "word_count": 67,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 1,
+        "Tech": 0
+      },
+      "summary": "The second generating unit of the Lakvijaya Coal Power Plant in Norochcholai has been shut down for maintenance work. The generating unit has been taken offline to carry out necessary maintenance and repair work.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262753.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Norochcholai-power-plant.jpg",
+          "alt": "Norochcholai Power Plant’s second generator shut down for maintenance"
+        }
+      ]
+    },
+    {
+      "id": 262750,
+      "title": "Over 5,000 MT sulfuric acid released into environment annually, CEJ warns",
+      "url": "https://www.newswire.lk/2026/10/26/over-5000-mt-sulfuric-acid-released-into-environment-annually-cej-warns/",
+      "published": "2026-10-26T09:31:28+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "battery",
+        "CEJ",
+        "recycling",
+        "sulfuric acid"
+      ],
+      "text": "The Centre for Environmental Justice (CEJ) has raised concerns over the environmental impact of lead-acid battery recycling in Sri Lanka, revealing that more than 5,000 metric tonnes of sulfuric acid are estimated to be released into the environment annually without proper disposal procedures.\nIn a statement issued on Saturday (24), the CEJ said that the release of sulfuric acid from used batteries into the soil and environment remains a major concern in Sri Lanka.\nAccording to the organisation, waste generated during the battery recycling process, including slag and discarded acid, contains toxic heavy metals such as lead, cadmium and arsenic.\nThe CEJ further revealed that more than 2,000 formal and informal lead-smelting sites operate across Sri Lanka, with inadequate environmental protection measures.\nIt noted that the lack of proper monitoring and regulation of battery acid and waste disposal, particularly when issuing environmental licences, remains a major concern.\nThe organisation stressed the need to establish a systematic mechanism for collecting and recycling battery acid and waste, while strictly enforcing existing environmental laws.\nThese concerns were highlighted during an online awareness programme led by CEJ Chairman Hemantha Withanage, with presentations delivered by Alda Dubey of India’s Toxics Link and Sudesh Nandasiri of Ceylon Waste Management (Pvt) Ltd.\nMeanwhile, the CEJ conducted several awareness programmes in Sri Lanka from October 18 to 24, as part of the Global Week of Action on Lead Poisoning Prevention, organised under the theme “From Detection to Prevention.”\nThe programmes included awareness sessions for schoolchildren and waste disposal workers of the Kolonnawa Municipal Council on electronic waste and lead exposure risks, along with public awareness campaigns through digital media.\nThe CEJ also highlighted the serious health risks associated with lead exposure, particularly among children, noting that no level of exposure is considered safe.\nThe organisation called for collective efforts to strengthen environmental protection and safeguard public health, particularly that of children, against lead poisoning.",
+      "word_count": 316,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 0,
+        "Tech": 4
+      },
+      "summary": "The Centre for Environmental Justice (CEJ) has raised concerns over the environmental impact of lead-acid battery recycling in Sri Lanka, revealing that more than 5,000 metric tonnes of sulfuric acid are estimated to be released into the environment annually without proper disposal procedures.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262750.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Battery-recycling.jpg",
+          "alt": "Over 5,000 MT sulfuric acid released into environment annually, CEJ warns"
+        }
+      ]
+    },
+    {
+      "id": 262747,
+      "title": "Lula’s victory proves people can defeat money, media power and racism: Minister Bimal",
+      "url": "https://www.newswire.lk/2026/10/26/lulas-victory-proves-people-can-defeat-money-media-power-and-racism-minister-bimal/",
+      "published": "2026-10-26T09:10:29+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Minister Bimal Ratnayake has welcomed the re-election of Brazil’s left-wing President Luiz Inacio Lula da Silva, saying the result demonstrates the power of ordinary people to overcome money, media influence, social media algorithms and racism.\nIn a social media post, Ratnayake said he had closely followed Brazil’s presidential election because of its potential impact on global politics.\nHe described the victory of the Workers’ Party candidate as a significant result for people-centred politics.\nRatnayake said the election had demonstrated that ordinary people have the strength to resist financial influence, powerful media organisations, algorithms, racism and what he described as harmful ideologies.\nReferring to Lula’s background, the minister highlighted how the Brazilian leader began his working life as a labourer and lost a finger in an industrial accident at the age of 17.\nHe claimed that supporters of Lula’s far-right opponent had repeatedly mocked the Brazilian leader for having only nine fingers during the election campaign.\nRatnayake also drew comparisons with Sri Lanka’s 2024 presidential election, recalling what he described as similar insults directed at President Anura Kumara Dissanayake during the campaign and afterwards.\nHe described Lula as an ordinary man whose victory had demonstrated the strength of the Brazilian people.\nThe minister concluded his message by calling for greater commitment to people-centred politics.\nLula, 80, secured a fourth non-consecutive presidential term after defeating right-wing Senator Flavio Bolsonaro in Sunday’s runoff election, winning approximately 51.8% of the vote, according to Brazil’s electoral authorities.",
+      "word_count": 242,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 57,
+        "Finance": 3,
+        "Tech": 2
+      },
+      "summary": "Minister Bimal Ratnayake has welcomed the re-election of Brazil’s left-wing President Luiz Inacio Lula da Silva, saying the result demonstrates the power of ordinary people to overcome money, media influence, social media algorithms and racism. He described Lula as an ordinary man whose victory had demonstrated the strength of the Brazilian people.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262747.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261026_090959_Editor-Lite.jpg",
+          "alt": "Lula’s victory proves people can defeat money, media power and racism: Minister Bimal"
+        }
+      ]
+    },
+    {
+      "id": 262744,
+      "title": "Brazil’s left-wing President Lula wins historic fourth term",
+      "url": "https://www.newswire.lk/2026/10/26/brazils-left-wing-president-lula-wins-historic-fourth-term/",
+      "published": "2026-10-26T08:43:46+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Brazilian President Luiz Inacio Lula da Silva has won a historic fourth non-consecutive term after defeating right-wing Senator Flavio Bolsonaro in the country’s presidential runoff election held on Sunday (October 25).\nBrazil’s electoral authority confirmed the victory, with Lula securing approximately 51.8% of valid votes against Bolsonaro’s 48.2%, according to foreign media reports.\nThe 80-year-old left-wing leader defeated Flavio Bolsonaro, the eldest son of former President Jair Bolsonaro, whom Lula had beaten in the 2022 presidential election.\nThe victory marks the first time in Brazil’s history that a presidential candidate who finished second in the first round has gone on to win the runoff election.\nLula previously served as president from 2003 to 2010 before returning to office in January 2023.\nThe election was marked by controversy after Brazil’s Supreme Court allowed voting to be extended by two hours at some polling stations following complaints over transportation disruptions and severe weather.\nFlavio Bolsonaro has refused to concede defeat and said he would seek to annul the election result, challenging the decision to extend voting hours.\nLula is scheduled to begin his fourth presidential term on January 5, 2027.",
+      "word_count": 188,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 43,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Brazilian President Luiz Inacio Lula da Silva has won a historic fourth non-consecutive term after defeating right-wing Senator Flavio Bolsonaro in the country’s presidential runoff election held on Sunday (October 25). The 80-year-old left-wing leader defeated Flavio Bolsonaro, the eldest son of former President Jair Bolsonaro, whom Lula had beaten in the 2022 presidential election.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262744.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/HBh8lCdbsAAKn9v.jpg",
+          "alt": "Brazil’s left-wing President Lula wins historic fourth term"
+        }
+      ]
+    },
+    {
+      "id": 262741,
+      "title": "Cyclone developing in Bay of Bengal: What Sri Lanka can expect in coming days",
+      "url": "https://www.newswire.lk/2026/10/26/cyclone-developing-in-bay-of-bengal-what-sri-lanka-can-expect-in-coming-days/",
+      "published": "2026-10-26T08:37:17+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka is expected to experience increased rainfall, particularly in the southwestern parts of the island, over the next few days as a deep depression in the Bay of Bengal intensifies into a cyclonic storm, the Department of Meteorology said.\nIn its weather forecast issued at 5:30 a.m. on Monday (October 26), the department said the deep depression over the east-central and adjoining southeast Bay of Bengal is likely to intensify into a cyclonic storm during the day.\nThe system is expected to move west-northwestwards and develop into a severe cyclonic storm over the west-central Bay of Bengal by Tuesday (October 27).\nAlthough the weather system is not expected to directly affect Sri Lanka, the department warned that rainfall could increase across southwestern areas over the next few days due to associated wind patterns extending across the island.\nMeanwhile, showers or thundershowers are forecast in the Northern, Western, Sabaragamuwa, Southern, North-western, Central and North-central provinces, as well as the Trincomalee district.\nHeavy rainfall exceeding 100 mm is likely in some areas.\nStrong winds of 40–50 kmph are also expected at times over the western slopes of the Central Hills, Northern, North-central and North-western provinces, and the Trincomalee and Hambantota districts.\nThe Department of Meteorology urged the public to take necessary precautions against temporary strong winds and lightning during thundershowers.",
+      "word_count": 219,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka is expected to experience increased rainfall, particularly in the southwestern parts of the island, over the next few days as a deep depression in the Bay of Bengal intensifies into a cyclonic storm, the Department of Meteorology said.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262741.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Rain-thundershower-weather.jpg",
+          "alt": "Cyclone developing in Bay of Bengal: What Sri Lanka can expect in coming days"
+        },
+        {
+          "src": "images/2026-10-26/262741-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261026_082955_Samsung-Notes.jpg",
+          "alt": "Cyclone developing in Bay of Bengal: What Sri Lanka can expect in coming days"
+        }
+      ]
+    },
+    {
+      "id": 262737,
+      "title": "Heavy rain warning issued for six provinces as Bay of Bengal depression intensifies",
+      "url": "https://www.newswire.lk/2026/10/26/heavy-rain-warning-issued-for-six-provinces-as-bay-of-bengal-depression-intensifies/",
+      "published": "2026-10-26T08:20:56+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka’s Department of Meteorology has issued an amber advisory for heavy rain after a depression over the Bay of Bengal intensified into a deep depression.\nRainfall exceeding 100 mm is expected in some areas of the Northern, Western, Sabaragamuwa, North Western, Central and Southern provinces, as well as Anuradhapura district.\nThe department warned that rainy conditions are expected to continue across the island over the next few days.\nAccording to rainfall measurements recorded between 8:30 a.m. on October 25 and 3 a.m. on October 26, Poonarin in Kilinochchi district received the highest rainfall of 163 mm, followed by Illuppaikkadavai in Mannar with 148 mm and Tholpuram in Jaffna with 110 mm.\nThe advisory, issued at 3 a.m. on October 26, remains valid until 5:30 a.m. on October 27.\nResidents in the affected areas have been advised to remain prepared for heavy rainfall.",
+      "word_count": 143,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka’s Department of Meteorology has issued an amber advisory for heavy rain after a depression over the Bay of Bengal intensified into a deep depression. Rainfall exceeding 100 mm is expected in some areas of the Northern, Western, Sabaragamuwa, North Western, Central and Southern provinces, as well as Anuradhapura district.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262737.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261026_082014_Zoom-Earth.jpg",
+          "alt": "Heavy rain warning issued for six provinces as Bay of Bengal depression intensifies"
+        },
+        {
+          "src": "images/2026-10-26/262737-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261026_081736_Samsung-Notes.jpg",
+          "alt": "Heavy rain warning issued for six provinces as Bay of Bengal depression intensifies"
+        }
+      ]
+    },
+    {
+      "id": 262731,
+      "title": "“Is it wrong for Sarath Weerasekara to visit me?” Balangoda Kassapa Thero responds to criticism",
+      "url": "https://www.newswire.lk/2026/10/25/is-it-wrong-for-sarath-weerasekara-to-visit-me-balangoda-kassapa-thero-responds-to-criticism/",
+      "published": "2026-10-25T23:01:41+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Ven. Balangoda Kassapa Thero has responded to criticism over his visit to a five-star hotel in Colombo and his meeting with former Minister Sarath Weerasekara, saying he had sought accommodation and medical treatment after becoming seriously ill during the protest demanding the release of Ven. Galagoda Aththe Gnanasara Thero.\nAddressing allegations circulating on social media, the monk said he developed a high fever while participating in the protest and was advised by devotees to move to a suitable location for treatment.\nHe said several devotees had previously offered him accommodation, but he had declined their invitations until his condition worsened.\nThe Thero explained that he eventually accepted an invitation to stay at the Kingsbury Hotel, where a medical team visited and provided treatment.\nHe said the accommodation and medical expenses were covered by different devotees, describing the arrangements as a collective effort to assist a sick monk.\nResponding to criticism over former Minister Sarath Weerasekara’s presence at the hotel, the Thero confirmed that Weerasekara had visited him while he was unwell.\n“Sarath Weerasekara came to see me when I was sick. Is that prohibited? Does someone need permission to visit me?” he questioned.\nHe said the former minister had inquired about his health before leaving, rejecting suggestions that the visit was politically motivated\nThe monk also defended the acceptance of accommodation and other assistance from devotees, saying Buddhist traditions had long recognised donations of food, clothing, buildings, land and other facilities to monks.\nHe further questioned the alleged release of hotel surveillance footage and personal details relating to his accommodation arrangements.\nThe Thero claimed that information concerning a subsequent booking at Hilton Residences, including details of the person who made the reservation, had also been circulated.\nHe described the alleged disclosures as a serious violation of privacy and raised concerns about his personal security.\nReferring to the killing of underworld figure Ganemulla Sanjeewa inside a Colombo courtroom, he questioned the safety of individuals when sensitive personal information could be made public.\nThe monk also criticised those targeting him on social media and accused supporters of the ruling party of attempting to discredit the protest.\nMeanwhile, the satyagraha campaign at Viharamahadevi Park was temporarily suspended on October 25 following a communication from the chief prelates of the three main Buddhist chapters, who indicated that they would intervene through discussions with the government regarding Gnanasara Thero’s release.\nBalangoda Kassapa Thero said the monks’ immediate objective had been entrusted to the chief prelates and called for a political campaign against the government to begin at the grassroots level.",
+      "word_count": 425,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 13,
+        "Finance": 3,
+        "Tech": 2
+      },
+      "summary": "Ven. Balangoda Kassapa Thero has responded to criticism over his visit to a five-star hotel in Colombo and his meeting with former Minister Sarath Weerasekara, saying he had sought accommodation and medical treatment after becoming seriously ill during the protest demanding the release of Ven. Galagoda Aththe Gnanasara Thero.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262731.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261025_230024_Editor-Lite.jpg",
+          "alt": "“Is it wrong for Sarath Weerasekara to visit me?” Balangoda Kassapa Thero responds to criticism"
+        }
+      ]
+    },
+    {
+      "id": 262728,
+      "title": "Lanka IOC increases Petrol 95 price",
+      "url": "https://www.newswire.lk/2026/10/25/lanka-ioc-increases-petrol-95-price/",
+      "published": "2026-10-25T22:49:26+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Lanka IOC has increased the price of a litre of Petrol 95 by Rs. 20, while keeping the prices of all other fuel varieties unchanged.\nThe revision applies only to Petrol 95, with no increases announced for Petrol 92, diesel or other fuel products.\nThe latest increase was announced by Lanka IOC, with all other fuel prices remaining unchanged.\nThe company has not announced any other price revisions as part of this adjustment.",
+      "word_count": 73,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 8,
+        "Tech": 0
+      },
+      "summary": "Lanka IOC has increased the price of a litre of Petrol 95 by Rs. 20, while keeping the prices of all other fuel varieties unchanged. The revision applies only to Petrol 95, with no increases announced for Petrol 92, diesel or other fuel products.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262728.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261025_224901_Chrome.jpg",
+          "alt": "Lanka IOC increases Petrol 95 price"
+        }
+      ]
+    },
+    {
+      "id": 262725,
+      "title": "Pakistan, Sri Lanka & England ODI Tri-Series Points Table & NRR",
+      "url": "https://www.newswire.lk/2026/10/25/pakistan-sri-lanka-england-odi-tri-series-points-table-nrr-3/",
+      "published": "2026-10-25T21:50:46+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka remain in a strong position to qualify for the ODI Tri-Series final despite Pakistan securing their place in the title decider following a thrilling one-wicket victory over England in Lahore on Sunday (October 25).\nAccording to the latest points table, Pakistan lead the standings with six points from three consecutive victories, while Sri Lanka occupy second place with two points from two matches.\nEngland are at the bottom of the table, having lost all three of their matches.\nSri Lanka need just one victory from their remaining two matches to secure a place in the final.\nSri Lanka’s next match will be against Pakistan on Tuesday, October 27, followed by their final group-stage match against England on Thursday, October 29. Both matches will be played at Gaddafi Stadium in Lahore.\nEven if Sri Lanka lose both matches, they could still qualify depending on net run rate (NRR).\nPakistan currently have an NRR of +0.949, followed by Sri Lanka at -0.348 and England at -0.733.\nPakistan’s dramatic victory over England, inspired by Shadab Khan’s century and an unbeaten 89-run 10th-wicket partnership with Haris Rauf, has strengthened Sri Lanka’s qualification prospects.\nThe Tri-Series final is scheduled for Saturday, October 31, at Gaddafi Stadium in Lahore.",
+      "word_count": 205,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka remain in a strong position to qualify for the ODI Tri-Series final despite Pakistan securing their place in the title decider following a thrilling one-wicket victory over England in Lahore on Sunday (October 25). According to the latest points table, Pakistan lead the standings with six points from three consecutive victories, while Sri Lanka occupy second place with two points from two matches.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262725.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261025_214837_ChatGPT.jpg",
+          "alt": "Pakistan, Sri Lanka & England ODI Tri-Series Points Table & NRR"
+        }
+      ]
+    },
+    {
+      "id": 262722,
+      "title": "Shadab Khan and Haris Rauf break 51-year-old ODI record in historic Pakistan victory",
+      "url": "https://www.newswire.lk/2026/10/25/shadab-khan-and-haris-rauf-break-51-year-old-odi-record-in-historic-pakistan-victory/",
+      "published": "2026-10-25T21:40:33+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Pakistan’s Shadab Khan and Haris Rauf created ODI history with an unbeaten 89-run partnership for the 10th wicket, the highest last-wicket stand in a successful ODI run chase, as Pakistan secured a sensational one-wicket victory over England in Lahore on Sunday (October 25).\nChasing 242 for victory in the ODI Tri-Series, Pakistan appeared headed for certain defeat after collapsing to 154/9.\nHowever, Shadab produced an extraordinary counterattack, scoring a remarkable century and guiding Pakistan to victory alongside last man Haris Rauf.\nThe partnership surpassed the previous record of 64 runs set by West Indies players Deryck Murray and Andy Roberts against Pakistan at Edgbaston during the 1975 Cricket World Cup.\nThe achievement ended a 51-year wait for a new record for the highest 10th-wicket partnership in a successful ODI chase.\nShadab’s innings transformed Pakistan’s fortunes after England had dominated much of the second innings and appeared on course for victory.\nEarlier, England were bowled out for 241 in 46.4 overs despite a century from Ben Duckett, who scored 105. Pakistan captain Shaheen Shah Afridi claimed four wickets.\nThe dramatic victory also secured Pakistan’s place in the Tri-Series final, scheduled for October 31 in Lahore.\nPakistan’s remarkable recovery will be remembered as one of the most extraordinary last-wicket comebacks in ODI cricket.",
+      "word_count": 211,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Pakistan’s Shadab Khan and Haris Rauf created ODI history with an unbeaten 89-run partnership for the 10th wicket, the highest last-wicket stand in a successful ODI run chase, as Pakistan secured a sensational one-wicket victory over England in Lahore on Sunday (October 25). However, Shadab produced an extraordinary counterattack, scoring a remarkable century and guiding Pakistan to victory alongside last man Haris Rauf.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262722.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792943761135.jpg",
+          "alt": "Shadab Khan and Haris Rauf break 51-year-old ODI record in historic Pakistan victory"
+        }
+      ]
+    },
+    {
+      "id": 262719,
+      "title": "Family cries foul after 29-year-old dies in police detention",
+      "url": "https://www.newswire.lk/2026/10/25/family-cries-foul-after-29-year-old-dies-in-police-detention/",
+      "published": "2026-10-25T20:53:23+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "A 29-year-old man arrested in connection with a drug-related investigation has died after being held at the Homagama Police Station, with his family alleging that he was assaulted by police officers.\nThe deceased has been identified as Ishara Harsha Kumara, a resident of Kiriwaththuduwa.\nAccording to his relatives, the suspect was arrested and detained at the Homagama Police Station.\nFamily members alleged that they learned he had been assaulted when they visited the police station to see him.\nThey further claimed that the suspect was unable to walk and had to be carried by several officers after being taken for questioning.\nRelatives alleged that he had visible injuries and was bleeding when he was returned to the police cell.\nFollowing requests from family members, police officers took the suspect to the Homagama Base Hospital. However, his relatives claimed that he had already died by that time.\nThe family has called for an impartial investigation and justice over the death.\nResponding to the allegations, the Police Spokesman said the suspect had been brought to the Homagama Police Station during an operation and had subsequently developed a sudden illness.\nHe said the suspect died after being admitted to the hospital.\nThe Police Spokesman further confirmed that the Homagama Assistant Superintendent of Police has initiated a preliminary investigation into the incident.",
+      "word_count": 218,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A 29-year-old man arrested in connection with a drug-related investigation has died after being held at the Homagama Police Station, with his family alleging that he was assaulted by police officers. Following requests from family members, police officers took the suspect to the Homagama Base Hospital.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262719.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261025_205220_Editor-Lite.jpg",
+          "alt": "Family cries foul after 29-year-old dies in police detention"
+        }
+      ]
+    },
+    {
+      "id": 262715,
+      "title": "What did the Chief Prelates tell Buddhist monks in their joint letter?",
+      "url": "https://www.newswire.lk/2026/10/25/what-did-the-chief-prelates-tell-buddhist-monks-in-their-joint-letter/",
+      "published": "2026-10-25T19:20:25+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Chief Prelates of Sri Lanka’s main Buddhist Chapters have issued a joint statement urging the Maha Sangha to safeguard monastic discipline and uphold the dignity and respect accorded to Buddhist monks amid protests demanding a presidential pardon for Ven. Galagoda Aththe Gnanasara Thera.\nThe statement, dated October 25, was issued under the signatures of the Chief Prelates of the Malwathu and Asgiriya Chapters, the Amarapura Maha Nikaya and the Ramanna Maha Nikaya.\nThe senior Buddhist leaders emphasised the importance of maintaining the dignity of the Buddhist Sasana and protecting the respect traditionally accorded to members of the Maha Sangha.\nThey also stressed the need to maintain discipline and act in accordance with Buddhist monastic traditions during protests and other activities.\nFollowing the statement, Buddhist monks conducting a satyagraha at Viharamahadevi Park in Colombo decided to temporarily suspend their protest, which had continued for the past 10 days.\nVen. Ulapane Sumangala Thera said the decision was taken after the Chief Prelates informed the protesting monks in writing that steps were being taken to secure Ven. Gnanasara Thera’s release through discussions with the government.",
+      "word_count": 183,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 7,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Chief Prelates of Sri Lanka’s main Buddhist Chapters have issued a joint statement urging the Maha Sangha to safeguard monastic discipline and uphold the dignity and respect accorded to Buddhist monks amid protests demanding a presidential pardon for Ven. Galagoda Aththe Gnanasara Thera.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262715.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261025_191523_Chrome.jpg",
+          "alt": "What did the Chief Prelates tell Buddhist monks in their joint letter?"
+        }
+      ]
+    },
+    {
+      "id": 262712,
+      "title": "Protest at Viharamahadevi Park temporarily suspended after intervention by Chief Prelates",
+      "url": "https://www.newswire.lk/2026/10/25/protest-at-viharamahadevi-park-temporarily-suspended-after-intervention-by-chief-prelates/",
+      "published": "2026-10-25T18:40:08+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "The satyagraha campaign demanding the release of Ven. Galaboda Aththe Gnanasara Thero, which has continued at Colombo’s Viharamahadevi Park for the past 10 days, will be temporarily suspended following an intervention by the Chief Prelates of the three Buddhist Chapters.\nVen. Ulapane Sumangala Thero said the decision was taken after the Chief Prelates informed the organisers in writing that they were taking steps to secure Ven. Gnanasara Thero’s release through discussions with the government.\nAccordingly, the monks involved in the protest have decided to temporarily suspend the campaign while the Chief Prelates pursue discussions with the relevant authorities.\nThe satyagraha was launched to demand the release of Ven. Gnanasara Thero and has continued despite legal restrictions imposed on the protesters at Viharamahadevi Park.",
+      "word_count": 123,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The satyagraha campaign demanding the release of Ven. Galaboda Aththe Gnanasara Thero, which has continued at Colombo’s Viharamahadevi Park for the past 10 days, will be temporarily suspended following an intervention by the Chief Prelates of the three Buddhist Chapters. Accordingly, the monks involved in the protest have decided to temporarily suspend the campaign while the Chief Prelates pursue discussions with the relevant authorities.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262712.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261025_183759_Facebook.jpg",
+          "alt": "Protest at Viharamahadevi Park temporarily suspended after intervention by Chief Prelates"
+        }
+      ]
+    },
+    {
+      "id": 262708,
+      "title": "Train services between Rambukkana and Peradeniya-Gampola suspended until further notice",
+      "url": "https://www.newswire.lk/2026/10/25/train-services-between-rambukkana-peradeniya-and-gampola-suspended-until-further-notice/",
+      "published": "2026-10-25T18:25:51+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "All train services between Rambukkana and Peradeniya–Gampola have been temporarily suspended from midnight today (25) until further notice, the Department of Railways announced.\nThe decision was taken after a landslide became active near Kadigamuwa Railway Station, between Rambukkana and Peradeniya, causing soil to wash onto the railway track amid adverse weather conditions.\nThe department said emergency repair work was carried out yesterday (24) and today to restore the track as quickly as possible. However, the risk of further earth and soil collapses remains high due to continued heavy rainfall in the area.\nTrain services will remain suspended until repairs are completed and the railway line is confirmed to be fully safe for operations.\nPassengers who have paid for reserved seats on trains scheduled to operate during the suspension period can obtain a full refund at any railway station, the department added.",
+      "word_count": 141,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "All train services between Rambukkana and Peradeniya–Gampola have been temporarily suspended from midnight today (25) until further notice, the Department of Railways announced. Train services will remain suspended until repairs are completed and the railway line is confirmed to be fully safe for operations.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262708.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG_4134.jpeg",
+          "alt": "Train services between Rambukkana and Peradeniya-Gampola suspended until further notice"
+        }
+      ]
+    },
+    {
+      "id": 262704,
+      "title": "Prison visit leaves BASL President with troubling observations",
+      "url": "https://www.newswire.lk/2026/10/25/prison-visit-leaves-basl-president-with-troubling-observations/",
+      "published": "2026-10-25T18:23:22+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka’s prisons are operating at three to four times their intended capacity, with some inmates facing inhumane and degrading conditions, Bar Association of Sri Lanka (BASL) President Rajeev Amarasuriya has warned.\nIn a statement following a visit to the New Magazine Prison in Welikada on Sunday (October 25), Amarasuriya called for urgent reforms to address overcrowding, improve prison conditions and ensure access to legal assistance for detainees.\nHe visited the prison to participate in a legal aid camp organised by the BASL in collaboration with the Prison Monitoring Board (Whole Island).\nReflecting on his visit, Amarasuriya said prison conditions were particularly concerning for individuals held on remand who had not been convicted of any offence.\n“This is particularly troubling in the case of those held on remand, who have merely been suspected or accused of an offence and continue to enjoy the presumption of innocence,” he said.\nHe observed that while prison might offer some degree of security to repeat offenders and individuals struggling to access basic necessities, conditions for many others were inhumane and degrading.\nAmarasuriya welcomed the efforts of the Justice Ministry to address longstanding issues through legislative reforms, including proposed amendments to the Poisons, Opium and Dangerous Drugs Ordinance and the House Confinement Bill.\nHe said such measures could help reduce unnecessary imprisonment and address severe overcrowding.\nHowever, he stressed that legislative reforms alone would not be sufficient.\n“The forthcoming National Budget must also give greater priority to prison infrastructure, including the construction of additional prisons, improvements to existing facilities, better sanitation, healthcare and living conditions, and adequate provision for rehabilitation,” he said.\nThe BASL President also highlighted the importance of providing legal assistance to individuals who cannot afford lawyers, particularly when their personal liberty is at stake.\nHe said the BASL had launched its legal aid initiative following a request from the Prison Monitoring Board and expressed hope that the programme could be expanded.\nAmarasuriya also acknowledged the challenging working conditions faced by prison officers, noting that they spend much of their daily lives within the same prison walls as inmates.\nConcluding his observations, he emphasised that imprisonment should never result in the loss of human dignity.\n“Ultimately, while imprisonment may involve the deprivation of liberty, it must never amount to the deprivation of human dignity,” he said.\n“A society’s commitment to justice is reflected not only in how it treats the law-abiding, but also in how it treats those behind prison walls.”",
+      "word_count": 408,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 26,
+        "Finance": 3,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka’s prisons are operating at three to four times their intended capacity, with some inmates facing inhumane and degrading conditions, Bar Association of Sri Lanka (BASL) President Rajeev Amarasuriya has warned.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262704.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261025_181551_Facebook.jpg",
+          "alt": "Prison visit leaves BASL President with troubling observations"
+        },
+        {
+          "src": "images/2026-10-26/262704-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1792932336958.jpg",
+          "alt": "Prison visit leaves BASL President with troubling observations"
+        }
+      ]
+    },
+    {
+      "id": 262701,
+      "title": "New post office building for Kankesanthurai after 36 years",
+      "url": "https://www.newswire.lk/2026/10/25/new-post-office-building-for-kankesanthurai-after-36-years/",
+      "published": "2026-10-25T18:17:31+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Construction of a new post office building in Kankesanthurai, Jaffna, has commenced after 36 years, with an investment of Rs. 32.9 million.\nThe foundation stone was laid on Sunday (October 25) under the patronage of Minister of Health and Mass Media Dr. Nalinda Jayatissa.\nAccording to the Ministry, construction of the new permanent building is expected to be completed by May 2027, with the Department of Buildings overseeing the project.\nThe new facility is intended to address space limitations at the existing post office and improve the efficiency and quality of postal services in the area.\nThe Kankesanthurai Post Office, classified as a Grade I post office, currently serves more than 3,500 families, 16 government institutions, six hotels and three industrial establishments.\nSpeaking at the event, Minister Jayatissa said the government had launched a programme to modernise postal infrastructure and improve service delivery across the country.\nHe said Rs. 600 million had been allocated for new post office buildings in 2025, while Rs. 400 million was allocated for 2026.\nAn additional Rs. 600 million was allocated in 2025 for the renovation of postal and administrative buildings, with repairs carried out on nearly 200 buildings.\nThe Minister also outlined several initiatives undertaken to modernise the postal service.\nThese include the procurement of 10 trucks and 20 double cabs at a cost of Rs. 588 million, the installation of 209 CCTV cameras at the Central Mail Exchange for Rs. 27 million, and the distribution of 225 desktop computers and 1,500 tablets at a cost of Rs. 175 million.\nJayatissa said the government’s objective was to strengthen the physical infrastructure, technological capacity and operational efficiency of the postal service to meet changing public needs.\nFisheries Minister Ramalingam Chandrasekar, Jaffna District MP Dr. Shanmuganathan Sribhavanandarajah, Postmaster General Ruwan Sathkumara and several other government officials attended the ceremony.",
+      "word_count": 303,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 13,
+        "Finance": 4,
+        "Tech": 3
+      },
+      "summary": "Construction of a new post office building in Kankesanthurai, Jaffna, has commenced after 36 years, with an investment of Rs. 32.9 million. He said Rs. 600 million had been allocated for new post office buildings in 2025, while Rs. 400 million was allocated for 2026.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262701.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG-20261025-WA0019.jpg",
+          "alt": "New post office building for Kankesanthurai after 36 years"
+        }
+      ]
+    },
+    {
+      "id": 262698,
+      "title": "Medical emergency: Sri Lanka evacuates 40 Iranian sailors off Galle",
+      "url": "https://www.newswire.lk/2026/10/25/medical-emergency-sri-lanka-evacuates-40-iranian-sailors-off-galle/",
+      "published": "2026-10-25T17:54:12+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka coordinated a humanitarian operation to evacuate 40 Iranian seafarers from stranded merchant vessels approximately 24 nautical miles off the coast of Galle, the Ministry of Foreign Affairs said.\nThe operation was launched following distress calls concerning the medical conditions of the crew members.\nThe Iranian Embassy in Colombo arranged and facilitated the evacuation, enabling the seafarers to be brought ashore for medical treatment.\nAccording to the Foreign Ministry, all 40 crew members received medical attention before departing for Iran on Saturday (October 24).",
+      "word_count": 85,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 6,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka coordinated a humanitarian operation to evacuate 40 Iranian seafarers from stranded merchant vessels approximately 24 nautical miles off the coast of Galle, the Ministry of Foreign Affairs said. The Iranian Embassy in Colombo arranged and facilitated the evacuation, enabling the seafarers to be brought ashore for medical treatment.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262698.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Galle-Map-1.jpg",
+          "alt": "Medical emergency: Sri Lanka evacuates 40 Iranian sailors off Galle"
+        }
+      ]
+    },
+    {
+      "id": 262695,
+      "title": "Viral five-star hotel video: Balangoda Kassapa Thero breaks silence, threatens legal action",
+      "url": "https://www.newswire.lk/2026/10/25/viral-five-star-hotel-video-balangoda-kassapa-thero-breaks-silence-threatens-legal-action/",
+      "published": "2026-10-25T17:35:34+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Ven. Balangoda Kassapa Thero has defended his visit to a five-star hotel in Colombo after a video circulated on social media, accusing government supporters of attempting to discredit Buddhist monks involved in the ongoing protest demanding the release of Ven. Galagoda Aththe Gnanasara Thero.\nAddressing the controversy, the Thero said he had been unwell and that devotees had arranged accommodation and medical assistance for him.\nHe said his fever had risen to around 102 degrees Fahrenheit and that supporters had arranged several places where he could rest during the protest.\nHowever, he said he had declined many invitations because he wanted to remain close to the protest site at Viharamahadevi Park.\nThe Thero said he had visited certain locations at the invitation of devotees, where medical teams had also provided treatment.\nDefending the acceptance of accommodation and other assistance, he said Buddhist devotees had traditionally provided food, accommodation, vehicles, land and even houses to monks and religious institutions.\n“Some people can offer a bottle of water, while others can provide tents, food or accommodation. There are even people willing to offer their houses and lands,” he said.\nHe questioned why controversy was being created over a hotel room when, according to Buddhist tradition, devotees had historically donated entire properties and villages for religious purposes.\nThe Thero also raised concerns over the alleged disclosure of sensitive personal information relating to those providing assistance to the monks.\nHe alleged that individuals responsible for managing establishments, including hotels, had released personal and identification details to the media.\nDescribing the alleged disclosures as a serious matter, he warned that such incidents could undermine public confidence in international hotel establishments operating in Sri Lanka.\nHe said legal action was being considered over the alleged disclosure of personal information.\nThe Thero further accused government supporters of photographing vehicles used by the monks, identifying their owners and releasing the information to the media in an attempt to intimidate those supporting the protest.",
+      "word_count": 325,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 2,
+        "Finance": 6,
+        "Tech": 1
+      },
+      "summary": "Ven. Balangoda Kassapa Thero has defended his visit to a five-star hotel in Colombo after a video circulated on social media, accusing government supporters of attempting to discredit Buddhist monks involved in the ongoing protest demanding the release of Ven. Galagoda Aththe Gnanasara Thero. Addressing the controversy, the Thero said he had been unwell and that devotees had arranged accommodation and medical assistance for him.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-26/262695.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261025_173421_Facebook.jpg",
+          "alt": "Viral five-star hotel video: Balangoda Kassapa Thero breaks silence, threatens legal action"
+        }
+      ]
+    }
+  ]
+}
