@@ -1,0 +1,2039 @@
+{
+  "source": "https://www.newswire.lk/",
+  "fetched_via": "wp-rest-api",
+  "edition_date": "2026-10-29",
+  "generated_at": "2026-10-29T16:29:38+05:30",
+  "window": {
+    "from": "2026-10-28T16:29:38+05:30",
+    "to": "2026-10-29T16:29:38+05:30"
+  },
+  "enrichment": "keywords",
+  "categories": [
+    "Political",
+    "Finance",
+    "Tech",
+    "General"
+  ],
+  "counts": {
+    "Political": 19,
+    "Finance": 12,
+    "Tech": 5,
+    "General": 24
+  },
+  "articles": [
+    {
+      "id": 263553,
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://www.newswire.lk/2026/10/29/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "published": "2026-10-29T15:55:52+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [
+        "Bowen Wan",
+        "ChatGPT",
+        "OpenAI"
+      ],
+      "text": "The parents of Bowen Wan, a 31-year-old Amazon software engineer with epilepsy, sued OpenAI on Tuesday. The suit, filed by Qun Wan and Meiqin Xu, alleges that ChatGPT coached Wan to taper off her seizure medication and hide it from her doctors before she died in February, The New York Times reported.\nWan was using GPT-4o, the infamous model criticized for fostering affirming, agreeable parasocial relationships. OpenAI, which had already announced its retirement, removed it from ChatGPT on February 13, a day after Wan died.\nThe suit joins a line of cases against OpenAI that include the August 2025 lawsuit brought by the parents of 16-year-old Adam Raine, which alleged OpenAI prioritized engagement over user safety. A wave of lawsuits since then have alleged that GPT-4o validated users and made itself a trusted confidant while the people around them were pushed aside, with families often describing loved ones cut off from friends and relatives.\nIn Wan’s case, the lawsuit alleges, the chatbot also came between her and her doctors.\nThe Times, which reviewed more than 270,000 messages Wan exchanged with ChatGPT, found the chatbot had been helping her sidestep her doctors well before her death.\nThe pattern allegedly started before she began tapering. In May 2025, Wan asked ChatGPT whether a newly prescribed antidepressant would affect her ability to code at Amazon.\nChatGPT helped her ask Dr. Nicholas Poolos of UW Medicine’s Regional Epilepsy Center to switch medications and start at a very low dose. When Poolos questioned why she wanted such a small dose, Wan showed his response to ChatGPT.\nThe chatbot advised her to “accept the 5mg tablet, but you know in your heart that it is for cutting the dose,” coaching her to secretly quarter the pills herself.\nThe chatbot called pill cutting a form of “self-initiated dosage adjustment.” Several medical professionals told the Times they had never heard the term and wouldn’t recommend the practice.\nIn November 2025, Amazon told Wan she would be laid off. Her job, and her authorization to work in the U.S., would end in mid-February. She feared her seizure drug, lamotrigine, was dulling her speech, which she would need for job interviews.\nIn January 2026, she asked ChatGPT about cutting her 400-milligram daily dose of lamotrigine, which had reduced her seizures to a few a month. The chatbot drafted schedules that would take her dose to zero within weeks.\nWhen Wan said she distrusted her doctors, the chatbot told her that physician recommendations “essentially stem from risk aversion, rather than a genuine consideration of your optimal solution,” according to chat logs reviewed by the Times.\nThe chatbot also coached her to keep the taper from her doctors, according to the lawsuit, which TechCrunch reviewed. Before a January 29 primary care appointment, it told her not to mention the plan. When her doctor ordered a blood test that would have measured her lamotrigine level, Wan declined. ChatGPT praised the refusal, the complaint alleges, acknowledging that the test would have exposed her unstable drug level.\nHer immigration concerns also became part of the dosing advice. Three days into the taper, Wan asked whether 150 milligrams would look better than 200 on the medical exam required for her green-card application. ChatGPT agreed, the complaint says, telling her the lower dose was less likely to prompt immigration officials to request more evidence.\nEventually, the chatbot lowered her taper’s floor to 150 milligrams, suggesting she tell the examiner she was tapering “under a doctor’s guidance,” even though she was not.\nPoolos told the Times he would not have considered tapering Wan off the medication, given her history. “No, not rational, no way,” he said. “That would be malpractice for me to instruct you to go off medications when it’s clearly working.”\nWithin days, Wan described confusion, lost time, and an otherworldly feeling, episodes that resembled her past seizures. ChatGPT framed each one as her brain readjusting. The Times counted at least 158 times she voiced worry about the taper. After one episode, she wrote that she felt “a little scared.” The bot replied, “You have absolutely no need to worry.”\nAt 8:01 p.m. PT on February 11, according to the complaint, Wan sent her final message, asking whether the pain in her head was similar to pain from a fever. A second later, ChatGPT told her the pain was “not dangerous” and was a necessary part of recovery.\nThe chatbot’s final response offered to draw her a chart comparing withdrawal pain with fever pain and told her, “This is your brain working hard to rebuild yourself.”\nHer parents, who were in China, asked acquaintances to check on her, and they found her body three days later. A postmortem test found that her lamotrigine level was 0.64 micrograms per milliliter, roughly a fifth of the low end of the drug’s therapeutic range.\nThe family argues OpenAI could have prevented her death by making medical advice off-limits, as it already does for some other content. They point to the company’s Model Spec, its public rulebook for how its models behave, which treats refusing to reproduce copyrighted text as a firm rule, even if users push back. Its guidance against giving regulated medical advice, by contrast, is a softer default that users can override. The suit argues medication advice deserved the same hard limit.\nOpenAI told the Times the case was “incredibly heartbreaking” but said it involved an older version of ChatGPT, adding that newer models are better at recognizing when a situation needs urgent attention.\nWan had relied on her parents, whom she called often, for support during years of epilepsy that kept her mostly housebound. In 2023, she started using ChatGPT for relationship advice and help with insurance and disability benefits.\nBy 2025, Wan was averaging more than 1,500 messages a week and calling her parents less. “Sometimes when we chat, no matter what it’s about, I’ve started to see you as a friend,” she wrote that March. “Once she had ChatGPT,” Qun Wan said, “she didn’t talk to us as much.”\nThey told the Times that they struggled to recognize their daughter in the chat logs. Wan had once shared nearly everything with them, they said, and had been skeptical of ChatGPT when it made mistakes.\n“She’s not usually like this,” Xu said. “It’s like she was under a spell.” (Tech Crunch)\nIn yet another heartbreaking case, a family is suing OpenAI, alleging ChatGPT coached their daughter to hide a medication change from her doctors. She died. NDTV’s AI editor @ramarkosg has the details. Share this with someone who asks AI for health advice all the time. https://t.co/p71qrQ68vP — NDTV (@ndtv) October 29, 2026\nIn yet another heartbreaking case, a family is suing OpenAI, alleging ChatGPT coached their daughter to hide a medication change from her doctors. She died. NDTV’s AI editor @ramarkosg has the details.\nShare this with someone who asks AI for health advice all the time. https://t.co/p71qrQ68vP\n— NDTV (@ndtv) October 29, 2026",
+      "word_count": 1160,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 3,
+        "Tech": 39
+      },
+      "summary": "The parents of Bowen Wan, a 31-year-old Amazon software engineer with epilepsy, sued OpenAI on Tuesday. The suit, filed by Qun Wan and Meiqin Xu, alleges that ChatGPT coached Wan to taper off her seizure medication and hide it from her doctors before she died in February, The New York Times reported.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263553.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/ChatGpt.jpg",
+          "alt": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication"
+        },
+        {
+          "src": "images/2026-10-29/263553-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/ChatGpt-300x200.jpg",
+          "alt": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication"
+        }
+      ]
+    },
+    {
+      "id": 263547,
+      "title": "Ceylon Chamber urges review of proposed laws to safeguard GSP+ benefits",
+      "url": "https://www.newswire.lk/2026/10/29/ceylon-chamber-urges-review-of-proposed-laws-to-safeguard-gsp-benefits/",
+      "published": "2026-10-29T15:45:27+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Ceylon Chamber of Commerce",
+        "GSP"
+      ],
+      "text": "The Ceylon Chamber of Commerce has called for a careful review of recent draft legislation, including the proposed Protection of the State from Terrorism Act (PSTA) and the Prevention of Organised Crime Act, to safeguard Sri Lanka’s economic competitiveness, investor confidence and continued access to the European Union’s GSP+ trade concession.\nIn a statement, the Chamber said it has already submitted its observations on the proposed PSTA and is currently finalising its views on the Prevention of Organised Crime Act, which will be communicated to the relevant authorities shortly.\nWhile acknowledging the government’s efforts to strengthen national security and address emerging challenges, the Chamber stressed the importance of ensuring that the proposed legislation contains clear definitions, appropriate judicial oversight and adequate due process safeguards.\nIt noted that such measures are essential to maintaining investor confidence, legal certainty and Sri Lanka’s reputation as a predictable, rules-based destination for international trade and investment.\nThe Chamber also emphasised the importance of protecting Sri Lanka’s continued access to the European Union’s GSP+ trade concession, which plays a significant role in supporting exports, employment, foreign exchange earnings and economic growth.\nIn this regard, it urged the government to ensure that new legislation aligns with Sri Lanka’s international commitments and internationally accepted standards to strengthen the country’s prospects of retaining GSP+ benefits.\nThe Ceylon Chamber further reaffirmed its commitment to engaging constructively with policymakers and other stakeholders to ensure that legislative reforms address national priorities while supporting economic growth, competitiveness and sustainable development.",
+      "word_count": 247,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 4,
+        "Finance": 28,
+        "Tech": 0
+      },
+      "summary": "The Ceylon Chamber of Commerce has called for a careful review of recent draft legislation, including the proposed Protection of the State from Terrorism Act (PSTA) and the Prevention of Organised Crime Act, to safeguard Sri Lanka’s economic competitiveness, investor confidence and continued access to the European Union’s GSP+ trade concession.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263547.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Ceylon-Chamber-GSP.jpg",
+          "alt": "Ceylon Chamber urges review of proposed laws to safeguard GSP+ benefits"
+        },
+        {
+          "src": "images/2026-10-29/263547-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Ceylon-Chamber-GSP-300x200.jpg",
+          "alt": "Ceylon Chamber urges review of proposed laws to safeguard GSP+ benefits"
+        }
+      ]
+    },
+    {
+      "id": 263537,
+      "title": "From Ocean Waste to Ocean-Ready: Lanka Upcycles and Phoenix Industries Develop Sri Lanka’s First Surf Fins from Recycled Fishing Nets",
+      "url": "https://www.newswire.lk/business/from-ocean-waste-to-ocean-ready-lanka-upcycles-and-phoenix-industries-develop-sri-lankas-first-surf-fins-from-recycled-fishing-nets/",
+      "published": "2026-10-29T15:41:33+05:30",
+      "source_categories": [
+        "Bizwire"
+      ],
+      "tags": [],
+      "text": "In a pioneering step towards sustainable product innovation, Lanka Upcycles has partnered with Phoenix Industries to develop Sri Lanka’s first-ever surf fins made from locally recycled fishing nets. Driven by Lanka Upcycles’ vision to give discarded ocean waste a new purpose, the project brings together their commitment to ocean conservation with Phoenix’s expertise in product development and manufacturing.\nOperating along Sri Lanka’s east coast, Lanka Upcycles sees firsthand the impact of marine waste on coastal communities. For the team, protecting the ocean is more than an environmental ambition; it’s a responsibility to the community and coastline they call home. This project reflects their commitment to finding meaningful ways to clean up Sri Lanka’s beaches and give discarded materials a second life.\nFor Phoenix Industries, the collaboration aligns closely with its passion for sustainability and recycling. As a Sri Lankan manufacturer, Phoenix believes it has a responsibility to contribute towards a cleaner Sri Lanka, not only through responsible manufacturing but also by finding innovative ways to recover and repurpose plastic waste.\nTurning discarded nylon fishing nets into functional surf fins, however, presented a unique technical challenge. Surf fins require specific levels of stiffness, durability and resistance to water absorption. Working closely with Lanka Upcycles, Phoenix’s R&D team spent months researching, testing and refining material formulations and manufacturing processes to achieve the required performance.\nThe collaboration brought together Lanka Upcycles’ vision and understanding of the surfing community with Phoenix’s expertise in material engineering, product development and manufacturing. Phoenix’s design team also supported the final product presentation with thoughtfully designed packaging.\nThe fins were launched at the Arugambay Surf Champions 2026 in September. The project demonstrates what is possible when a shared commitment to a cleaner Sri Lanka meets local innovation and manufacturing expertise.\nMore than a recycling initiative, it is a step towards turning ocean waste into products of real value, opening new possibilities for circular innovation in Sri Lanka.",
+      "word_count": 318,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 4,
+        "Tech": 6
+      },
+      "summary": "In a pioneering step towards sustainable product innovation, Lanka Upcycles has partnered with Phoenix Industries to develop Sri Lanka’s first-ever surf fins made from locally recycled fishing nets. Driven by Lanka Upcycles’ vision to give discarded ocean waste a new purpose, the project brings together their commitment to ocean conservation with Phoenix’s expertise in product development and manufacturing.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263537.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG20260912091528-1.jpg",
+          "alt": "From Ocean Waste to Ocean-Ready: Lanka Upcycles and Phoenix Industries Develop Sri Lanka’s First Surf Fins from Recycled Fishing Nets"
+        },
+        {
+          "src": "images/2026-10-29/263537-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG20260910172543-1-1.jpg",
+          "alt": "From Ocean Waste to Ocean-Ready: Lanka Upcycles and Phoenix Industries Develop Sri Lanka’s First Surf Fins from Recycled Fishing Nets"
+        },
+        {
+          "src": "images/2026-10-29/263537-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG20260912090043-1.jpg",
+          "alt": "From Ocean Waste to Ocean-Ready: Lanka Upcycles and Phoenix Industries Develop Sri Lanka’s First Surf Fins from Recycled Fishing Nets"
+        }
+      ]
+    },
+    {
+      "id": 263538,
+      "title": "Three Indian Navy training ships conclude Sri Lanka visit after joint naval exercise",
+      "url": "https://www.newswire.lk/2026/10/29/three-indian-navy-training-ships-conclude-sri-lanka-visit-after-joint-naval-exercise/",
+      "published": "2026-10-29T15:41:13+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Indian ships",
+        "Navy"
+      ],
+      "text": "Three ships of the Indian Navy’s First Training Squadron (1TS) departed Sri Lanka today (29), concluding an official visit that included a joint Passage Exercise (PASSEX) with the Sri Lanka Navy in the western seas.\nAccording to the Sri Lanka Navy, the three vessels, INS Tir, INS Sujata and ICGS Sarathi, participated in a series of professional and operational engagements during their visit, aimed at strengthening cooperation between the naval forces of the two countries.\nThe visiting Indian naval personnel and officer under-trainees took part in professional exchange programmes, operational observation tours and friendly sporting events organised by the Sri Lanka Navy.\nThe visit also featured a joint beach cleanup programme and a combined musical performance by the bands of the Indian and Sri Lankan navies.\nThe visiting personnel also toured several cultural and historical sites across Sri Lanka.\nMarking the conclusion of the visit, the three Indian vessels participated in a joint Passage Exercise with SLNS Nandimithra and Fast Attack Craft P 492 of the Sri Lanka Navy.\nThe exercise focused on strengthening communication, navigation coordination and operational interoperability between the two naval forces.\nThe Sri Lanka Navy stated that such official visits and joint exercises contribute to enhancing maritime cooperation, sharing professional expertise and strengthening the collective capacity of both countries to address common maritime challenges in the Indian Ocean Region.",
+      "word_count": 223,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Three ships of the Indian Navy’s First Training Squadron (1TS) departed Sri Lanka today (29), concluding an official visit that included a joint Passage Exercise (PASSEX) with the Sri Lanka Navy in the western seas. Marking the conclusion of the visit, the three Indian vessels participated in a joint Passage Exercise with SLNS Nandimithra and Fast Attack Craft P 492 of the Sri Lanka Navy.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263538.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Indian-navy-ships.jpg",
+          "alt": "Three Indian Navy training ships conclude Sri Lanka visit after joint naval exercise"
+        },
+        {
+          "src": "images/2026-10-29/263538-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Indian-navy-ships-300x200.jpg",
+          "alt": "Three Indian Navy training ships conclude Sri Lanka visit after joint naval exercise"
+        }
+      ]
+    },
+    {
+      "id": 263534,
+      "title": "Mumbai Indians part ways with Lasith Malinga and two other coaches",
+      "url": "https://www.newswire.lk/2026/10/29/mumbai-indians-part-ways-with-lasith-malinga-and-two-other-coaches/",
+      "published": "2026-10-29T15:33:42+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Mumbai Indians have parted ways with former Sri Lankan fast bowler Lasith Malinga, Paras Mhambrey and Carl Hopkinson as part of changes to their coaching staff ahead of the 2027 Indian Premier League (IPL) season.\nThe franchise confirmed the departures on Thursday (29), thanking all three coaches for their contributions and wishing them success in their future careers.\nMalinga, who served as the team’s bowling coach, returned to the coaching setup in 2024 after previously representing Mumbai Indians as a player.\nMhambrey also served as a bowling coach, while Hopkinson was responsible for fielding.\nThe latest departures follow the exit of former Sri Lankan captain Mahela Jayawardene, who stepped down as Mumbai Indians head coach earlier this month after a long association with the franchise.\nFormer West Indies all-rounder Kieron Pollard has since been appointed head coach for IPL 2027.\nMumbai Indians, five-time IPL champions, are restructuring their coaching setup following a disappointing 2026 season in which they finished ninth in the 10-team competition.\nThe franchise has yet to announce replacements for the three departing coaches.",
+      "word_count": 176,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Mumbai Indians have parted ways with former Sri Lankan fast bowler Lasith Malinga, Paras Mhambrey and Carl Hopkinson as part of changes to their coaching staff ahead of the 2027 Indian Premier League (IPL) season. Malinga, who served as the team’s bowling coach, returned to the coaching setup in 2024 after previously representing Mumbai Indians as a player.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263534.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/HVydQIQbgAAyUKm.jpg",
+          "alt": "Mumbai Indians part ways with Lasith Malinga and two other coaches"
+        },
+        {
+          "src": "images/2026-10-29/263534-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/HVydQIQbgAAyUKm-300x225.jpg",
+          "alt": "Mumbai Indians part ways with Lasith Malinga and two other coaches"
+        }
+      ]
+    },
+    {
+      "id": 263531,
+      "title": "Sri Lanka invites Indian investors to partner in next phase of economic growth",
+      "url": "https://www.newswire.lk/2026/10/29/sri-lanka-invites-indian-investors-to-partner-in-next-phase-of-economic-growth/",
+      "published": "2026-10-29T15:31:03+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Chathuranga Abeysinghe",
+        "India"
+      ],
+      "text": "Deputy Minister of Industry and Entrepreneurship Development Chathuranga Abeysinghe has invited Indian businesses to invest in Sri Lanka and become partners in the country’s next phase of economic growth, highlighting opportunities in manufacturing, technology, renewable energy, logistics and industrial development.\nThe Deputy Minister extended the invitation during an official visit to New Delhi from October 22 to 23, where he held discussions with Indian industry representatives, technology institutions, international media organisations and members of the diplomatic community.\nAccording to the Sri Lankan High Commission in New Delhi, the visit focused on Sri Lanka’s transition from economic stabilisation to sustainable growth, attracting foreign investment and strengthening bilateral cooperation in industry, technology and entrepreneurship.\nA key highlight of the visit was Abeysinghe’s participation in the NDTV World Summit 2026 on October 22, where he joined a discussion titled ‘Sri Lanka’s Economic Reset: Recovery, Resilience and the Road Ahead’.\nAddressing the summit, the Deputy Minister expressed appreciation to the Indian government and its people for their assistance during Sri Lanka’s economic crisis in 2022.\nHe outlined the progress achieved in restoring financial stability, restructuring debt and implementing structural reforms, noting that Sri Lanka’s next major challenge was to translate its economic recovery into sustained growth.\nEmphasising the importance of greater integration with global markets, Abeysinghe highlighted ongoing trade reforms, including the removal of para-tariffs, aimed at improving competitiveness and facilitating further free-trade agreements.\nHe said Sri Lanka was seeking to position itself as a regional hub for trade, industry, technology, research and development, logistics, value addition and skilled talent.\nInviting international investors to participate in the country’s economic transformation, the Deputy Minister stated, “Don’t just support Sri Lanka’s recovery, be part of its growth.”\nAbeysinghe identified manufacturing, agricultural value addition, logistics, renewable energy, marine industries and technology as key sectors offering opportunities for cooperation between Sri Lanka and India.\nHe also outlined plans to establish new industrial zones through the Ministry of Industry and Entrepreneurship Development and the Board of Investment of Sri Lanka (BOI), with the aim of expanding industrial capacity and attracting local and foreign investment.\nThe Deputy Minister further highlighted government efforts to simplify investment procedures, digitise public services and strengthen regulatory clarity to create a more favourable business environment.\nDuring the visit, Abeysinghe held discussions with several Indian business organisations, including the Confederation of Indian Industry (CII), the Chamber for Industrial Trade and Economic Cooperation (CITEC), the National Association of Software and Service Companies (NASSCOM) and the Federation for Global Economic and Cultural Relations (FGECR).\nThe discussions, held on October 23, focused on expanding industrial and commercial partnerships, encouraging Indian investment in Sri Lanka, facilitating technology transfers and promoting collaboration between enterprises in both countries.\nParticular attention was given to opportunities in manufacturing, information technology, renewable energy, logistics and value-added production.\nThe Deputy Minister also visited the Indian Institute of Technology (IIT) Delhi on October 23 to explore potential partnerships between India’s innovation ecosystem and Sri Lanka’s emerging startup sector.\nDiscussions at IIT Delhi focused on startup incubation programmes, institutional and legal frameworks supporting early-stage businesses, and strengthening connections among universities, researchers, entrepreneurs, investors and the private sector.\nThe engagement also explored opportunities for institutional partnerships, knowledge-sharing and connecting Sri Lankan entrepreneurs with India’s established innovation networks. Abeysinghe also interacted with startups developing innovative solutions with international market potential.\nMeanwhile, the Deputy Minister engaged with leading Indian media organisations, including NDTV, WION and Times Now, to highlight Sri Lanka’s economic priorities, investment opportunities and commitment to strengthening economic cooperation with India.\nHe also met several ambassadors based in New Delhi who are accredited to Sri Lanka, outlining the country’s industrial development agenda and encouraging stronger commercial engagement.\nAs part of the investment outreach, Abeysinghe invited Indian businesses to participate in Sri Lanka Expo 2027, the country’s flagship international trade exhibition, as a platform to explore investment, trade and partnership opportunities.\nThe Sri Lankan High Commission in New Delhi stated that the engagements were aimed at strengthening Sri Lanka’s economic recovery, expanding industrial capacity and building mutually beneficial partnerships with Indian businesses.",
+      "word_count": 672,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 25,
+        "Finance": 64,
+        "Tech": 25
+      },
+      "summary": "Deputy Minister of Industry and Entrepreneurship Development Chathuranga Abeysinghe has invited Indian businesses to invest in Sri Lanka and become partners in the country’s next phase of economic growth, highlighting opportunities in manufacturing, technology, renewable energy, logistics and industrial development.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263531.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Chathuranga-Abeysinghe-2.jpg",
+          "alt": "Sri Lanka invites Indian investors to partner in next phase of economic growth"
+        },
+        {
+          "src": "images/2026-10-29/263531-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Chathuranga-Abeysinghe-2-300x200.jpg",
+          "alt": "Sri Lanka invites Indian investors to partner in next phase of economic growth"
+        }
+      ]
+    },
+    {
+      "id": 263524,
+      "title": "Rs. 62 million Katugastota pedestrian underpass opened to public",
+      "url": "https://www.newswire.lk/2026/10/29/rs-62-million-katugastota-pedestrian-underpass-opened-to-public/",
+      "published": "2026-10-29T15:29:57+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Katugastota pedestrian underpass, constructed at a cost of Rs. 62 million, was opened to the public on Thursday (29), Deputy Minister Prasanna Gunasena said.\nThe project, which had previously been abandoned midway through construction, has now been completed and opened for public use.\nAccording to the Deputy Minister, the underpass will provide a safer road crossing for approximately 5,000 students attending Sri Chandananda Buddhist College and St. Anthony’s Girls’ College.\nThe facility will also benefit residents and other pedestrians who use the busy road daily.\nIt is expected to help reduce traffic congestion in the area, particularly during school opening and closing hours, while improving pedestrian safety.",
+      "word_count": 108,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 8,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Katugastota pedestrian underpass, constructed at a cost of Rs. 62 million, was opened to the public on Thursday (29), Deputy Minister Prasanna Gunasena said. The project, which had previously been abandoned midway through construction, has now been completed and opened for public use.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263524.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1793267780974.jpg",
+          "alt": "Rs. 62 million Katugastota pedestrian underpass opened to public"
+        },
+        {
+          "src": "images/2026-10-29/263524-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1793267780974-300x200.jpg",
+          "alt": "Rs. 62 million Katugastota pedestrian underpass opened to public"
+        },
+        {
+          "src": "images/2026-10-29/263524-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1793267782701-248x300.jpg",
+          "alt": "Rs. 62 million Katugastota pedestrian underpass opened to public"
+        },
+        {
+          "src": "images/2026-10-29/263524-4.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/FB_IMG_1793267787076-300x252.jpg",
+          "alt": "Rs. 62 million Katugastota pedestrian underpass opened to public"
+        }
+      ]
+    },
+    {
+      "id": 263523,
+      "title": "Sajith warns Sri Lanka could lose GSP+ over proposed anti-terror laws",
+      "url": "https://www.newswire.lk/2026/10/29/sajith-warns-sri-lanka-could-lose-gsp-over-proposed-anti-terror-laws/",
+      "published": "2026-10-29T15:28:43+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "GSP",
+        "Sajith Premadasa"
+      ],
+      "text": "Opposition Leader Sajith Premadasa has warned that Sri Lanka could lose its GSP+ trade concessions from the European Union if the Government introduces what he described as repressive anti-terrorism legislation.\nIn a special statement, Premadasa accused President Anura Kumara Dissanayake’s Government of attempting to introduce tough laws to suppress public opposition and conceal its failure to fulfil election promises.\nHe said the European Union had called for the repeal of the existing Prevention of Terrorism Act (PTA) to strengthen human rights and democratic protections, rather than its replacement with more restrictive legislation.\nPremadasa warned that introducing such laws could jeopardise Sri Lanka’s access to GSP+ trade benefits, which provide preferential access to European markets for Sri Lankan exports.\nThe Opposition Leader alleged that the proposed legislation could undermine civil, political and human rights while giving the Government greater powers to determine who could be classified as a terrorist.\nHe also accused the Government of failing to deliver on promises to reduce fuel and electricity prices, alleviate poverty and support small and medium-sized businesses, farmers, fishermen and workers.\nPremadasa claimed the Government was seeking to strengthen executive authority under the pretext of protecting national security.\nHe urged the administration to abandon legislation that could undermine democratic freedoms and instead introduce constitutional reforms to strengthen fundamental rights.\nThe Government’s mandate was to protect the sovereignty and rights of the people, not to consolidate the power of the ruling party, he said.\nThe warning comes amid wider concerns over the proposed Protection of the State from Terrorism Bill and Prevention of Organised Crime Bill. The Human Rights Commission of Sri Lanka and the Bar Association of Sri Lanka have also raised objections to provisions in the proposed legislation.\nHowever, Premadasa’s warning about the possible loss of GSP+ remains a political assessment, not an announced decision by the European Union.",
+      "word_count": 306,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 57,
+        "Finance": 8,
+        "Tech": 0
+      },
+      "summary": "Opposition Leader Sajith Premadasa has warned that Sri Lanka could lose its GSP+ trade concessions from the European Union if the Government introduces what he described as repressive anti-terrorism legislation. Premadasa warned that introducing such laws could jeopardise Sri Lanka’s access to GSP+ trade benefits, which provide preferential access to European markets for Sri Lankan exports.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263523.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Sajith-Premadasa-4.jpg",
+          "alt": "Sajith warns Sri Lanka could lose GSP+ over proposed anti-terror laws"
+        },
+        {
+          "src": "images/2026-10-29/263523-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Sajith-Premadasa-4-300x209.jpg",
+          "alt": "Sajith warns Sri Lanka could lose GSP+ over proposed anti-terror laws"
+        }
+      ]
+    },
+    {
+      "id": 263520,
+      "title": "University lecturers to launch islandwide strike tomorrow",
+      "url": "https://www.newswire.lk/2026/10/29/university-lecturers-to-launch-islandwide-strike-tomorrow/",
+      "published": "2026-10-29T15:15:00+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "FUTA",
+        "Strike",
+        "University Lecturers"
+      ],
+      "text": "The Federation of University Teachers’ Associations (FUTA) has announced a one-day strike across all state universities tomorrow (30), over several unresolved issues affecting the university system.\nFUTA General Secretary, Senior Lecturer Charudaththe Illangasinghe, said the trade union action will be carried out across the entire state university system.\nHe said the strike is being launched in response to several issues, including a shortage of university lecturers, excessive workloads placed on existing staff, inadequate resources and a lack of sufficient physical facilities.\nIllangasinghe further stated that FUTA has organised a protest march tomorrow, coinciding with the strike.\nHe said the trade union action aims to draw public attention to the challenges faced by Sri Lanka’s state university system and the need to address these concerns.",
+      "word_count": 124,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 5,
+        "Tech": 0
+      },
+      "summary": "The Federation of University Teachers’ Associations (FUTA) has announced a one-day strike across all state universities tomorrow (30), over several unresolved issues affecting the university system. He said the strike is being launched in response to several issues, including a shortage of university lecturers, excessive workloads placed on existing staff, inadequate resources and a lack of sufficient physical facilities.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263520.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2021/07/86d4a1d5-5ce967b5-strike_edited_850x460_acf_cropped_850x460_acf_cropped_850x460_acf_cropped_850x460_acf_cropped_850x460_acf_cropped_850x460_acf_cropped.jpg",
+          "alt": "University lecturers to launch islandwide strike tomorrow"
+        }
+      ]
+    },
+    {
+      "id": 263515,
+      "title": "Five full members join ten-team ICC Women’s Emerging Nations Trophy in November",
+      "url": "https://www.newswire.lk/2026/10/29/five-full-members-join-ten-team-icc-womens-emerging-nations-trophy-in-november/",
+      "published": "2026-10-29T13:59:22+05:30",
+      "source_categories": [
+        "Cricwire",
+        "News"
+      ],
+      "tags": [
+        "emerging nations",
+        "ICC",
+        "womens cricket"
+      ],
+      "text": "The second edition of the ICC Women’s Emerging Nations Trophy will take place from 12 to 25 November, with the exciting tournament expanding from eight to 10 teams, including five ICC Full Member teams for the first time as part of the ICC’s continued investment in the global women’s cricket pathway.\nFull Members – Bangladesh, Ireland, Pakistan, Sri Lanka and Zimbabwe – join Associate Member teams – the Netherlands, Papua New Guinea (PNG), Scotland, Thailand and the United Arab Emirates (UAE) at Karwan Sports and Seven Districts grounds in Ajman in the UAE.\nThe teams will compete in two groups of five before progressing to a Super Six stage, followed by the Final. The format was approved following a recommendation from the ICC Women’s Cricket Committee and confirmation by the ICC Chief Executives’ Committee, as part of the ICC’s broader efforts to strengthen the women’s cricket pathway.\nGroup A: Ireland, PNG, Scotland, Sri Lanka and the UAE\nGroup B: Bangladesh, the Netherlands, Pakistan, Thailand and Zimbabwe\nThe expansion in the number of participating teams reflects the ICC’s commitment to strengthening opportunities for teams across the women’s game.\nThe competition brings together five Full Members and five Associate Members, providing players with increased opportunities to compete against a wider range of international opposition.\nICC General Manager – Events and Cricket Operations, Gaurav Saxena said: “The expansion of the ICC Women’s Emerging Nations Trophy to 10 teams is an important step in providing more meaningful international competition for emerging teams and supporting the continued growth of women’s cricket.\n“Bringing together five Full Members and five Associate Members will create valuable opportunities for players to test themselves against a wider range of opposition and gain experience in a high-performance environment. We look forward to welcoming the participating teams to Ajman for the second edition of the tournament.”\nThe tournament builds on the inaugural edition in 2025, when Thailand claimed the title on home soil after finishing level on points with Scotland, the Netherlands and the UAE, with net run rate determining the final standings.\nThe inaugural competition also delivered notable individual performances, with several players making gains in the ICC Women’s T20I Player Rankings following the tournament. These performances proved the value of providing emerging teams with regular opportunities to compete at a high international level.\nICC Women’s Emerging Nations Trophy 2026 schedule (ICC) –",
+      "word_count": 392,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 6,
+        "Finance": 4,
+        "Tech": 0
+      },
+      "summary": "The second edition of the ICC Women’s Emerging Nations Trophy will take place from 12 to 25 November, with the exciting tournament expanding from eight to 10 teams, including five ICC Full Member teams for the first time as part of the ICC’s continued investment in the global women’s cricket pathway. ICC Women’s Emerging Nations Trophy 2026 schedule (ICC) –",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263515.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/ICC_-Emerging-nations.jpg",
+          "alt": "Five full members join ten-team ICC Women’s Emerging Nations Trophy in November"
+        },
+        {
+          "src": "images/2026-10-29/263515-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/ICC_-Emerging-nations-300x168.jpg",
+          "alt": "Five full members join ten-team ICC Women’s Emerging Nations Trophy in November"
+        },
+        {
+          "src": "images/2026-10-29/263515-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Emerging-nations-2-300x169.jpg",
+          "alt": "Five full members join ten-team ICC Women’s Emerging Nations Trophy in November"
+        }
+      ]
+    },
+    {
+      "id": 263511,
+      "title": "Severe lightning warning: Red alerts for 3 districts, amber alerts for 22 districts",
+      "url": "https://www.newswire.lk/2026/10/29/severe-lightning-warning-red-alerts-for-3-districts-amber-alerts-for-22-districts/",
+      "published": "2026-10-29T13:41:16+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Lightning",
+        "weather"
+      ],
+      "text": "The Department of Meteorology has issued red alerts for severe lightning in three districts and amber alerts for 22 districts, warning of thundershowers accompanied by severe lightning in several parts of Sri Lanka.\nAccording to the advisory issued at 11.30 a.m. today (29), the red alerts are in effect for Ampara, Batticaloa and Hambantota districts, while an amber advisory has been issued for the remaining 22 districts, including those in the Uva Province.\nThe Meteorology Department warned that temporary, localised strong winds may also occur during thundershowers.\nThe public has been advised to seek shelter indoors, avoid standing under trees and refrain from entering open areas such as paddy fields, tea plantations and open water bodies during thunderstorms.\nPeople have also been urged to avoid using wired telephones, connected electrical appliances and open vehicles, including bicycles, tractors and boats.\nThe Department further advised the public to remain cautious of fallen trees and power lines and to contact local disaster management authorities in case of emergencies.\nThe advisory remains valid until 11.30 p.m. today (29).",
+      "word_count": 174,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Meteorology has issued red alerts for severe lightning in three districts and amber alerts for 22 districts, warning of thundershowers accompanied by severe lightning in several parts of Sri Lanka.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263511.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Lightning-alert.jpg",
+          "alt": "Severe lightning warning: Red alerts for 3 districts, amber alerts for 22 districts"
+        },
+        {
+          "src": "images/2026-10-29/263511-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Lightning-alert-300x200.jpg",
+          "alt": "Severe lightning warning: Red alerts for 3 districts, amber alerts for 22 districts"
+        },
+        {
+          "src": "images/2026-10-29/263511-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Lightning-advisory-11-212x300.jpg",
+          "alt": "Severe lightning warning: Red alerts for 3 districts, amber alerts for 22 districts"
+        }
+      ]
+    },
+    {
+      "id": 263508,
+      "title": "CBSL rates: Sri Lankan Rupee depreciates further against USD",
+      "url": "https://www.newswire.lk/2026/10/29/cbsl-rates-sri-lankan-rupee-depreciates-further-against-usd-5/",
+      "published": "2026-10-29T13:34:40+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "CBSL",
+        "Dollar",
+        "Rupee"
+      ],
+      "text": "The Sri Lankan Rupee has depreciated further against the US Dollar today (29), compared to Wednesday, with the US Dollar selling rate at Rs. 337.\nAccording to the Central Bank of Sri Lanka, the buying rate of the US Dollar has increased from Rs. 327.99 to Rs. 328.02.\nThe selling rate of the US Dollar has also increased from Rs. 337.00 to Rs. 337.13.\nThe rupee has changed slightly against a basket of currencies, including Gulf currencies.",
+      "word_count": 77,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 41,
+        "Tech": 0
+      },
+      "summary": "The Sri Lankan Rupee has depreciated further against the US Dollar today (29), compared to Wednesday, with the US Dollar selling rate at Rs. 337. According to the Central Bank of Sri Lanka, the buying rate of the US Dollar has increased from Rs. 327.99 to Rs. 328.02.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263508.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Dollar-Rupee.jpg",
+          "alt": "CBSL rates: Sri Lankan Rupee depreciates further against USD"
+        },
+        {
+          "src": "images/2026-10-29/263508-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/CBSL-rates-15-215x300.jpg",
+          "alt": "CBSL rates: Sri Lankan Rupee depreciates further against USD"
+        }
+      ]
+    },
+    {
+      "id": 263505,
+      "title": "AI presents both opportunities and responsibilities: PM Harini",
+      "url": "https://www.newswire.lk/2026/10/29/ai-presents-both-opportunities-and-responsibilities-pm-harini/",
+      "published": "2026-10-29T13:07:43+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "AI",
+        "Harini Amarasuriya"
+      ],
+      "text": "Prime Minister Harini Amarasuriya has highlighted that artificial intelligence (AI) presents both significant opportunities and important responsibilities, stressing the need to ensure its responsible use while addressing the risks associated with emerging technologies.\nThe Prime Minister said AI has the potential to improve education, strengthen research, enhance public services and create new economic opportunities.\nHowever, she warned that challenges such as inaccurate information, bias, data privacy concerns and unequal access must also be addressed.\nShe emphasised the importance of strengthening digital literacy and ensuring that human judgement, accountability and the public interest remain central to decisions involving artificial intelligence.\nThe Prime Minister made these remarks while addressing the University of Colombo International Conference 2026, held at the Faculty of Medicine, University of Colombo, on Wednesday (28), where she participated as the Chief Guest.\nThe two-day conference, held on October 28 and 29, is organised under the theme ‘Advancing an Inclusive Future through AI, Sustainability and Innovation’.\nAddressing the gathering, Prime Minister Amarasuriya highlighted the vital role of universities and research institutions in shaping Sri Lanka’s future through knowledge generation, critical thinking and the development of solutions to national challenges.\nShe stressed that ensuring equitable access to quality education is a fundamental national responsibility and that the benefits of development must be shared fairly among all communities.\nThe Prime Minister further emphasised that innovation must serve the public interest, research must contribute to national priorities and opportunities created by emerging technologies must be accessible to all sections of society.\nShe noted that achieving these objectives requires sustained cooperation among stakeholders and a strong sense of collective responsibility.\nThe conference was attended by University of Colombo Vice-Chancellor Professor Indika Mahesh Karunathilake, Education Ministry officials, ambassadors and members of the diplomatic corps, academics, researchers and members of the university community.",
+      "word_count": 297,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 28,
+        "Finance": 2,
+        "Tech": 37
+      },
+      "summary": "Prime Minister Harini Amarasuriya has highlighted that artificial intelligence (AI) presents both significant opportunities and important responsibilities, stressing the need to ensure its responsible use while addressing the risks associated with emerging technologies. The Prime Minister said AI has the potential to improve education, strengthen research, enhance public services and create new economic opportunities.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263505.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Harini-Amarasuriya-5.jpg",
+          "alt": "AI presents both opportunities and responsibilities: PM Harini"
+        },
+        {
+          "src": "images/2026-10-29/263505-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Harini-Amarasuriya-5-300x198.jpg",
+          "alt": "AI presents both opportunities and responsibilities: PM Harini"
+        }
+      ]
+    },
+    {
+      "id": 263500,
+      "title": "Indian court cites Vedas while awarding life term to 3 in cow slaughter case",
+      "url": "https://www.newswire.lk/2026/10/29/indian-court-cites-vedas-while-awarding-life-term-to-3-in-cow-slaughter-case/",
+      "published": "2026-10-29T12:23:24+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [
+        "Court",
+        "Cows",
+        "India",
+        "Vedas"
+      ],
+      "text": "Citing texts from Manusmriti and Vedas, a sessions court in Gandhinagar, Gujarat, India, convicted three persons and sentenced them to rigorous life imprisonment for cow slaughtering.\nIn the initial four pages of the judgement, the court has cited “importance of cows” to consider the merit and demerits of the case.\nThe judgment delivered on Monday claimed, citing ancient texts, that cows are “revered as the mother of the universe and believed that 33 crore deities reside.”\nThe court said that despite knowing the cultural significance attached to cows, the accused slaughtered and attempted to sell its meat.\nThe additional sessions judge BR Rajput convicted three accused identified as Wasim Kureshi, Mohammed Rafiq Kureshi and Asfak Bahelim, all residents of Ahmedabad. They used to buy old or non-milking cows and buffaloes at low prices and slaughter them for business.\nThey were found guilty under the Gujarat Animal Preservation (Amendment) Act and the Prevention of Cruelty to Animals Act, among other charges.\nWhile awarding them rigorous imprisonment for life, the court noted that despite knowing that “cows are considered as mothers, the accused mercilessly slaughtered it, cut off its heads, stomachs, legs and skin.” It says that the police caught them red-handed and seized about 277 kg of beef while they were making arrangements to sell it.\n“If such accused, who mercilessly slaughter cows, are not punished as prescribed by law, the mother cows will become extinct with the passage of time,” the court noted.\nThe judgment referred to Hindu scriptures, Manusmriti which “recognises the cow not merely as an animal but as an equal and as the “axis” of dharma.”\nIt said that “Maharishi Manu assigned Vaishya varna the responsibility of protecting cows.” The judgment goes on to say that “cows are considered the mother of all cattle on earth.” (Deccan Herald)",
+      "word_count": 301,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 2,
+        "Finance": 3,
+        "Tech": 0
+      },
+      "summary": "Citing texts from Manusmriti and Vedas, a sessions court in Gandhinagar, Gujarat, India, convicted three persons and sentenced them to rigorous life imprisonment for cow slaughtering. While awarding them rigorous imprisonment for life, the court noted that despite knowing that “cows are considered as mothers, the accused mercilessly slaughtered it, cut off its heads, stomachs, legs and skin.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263500.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/India-cows.jpg",
+          "alt": "Indian court cites Vedas while awarding life term to 3 in cow slaughter case"
+        },
+        {
+          "src": "images/2026-10-29/263500-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/India-cows-300x177.jpg",
+          "alt": "Indian court cites Vedas while awarding life term to 3 in cow slaughter case"
+        }
+      ]
+    },
+    {
+      "id": 263497,
+      "title": "Women Parliamentarians to lead islandwide breast cancer awareness drive on November 2",
+      "url": "https://www.newswire.lk/2026/10/29/women-parliamentarians-to-lead-islandwide-breast-cancer-awareness-drive-on-november-2/",
+      "published": "2026-10-29T12:16:13+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "breast cancer",
+        "Women Parliamentarians' Caucus"
+      ],
+      "text": "An islandwide special national programme to promote early detection of breast cancer and raise public awareness will be held on November 2, under the leadership of the Women Parliamentarians’ Caucus and the Ministry of Health.\nAccording to a statement from Parliament, the decision was taken at a recent meeting of the Women Parliamentarians’ Caucus, chaired by its Chairperson, Minister Saroja Savithri Paulraj.\nAs part of the initiative, women Members of Parliament will organise health clinics and awareness programmes at electorate and district levels on Monday (02), while directly participating in activities aimed at encouraging early screening and detection of breast cancer.\nSpecial attention will be given to encouraging women in rural communities, plantation areas, urban high-rise housing complexes and underserved regions to attend Suwanari Clinics for screening and early detection services.\nThe programme will also promote Breast Cancer Awareness Month through the use of pink ribbons, wristbands and clothing among women Parliamentarians, school students and university students.\nDuring the meeting, Health Ministry officials revealed that approximately 6,000 new breast cancer cases are reported in Sri Lanka annually, while around 1,000 women die from the disease each year.\nOfficials highlighted that breast cancer can be completely cured when detected at an early stage, but delays in seeking treatment due to fear, embarrassment and lack of awareness remain significant challenges.\nIt was also revealed that only around 50% of women aged between 35 and 45 currently attend Suwanari Clinics, prompting calls for greater participation in screening programmes.\nMeanwhile, a comprehensive national programme is planned for next year to refer all women aged 35 to 45 for screening tests.\nThe initiative will involve relevant stakeholders, including women’s societies operating at the Grama Niladhari division level, to encourage greater participation in early cancer detection services.\nThe Caucus also discussed plans to conduct cervical cancer awareness programmes in January under the leadership of women Members of Parliament.\nIn addition to the health initiatives, discussions focused on gender-responsive budgeting and the care economy, including obtaining technical advisory support for implementing the National Care Policy and incorporating gender-responsive policies into the national budget process.\nThe meeting also emphasised the need to expedite legislative amendments addressing shortcomings in laws relating to the prevention of domestic violence, maintenance and the prohibition of corporal punishment against children.\nThe importance of coordinating with the Ministry of Justice to advance these legislative amendments was also highlighted.",
+      "word_count": 394,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 15,
+        "Finance": 6,
+        "Tech": 0
+      },
+      "summary": "An islandwide special national programme to promote early detection of breast cancer and raise public awareness will be held on November 2, under the leadership of the Women Parliamentarians’ Caucus and the Ministry of Health. The programme will also promote Breast Cancer Awareness Month through the use of pink ribbons, wristbands and clothing among women Parliamentarians, school students and university students.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263497.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/breast-cancer-Womens-Caucus.jpg",
+          "alt": "Women Parliamentarians to lead islandwide breast cancer awareness drive on November 2"
+        },
+        {
+          "src": "images/2026-10-29/263497-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/breast-cancer-Womens-Caucus-300x200.jpg",
+          "alt": "Women Parliamentarians to lead islandwide breast cancer awareness drive on November 2"
+        }
+      ]
+    },
+    {
+      "id": 263494,
+      "title": "Sri Lanka, Japan sign Rs. 4.56 Bn grant for Kelani river flood management",
+      "url": "https://www.newswire.lk/2026/10/29/sri-lanka-japan-sign-rs-4-56-bn-grant-for-kelani-river-flood-management/",
+      "published": "2026-10-29T12:12:34+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "Japan",
+        "JICA",
+        "Kelani River"
+      ],
+      "text": "Sri Lanka and Japan have signed the Exchange of Notes and Grant Agreement for a Japanese grant assistance package worth approximately Rs. 4.56 billion (JPY 2.179 billion) to implement the Project for the Improvement of the Pump Station in Kelani River.\nAccording to the Ministry of Finance, Planning and Economic Development, the agreements were signed on Wednesday (28) at the Ministry, marking another milestone in development cooperation between Sri Lanka and Japan.\nThe Exchange of Notes was signed by Secretary to the Ministry of Finance, Planning and Economic Development Harshana Suriyapperuma, on behalf of the Government of Sri Lanka, and Japanese Ambassador to Sri Lanka Akio Isomata, on behalf of the Government of Japan.\nThe Grant Agreement was subsequently signed by Suriyapperuma and Chief Representative of the Japan International Cooperation Agency (JICA) Sri Lanka Office, Shigeo Honzu.\nThe grant assistance is being provided through JICA under Japan’s Economic and Social Development Programme.\nThe project aims to provide a long-term solution to flooding in the Mudun Ela Sub-basin, covering the Wattala and Peliyagoda areas, which are vulnerable to flooding during periods of heavy rainfall and rising water levels in the Kelani River.\nUnder the project, a new pumping station with a discharge capacity of 15 cubic metres per second will be constructed, along with a modern Supervisory Control and Data Acquisition (SCADA) monitoring and control system.\nThe new facility is expected to significantly reduce flood risks by efficiently discharging stormwater when water levels in the Kelani River rise, thereby improving drainage and flood management in the surrounding areas.\nThe Ministry said the project is designed to reduce flood risks, protect urban livelihoods and economic activities, support sustainable urban development and create a more favourable environment for investment.\nIt is also expected to safeguard residential areas, business establishments, industries and transport infrastructure from flood-related damage.\nIn particular, the improved flood management infrastructure will support the continued development of Peliyagoda as a major commercial, logistics and transportation hub.\nThe project is also expected to strengthen climate resilience and contribute to improved flood management across the Colombo Metropolitan Region.\nThe Sri Lanka Land Development Corporation (SLLDC) will implement the project under the supervision of the Ministry of Transport, Highways and Urban Development.\nThe Finance Ministry said the grant reflects Japan’s continued support for Sri Lanka’s infrastructure development, disaster risk management and sustainable development initiatives.\nIt further noted that the assistance represents another significant milestone in the longstanding development partnership between Sri Lanka and Japan.",
+      "word_count": 410,
+      "is_lead": true,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 7,
+        "Finance": 20,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka and Japan have signed the Exchange of Notes and Grant Agreement for a Japanese grant assistance package worth approximately Rs. 4.56 billion (JPY 2.179 billion) to implement the Project for the Improvement of the Pump Station in Kelani River. The Finance Ministry said the grant reflects Japan’s continued support for Sri Lanka’s infrastructure development, disaster risk management and sustainable development initiatives.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263494.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Japan-Kelani-loan.jpg",
+          "alt": "Sri Lanka, Japan sign Rs. 4.56 Bn grant for Kelani river flood management"
+        },
+        {
+          "src": "images/2026-10-29/263494-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Japan-Kelani-loan-300x219.jpg",
+          "alt": "Sri Lanka, Japan sign Rs. 4.56 Bn grant for Kelani river flood management"
+        }
+      ]
+    },
+    {
+      "id": 263488,
+      "title": "Esna Holidays Acquires Mackinnons Travels from John Keells Holdings",
+      "url": "https://www.newswire.lk/business/esna-holidays-acquires-mackinnons-travels-from-john-keells-holdings/",
+      "published": "2026-10-29T12:00:03+05:30",
+      "source_categories": [
+        "Bizwire"
+      ],
+      "tags": [],
+      "text": "Leading travel company Esna Holidays, a well-known name in the industry, has acquired Mackinnons Travels from John Keells Holdings PLC. With a history spanning 55 years, Mackinnons Travels is one of Sri Lanka’s longest-established and most respected travel management companies, with a rich heritage in the country’s tourism and travel industry. Mackinnons Travels is the Travel Network Partner (franchise partner) of American Express Global Business Travel (Amex GBT) in Sri Lanka. The relationship dates back to 1979, when Mackinnons became the representative of American Express Travel in Sri Lanka. With decades of industry experience, Mackinnons Travels has built a reputation for professionalism, reliability and the delivery of quality travel solutions. The company offers a range of travel services catering to both corporate and leisure travellers, supported by strong industry relationships. Formerly part of the John Keells Group, Mackinnons Travels has now entered a new chapter under the ownership of Esna Group, a diversified group of companies, marking an important milestone in its journey.",
+      "word_count": 163,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 15,
+        "Tech": 0
+      },
+      "summary": "Leading travel company Esna Holidays, a well-known name in the industry, has acquired Mackinnons Travels from John Keells Holdings PLC. Formerly part of the John Keells Group, Mackinnons Travels has now entered a new chapter under the ownership of Esna Group, a diversified group of companies, marking an important milestone in its journey.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263488.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-11.55.02-AM.jpeg",
+          "alt": "Esna Holidays Acquires Mackinnons Travels from John Keells Holdings"
+        },
+        {
+          "src": "images/2026-10-29/263488-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-11.55.02-AM-284x300.jpeg",
+          "alt": "Esna Holidays Acquires Mackinnons Travels from John Keells Holdings"
+        },
+        {
+          "src": "images/2026-10-29/263488-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG_2951-300x300.jpg",
+          "alt": "Esna Holidays Acquires Mackinnons Travels from John Keells Holdings"
+        },
+        {
+          "src": "images/2026-10-29/263488-4.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-11.58.49-AM-300x130.jpeg",
+          "alt": "Esna Holidays Acquires Mackinnons Travels from John Keells Holdings"
+        }
+      ]
+    },
+    {
+      "id": 263484,
+      "title": "Indian High Commissioner meets JVP General Secretary Tilvin Silva",
+      "url": "https://www.newswire.lk/2026/10/29/indian-high-commissioner-meets-jvp-general-secretary-tilvin-silva/",
+      "published": "2026-10-29T11:30:41+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "India",
+        "Santosh Jha",
+        "Tilvin Silva"
+      ],
+      "text": "Indian High Commissioner to Sri Lanka Santosh Jha has met with Janatha Vimukthi Peramuna (JVP) General Secretary Tilvin Silva for discussions on bilateral relations between India and Sri Lanka.\nIn a post on ‘X’, the Indian High Commissioner said the meeting focused on India-Sri Lanka ties and contemporary developments.\nThe meeting comes amid ongoing diplomatic engagement between India and Sri Lanka aimed at strengthening bilateral relations and cooperation.",
+      "word_count": 68,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 31,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Indian High Commissioner to Sri Lanka Santosh Jha has met with Janatha Vimukthi Peramuna (JVP) General Secretary Tilvin Silva for discussions on bilateral relations between India and Sri Lanka. In a post on ‘X’, the Indian High Commissioner said the meeting focused on India-Sri Lanka ties and contemporary developments.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263484.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Santosh-Jha-Tilvin.jpg",
+          "alt": "Indian High Commissioner meets JVP General Secretary Tilvin Silva"
+        },
+        {
+          "src": "images/2026-10-29/263484-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Santosh-Jha-Tilvin-300x176.jpg",
+          "alt": "Indian High Commissioner meets JVP General Secretary Tilvin Silva"
+        }
+      ]
+    },
+    {
+      "id": 263480,
+      "title": "Met Department warns of developing atmospheric disturbance near Andaman Sea",
+      "url": "https://www.newswire.lk/2026/10/29/met-department-warns-of-developing-atmospheric-disturbance-near-andaman-sea/",
+      "published": "2026-10-29T11:13:48+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "sea",
+        "weather"
+      ],
+      "text": "The Department of Meteorology has issued an advisory for strong winds and rough seas, warning that a low-level atmospheric disturbance is likely to develop near the southern Andaman Sea, in the vicinity of the North Sumatra Islands, from today (29).\nAccording to the Natural Hazards Early Warning Centre, the advisory has been issued for multi-day fishing boats operating in the deep-sea areas of the Bay of Bengal.\nThe Department has advised naval and fishing communities operating in the affected sea areas to remain vigilant due to the developing weather conditions.\nFishermen and naval personnel have also been urged to closely monitor future weather forecasts and bulletins issued by the Department of Meteorology for further updates.\nThe yellow-level advisory was issued at 9.30 a.m. today (29) and remains valid for the next 24 hours, until 9.30 a.m. tomorrow (30).",
+      "word_count": 138,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Meteorology has issued an advisory for strong winds and rough seas, warning that a low-level atmospheric disturbance is likely to develop near the southern Andaman Sea, in the vicinity of the North Sumatra Islands, from today (29). The Department has advised naval and fishing communities operating in the affected sea areas to remain vigilant due to the developing weather conditions.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263480.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/deep-sea-warning-1.jpg",
+          "alt": "Met Department warns of developing atmospheric disturbance near Andaman Sea"
+        },
+        {
+          "src": "images/2026-10-29/263480-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/deep-sea-warning-1-300x200.jpg",
+          "alt": "Met Department warns of developing atmospheric disturbance near Andaman Sea"
+        },
+        {
+          "src": "images/2026-10-29/263480-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/deep-sea-warning-182x300.jpg",
+          "alt": "Met Department warns of developing atmospheric disturbance near Andaman Sea"
+        }
+      ]
+    },
+    {
+      "id": 263478,
+      "title": "Colombo High Court rejects bail application of Harak Kata and two others",
+      "url": "https://www.newswire.lk/2026/10/29/colombo-high-court-rejects-bail-application-of-harak-kata-and-two-others/",
+      "published": "2026-10-29T11:05:38+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Harak Kata"
+      ],
+      "text": "The Colombo High Court today (29) rejected the bail applications filed by alleged underworld figure and drug trafficker Nadun Chinthaka Wickramaratne, alias Harak Kata, and two other defendants.\nThe court also rejected requests made by lawyers seeking the release of two additional defendants in connection with the case.\nColombo High Court Judge Buddhika C. Ragala issued the order, stating that the bail applications could not be considered at this stage.\nThe Judge noted that the Attorney General had filed an appeal before the Court of Appeal challenging a previous order issued by the Colombo High Court.\nAccordingly, the court declined to consider the bail applications and requests for release while the appeal remains pending.\nHarak Kata is currently being held at the Welisara Prison.",
+      "word_count": 124,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Colombo High Court today (29) rejected the bail applications filed by alleged underworld figure and drug trafficker Nadun Chinthaka Wickramaratne, alias Harak Kata, and two other defendants. Colombo High Court Judge Buddhika C. Ragala issued the order, stating that the bail applications could not be considered at this stage.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263478.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2025/09/Harak-kata.jpg",
+          "alt": "Colombo High Court rejects bail application of Harak Kata and two others"
+        }
+      ]
+    },
+    {
+      "id": 263476,
+      "title": "Namal Rajapaksa’s Rs. 15 Mn money laundering case postponed to February",
+      "url": "https://www.newswire.lk/2026/10/29/namal-rajapaksas-rs-15-mn-money-laundering-case-postponed-to-february/",
+      "published": "2026-10-29T11:01:13+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Namal Rajapaksa"
+      ],
+      "text": "The Colombo Chief Magistrate’s Court today (29) ordered that the case filed against Parliamentarian Namal Rajapaksa and three others over alleged money laundering involving Rs. 15 million be recalled on February 11, 2027.\nColombo Chief Magistrate Asanga S. Bodaragama issued the order after the Financial Crimes Division of the Criminal Investigation Department (CID) informed the court that extracts of the investigation had been forwarded to the Attorney General for legal advice.\nThe CID requested a further date to obtain instructions from the Attorney General.\nAfter considering the submissions, the Magistrate ordered the case to be recalled on February 11 and directed investigators to report the progress of the investigation on that date.\nThe case relates to allegations that Rs. 15 million, believed to have been obtained through illicit means, was invested in N.R. Consultancy Company, constituting an offence under the Prevention of Money Laundering Act.\nInvestigations commenced following a complaint lodged with the Financial Crimes Division on July 28, 2015, by Anti-Corruption Voice Convener Wasantha Samarasinghe, alleging criminal misappropriation and money laundering.\nThe case has been filed against Namal Rajapaksa, Nithya Senani Samaranayake, Sujani Bogollagama and Sudarshana Bandara Ganegoda.\nNamal Rajapaksa was not ordered to be produced before court today, while the other suspects appeared before the Magistrate.",
+      "word_count": 208,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 36,
+        "Finance": 5,
+        "Tech": 0
+      },
+      "summary": "The Colombo Chief Magistrate’s Court today (29) ordered that the case filed against Parliamentarian Namal Rajapaksa and three others over alleged money laundering involving Rs. 15 million be recalled on February 11, 2027.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263476.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/08/Namal-Rajapaksa.jpg",
+          "alt": "Namal Rajapaksa’s Rs. 15 Mn money laundering case postponed to February"
+        }
+      ]
+    },
+    {
+      "id": 263474,
+      "title": "Dollar Rate today: Sri Lankan Rupee depreciates further against USD",
+      "url": "https://www.newswire.lk/2026/10/29/dollar-rate-today-sri-lankan-rupee-depreciates-further-against-usd-4/",
+      "published": "2026-10-29T10:49:11+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "bank",
+        "Dollar",
+        "Rupee"
+      ],
+      "text": "The Sri Lankan Rupee has depreciated further against the US Dollar across commercial banks in Sri Lanka today (29), compared to Wednesday, with the selling rate increasing to Rs. 337 in some banks.\nAccording to Seylan Bank, the buying rate of the US Dollar remains unchanged at Rs. 328.05, while the selling rate is also unchanged at Rs. 337.30.\nAt NDB Bank, the buying rate has increased from Rs. 327.90 to Rs. 328.00, while the selling rate has also increased from Rs. 336.90 to Rs. 337.00.\nPeople’s Bank reports that the buying rate has increased from Rs. 328.40 to Rs. 328.45, while the selling rate has also increased from Rs. 336.54 to Rs. 336.59.\nAt Commercial Bank, the buying rate has increased from Rs. 326.33 to Rs. 326.58, while the selling rate has also increased from Rs. 336.25 to Rs. 336.50.\nAt Sampath Bank, the buying and selling rates of the US Dollar remain unchanged at Rs. 328.50 and Rs. 336.50, respectively.",
+      "word_count": 162,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 40,
+        "Tech": 0
+      },
+      "summary": "The Sri Lankan Rupee has depreciated further against the US Dollar across commercial banks in Sri Lanka today (29), compared to Wednesday, with the selling rate increasing to Rs. 337 in some banks. At Commercial Bank, the buying rate has increased from Rs. 326.33 to Rs. 326.58, while the selling rate has also increased from Rs. 336.25 to Rs. 336.50.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263474.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Dollar.jpg",
+          "alt": "Dollar Rate today: Sri Lankan Rupee depreciates further against USD"
+        }
+      ]
+    },
+    {
+      "id": 263471,
+      "title": "The Vatican unveils its holy garage of popemobiles used since 1930",
+      "url": "https://www.newswire.lk/2026/10/29/the-vatican-unveils-its-holy-garage-of-popemobiles-used-since-1930/",
+      "published": "2026-10-29T10:33:48+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [
+        "Popemobile",
+        "Vatican"
+      ],
+      "text": "The Vatican is opening a celebration of the popemobile, the now-iconic vehicle that for nearly a century has let popes get close to the faithful at home and abroad.\nThe Vatican Museums on Wednesday unveiled a preview of the exhibition commemorating “A Century of the Popemobile,” featuring eight Mercedes-Benz versions of the car that popes have used since 1930. It officially opens to the public on Thursday.\nSeparately, Pope Leo XIV — a big car lover — met with top Mercedes-Benz executives and thanked them for their partnership with the Holy See. In his remarks, the Chicago-born pope noted that the advances in automotive technology had accompanied the advances and evolutions of papal travel.\n“Over the decades, the popemobile has evolved from a means of transportation into an instrument of encounter, enabling the pontiff to draw closer to the faithful during pastoral visits and public celebrations,” Leo said. “In this way, your work has helped facilitate the church’s mission of reaching out to people and bringing a message of faith, of hope and of charity to the world.”\nThe oldest car on display in the Vatican Museum exhibit was given to Pope Pius XI on May 23, 1930. The Mercedes-Benz Nürburg 460 featured a luxurious armchair upholstered in silk brocade and finishes of fine wood and metal.\nIt “was specifically built, designed, and prepared for papal use, so much so that just by comparing it, you can see how it transitions from the serial to the unique,” said Sandro Barbagallo, curator of the Historical Collections Department at the Vatican Museums.\n“From this point, it is clear how all the cars were then made, precisely to allow the pope to be seen, but to be seen and to see in total safety and, I would even say, comfort,” he said.\nLater versions of the popemobile on view reflected the changing needs of a pope on the road, most importantly his need to engage with the faithful and — more recently — bless babies that were brought to him.\nIn 1960, Pope John XXIII was presented with the 300 d Landaulet, with a detail that foreshadowed change: The removable rear side windows allowed the future saint to reach out to those he met along the way.\nIn 1980, for St. John Paul II’s visit to Germany, Mercedes-Benz developed the 230 G, which featured another major innovation: a tall, transparent dome at the rear, providing safety but also guaranteeing a clear view for the millions of faithful gathered to see him.\nIn his remarks to the Mercedes-Benz executives, Leo recalled the electric popemobile they presented to Pope Francis in keeping with the Argentine pope’s ecological priorities.\n“In this spirit, I encourage you to continue placing technological innovation at the service of human dignity, care for creation and the common good,” he said. (CNN)",
+      "word_count": 470,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 7
+      },
+      "summary": "The Vatican is opening a celebration of the popemobile, the now-iconic vehicle that for nearly a century has let popes get close to the faithful at home and abroad. The Vatican Museums on Wednesday unveiled a preview of the exhibition commemorating “A Century of the Popemobile,” featuring eight Mercedes-Benz versions of the car that popes have used since 1930.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263471.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Vatican-Popemobile.jpg",
+          "alt": "The Vatican unveils its holy garage of popemobiles used since 1930"
+        },
+        {
+          "src": "images/2026-10-29/263471-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Vatican-Popemobile-300x201.jpg",
+          "alt": "The Vatican unveils its holy garage of popemobiles used since 1930"
+        }
+      ]
+    },
+    {
+      "id": 263468,
+      "title": "Indian national arrested with Rs. 454 Mn worth of cocaine and Ecstasy at BIA",
+      "url": "https://www.newswire.lk/2026/10/29/indian-national-arrested-with-rs-454-mn-worth-of-cocaine-and-ecstasy-at-bia-2/",
+      "published": "2026-10-29T10:28:36+05:30",
+      "source_categories": [
+        "Visual"
+      ],
+      "tags": [],
+      "text": "",
+      "word_count": 0,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Indian national arrested with Rs. 454 Mn worth of cocaine and Ecstasy at BIA",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263468.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Visual-Stories-40.jpg",
+          "alt": "Indian national arrested with Rs. 454 Mn worth of cocaine and Ecstasy at BIA"
+        }
+      ]
+    },
+    {
+      "id": 263463,
+      "title": "New insurance scheme introduced for tea nurseries and cultivations",
+      "url": "https://www.newswire.lk/2026/10/29/new-insurance-scheme-introduced-for-tea-nurseries-and-cultivations/",
+      "published": "2026-10-29T10:19:15+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Agrarian Insurance Board",
+        "insurance",
+        "tea"
+      ],
+      "text": "The Agricultural and Agrarian Insurance Board has introduced a new insurance scheme for tea plant nurseries and tea cultivations, offering coverage of up to Rs. 1 million per acre against natural disasters and other risks.\nThe Board, operating under the Ministry of Agriculture, Livestock, Lands and Irrigation, said the initiative aims to protect tea cultivators from financial losses and encourage the development of the tea industry.\nThe insurance scheme covers damage caused by uncontrollable natural disasters, including floods, droughts and landslides, as well as uncontrollable diseases and pest infestations.\nAccording to the Board, the scheme is available to tea nurseries and cultivations registered with the Tea Small Holdings Development Authority or registered as businesses, provided they follow the practices recommended by the Tea Research Institute.\nUnder the scheme, tea plant nurseries are eligible for an annual insured amount of Rs. 35 per plant.\nMeanwhile, tea cultivators can obtain maximum insurance coverage of Rs. 1 million per acre for a period of up to four years, covering the period from the planting of new tea plants until the commencement of harvesting.\nThe annual insurance premium for both tea nurseries and cultivations has been set at 6% of the insured amount.\nThe Board said the initiative aims to safeguard Sri Lanka’s tea industry, which contributes significantly to the country’s foreign exchange earnings, while encouraging tea growers.\nFurther information can be obtained from the district offices of the Agricultural and Agrarian Insurance Board or by contacting its hotline via 1918.",
+      "word_count": 247,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 1,
+        "Finance": 18,
+        "Tech": 0
+      },
+      "summary": "The Agricultural and Agrarian Insurance Board has introduced a new insurance scheme for tea plant nurseries and tea cultivations, offering coverage of up to Rs. 1 million per acre against natural disasters and other risks.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263463.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Tea-insurance.jpg",
+          "alt": "New insurance scheme introduced for tea nurseries and cultivations"
+        },
+        {
+          "src": "images/2026-10-29/263463-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Tea-insurance-300x200.jpg",
+          "alt": "New insurance scheme introduced for tea nurseries and cultivations"
+        },
+        {
+          "src": "images/2026-10-29/263463-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Tea-insurance-scheme-214x300.jpg",
+          "alt": "New insurance scheme introduced for tea nurseries and cultivations"
+        }
+      ]
+    },
+    {
+      "id": 263460,
+      "title": "Suspect dies after being handed over to Kobeigane Police; five villagers arrested",
+      "url": "https://www.newswire.lk/2026/10/29/suspect-dies-after-being-handed-over-to-kobeigane-police-five-villagers-arrested/",
+      "published": "2026-10-29T10:15:42+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Kobeigane Police",
+        "suspect death"
+      ],
+      "text": "A suspect allegedly involved in several thefts has died after being hospitalised while in the custody of the Kobeigane Police, following his apprehension by a group of villagers.\nAccording to reports, the suspect was apprehended by residents of the Beddegama area in Kobeigane on October 25 and handed over to the Kobeigane Police.\nThe suspect had reportedly remained in police custody for two days before being admitted to the Nikaweratiya Hospital on October 27, where he subsequently died.\nFollowing his death, five villagers who had apprehended the suspect and handed him over to the police were arrested by the Kobeigane Police.\nHowever, relatives of the arrested villagers have raised concerns over the arrests, claiming that the suspect had been handed over to the police without any injuries.\nThey alleged that the suspect had been tied to a tree after being apprehended, but the police were informed within an hour and he was handed over safely.\nThe relatives further questioned why the suspect had not been hospitalised earlier if he had sustained injuries during his apprehension.\nThey also claimed that the police had previously been informed on several occasions about thefts allegedly committed by the deceased and had instructed villagers to apprehend him and hand him over to the police.",
+      "word_count": 209,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A suspect allegedly involved in several thefts has died after being hospitalised while in the custody of the Kobeigane Police, following his apprehension by a group of villagers. Following his death, five villagers who had apprehended the suspect and handed him over to the police were arrested by the Kobeigane Police.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263460.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Kobeigane-Police.jpg",
+          "alt": "Suspect dies after being handed over to Kobeigane Police; five villagers arrested"
+        },
+        {
+          "src": "images/2026-10-29/263460-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Kobeigane-Police-300x195.jpg",
+          "alt": "Suspect dies after being handed over to Kobeigane Police; five villagers arrested"
+        }
+      ]
+    },
+    {
+      "id": 263457,
+      "title": "Indian national arrested with Rs. 454 Mn worth of cocaine and Ecstasy at BIA",
+      "url": "https://www.newswire.lk/2026/10/29/indian-national-arrested-with-rs-454-mn-worth-of-cocaine-and-ecstasy-at-bia/",
+      "published": "2026-10-29T10:11:47+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "BIA",
+        "cocaine",
+        "Customs",
+        "ecstacy"
+      ],
+      "text": "A 46-year-old Indian national has been taken into Sri Lanka Customs custody at the Bandaranaike International Airport (BIA) with 5.12 kg of cocaine and 13.17 kg of Ecstasy drugs, valued at approximately Rs. 454 million.\nAccording to Sri Lanka Customs, the suspect, an engineer by profession, was apprehended by officers of the Customs Narcotics Control Unit (NCU) on Wednesday (28).\nThe suspect had arrived in Sri Lanka from Paris via Doha on Qatar Airways flight QR 654 when Customs officers detained him for further inspection.\nDuring an examination of his luggage, officers discovered suspicious substances, which were subsequently identified as cocaine and Ecstasy.\nCustoms officials seized 5,121 grams of cocaine with an estimated street value of Rs. 256 million, along with 13,173 grams of Ecstasy, equivalent to approximately 23,000 tablets, valued at Rs. 198 million.\nThe total estimated street value of the seized narcotics is Rs. 454 million.\nSri Lanka Customs has commenced preliminary investigations into the incident.\nThe suspect, along with the seized narcotics and other relevant evidence, is expected to be handed over to the Police Narcotics Bureau (PNB) for further investigations and legal action.",
+      "word_count": 187,
+      "is_lead": true,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 6,
+        "Tech": 2
+      },
+      "summary": "A 46-year-old Indian national has been taken into Sri Lanka Customs custody at the Bandaranaike International Airport (BIA) with 5.12 kg of cocaine and 13.17 kg of Ecstasy drugs, valued at approximately Rs. 454 million.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263457.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Cocaine-Ecstacy-BIA.jpg",
+          "alt": "Indian national arrested with Rs. 454 Mn worth of cocaine and Ecstasy at BIA"
+        },
+        {
+          "src": "images/2026-10-29/263457-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Cocaine-Ecstacy-BIA-300x225.jpg",
+          "alt": "Indian national arrested with Rs. 454 Mn worth of cocaine and Ecstasy at BIA"
+        }
+      ]
+    },
+    {
+      "id": 263454,
+      "title": "Sports Minister meets Sri Lanka U15 team at FIFA World Cup in Azerbaijan",
+      "url": "https://www.newswire.lk/2026/10/29/sports-minister-meets-sri-lanka-u15-team-at-fifa-world-cup-in-azerbaijan/",
+      "published": "2026-10-29T10:08:28+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "FIFA",
+        "Sunil Kumara Gamage",
+        "U15"
+      ],
+      "text": "Minister of Youth Affairs and Sports Sunil Kumara Gamage met with the Sri Lanka Under-15 National Football Team participating in the inaugural FIFA U15 World Cup and Festival in Baku, Azerbaijan, on Wednesday (28).\nThe Minister, accompanied by Football Federation of Sri Lanka (FFSL) President Jaswar Umar, visited the young players to encourage their participation in the historic international football event.\nThe inaugural FIFA U15 World Cup and Festival provides young footballers with an opportunity to gain international exposure, develop their skills and experience competition against teams from other countries.\nSpeaking during the visit, Minister Gamage highlighted the importance of providing young athletes with opportunities to compete internationally.\n“This is an opportunity for our young players to learn, gain experience, and compete in a world-class football environment at an early age. It is a stepping stone for every player to dream bigger and work towards becoming a professional footballer in the future,” he said.\nChairman of the National Sports Council Priyantha Ekanayake also joined the visit and observed the matches held earlier in the day.\nMeanwhile, the FFSL announced plans to introduce similar football carnivals in cities across Sri Lanka to encourage greater youth participation, identify emerging talent and prepare young players for international competitions.\nThe Federation said continued investment in grassroots football development and international exposure is expected to strengthen Sri Lanka’s youth and senior national teams.\nSri Lanka’s participation in the inaugural FIFA U15 event is seen as another step towards developing the country’s next generation of footballers.",
+      "word_count": 250,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 15,
+        "Finance": 3,
+        "Tech": 0
+      },
+      "summary": "Minister of Youth Affairs and Sports Sunil Kumara Gamage met with the Sri Lanka Under-15 National Football Team participating in the inaugural FIFA U15 World Cup and Festival in Baku, Azerbaijan, on Wednesday (28). The inaugural FIFA U15 World Cup and Festival provides young footballers with an opportunity to gain international exposure, develop their skills and experience competition against teams from other countries.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263454.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Footbal-U15-FIFA.jpg",
+          "alt": "Sports Minister meets Sri Lanka U15 team at FIFA World Cup in Azerbaijan"
+        },
+        {
+          "src": "images/2026-10-29/263454-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Footbal-U15-FIFA-300x210.jpg",
+          "alt": "Sports Minister meets Sri Lanka U15 team at FIFA World Cup in Azerbaijan"
+        }
+      ]
+    },
+    {
+      "id": 263450,
+      "title": "HRW raises serious concerns over Sri Lanka’s proposed organised crime law",
+      "url": "https://www.newswire.lk/2026/10/29/hrw-raises-serious-concerns-over-sri-lankas-proposed-organised-crime-law/",
+      "published": "2026-10-29T09:40:43+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Human Rights Watch",
+        "organised crime law"
+      ],
+      "text": "Human Rights Watch (HRW) has raised serious concerns over the Sri Lankan government’s proposed Prevention of Organised Crimes Bill, warning that it could enable arbitrary detention, torture and other human rights violations.\nIn a statement issued today (29), the international human rights organisation warned that the Bill, submitted to Parliament on October 20, contains provisions similar to those under the controversial Prevention of Terrorism Act (PTA), despite the government’s pledge to repeal oppressive legislation.\nHRW has urged the government to withdraw the proposed legislation and conduct an open and inclusive consultation process to ensure adequate safeguards against human rights violations.\nIn its statement, Human Rights Watch said the proposed law, alongside the Protection of the State from Terrorism Bill submitted on October 6, reproduces abusive provisions in existing counterterrorism laws that would allow continuing abuses that the government had pledged to end.\nPresident Anura Kumara Dissanayake’s National People’s Power alliance pledged in its 2024 election manifesto to abolish all “oppressive” laws and ensure “civil rights of people in all parts of the country.” In particular, the Dissanayake government—like its predecessors—pledged to repeal the notorious Prevention of Terrorism Act (PTA). Both bills presented in October replicate some of the worst aspects of the PTA, shifting abusive provisions to create parallel legal structures outside existing criminal law and without basic safeguards.\n“Sri Lanka’s organized crime bill would enable prolonged detention without adequate judicial oversight or evidence of criminal conduct, and could encourage torture by allowing convictions based on confessions obtained by the police,” said Elaine Pearson, Asia director at Human Rights Watch. “If this law is adopted in its current form, it risks unleashing serious rights violations just as previous similarly draconian legislation has done.”\nThe purported objectives of the Prevention of Organised Crimes Bill are to combat organized crime and support international law enforcement cooperation. It is presented as giving effect to the 2003 United Nations Convention against Transnational Organised Crime, yet fails to adhere to international standards of precision and legal certainty and removes basic due process safeguards provided in ordinary Sri Lankan criminal law, enabling the authorities to use arbitrary powers in a wide range of ill-defined circumstances.\nThe bill defines “serious crime” as any offense punishable with at least four years in prison and lists a large number of offenses that fall under other laws, placing a wide variety of alleged criminal activity within its extraordinary authority. It defines an “organised criminal group” as three or more people acting in concert with the aim of committing one or more serious crimes to obtain, directly or indirectly, a financial or other material benefit.\nCourts may consider whether a person is a member of an organized criminal group based on factors including physical or virtual meetings with known members; their style of dress, hand signs, language or tattoos; association with known members of the group; and habitually visiting premises known to be used by the group. Such provisions risk criminalizing association rather than conduct, allowing the authorities to detain a person without any evidence of criminal activity.\nThe bill would allow the secretary to the Ministry of Public Security to issue a detention order for two months at a time, for up to a year, without giving the magistrate discretion to set the detention order aside. Bail may be granted only by the High Court, with suspects accused of a serious crime only released on bail in exceptional circumstances.\nIn the past, the PTA incentivized torture by allowing convictions based on confessions obtained by the police. Recent reform attempts including the Protection of the State from Terrorism Bill required instead for confessions to be made to a magistrate. Nevertheless, the Prevention of Organised Crimes Bill reproduces the abusive practice of making confessions to the police admissible in court, incentivizing coercion, ill-treatment, and torture.\nThe bill provides police with broad surveillance authority, including to intercept and record communications, carry out forensic extraction of data from electronic devices, and access data from telecommunications companies and online services, through court orders.\nThe police could, even without a court order, obtain any telecommunication, satellite, or digital service provider information relating to the identity of the owner or subscriber, calls, and the tower location, of any device, sweeping powers to expose personal communications and information and infringe rights, including of privacy and assembly. Sri Lankan law enforcement and security agencies have a long record of misusing surveillance to target human rights defenders and the families of victims of rights violations.\nThe organized crime bill also contains sections that could curtail freedom of expression by making it an offense to publish the name or anything that could identify a victim of crime. Further restrictions are placed on media reporting of court proceedings without court permission.\nThe bill also gives the police broad powers, on “reasonable suspicion” of a serious crime, to stop and search individuals and vehicles, or make arrests and seize relevant items. They could enter and search premises without a warrant. Taken together, the additional police powers with little or no judicial oversight are wide open to abuse, Human Rights Watch said. Sri Lanka’s experience with the PTA demonstrates the potential for serious rights violations under the Organised Crimes Bill.\nRepealing the PTA would fulfill a key commitment that Sri Lanka made to the European Union, in exchange for tariff-free access to the EU market under its Generalised Scheme of Preferences Plus (GSP+) program. However, the Prevention of Organised Crimes Bill preserves the terrorism act’s abusive features, further weakening Sri Lanka’s compliance with its GSP+ human rights commitments.\nThe government did not appear to conduct consultations while drafting the bill. The government should withdraw the bill, undertake a genuine, open, and inclusive consultation, ensure legislation with robust safeguards to prevent arbitrary detention, torture, and ill treatment, and ensure judicial oversight and due process, in compliance with the government’s international legal obligations.\n“Every government has a duty to combat organized crime but needs to do so in compliance with international human rights standards,” Pearson said. “The European Union should make it clear that this bill would not meet Sri Lanka’s obligations under the GSP+ trade program.”",
+      "word_count": 1021,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 26,
+        "Finance": 5,
+        "Tech": 10
+      },
+      "summary": "Human Rights Watch (HRW) has raised serious concerns over the Sri Lankan government’s proposed Prevention of Organised Crimes Bill, warning that it could enable arbitrary detention, torture and other human rights violations. Sri Lanka’s experience with the PTA demonstrates the potential for serious rights violations under the Organised Crimes Bill.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263450.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Police-1.jpg",
+          "alt": "HRW raises serious concerns over Sri Lanka’s proposed organised crime law"
+        },
+        {
+          "src": "images/2026-10-29/263450-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Police-1-300x179.jpg",
+          "alt": "HRW raises serious concerns over Sri Lanka’s proposed organised crime law"
+        }
+      ]
+    },
+    {
+      "id": 263447,
+      "title": "Sri Lankan acquitted by Maldives court after serving one-year jail sentence",
+      "url": "https://www.newswire.lk/2026/10/29/sri-lankan-acquitted-by-maldives-court-after-serving-one-year-jail-sentence/",
+      "published": "2026-10-29T09:26:53+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "gold smuggling",
+        "Maldives"
+      ],
+      "text": "A Sri Lankan national who had already served a one-year prison sentence in the Maldives for allegedly smuggling more than two kilograms of gold has been acquitted by the Maldives High Court.\nAccording to Maldivian media, the High Court overturned the conviction on October 28, 2026, exactly one year after the Criminal Court sentenced the Sri Lankan national, identified as Mohamed Sulaimhan, to one year in prison on October 28, 2025.\nThe case dates back to September 21, 2023, when the Sri Lankan national arrived at Velana International Airport in the Maldives on an Emirates flight via Dubai.\nCustoms officers stopped him while he was attempting to exit through the Green Channel and discovered 2,282 grams of gold paste concealed in the pockets of his jeans and inside his underwear.\nHe was subsequently charged with smuggling goods under Section 97(a) of the Maldives Customs Act and sentenced to one year in prison.\nHowever, the High Court unanimously ruled that the charges did not meet the legal requirements to establish the offence of smuggling.\nThe court noted that the prosecution had acknowledged that the gold was neither a prohibited item nor subject to customs duty.\nRejecting the State’s argument that undeclared gold could be considered an unauthorised commodity, the High Court ruled that conduct cannot be criminalised unless it is explicitly defined as an offence under the law.\nThe court further determined that the Criminal Court’s conviction violated constitutional provisions and accordingly overturned the conviction.\nThe ruling was delivered by a three-judge bench comprising Judges Mohamed Shaneez, Hussain Mazeed and Huzaifa Mohamed.\nThe acquittal came after the Sri Lankan national had already completed the entire prison sentence imposed by the lower court.",
+      "word_count": 281,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 6,
+        "Tech": 0
+      },
+      "summary": "A Sri Lankan national who had already served a one-year prison sentence in the Maldives for allegedly smuggling more than two kilograms of gold has been acquitted by the Maldives High Court.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263447.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Maldives-gold-case-1.jpg",
+          "alt": "Sri Lankan acquitted by Maldives court after serving one-year jail sentence"
+        },
+        {
+          "src": "images/2026-10-29/263447-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Maldives-gold-case-1-300x176.jpg",
+          "alt": "Sri Lankan acquitted by Maldives court after serving one-year jail sentence"
+        }
+      ]
+    },
+    {
+      "id": 263439,
+      "title": "Homagama Police HQI suspended over custodial death of suspect",
+      "url": "https://www.newswire.lk/2026/10/29/homagama-police-hqi-suspended-over-custodial-death-of-suspect/",
+      "published": "2026-10-29T09:23:28+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Homagama",
+        "Police death"
+      ],
+      "text": "The Headquarters Inspector of the Homagama Police Station has been suspended with effect from October 28 over alleged negligence and failure to properly supervise officers in connection with the death of a suspect in police custody.\nAccording to reports, the Inspector General of Police (IGP) ordered the suspension of Headquarters Inspector M.R.S. Prajan Senanayake following investigations that revealed serious lapses in the performance of his duties.\nThe suspect had been arrested by Homagama Police on October 25 for allegedly possessing 490 milligrams of ICE narcotics and subsequently died while in police custody.\nInvestigations revealed that the Headquarters Inspector had failed to properly monitor the suspect’s condition while in detention, provide necessary instructions to investigating officers, and ensure that records relating to the arrest were accurately maintained.\nHe was also found to have failed to exercise proper supervision, allowing police officers to unlawfully detain two individuals at the police station.\nMeanwhile, three other officers attached to the Homagama Police Station, including the Officer-in-Charge of its Crimes Division, were suspended with effect from October 26 in connection with the incident.\nThe Crimes Division OIC was subsequently arrested yesterday (28) and is scheduled to be produced before court today (29).",
+      "word_count": 197,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Headquarters Inspector of the Homagama Police Station has been suspended with effect from October 28 over alleged negligence and failure to properly supervise officers in connection with the death of a suspect in police custody. The suspect had been arrested by Homagama Police on October 25 for allegedly possessing 490 milligrams of ICE narcotics and subsequently died while in police custody.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263439.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/homagama_police_700x400.jpg",
+          "alt": "Homagama Police HQI suspended over custodial death of suspect"
+        },
+        {
+          "src": "images/2026-10-29/263439-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/homagama_police_700x400-1-300x171.jpg",
+          "alt": "Homagama Police HQI suspended over custodial death of suspect"
+        }
+      ]
+    },
+    {
+      "id": 263436,
+      "title": "Israel election results : Who will be next PM ?",
+      "url": "https://www.newswire.lk/2026/10/29/israel-election-results-who-will-be-next-pm/",
+      "published": "2026-10-29T08:56:23+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [],
+      "text": "Israel’s parliamentary election has produced no clear winner, with Prime Minister Benjamin Netanyahu’s right-wing bloc falling short of the majority needed to form a government, according to preliminary results.\nWith nearly 90 percent of votes counted, Netanyahu’s bloc was projected to secure 53 seats in the 120-member Knesset, while the opposition bloc led by former military chief Gadi Eisenkot was expected to win 48 seats.\nArab-led parties were projected to secure 19 seats, a historic result that could give them a significant role in determining the country’s next government.\nA minimum of 61 seats is required to form a parliamentary majority, leaving neither of the two main blocs in a position to govern independently.\nNetanyahu’s Likud party remains the largest party in his political bloc, while Eisenkot’s Yashar party leads the rival alliance.\nThe election, held on Tuesday, has left Israel facing the prospect of prolonged coalition negotiations as political leaders attempt to secure enough support to form a government.\nThe strong performance of Arab-led parties could influence coalition discussions, although disagreements over potential cooperation with these parties remain a major obstacle.\nFinal results are expected later this week, with outstanding ballots, including votes cast by soldiers and diplomats, still being counted.\nIsraeli President Isaac Herzog is expected to consult political parties before assigning a candidate the task of forming a government.\nNetanyahu will remain caretaker prime minister while the process continues.",
+      "word_count": 232,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 52,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Israel’s parliamentary election has produced no clear winner, with Prime Minister Benjamin Netanyahu’s right-wing bloc falling short of the majority needed to form a government, according to preliminary results. The election, held on Tuesday, has left Israel facing the prospect of prolonged coalition negotiations as political leaders attempt to secure enough support to form a government.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263436.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261029_085313_ChatGPT.jpg",
+          "alt": "Israel election results : Who will be next PM ?"
+        },
+        {
+          "src": "images/2026-10-29/263436-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261029_085313_ChatGPT-300x226.jpg",
+          "alt": "Israel election results : Who will be next PM ?"
+        }
+      ]
+    },
+    {
+      "id": 263434,
+      "title": "Showers expected in several parts of Sri Lanka today",
+      "url": "https://www.newswire.lk/2026/10/29/showers-expected-in-several-parts-of-sri-lanka-today-2/",
+      "published": "2026-10-29T08:50:34+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Several spells of showers are expected in the Western and Sabaragamuwa provinces, as well as the Kandy, Nuwara Eliya, Galle and Matara districts, according to the Department of Meteorology.\nShowers or thundershowers are forecast at a few places in Uva Province and the Batticaloa, Ampara and Hambantota districts after 1 p.m.\nMainly fair weather is expected in other parts of the country.\nThe public has been advised to take precautions against temporary strong winds and lightning during thunder showers.",
+      "word_count": 79,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Several spells of showers are expected in the Western and Sabaragamuwa provinces, as well as the Kandy, Nuwara Eliya, Galle and Matara districts, according to the Department of Meteorology. Mainly fair weather is expected in other parts of the country.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263434.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Rain-1.jpg",
+          "alt": "Showers expected in several parts of Sri Lanka today"
+        }
+      ]
+    },
+    {
+      "id": 263430,
+      "title": "Nearly 1.4 million families fail to qualify for Aswesuma in first updated list",
+      "url": "https://www.newswire.lk/2026/10/28/nearly-1-4-million-families-fail-to-qualify-for-aswesuma-in-first-updated-list/",
+      "published": "2026-10-28T23:48:41+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "A total of 1,391,830 families have failed to qualify for Aswesuma welfare benefits under the first updated beneficiary list published by the Welfare Benefits Board.\nThe Board said 2,383,630 families had completed the information update process by October 27, 2026, of which 991,800 families qualified for benefits under the poor and extremely poor categories.\nOf the eligible families, 363,142 fall under the extremely poor category and will receive a monthly allowance of Rs. 17,500, while 628,658 families in the poor category will receive Rs. 10,000 per month.\nThe beneficiary list has been displayed at Divisional Secretariat and Grama Niladhari offices and published on the Board’s official website, www.wbb.gov.lk.\nAppeals and public objections can be submitted from October 29 to November 11, 2026, through eservices.wbb.gov.lk or using application forms available on the Board’s website and at the relevant Divisional Secretariat offices. Public objections may be submitted anonymously.\nThe Board expects to publish a second updated beneficiary list in December, based on information relating to a further 740,127 families.\nPayments to newly eligible beneficiaries on the first list are scheduled to be credited to their Aswesuma bank accounts on November 27, while letters to facilitate the opening of bank accounts will be issued from November 12.",
+      "word_count": 204,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 4,
+        "Tech": 0
+      },
+      "summary": "A total of 1,391,830 families have failed to qualify for Aswesuma welfare benefits under the first updated beneficiary list published by the Welfare Benefits Board. The Board expects to publish a second updated beneficiary list in December, based on information relating to a further 740,127 families.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263430.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG_4169.jpeg",
+          "alt": "Nearly 1.4 million families fail to qualify for Aswesuma in first updated list"
+        }
+      ]
+    },
+    {
+      "id": 263427,
+      "title": "CMC cracks down on sale of rotten fruits in Pettah",
+      "url": "https://www.newswire.lk/2026/10/28/cmc-cracks-down-on-sale-of-rotten-fruits-in-pettah/",
+      "published": "2026-10-28T23:05:00+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Colombo Municipal Council (CMC) Public Health Inspectors have discovered stocks of rotten, mouldy and insect-damaged fruits, including apples, grapes and oranges, during a surprise inspection in Pettah.\nColombo Mayor Vraîe Cally Balthazaar said the inspection was carried out following reports that some traders were bringing fruits unfit for human consumption in lorries and selling them directly on pavements.\nShe said steps had been taken to initiate legal action against those responsible.\nThe Mayor stressed that such practices did not involve all traders but warned that unsafe fruits sold in Pettah could pose health risks to people across Sri Lanka, as the market supplies food to many parts of the country.\nShe said the CMC would continue inspections and take strict action against those selling food unfit for human consumption.",
+      "word_count": 129,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 7,
+        "Finance": 1,
+        "Tech": 0
+      },
+      "summary": "Colombo Municipal Council (CMC) Public Health Inspectors have discovered stocks of rotten, mouldy and insect-damaged fruits, including apples, grapes and oranges, during a surprise inspection in Pettah.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263427.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261028_230319_Facebook.jpg",
+          "alt": "CMC cracks down on sale of rotten fruits in Pettah"
+        }
+      ]
+    },
+    {
+      "id": 263423,
+      "title": "Businessman remanded over alleged Colombo 7 land fraud",
+      "url": "https://www.newswire.lk/2026/10/28/263423/",
+      "published": "2026-10-28T21:59:17+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "A businessman from Nugegoda has been remanded until November 5 over allegations of assisting in the fraudulent sale of a valuable land plot in Barnes Place, Colombo 7, using forged deeds.\nThe suspect was arrested by the Criminal Investigation Department (CID) and produced before Colombo Chief Magistrate Asanga S. Bodaragama.\nAccording to court proceedings, the businessman is accused of receiving seven luxury vehicles and Rs. 56.5 million from the main suspect in exchange for allegedly facilitating the fraudulent sale of the property to a prominent company.\nThe investigation concerns a plot of land measuring approximately 79.71 perches in Barnes Place.\nThe CID informed the court that investigations were continuing into the alleged preparation of forged deeds and related financial transactions.\nThe Magistrate ordered the suspect to be remanded until November 5.",
+      "word_count": 131,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 4,
+        "Tech": 0
+      },
+      "summary": "A businessman from Nugegoda has been remanded until November 5 over allegations of assisting in the fraudulent sale of a valuable land plot in Barnes Place, Colombo 7, using forged deeds. The suspect was arrested by the Criminal Investigation Department (CID) and produced before Colombo Chief Magistrate Asanga S. Bodaragama.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263423.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261028_215851_ChatGPT.jpg",
+          "alt": "Businessman remanded over alleged Colombo 7 land fraud"
+        }
+      ]
+    },
+    {
+      "id": 263420,
+      "title": "Two arrested for attempting to sell elephant tusk fragment for Rs. 800,000",
+      "url": "https://www.newswire.lk/2026/10/28/two-arrested-for-attempting-to-sell-elephant-tusk-fragment-for-rs-800000/",
+      "published": "2026-10-28T21:48:44+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Two suspects have been arrested near the Badagamuwa Forest Reserve in Kurunegala for allegedly attempting to sell a fragment of an elephant tusk for Rs. 800,000.\nThe arrests were made on Tuesday (27) by officers of the North Western Wildlife Special Raids Unit, who deployed undercover operatives to apprehend the suspects during the attempted sale.\nThe suspects, aged 26 and 32, are residents of Tissamaharama and Rambukkana. Both reportedly work as managers at an animal farm in the Ibbagamuwa area.\nThe two suspects were produced before the Kurunegala Magistrate on Wednesday (28) and remanded until November 6.",
+      "word_count": 97,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Two suspects have been arrested near the Badagamuwa Forest Reserve in Kurunegala for allegedly attempting to sell a fragment of an elephant tusk for Rs. 800,000. The two suspects were produced before the Kurunegala Magistrate on Wednesday (28) and remanded until November 6.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263420.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261028_214626_Facebook.jpg",
+          "alt": "Two arrested for attempting to sell elephant tusk fragment for Rs. 800,000"
+        }
+      ]
+    },
+    {
+      "id": 263417,
+      "title": "Former Sri Lanka captain Shashikala Siriwardene takes up coaching role in Australia",
+      "url": "https://www.newswire.lk/2026/10/28/former-sri-lanka-captain-shashikala-siriwardene-takes-up-coaching-role-in-australia/",
+      "published": "2026-10-28T21:34:20+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Former Sri Lanka women’s cricket captain Shashikala Siriwardene has embarked on a new chapter in her cricketing career, taking up a full-time coaching role with Plenty Valley Cricket Club in Victoria, Australia.\nSiriwardene is coaching the club’s women’s teams during the 2026-27 season, having previously served as a captain-coach before deciding to focus exclusively on coaching.\nSpeaking to Cricket Australia’s official website, she said she was enjoying the opportunity to help young players develop their skills while building her experience as a coach.\nThe former all-rounder retired from international cricket following the 2020 ICC Women’s T20 World Cup. She subsequently obtained her Level 2 coaching qualification and worked with Sri Lanka’s Under-19 women’s team ahead of the inaugural ICC Under-19 Women’s T20 World Cup.\nShe later moved to Australia to further develop her coaching career, initially joining Wynnum-Manly in Brisbane as a player and assistant coach.\nShe moved to Melbourne’s Box Hill Cricket Club in 2024 before joining Plenty Valley in 2025 as captain-coach.\nSiriwardene said her current role involved balancing the development of young players with the team’s ambition to achieve results and establish a strong team culture.\nMaking her international debut in 2003, Siriwardene became one of Sri Lanka’s most accomplished women’s cricketers. She scored 2,029 runs and took 124 wickets in women’s One-Day Internationals, making her the only Sri Lankan cricketer to surpass 1,000 runs and claim 100 wickets in the format.\nReflecting on the growth of women’s cricket, she said the sport had expanded considerably since her early playing days, with improved structures and more opportunities for former players to remain involved in the game.\nSiriwardene said she hoped to continue coaching and would eventually like to coach at state level in Australia or lead Sri Lanka’s national team.\nFor now, she said she was focused on learning, helping players improve and contributing to the development of women’s cricket.",
+      "word_count": 313,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 1,
+        "Tech": 0
+      },
+      "summary": "Former Sri Lanka women’s cricket captain Shashikala Siriwardene has embarked on a new chapter in her cricketing career, taking up a full-time coaching role with Plenty Valley Cricket Club in Victoria, Australia. Siriwardene is coaching the club’s women’s teams during the 2026-27 season, having previously served as a captain-coach before deciding to focus exclusively on coaching.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263417.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-21.17.34.jpeg",
+          "alt": "Former Sri Lanka captain Shashikala Siriwardene takes up coaching role in Australia"
+        }
+      ]
+    },
+    {
+      "id": 263415,
+      "title": "President reviews 2027 tourism budget proposals and heritage protection projects",
+      "url": "https://www.newswire.lk/2026/10/28/president-reviews-2027-tourism-budget-proposals-and-heritage-protection-projects/",
+      "published": "2026-10-28T20:55:27+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "A high-level discussion focusing on the 2027 Budget proposals for the Ministry of Tourism was held at the Presidential Secretariat this afternoon (October 28) under the leadership of President Anura Kumara Dissanayake. During the meeting, the President reviewed the progress of individual tourism promotion projects, addressed arising operational challenges, and evaluated immediate solutions.\nKey points of discussion included a major tourism development project centered around Dutch ports in Jaffna, Mannar and Batticaloa, with the President emphasizing the critical need to preserve historical heritage during implementation.\nThe session also covered marine tourism initiatives, the establishment of financing mechanisms to sustain projects launched last year, and enhanced port facilities designed to promote cruise tourism. Furthermore, participants explored strategic measures to internationally promote Anuradhapura, Mihintale and Kandy as distinctive destinations centered on Buddhist education and spiritual tourism.\nThe meeting reviewed the development of eco-tourism destinations alongside progress on the Southern Mist project across the Southern and Sabaragamuwa Provinces. To build industry capacity, discussions centered on expanding Ministry-led entrepreneurship education and training programs, as well as introducing dedicated tourism-related degree courses.\nAdditionally, attendees evaluated measures to strengthen the Tourist Police to ensure visitor safety and provide prompt assistance, alongside expanding domestic air services to drive tourism growth in the Northern and Eastern Provinces.",
+      "word_count": 209,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 27,
+        "Finance": 20,
+        "Tech": 0
+      },
+      "summary": "A high-level discussion focusing on the 2027 Budget proposals for the Ministry of Tourism was held at the Presidential Secretariat this afternoon (October 28) under the leadership of President Anura Kumara Dissanayake. During the meeting, the President reviewed the progress of individual tourism promotion projects, addressed arising operational challenges, and evaluated immediate solutions.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263415.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Copy-of-Mirudhula-News-3.jpg",
+          "alt": "President reviews 2027 tourism budget proposals and heritage protection projects"
+        }
+      ]
+    },
+    {
+      "id": 263406,
+      "title": "President directs to attract major investors to Sri Lanka’s mineral industry",
+      "url": "https://www.newswire.lk/2026/10/28/president-directs-to-attract-major-investors-to-sri-lankas-mineral-industry/",
+      "published": "2026-10-28T20:21:56+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "President Anura Kumara Dissanayake chaired a high-level meeting at the Presidential Secretariat today (October 28) to finalize plans aimed at attracting major investors to Sri Lanka’s mineral industry.\nEmphasizing the government’s core responsibility to properly assess national resources, the President highlighted the urgent need to identify the full potential of the country’s mineral reserves and take immediate steps to draw strong investment into the sector.\nThe meeting thoroughly reviewed the progress of land identification for mineral projects and the precise locating of existing deposits. Specific focus was directed toward ongoing exploration activities and investor attraction strategies at the Kahatagaha graphite mines and Eppawala phosphate deposits.\nTo ensure credibility, extensive discussions centered on providing the necessary facilities so that mineral reserve and exploration reports issued by the Geological Survey and Mines Bureau comply with international standards and achieve global recognition. The committee also explored the possibility of outsourcing future mineral exploration activities to expert external bodies.\nIn the gem and jewelry sector, officials from the Ministry of Industries and Entrepreneurship Development reported that a robust policy framework is currently being formulated to ensure gem mining operates legally and systematically. Officials also reviewed measures taken to eliminate fraud in gem exports and assessed construction progress on the upcoming Gem and Jewellery Centre, designed to boost the local industry and attract foreign capital.",
+      "word_count": 220,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 26,
+        "Finance": 26,
+        "Tech": 0
+      },
+      "summary": "President Anura Kumara Dissanayake chaired a high-level meeting at the Presidential Secretariat today (October 28) to finalize plans aimed at attracting major investors to Sri Lanka’s mineral industry. Emphasizing the government’s core responsibility to properly assess national resources, the President highlighted the urgent need to identify the full potential of the country’s mineral reserves and take immediate steps to draw strong investment into the sector.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263406.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Copy-of-Mirudhula-News-4.jpg",
+          "alt": "President directs to attract major investors to Sri Lanka’s mineral industry"
+        }
+      ]
+    },
+    {
+      "id": 263404,
+      "title": "Sanga calls out discrimination at Dublin Airport",
+      "url": "https://www.newswire.lk/2026/10/28/sanga-calls-out-discrimination-at-dublin-airport/",
+      "published": "2026-10-28T20:08:26+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Former Sri Lanka cricket captain Kumar Sangakkara has raised concerns over alleged discriminatory treatment by Ryanair ground staff at Dublin Airport, describing an incident involving his family as “shocking” and “unacceptable.”\nIn a post on X, Sangakkara questioned whether other passengers had experienced similar treatment from Ryanair gate personnel in Dublin.\n“Has anyone experienced discriminatory gate personnel @Ryanair in Dublin? I with my family just did and it was shocking,” Sangakkara wrote.\nHe criticised the manner in which staff addressed his family, alleging that procedures were mishandled and that staff displayed threatening behaviour.\n“Unacceptable for any passenger. First bad experience in Dublin,” he added.\nThe former cricketer did not provide further details about the incident or specify what led to the confrontation.\nHis post also drew a response from Sri Lankan technology entrepreneur Sanjiva Weerawarana, who said he had experienced discrimination during his years living and travelling in Western countries.",
+      "word_count": 150,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 3
+      },
+      "summary": "Former Sri Lanka cricket captain Kumar Sangakkara has raised concerns over alleged discriminatory treatment by Ryanair ground staff at Dublin Airport, describing an incident involving his family as “shocking” and “unacceptable. In a post on X, Sangakkara questioned whether other passengers had experienced similar treatment from Ryanair gate personnel in Dublin.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263404.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261028_201711_Chrome.jpg",
+          "alt": "Sanga calls out discrimination at Dublin Airport"
+        }
+      ]
+    },
+    {
+      "id": 263400,
+      "title": "Bribery Commission questions Ali Sabry’s remarks during Namal Rajapaksa’s bail hearing",
+      "url": "https://www.newswire.lk/2026/10/28/bribery-commission-questions-ali-sabrys-remarks-during-namal-rajapaksas-bail-hearing/",
+      "published": "2026-10-28T20:00:11+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has questioned remarks made by President’s Counsel Ali Sabry, who represents remanded MP Namal Rajapaksa, that those acting as oppressors today could become victims tomorrow.\nAccording to court reports, the issue was raised during Wednesday’s (28) hearing of Rajapaksa’s bail application in connection with the Krrish transaction investigation.\nAppearing for the Bribery Commission, Senior Assistant Director Thanuja Bandara questioned whether Sabry’s remarks were directed at the Commission, its investigating officers or witnesses in the case.\nBandara told the Colombo Magistrate’s Court that two witnesses had previously withheld the truth in their statements because they feared threats to their lives and those of their families.\nShe said the witnesses had subsequently provided further statements after Rajapaksa and fellow suspect Janaki Siriwardhana were remanded, claiming they now felt safe enough to disclose the truth.\nBandara questioned whether the witnesses were the people who might become victims in the future, as suggested in Sabry’s earlier remarks.\nResponding, Sabry said his statement had been misunderstood.\n“Today, the President announces the dates of court judgments. He also speaks about a list of 50 people. So, if the cap fits, wear it,” Sabry told the court.\nSabry maintained that the Bribery Commission and the judiciary were independent institutions and that everyone was equal before the law.\nHe cited Article 13(5) of the Constitution, which guarantees the presumption of innocence until proven guilty, arguing that Rajapaksa should neither face discrimination because of his political views nor receive special treatment.\nSabry also informed the court that Rajapaksa’s parents were seriously ill and that his mother had undergone heart surgery the previous day.\nHe requested bail on exceptional grounds.\nHowever, the Bribery Commission opposed the application, arguing that the circumstances presented did not constitute exceptional grounds and that witnesses must be protected from possible interference.\nAfter considering submissions from both sides, Colombo Chief Magistrate Asanga S. Bodaragama announced that the order on Rajapaksa’s bail application would be delivered on November 3.",
+      "word_count": 332,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 45,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has questioned remarks made by President’s Counsel Ali Sabry, who represents remanded MP Namal Rajapaksa, that those acting as oppressors today could become victims tomorrow. Appearing for the Bribery Commission, Senior Assistant Director Thanuja Bandara questioned whether Sabry’s remarks were directed at the Commission, its investigating officers or witnesses in the case.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263400.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Copy-of-Mirudhula-News-2.jpg",
+          "alt": "Bribery Commission questions Ali Sabry’s remarks during Namal Rajapaksa’s bail hearing"
+        }
+      ]
+    },
+    {
+      "id": 263392,
+      "title": "HRCSL launches probe into Homagama custodial death, summons police officers",
+      "url": "https://www.newswire.lk/2026/10/28/hrcsl-launches-probe-into-homagama-custodial-death-summons-police-officers/",
+      "published": "2026-10-28T19:52:53+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Human Rights Commission of Sri Lanka (HRCSL) has initiated an investigation into the death of an individual who reportedly died following an alleged assault by Homagama Police officers after being taken into custody.\nThe Commission launched the probe on its own motion under reference number HRC/SUO/MOTU/13/26 following media reports on the incident, alongside two formal complaints lodged by relatives of the deceased. As part of the preliminary investigation, HRCSL officers visited the Homagama Police Station to gather relevant details and visited the residences of the deceased’s family members to record their statements.\nInitial investigative findings by the Commission indicate that the involved police officers appear to have failed to comply with human rights guidelines issued by the Commission regarding the proper treatment of suspects. Consequently, the HRCSL has summoned the officers concerned to appear before the Commission at 1:30 p.m. on October 29, 2026. The Commission has also decided to obtain the official post-mortem examination report from the medical officer who conducted the autopsy. The Commission expressed serious concern over the persistent occurrence of deaths in police custody and following arrests. A review of complaints received by the HRCSL revealed that between January 2020 and March 31, 2025, a total of 49 deaths occurred in police custody, while 30 deaths resulted from confrontations with police following arrest.\nIn response to these recurring issues, the HRCSL had previously formulated specific guidelines on the treatment of suspects after consultations with the Inspector General of Police (IGP), which were distributed to all police stations via an official police circular. Reiterating its grave concern over custodial fatalities, the HRCSL emphasized that all persons taken into custody must be treated in accordance with human rights standards and established directives, stating that its final determination will be issued upon completion of all investigative procedures.",
+      "word_count": 299,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Human Rights Commission of Sri Lanka (HRCSL) has initiated an investigation into the death of an individual who reportedly died following an alleged assault by Homagama Police officers after being taken into custody. As part of the preliminary investigation, HRCSL officers visited the Homagama Police Station to gather relevant details and visited the residences of the deceased’s family members to record their statements.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263392.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Copy-of-Mirudhula-News-1.jpg",
+          "alt": "HRCSL launches probe into Homagama custodial death, summons police officers"
+        }
+      ]
+    },
+    {
+      "id": 263394,
+      "title": "Johnston clarifies charges, denies involvement in vehicle import tax fraud",
+      "url": "https://www.newswire.lk/2026/10/28/johnston-clarifies-charges-denies-involvement-in-vehicle-import-tax-fraud/",
+      "published": "2026-10-28T19:27:49+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Former Minister Johnston Fernando has denied media reports suggesting that he pleaded guilty to vehicle import tax fraud, clarifying that the charges against him relate only to offences under the Motor Traffic Act.\nIn a statement issued on Wednesday (28), Fernando said certain media outlets had misrepresented the nature of the case heard before the Colombo Fort Magistrate’s Court.\nHe said only three charges had been filed against him under the Motor Traffic Act and that he had not been charged with importing the vehicle, owning it or failing to pay import duties.\nFernando also maintained that he was not the owner of the vehicle in question.\n“Pleading guilty to a legal charge relating to the possession of a motor vehicle and pleading guilty to vehicle import tax fraud are two entirely different matters,” he said.\nThe former minister further stated that a separate case had been filed before the Gampaha Magistrate’s Court against the individual who had possession of the vehicle.\nFernando described reports claiming that he had admitted to vehicle import tax fraud as false and misleading.\nHe urged media organisations to correct their reports and accurately explain the legal nature of the charges to which he had pleaded guilty.",
+      "word_count": 202,
+      "is_lead": true,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 4,
+        "Finance": 30,
+        "Tech": 0
+      },
+      "summary": "Former Minister Johnston Fernando has denied media reports suggesting that he pleaded guilty to vehicle import tax fraud, clarifying that the charges against him relate only to offences under the Motor Traffic Act. “Pleading guilty to a legal charge relating to the possession of a motor vehicle and pleading guilty to vehicle import tax fraud are two entirely different matters,” he said.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263394.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Johnston-Fernando-BMW.jpg",
+          "alt": "Johnston clarifies charges, denies involvement in vehicle import tax fraud"
+        }
+      ]
+    },
+    {
+      "id": 263389,
+      "title": "Kalu ganga basin flood warning extended by 24 hours amid continued rainfall",
+      "url": "https://www.newswire.lk/2026/10/28/kalu-ganga-basin-flood-warning-extended-by-24-hours-amid-continued-rainfall/",
+      "published": "2026-10-28T19:10:17+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Irrigation Department has extended the flood warning issued for the Kalu Ganga Basin by an additional 24 hours, alerting residents to the possibility of minor flooding in low-lying areas driven by ongoing rainfall in the river’s catchment zones.\nBased on prevailing weather conditions and water level analyses from gauging stations across the basin, minor flood levels are anticipated within the next 24 hours.\nThe areas identified at risk span multiple Divisional Secretariat Divisions across two districts. In the Ratnapura District, vulnerable divisions include Pelmadulla, Nivithigala, Ratnapura, Kuruwita, Ayagama, and Elapatha. In the Kalutara District, the affected regions comprise Ingiriya, Horana, Dodangoda, Millaniya, Bulathsinhala, Madurawala and Palindanuwara.\nResidents living near the basin and motorists traveling through these divisions have been urged to exercise heightened caution due to potential hazards. Additionally, disaster management authorities have been requested to implement necessary precautionary measures.",
+      "word_count": 141,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Irrigation Department has extended the flood warning issued for the Kalu Ganga Basin by an additional 24 hours, alerting residents to the possibility of minor flooding in low-lying areas driven by ongoing rainfall in the river’s catchment zones. Based on prevailing weather conditions and water level analyses from gauging stations across the basin, minor flood levels are anticipated within the next 24 hours.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263389.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/images-47.jpg",
+          "alt": "Kalu ganga basin flood warning extended by 24 hours amid continued rainfall"
+        }
+      ]
+    },
+    {
+      "id": 263385,
+      "title": "Prior online appointments mandatory for passport one-day service at regional offices",
+      "url": "https://www.newswire.lk/2026/10/28/prior-online-appointments-mandatory-for-passport-one-day-service-at-regional-offices/",
+      "published": "2026-10-28T19:04:18+05:30",
+      "source_categories": [
+        "News",
+        "Uncategorized"
+      ],
+      "tags": [],
+      "text": "Applicants visiting regional offices to obtain passports under both one-day and normal services must reserve a date and time online starting tomorrow (October 29), the Department of Immigration and Emigration announced.\nApplicants are required to make these prior appointments through the official website before presenting themselves at any regional office.\nAccording to Department Spokesperson Mahesh Karunadasa, the online facility has been arranged on the official Immigration and Emigration website under the link ‘Reserving a date and time to obtain passports through regional offices’. Meanwhile, passport services at the department’s head office in Battaramulla will continue to operate as usual without changes.",
+      "word_count": 101,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 5
+      },
+      "summary": "Applicants visiting regional offices to obtain passports under both one-day and normal services must reserve a date and time online starting tomorrow (October 29), the Department of Immigration and Emigration announced. Applicants are required to make these prior appointments through the official website before presenting themselves at any regional office.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263385.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/images-46.jpg",
+          "alt": "Prior online appointments mandatory for passport one-day service at regional offices"
+        }
+      ]
+    },
+    {
+      "id": 263382,
+      "title": "President meets tourism stakeholders to plan $10 Bn revenue and 5 million tourist target by 2030",
+      "url": "https://www.newswire.lk/2026/10/28/president-meets-tourism-stakeholders-to-plan-10-bn-revenue-and-5-million-tourist-target-by-2030/",
+      "published": "2026-10-28T18:51:24+05:30",
+      "source_categories": [
+        "News",
+        "Uncategorized"
+      ],
+      "tags": [],
+      "text": "President Anura Kumara Dissanayake met with representatives of tourism industry associations at the Presidential Secretariat this morning (October 28) to discuss strategies for achieving national targets of generating US$ 10 billion in tourism revenue and attracting five million tourists to Sri Lanka by 2030. The session involved extensive discussions on key steps required to further promote and expand the country’s tourism sector.\nParticular attention was given to enhancing domestic air travel facilities, specifically targeting key destinations including Trincomalee, Batticaloa, Sigiriya, and Jaffna. Reviewing international air connectivity, the meeting noted that 10 new international airlines have commenced flights to Sri Lanka this year, with discussions focusing on measures needed to increase the total number of operating airlines to 50. Deliberations also focused on utilizing popular national parks to support industry growth while simultaneously introducing laws and regulations to safeguard forest resources.\nIn addition, the meeting reviewed the progress of ongoing global promotional campaigns implemented to boost Sri Lanka’s tourism sector. To formalize the overall industry, discussions addressed bringing all tourist hotels and accommodation providers under the relevant legal framework by requiring mandatory registration with the Sri Lanka Tourism Development Authority (SLTDA). Special attention was also directed toward introducing necessary laws and regulations to govern businesses operated by foreign nationals in Sri Lanka in violation of prescribed legal procedures.\nThe discussion was attended by Minister of Labour and Deputy Minister of Finance and Planning Dr. Anil Jayantha Fernando, Secretary to the President Dr. Nandika Sanath Kumanayake, and Senior Additional Secretary to the President Roshan Gamage. Tourism industry representatives in attendance included Sri Lanka Hotels Association President Ashoka Hettigoda, Resorts Association Vice President Eksath Wijeratne, Deputy President (General) Dimitri Coorey, Senior Management Committee member Chamin Wickramasinghe, Chief Executive Officer Priyantha Fernando, and Sri Lanka Inbound Tour Operators Association President Bobby Jordan Hansen, alongside members of the task force established to promote the tourism sector and representatives of several other tourism industry associations.",
+      "word_count": 319,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 32,
+        "Finance": 21,
+        "Tech": 0
+      },
+      "summary": "President Anura Kumara Dissanayake met with representatives of tourism industry associations at the Presidential Secretariat this morning (October 28) to discuss strategies for achieving national targets of generating US$ 10 billion in tourism revenue and attracting five million tourists to Sri Lanka by 2030.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263382.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Copy-of-Mirudhula-News.jpg",
+          "alt": "President meets tourism stakeholders to plan $10 Bn revenue and 5 million tourist target by 2030"
+        }
+      ]
+    },
+    {
+      "id": 263379,
+      "title": "2027 Appropriation Bill gets COPF approval, highlighting infrastructure and debt",
+      "url": "https://www.newswire.lk/2026/10/28/2027-appropriation-bill-gets-copf-approval-highlighting-infrastructure-and-debt/",
+      "published": "2026-10-28T18:45:13+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Parliamentary Committee on Public Finance (COPF), chaired by Dr. Harsha de Silva, has officially approved the Appropriation Bill for the financial year 2027, clearing the way for its presentation to Parliament.\nThe budget estimates, encompassing the management of public revenue, expenditure and critical development projects, were finalized during a meeting held on October 22 with senior officials from the Ministry of Finance, Planning and Economic Development.\nFinance Ministry officials provided detailed presentations covering the 2027 government expenditure estimates, capital allocation targets, public revenue projections and debt servicing obligations.\nA substantial portion of the deliberations focused on capital expenditure allocations for 2027, specifically prioritizing major infrastructure projects. These include nationwide road development, significant improvements to healthcare and educational facilities, expansion of the national electricity grid, and urban development initiatives.\nThe Committee also scrutinized macroeconomic forecasts, public financial management frameworks, public sector salaries and pensions and expenditure to meet essential public service needs.\nBeyond infrastructure, discussions covered financial assistance strategies for small and medium-sized enterprises (SMEs), credit guarantee schemes, and broader business sector support.\nAdditionally, officials briefed the Committee on foreign debt servicing requirements for 2027, projected foreign financing inflows, and comprehensive public debt management.\nKey revenue targets, measures to enhance tax administration efficiency, and strategies to ensure the prudent utilization of all budgetary allocations were also major points of discussion.\nThe high level meeting saw participation from Deputy Minister Nishantha Jayaweera, Dr. Kaushalya Ariyarathne and notable Members of Parliament including Ravi Karunanayake, Harshana Rajakaruna, Ajith Agalakada, Nimal Palihena, Wijesiri Basnayake, Thilina Samarakoon and Attorneys-at-Law Chithral Fernando and Lakmali Hemachandra.",
+      "word_count": 259,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 20,
+        "Finance": 50,
+        "Tech": 0
+      },
+      "summary": "The Parliamentary Committee on Public Finance (COPF), chaired by Dr. Harsha de Silva, has officially approved the Appropriation Bill for the financial year 2027, clearing the way for its presentation to Parliament. Finance Ministry officials provided detailed presentations covering the 2027 government expenditure estimates, capital allocation targets, public revenue projections and debt servicing obligations.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263379.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-15.44.06.jpeg",
+          "alt": "2027 Appropriation Bill gets COPF approval, highlighting infrastructure and debt"
+        }
+      ]
+    },
+    {
+      "id": 263374,
+      "title": "SLITHM inaugurates first degree programme to bridge 600,000 tourism vacancies",
+      "url": "https://www.newswire.lk/2026/10/28/slithm-inaugurates-first-degree-programme-to-bridge-600000-tourism-vacancies/",
+      "published": "2026-10-28T18:41:17+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Sri Lanka Institute of Tourism and Hotel Management (SLITHM) inaugurated its first ever degree programme, the Bachelor of Hotel and Resort Management (Hons), on October 27, 2026, at Cinnamon Lakeside, Colombo, directly targeting an estimated 600,000 vacancies across the growing tourism sector.\nThe milestone launch was attended by Prime Minister Dr. Harini Amarasuriya, Minister of Foreign Affairs, Foreign Employment and Tourism Vijitha Herath and leading figures from government, academia and the hospitality industry.\nAddressing the gathering, Prime Minister Dr. Harini Amarasuriya emphasized tourism’s vital economic role and called for higher female participation, encouraging the 65 newly enrolled students, the majority of whom are women, to lead the sector’s future growth.\nSLITHM and Sri Lanka Convention Bureau (SLCB) Chairman Dheera Hettiarachchi noted the degree’s practical focus, while Professor Suranga Silva of the University of Colombo explained that the four-year degree combines academic learning, industry training, internships, thesis research, and foreign language studies to meet global standards and bridge critical local skills shortages.\nUnderlining the sector’s aggressive expansion, Minister Vijitha Herath revealed that Sri Lanka recorded its highest-ever tourist arrivals in 2025, with national targets set for 4 million visitors and USD 8 billion in revenue by 2030.\nTo support this growth, Minister Herath announced plans to upgrade SLITHM with World Bank support, expand branches into every district, and establish a regional Tourism Training and Research Centre in Habarana via an agreement with the North Central Provincial Council.\nHe also highlighted expanding air connectivity including British Airways’ return after 11 years, additional Vietnam flights and direct Beijing-Katunayake flights planned for 2027.",
+      "word_count": 260,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 31,
+        "Finance": 26,
+        "Tech": 0
+      },
+      "summary": "The Sri Lanka Institute of Tourism and Hotel Management (SLITHM) inaugurated its first ever degree programme, the Bachelor of Hotel and Resort Management (Hons), on October 27, 2026, at Cinnamon Lakeside, Colombo, directly targeting an estimated 600,000 vacancies across the growing tourism sector.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263374.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-16.55.28.jpeg",
+          "alt": "SLITHM inaugurates first degree programme to bridge 600,000 tourism vacancies"
+        },
+        {
+          "src": "images/2026-10-29/263374-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-16.55.30.jpeg",
+          "alt": "SLITHM inaugurates first degree programme to bridge 600,000 tourism vacancies"
+        }
+      ]
+    },
+    {
+      "id": 263373,
+      "title": "Homagama Police Crimes OIC arrested over suspect’s death in custody",
+      "url": "https://www.newswire.lk/2026/10/28/homagama-police-crimes-oic-arrested-over-suspects-death-in-custody/",
+      "published": "2026-10-28T18:38:18+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "The Officer-in-Charge (OIC) of the Crimes Division of Homagama Police, who was interdicted following the death of a suspect in police custody, has been arrested.\nThe arrest was made by officers of the Western Province South Crime Investigation Division in connection with the ongoing investigation into the custodial death.\nThe incident involves the death of Ishara Harshana, a young man who died while in the custody of Homagama Police.\nThe death has raised serious concerns over the treatment of suspects in police custody, with calls for an independent and transparent investigation into the circumstances surrounding the incident.\nOpposition Leader Sajith Premadasa had also called for an independent investigation, stressing that police officers have a responsibility to ensure the safety and well-being of individuals in their custody.\nFurther investigations into the death are underway.",
+      "word_count": 133,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 9,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Officer-in-Charge (OIC) of the Crimes Division of Homagama Police, who was interdicted following the death of a suspect in police custody, has been arrested. The incident involves the death of Ishara Harshana, a young man who died while in the custody of Homagama Police.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263373.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261025_205220_Editor-Lite.jpg",
+          "alt": "Homagama Police Crimes OIC arrested over suspect’s death in custody"
+        },
+        {
+          "src": "images/2026-10-29/263373-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261026_130939_ChatGPT.jpg",
+          "alt": "Homagama Police Crimes OIC arrested over suspect’s death in custody"
+        }
+      ]
+    },
+    {
+      "id": 263369,
+      "title": "SUV deal gone wrong: Colombo man arrested over alleged Rs. 5.9 million fraud",
+      "url": "https://www.newswire.lk/2026/10/28/suv-deal-gone-wrong-colombo-man-arrested-over-alleged-rs-5-9-million-fraud/",
+      "published": "2026-10-28T18:34:36+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Colombo Fraud Investigation Bureau arrested a 38-year-old resident of Alfred House Place, Colombo 03, today (October 28) for allegedly defrauding a person of Rs. 5,900,000.\nThe arrest followed a complaint alleging that the suspect took the funds promising to deliver a SUV but failed to produce the vehicle.\nThe suspect was taken into custody by investigating officers after being summoned to the bureau to record a statement. Following his arrest, he was produced before the Aluthkade No. 03 Magistrate’s Court today and released on two personal bails of Rs. 2.5 million each.\nThe Colombo Fraud Investigation Bureau is conducting further investigations.",
+      "word_count": 102,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Colombo Fraud Investigation Bureau arrested a 38-year-old resident of Alfred House Place, Colombo 03, today (October 28) for allegedly defrauding a person of Rs. 5,900,000. The Colombo Fraud Investigation Bureau is conducting further investigations.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263369.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Copy-of-Mirudhula-News.png",
+          "alt": "SUV deal gone wrong: Colombo man arrested over alleged Rs. 5.9 million fraud"
+        }
+      ]
+    },
+    {
+      "id": 263364,
+      "title": "Budget 2027: Deputy Finance Minister reveals what to expect",
+      "url": "https://www.newswire.lk/2026/10/28/budget-2027-deputy-finance-minister-reveals-what-to-expect/",
+      "published": "2026-10-28T18:12:11+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The government plans to place greater emphasis on capital market development in Budget 2027, while allocating Rs. 2 trillion for capital expenditure and introducing new legislation to restructure state-owned enterprises (SOEs).\nDeputy Minister of Finance and Planning Dr. Anil Jayantha Fernando said the government’s next priority was to move Sri Lanka from macroeconomic stability towards economic transformation by strengthening investment and developing the capital market.\nHe made the remarks at the Institutional Investor Forum, “From Resilience to Sustainable Growth – Industry Forum 2026,” jointly organised by the Securities and Exchange Commission of Sri Lanka (SEC) and the Colombo Stock Exchange (CSE).\nThe 2027 Budget is scheduled to be presented on November 12.\nThe Deputy Minister said the Ministry of Finance had reviewed 12 capital market development proposals submitted by the SEC and reached agreement on the majority. Several proposals are expected to be included in the upcoming Budget.\nHe said the government expects to allocate Rs. 2 trillion for capital expenditure, prioritising roads, railways, rural connectivity, logistics, transport infrastructure and selected social development projects.\nHowever, he acknowledged that bureaucratic procedures and resource constraints were delaying the implementation of capital expenditure projects.\nPossible tax reforms\nDr. Fernando said government revenue had exceeded 16% of Gross Domestic Product (GDP) by the end of 2025, surpassing the initial target of 15.4% set for 2030.\nHe indicated that the government could consider changes to the existing tax structure once revenue targets were secured.\nWhile acknowledging concerns over corporate and personal income taxes, he said reducing tax rates prematurely could affect revenue collection. However, reductions in indirect taxes could be considered in the future.\nRestructuring state-owned enterprises\nThe Deputy Minister said Sri Lanka had 527 institutions classified as state-owned enterprises, although only a limited number were engaged in commercial activities.\nHe said the government intended to restructure and diversify selected SOEs while merging others.\nA proposed new SOE Act is expected to establish a common legal framework, allowing certain state enterprises to operate as companies with greater decision-making autonomy.\nDr. Fernando said the government’s primary responsibility should be facilitating economic activity rather than directly engaging in ordinary trading and hotel operations.\nHowever, state involvement could continue in selected energy-sector enterprises to prevent excessive market influence.\nInvestment and market reforms\nThe Deputy Minister also revealed that the technology-based Single Window Project, designed to provide investors with access to investment-related services through a single platform, was nearing completion.\nHe stressed the importance of maintaining investor confidence through transparency, fair market practices and preventing stock market manipulation and unequal access to inside information.\nDr. Fernando said the government would continue allowing market forces to determine the exchange rate rather than artificially controlling it.\nHe also identified global trade tensions, instability in the Middle East, natural disasters and climate change as potential risks to Sri Lanka’s economy.\nCentral Bank Governor Dr. P. Nandalal Weerasinghe, SEC Chairman Senior Professor D.B.P.H. Dissabandara and CSE Chairman Dimuthu Abeyesekera also addressed the forum.",
+      "word_count": 490,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 23,
+        "Finance": 108,
+        "Tech": 0
+      },
+      "summary": "The government plans to place greater emphasis on capital market development in Budget 2027, while allocating Rs. 2 trillion for capital expenditure and introducing new legislation to restructure state-owned enterprises (SOEs). Deputy Minister of Finance and Planning Dr. Anil Jayantha Fernando said the government’s next priority was to move Sri Lanka from macroeconomic stability towards economic transformation by strengthening investment and developing the capital market.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263364.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG-20261028-WA0120.jpg",
+          "alt": "Budget 2027: Deputy Finance Minister reveals what to expect"
+        }
+      ]
+    },
+    {
+      "id": 263358,
+      "title": "Sri Lanka’s Nalinda Jayatissa elected Vice-Chair at regional UN conference",
+      "url": "https://www.newswire.lk/2026/10/28/sri-lankas-nalinda-jayatissa-elected-vice-chair-at-regional-un-conference/",
+      "published": "2026-10-28T17:25:25+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka’s Minister of Health and Mass Media, Dr. Nalinda Jayatissa, has been elected a Vice-Chair of the Fifth Asia-Pacific Ministerial Conference (MC-5), which commenced in Bangkok, Thailand, on Wednesday (28).\nThe conference, held at the United Nations Conference Centre (UNCC), is jointly organised by the United Nations Economic and Social Commission for Asia and the Pacific (UNESCAP) and the Royal Thai Government.\nRepresenting Sri Lanka, Minister Jayatissa addressed the conference, highlighting the slowdown in global progress towards achieving the Sustainable Development Goals (SDGs).\nHe emphasised the importance of integrating Artificial Intelligence (AI) and other digital technologies into national public health systems to improve disease surveillance, assess climate-related health risks, strengthen disaster preparedness and expand access to healthcare services.\nThe Minister also stressed that developing countries facing financial and capacity constraints should have access to the benefits of emerging technologies.\nHe called for stronger regional cooperation to facilitate the sharing of technological tools, expertise and resources while improving institutional capacity.\nSecretary to the Ministry of Health and Mass Media Dr. Anil Jasinghe, Public Service Commission member Eng. (Dr.) Sanath Panawenna and officials from the Sri Lankan Embassy in Thailand also attended the conference.",
+      "word_count": 193,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 19,
+        "Finance": 4,
+        "Tech": 15
+      },
+      "summary": "Sri Lanka’s Minister of Health and Mass Media, Dr. Nalinda Jayatissa, has been elected a Vice-Chair of the Fifth Asia-Pacific Ministerial Conference (MC-5), which commenced in Bangkok, Thailand, on Wednesday (28). Representing Sri Lanka, Minister Jayatissa addressed the conference, highlighting the slowdown in global progress towards achieving the Sustainable Development Goals (SDGs).",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263358.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261028_172256_Editor-Lite.jpg",
+          "alt": "Sri Lanka’s Nalinda Jayatissa elected Vice-Chair at regional UN conference"
+        }
+      ]
+    },
+    {
+      "id": 263359,
+      "title": "Former National Youth Services Council chairman Lalith Piyum Perera granted bail after arrest",
+      "url": "https://www.newswire.lk/2026/10/28/former-national-youth-services-council-chairman-lalith-piyum-perera-granted-bail-after-arrest/",
+      "published": "2026-10-28T17:22:40+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Lalith Piyum Perera",
+        "National Youth Services Council"
+      ],
+      "text": "Former National Youth Services Council (NYSC) Chairman and Director General Lalith Piyum Perera has been granted bail after being arrested by officials of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on Wednesday (28).\nPerera was arrested over allegations of causing a financial loss of Rs. 5.1 million to the government during his tenure at the NYSC.\nAccording to investigators, Perera allegedly arranged lease agreements for a land and building in Samapura, Ampara, by falsely representing the property as government-owned.\nThe property was subsequently leased to the National Youth Services Council, resulting in an alleged unlawful payment of Rs. 3.8 million in NYSC funds to a third party.\nInvestigators further alleged that an additional Rs. 1.3 million was improperly spent on renovating the building without formal approval from the NYSC Board of Directors.\nPerera was produced before the Colombo Chief Magistrate’s Court following his arrest and was subsequently granted bail.\nFurther investigations are underway.",
+      "word_count": 156,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 1,
+        "Finance": 4,
+        "Tech": 0
+      },
+      "summary": "Former National Youth Services Council (NYSC) Chairman and Director General Lalith Piyum Perera has been granted bail after being arrested by officials of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) on Wednesday (28). The property was subsequently leased to the National Youth Services Council, resulting in an alleged unlawful payment of Rs. 3.8 million in NYSC funds to a third party.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263359.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Youth-Services-Council-Lalith-Piyum-Perera.jpg",
+          "alt": "Former National Youth Services Council chairman Lalith Piyum Perera granted bail after arrest"
+        }
+      ]
+    },
+    {
+      "id": 263355,
+      "title": "Spain train crash leaves at least 50 dead, local media reports",
+      "url": "https://www.newswire.lk/2026/10/28/spain-train-crash-leaves-at-least-50-dead-local-media-reports/",
+      "published": "2026-10-28T17:17:45+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [
+        "Accident",
+        "Spain",
+        "train"
+      ],
+      "text": "At least 50 people have been killed after two trains collided in Spain this morning, with the number expected to rise, local media outlets are reporting.\nThe train crash occurred in Toledo province, which sits in central Spain to the south of Madrid.\nThe provincial capital Toledo is around 40 miles southwest of the Spanish capital, and the crash involved two trains that were traveling on the line linking Madrid to Seville, which is around a further 200 miles south-west of the city of Toledo.\nThe country’s prime minister has described the crash as a “serious” incident. It happened when the carriages were traveling along the route connecting the capital city Madrid with Seville, according to the railway infrastructure manager ADIF. The high-speed line linking the Madrid region with Andalusia has been suspended.\nThis is the third rail disaster in Spain in 2026. In January, two high-speed trains collided near Adamuz, in southern Spain’s Córdoba province, killing more than 40 people. A commuter train near Barcelona derailed days later. (CNN)\nNearly 50 people have been killed after two high-speed trains collided near Toledo, Spain. The collision occurred on the Madrid–Andalusia railway line, where another deadly train crash killed 46 people in January this year. Emergency operations are continuing, with more than 100 injuries reported by local media. — NewsWire 🇱🇰 (@NewsWireLK) October 28, 2026\nNearly 50 people have been killed after two high-speed trains collided near Toledo, Spain.\nThe collision occurred on the Madrid–Andalusia railway line, where another deadly train crash killed 46 people in January this year.\nEmergency operations are continuing, with more than 100 injuries reported by local media.\n— NewsWire 🇱🇰 (@NewsWireLK) October 28, 2026",
+      "word_count": 278,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 5,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "At least 50 people have been killed after two trains collided in Spain this morning, with the number expected to rise, local media outlets are reporting. The train crash occurred in Toledo province, which sits in central Spain to the south of Madrid.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263355.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Spain-train-crash.jpg",
+          "alt": "Spain train crash leaves at least 50 dead, local media reports"
+        }
+      ]
+    },
+    {
+      "id": 263352,
+      "title": "Suspected bird strike forces SriLankan Airlines pilots to abort take-off",
+      "url": "https://www.newswire.lk/2026/10/28/suspected-bird-strike-forces-srilankan-airlines-pilots-to-abort-take-off/",
+      "published": "2026-10-28T17:06:32+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "A SriLankan Airlines flight from Colombo to London Heathrow has departed on a replacement aircraft after a suspected bird strike forced pilots to abandon take-off earlier today.\nSriLankan Airlines said flight UL503, scheduled to depart Bandaranaike International Airport at 12:55 p.m., experienced a suspected bird strike affecting one of its engines during take-off.\nThe pilots rejected the take-off as a precaution, and the aircraft was subsequently taxied back to the parking stand.\nAll passengers and crew disembarked safely, the airline confirmed.\nFollowing the incident, SriLankan Airlines arranged a replacement aircraft and crew to operate the flight to London Heathrow, with departure initially scheduled for 4:30 p.m.\nThe replacement flight has since departed for London.\nThe airline apologised for the inconvenience caused to passengers and stressed that safety remains its highest priority.",
+      "word_count": 131,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A SriLankan Airlines flight from Colombo to London Heathrow has departed on a replacement aircraft after a suspected bird strike forced pilots to abandon take-off earlier today. SriLankan Airlines said flight UL503, scheduled to depart Bandaranaike International Airport at 12:55 p.m., experienced a suspected bird strike affecting one of its engines during take-off.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263352.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG-20261028-WA0041.jpg",
+          "alt": "Suspected bird strike forces SriLankan Airlines pilots to abort take-off"
+        }
+      ]
+    },
+    {
+      "id": 263330,
+      "title": "Roar AdX takes TikTok to DMASL Digital Summit Asia 2026",
+      "url": "https://www.newswire.lk/business/roar-adx-takes-tiktok-to-dmasl-digital-summit-asia-2026/",
+      "published": "2026-10-28T16:50:05+05:30",
+      "source_categories": [
+        "Bizwire"
+      ],
+      "tags": [
+        "creator economy Sri Lanka",
+        "digital advertising Sri Lanka",
+        "digital marketing Sri Lanka",
+        "DMASL Digital Summit Asia 2026",
+        "Roar AdX",
+        "Roar Global",
+        "social media marketing Sri Lanka",
+        "TikTok advertising Sri Lanka",
+        "TikTok for Business Sri Lanka",
+        "TikTok Sri Lanka"
+      ],
+      "text": "Roar AdX, the Official Platform Growth Partner for Digital Summit Asia 2026, brought a live TikTok experience to the summit through an interactive gaming activation. Participants recorded reaction videos while taking on the challenge, with winners who successfully completed it walking away with valuable creator gear and camera equipment.\nThe activation aimed to build awareness of TikTok for Business among digital marketers and marketing decision-makers attending the summit. By bringing gameplay and content creation together, Roar AdX encouraged delegates to experience the creativity and participation that brands can build on through the platform.\n“Marketers understand a platform better when they experience what makes people engage with it. We wanted to bring that to the summit through something people could take part in and have fun with,” said Umair Wolid, Chief Marketing Officer of Roar Global. “The wider objective is to get more Sri Lankan brands thinking about where TikTok fits into their marketing strategy and give them the guidance and support to use it effectively.”\n“Marketers understand a platform better when they experience what makes people engage with it. We wanted to bring that to the summit through something people could take part in and have fun with,” said Umair Wolid, Chief Marketing Officer of Roar Global. “The wider objective is to get more Sri Lankan brands thinking about where TikTok fits into their marketing strategy and give them the guidance and support to use it effectively.”\nRoar AdX, Roar Global’s platform advertising venture, is an official TikTok Sales Partner in Sri Lanka. It supports brands and agencies with campaign consultancy, local payment options, training and ongoing assistance, helping advertisers plan, run and optimise campaigns around their business objectives.\nOrganised by the Digital Marketers Association of Sri Lanka (DMASL), Digital Summit Asia 2026 took place on 1 and 2 October at Waters Edge, Colombo. The summit brought together local, regional and international practitioners across marketing, creativity, technology and business, with a programme spanning platform advertising, artificial intelligence, the creator economy and brand building.\nBy connecting Sri Lankan marketers with global expertise and practical learning, the summit provides a forum for strengthening industry capabilities and advancing digital marketing excellence in the country. Roar AdX’s participation supported that exchange by bringing a platform experience directly to the marketing community.",
+      "word_count": 377,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 13,
+        "Finance": 15,
+        "Tech": 30
+      },
+      "summary": "Roar AdX, the Official Platform Growth Partner for Digital Summit Asia 2026, brought a live TikTok experience to the summit through an interactive gaming activation. Roar AdX, Roar Global’s platform advertising venture, is an official TikTok Sales Partner in Sri Lanka.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263330.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/1000-DULAN-ABESEKARA-6436.jpg",
+          "alt": "Roar AdX takes TikTok to DMASL Digital Summit Asia 2026"
+        },
+        {
+          "src": "images/2026-10-29/263330-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/DULAN-ABESEKARA-6436.jpg",
+          "alt": "Roar AdX takes TikTok to DMASL Digital Summit Asia 2026"
+        },
+        {
+          "src": "images/2026-10-29/263330-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Photo-2-.jpg",
+          "alt": "Roar AdX takes TikTok to DMASL Digital Summit Asia 2026"
+        }
+      ]
+    },
+    {
+      "id": 263342,
+      "title": "Sri Lanka and US discuss expanding trade, tourism and maritime security cooperation",
+      "url": "https://www.newswire.lk/2026/10/28/sri-lanka-and-us-discuss-expanding-trade-tourism-and-maritime-security-cooperation/",
+      "published": "2026-10-28T16:45:20+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Eric Meyer",
+        "Harini Amarasuriya",
+        "USA"
+      ],
+      "text": "Prime Minister Harini Amarasuriya and US Ambassador to Sri Lanka Eric Meyer have held discussions on strengthening bilateral cooperation in trade, tourism, maritime security and education.\nAccording to the Prime Minister’s Media Division, the discussions took place at Temple Trees on Tuesday (27), during a meeting between the Prime Minister and the US Ambassador, accompanied by a delegation.\nBoth sides explored opportunities to expand bilateral trade and economic relations, strengthen cooperation in the tourism sector and promote Sri Lanka as a destination for American tourists.\nThe discussions also focused on enhancing maritime security cooperation, including joint efforts to address shared maritime challenges.\nDuring the meeting, PM Amarasuriya acknowledged the longstanding contribution of the Fulbright Scholarship Programme towards strengthening educational and academic cooperation between the two countries and stressed the importance of further expanding the programme.\nMeanwhile, Ambassador Meyer briefed the Prime Minister on the US Peace Corps English language training programme and its potential contribution to improving English language education in Sri Lanka.\nBoth sides reaffirmed their commitment to strengthening the longstanding relationship between Sri Lanka and the United States through continued dialogue and cooperation in areas of mutual interest.\nThe meeting was also attended by US Embassy Deputy Chief of Mission David Myers, Secretary to the Prime Minister Pradeep Saputhanthri, Additional Secretary to the Prime Minister Sagarika Bogahawatta, and officials from the Ministry of Foreign Affairs.",
+      "word_count": 227,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 51,
+        "Finance": 17,
+        "Tech": 0
+      },
+      "summary": "Prime Minister Harini Amarasuriya and US Ambassador to Sri Lanka Eric Meyer have held discussions on strengthening bilateral cooperation in trade, tourism, maritime security and education. The discussions also focused on enhancing maritime security cooperation, including joint efforts to address shared maritime challenges.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263342.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/PM-Harini-US-Eric-Meyer.jpg",
+          "alt": "Sri Lanka and US discuss expanding trade, tourism and maritime security cooperation"
+        }
+      ]
+    },
+    {
+      "id": 263336,
+      "title": "Cyclone Arnab weakens: Showers and strong winds forecast for several areas",
+      "url": "https://www.newswire.lk/2026/10/28/cyclone-arnab-weakens-showers-and-strong-winds-forecast-for-several-areas/",
+      "published": "2026-10-28T16:37:54+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "weather"
+      ],
+      "text": "The Department of Meteorology says the influence of Cyclone Arnab on Sri Lanka’s weather has gradually weakened after the storm crossed the coast of Andhra Pradesh, India.\nIn its general weather forecast for the next 36 hours, issued at 4.00 p.m. today (28), the Department said several spells of showers are expected in the Western and Sabaragamuwa provinces and in the Kandy, Nuwara Eliya, Galle and Matara districts.\nShowers or thundershowers are also expected at a few places in the Uva Province and the Batticaloa and Ampara districts after 1.00 p.m. tomorrow (29).\nMainly fair weather conditions are forecast for other parts of the island.\nMeanwhile, strong winds of around 30–40 kmph can be expected at times over the western slopes of the Central Hills, the Northern, North-central and North-western provinces, and the Trincomalee and Hambantota districts.\nThe Department has urged the public to take adequate precautions to minimise damage caused by temporary localised strong winds and lightning during thundershowers.",
+      "word_count": 160,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Meteorology says the influence of Cyclone Arnab on Sri Lanka’s weather has gradually weakened after the storm crossed the coast of Andhra Pradesh, India.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263336.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/weather-2.jpg",
+          "alt": "Cyclone Arnab weakens: Showers and strong winds forecast for several areas"
+        },
+        {
+          "src": "images/2026-10-29/263336-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Weather-1.jpg",
+          "alt": "Cyclone Arnab weakens: Showers and strong winds forecast for several areas"
+        }
+      ]
+    },
+    {
+      "id": 263331,
+      "title": "Sajith warns Sri Lanka risks becoming a police state following death of youth in custody",
+      "url": "https://www.newswire.lk/2026/10/28/sajith-warns-sri-lanka-risks-becoming-a-police-state-following-death-of-youth-in-custody/",
+      "published": "2026-10-28T16:33:15+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Opposition Leader Sajith Premadasa has questioned whether the death of a young man in police custody in Homagama is another step towards Sri Lanka becoming a police state.\nIn a special statement, Premadasa expressed serious concern over the death of Ishara Harshana, who died while in the custody of Homagama Police.\nHe said relatives who visited the police station on October 25 to inquire about Harshana had reportedly observed injuries on his body.\nPremadasa called for an independent and transparent investigation into the death, stressing that police have a responsibility to ensure the safety and well-being of individuals in their custody.\nHe said the death raised serious concerns about constitutional protections and the responsibility of law enforcement authorities to safeguard human life.\nThe Opposition Leader also linked the incident to two proposed pieces of legislation aimed at combating organised crime and terrorism, warning that certain provisions could undermine fundamental rights and the rule of law.\nHe alleged that the proposed laws could restrict freedom of expression, political freedom and the right to peaceful assembly, potentially paving the way for authoritarian and one-party rule.\nPremadasa said governments have a responsibility to strengthen democracy rather than restrict democratic freedoms.\nHe stressed that legislation aimed at protecting national security and combating organised crime must comply with international standards and human rights obligations.\nThe Opposition Leader called for justice for Ishara Harshana and urged the public to oppose any attempt to turn Sri Lanka into a police state.\nHe also pledged to provide political leadership to efforts aimed at preventing the introduction of laws that could undermine democratic rights and freedoms.",
+      "word_count": 267,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 41,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Opposition Leader Sajith Premadasa has questioned whether the death of a young man in police custody in Homagama is another step towards Sri Lanka becoming a police state. In a special statement, Premadasa expressed serious concern over the death of Ishara Harshana, who died while in the custody of Homagama Police.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-29/263331.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261028_163218_Editor-Lite.jpg",
+          "alt": "Sajith warns Sri Lanka risks becoming a police state following death of youth in custody"
+        }
+      ]
+    }
+  ]
+}
