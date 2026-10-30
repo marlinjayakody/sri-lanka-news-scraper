@@ -1,0 +1,1602 @@
+{
+  "source": "https://www.newswire.lk/",
+  "fetched_via": "wp-rest-api",
+  "edition_date": "2026-10-30",
+  "generated_at": "2026-10-30T16:26:57+05:30",
+  "window": {
+    "from": "2026-10-29T16:26:57+05:30",
+    "to": "2026-10-30T16:26:57+05:30"
+  },
+  "enrichment": "keywords",
+  "categories": [
+    "Political",
+    "Finance",
+    "Tech",
+    "General"
+  ],
+  "counts": {
+    "Political": 13,
+    "Finance": 7,
+    "Tech": 5,
+    "General": 21
+  },
+  "articles": [
+    {
+      "id": 263716,
+      "title": "President appoints advisory council to oversee Anuradhapura Sacred City development",
+      "url": "https://www.newswire.lk/2026/10/30/president-appoints-advisory-council-to-oversee-anuradhapura-sacred-city-development/",
+      "published": "2026-10-30T16:20:57+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "advisory council",
+        "Anuradhapura Sacred City",
+        "President"
+      ],
+      "text": "A Presidential Advisory Council comprising 32 members has been appointed to oversee decision-making related to development programmes within the Anuradhapura Sacred City, while ensuring the protection of its archaeological, historical, religious and cultural heritage.\nAccording to the President’s Media Division (PMD), the council has been established to facilitate integrated heritage conservation, management, planning and development within the sacred area.\nThe council will be co-chaired by the Acting Chief Incumbent of the Atamasthana, Most Venerable Eethalawetunuwewe Gnanatilaka Nayaka Thera, and Chief of Presidential Staff Prabhath Chandrakeerthi.\nVen. Eethalawetunuwewe Gnanatilaka Thera also serves as the Chief Incumbent of the Ruwanweli Chaithyarama, Chancellor of Rajarata University, General Secretary of the Mahavihara Sangha Council and Chief Sanghanayake of the North Central Province.\nThe council includes senior Buddhist monks, government officials, academics, archaeologists, heritage conservation specialists and representatives of several state institutions.\nAmong its members are Ven. Professor Kallanchiye Rathanasiri, Chief Incumbent of the Abhayagiriya Chaithyarama, Ven. Kahalle Gnaninda, Chief Incumbent of the Thuparama Chaithyarama, and Ven. Kahatagollawe Medhankara, former Deputy Secretary of the Maha Bodhi Society of India.\nRepresentatives from the Department of Archaeology, Central Cultural Fund, Urban Development Authority, National Physical Planning Department and other relevant institutions have also been appointed to the council.\nThe membership further includes officials from the Anuradhapura Municipal Council, district administration, Police, irrigation, road development, electricity, water supply and tourism sectors, alongside experts in archaeology, architecture, urban planning and heritage conservation.\nAccording to the PMD, the council has been entrusted with establishing an integrated decision-making mechanism to ensure that development activities within the Anuradhapura Sacred City are carried out while safeguarding its archaeological, historical, religious and cultural significance.",
+      "word_count": 270,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 22,
+        "Finance": 1,
+        "Tech": 0
+      },
+      "summary": "A Presidential Advisory Council comprising 32 members has been appointed to oversee decision-making related to development programmes within the Anuradhapura Sacred City, while ensuring the protection of its archaeological, historical, religious and cultural heritage. According to the President’s Media Division (PMD), the council has been established to facilitate integrated heritage conservation, management, planning and development within the sacred area.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263716.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Anuradhapura-sacred-city-1.jpg",
+          "alt": "President appoints advisory council to oversee Anuradhapura Sacred City development"
+        },
+        {
+          "src": "images/2026-10-30/263716-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Anuradhapura-sacred-city-1-300x168.jpg",
+          "alt": "President appoints advisory council to oversee Anuradhapura Sacred City development"
+        }
+      ]
+    },
+    {
+      "id": 263712,
+      "title": "Three injured in factory explosion in Padukka",
+      "url": "https://www.newswire.lk/2026/10/30/three-injured-in-factory-explosion-in-padukka/",
+      "published": "2026-10-30T16:16:14+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "explosion",
+        "factory",
+        "PAdukka"
+      ],
+      "text": "Three employees have sustained minor injuries in an explosion at a bandage factory in the Meepe area of Padukka today (30), police said.\nThe injured employees have been admitted to the Homagama Base Hospital for treatment.\nAccording to police, the explosion occurred while workers were attempting to cut and modify a diesel tank using gas equipment.\nThe tank, which had been removed from a fuel filling station and purchased at an auction, was reportedly intended to be used for storing lubricating oil at the factory.\nPolice said the explosion occurred as the workers attempted to modify the tank without removing the fuel remaining inside it.\nTwo male employees sustained injuries in the explosion, while a female employee was hospitalised after a roof tile fell onto her head.\nThe Padukka Police are conducting further investigations into the incident.",
+      "word_count": 137,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Three employees have sustained minor injuries in an explosion at a bandage factory in the Meepe area of Padukka today (30), police said. Police said the explosion occurred as the workers attempted to modify the tank without removing the fuel remaining inside it.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263712.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Padukka-factory-explosion.jpg",
+          "alt": "Three injured in factory explosion in Padukka"
+        },
+        {
+          "src": "images/2026-10-30/263712-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Padukka-factory-explosion-300x195.jpg",
+          "alt": "Three injured in factory explosion in Padukka"
+        }
+      ]
+    },
+    {
+      "id": 263710,
+      "title": "Father sentenced to 54 years in prison for raping underage daughter",
+      "url": "https://www.newswire.lk/2026/10/30/father-sentenced-to-54-years-in-prison-for-raping-underage-daughter/",
+      "published": "2026-10-30T16:11:20+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "child",
+        "Gampaha",
+        "Rape"
+      ],
+      "text": "The Gampaha High Court has sentenced a man to 54 years of rigorous imprisonment after finding him guilty of raping his daughter, who was under the age of 16.\nAccording to Police, the verdict was delivered on Thursday (29), with the accused found guilty on all three charges filed against him.\nThe High Court imposed 18 years of rigorous imprisonment and a fine of Rs. 50,000 for each charge, amounting to a total prison sentence of 54 years and fines of Rs. 150,000.\nThe court also ordered the convicted father to pay Rs. 200,000 in compensation to the victim.\nFailure to pay the fines will result in an additional three years of imprisonment, while failure to pay the compensation will carry a further two-year prison sentence.\nPolice said the case was investigated by the Bureau for the Prevention and Investigation of Abuse of Children and Women, which arrested the suspect and initiated legal proceedings.\nMeanwhile, Police revealed that the victim’s mother’s partner had previously been convicted by the Panadura High Court of raping the same girl and selling her for money.\nIn a verdict delivered on June 24, 2024, the Panadura High Court sentenced the man to 15 years of rigorous imprisonment on each of the two charges.\nHe was also fined Rs. 8,000 and ordered to pay the victim Rs. 500,000 in compensation.\nThe court further imposed additional prison terms in the event of non-payment of the fines and compensation.\nThe details were disclosed in a statement issued by the Police Media Division on Friday (30).",
+      "word_count": 257,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Gampaha High Court has sentenced a man to 54 years of rigorous imprisonment after finding him guilty of raping his daughter, who was under the age of 16. The High Court imposed 18 years of rigorous imprisonment and a fine of Rs. 50,000 for each charge, amounting to a total prison sentence of 54 years and fines of Rs. 150,000.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263710.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/1737712263-Court-oder-l-1.jpg",
+          "alt": "Father sentenced to 54 years in prison for raping underage daughter"
+        }
+      ]
+    },
+    {
+      "id": 263707,
+      "title": "Israeli actress Chelli Goldenberg slams Israel on TV show not realising she’s live",
+      "url": "https://www.newswire.lk/2026/10/30/israeli-actress-chelli-goldenberg-slams-israel-on-tv-show-not-realising-shes-live/",
+      "published": "2026-10-30T15:47:02+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [
+        "Chelli Goldenberg",
+        "Israel"
+      ],
+      "text": "Veteran Israeli actress Chelli Goldenberg was left shocked after making critical remarks about the Israeli-Palestinian conflict and occupation during a live television interview, unaware the cameras were still rolling.\nThe veteran star appeared on Israel’s Channel 13 for an interview intended to focus on her lengthy career and contributions to the cultural sphere.\nHowever, the conversation soon turned into a heated political debate, with Goldenberg openly expressing her disagreement with Is r ael and its occupation of the Palestinian territories.\n“I really want to be able to feel happy about being Israeli again,” Goldenberg said, unaware that the conversation was still being broadcast live.\nThe interviewer then asked: “Has it really reached the point where you’re not happy to be Israeli?”\n“I want to be, but I no longer feel proud to be Israeli,” Goldenberg replied.\nWhen the interviewer warned such comments were “dangerous” to make on air, Goldenberg responded: “I’m not saying it on air. I’m saying it quietly.”\nStill believing the cameras were off, the actress continued to speak candidly about her feelings towards her country.\n“I’m not proud of who we are as a people. It’s a terrible feeling, because I’m from the generation that grew up during that period,” she said.\n“I was born in 1954, and even after 1967 it took ten years to understand the sin of the occupation. It didn’t happen overnight.\n“The occupation brought everything that followed. Everything happening now is a consequence of the occupation.”\nPressed to elaborate on what she believed was happening in Israel, Goldenberg pointed to what she described as “religious coercion, the settlers, Jewish terrorism, arrogance”.\n“A minority has the right to fight for its freedom,” she added.\nOne of the interviewers challenged the remark, responding: “Not if it massacres civilians, our brothers and sisters, and our soldiers.”\nGoldenberg went on to explain her criticism stemmed from a deep love for her country, rather than a lack of patriotism.\n“I am a great patriot. I love this country. It’s like watching your child become something that makes you say, ‘This is not how I raised you’,” she said.\nThe interviewers appeared taken aback by her comments, with one remarking they were “hard to hear” first thing in the morning.\nThe shock of realising her comments were live\nIt was only then Goldenberg appeared to realise what she had believed was a private conversation was being broadcast to viewers.\nVisibly shocked and distressed, she asked: “We were on air during that conversation? That’s not okay.”\nStruggling to process what had happened, Goldenberg continued.\n“I don’t want to, I don’t want to. I don’t know what to do with this now. I’m really in shock. You didn’t tell me we were on the air. I thought we were on a commercial break,” she said.\nLater in the interview, Goldenberg addressed viewers directly and apologised for the way she had expressed herself.\nThe actress explained she had not realised the cameras were still broadcasting and acknowledged she had spoken more harshly than she might otherwise have intended.\n“I’m a very impulsive person, with tremendous passion when I speak,” she said. “I’m all fire and flames. I didn’t know we were on the air.”\nThe actress’ outspoken criticism of Israel and the occupation sparked a strong reaction online. Some users condemned her remarks as “unpatriotic”, while others praised her for “speaking her truth”.\nGoldenberg first rose to fame as a teenager through modelling before landing her breakout role in the 1978 Israeli film Ha-Lahaka (The Troupe). (7 News)",
+      "word_count": 587,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 0,
+        "Tech": 1
+      },
+      "summary": "Veteran Israeli actress Chelli Goldenberg was left shocked after making critical remarks about the Israeli-Palestinian conflict and occupation during a live television interview, unaware the cameras were still rolling. “I really want to be able to feel happy about being Israeli again,” Goldenberg said, unaware that the conversation was still being broadcast live.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263707.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Israel-actress.jpg",
+          "alt": "Israeli actress Chelli Goldenberg slams Israel on TV show not realising she’s live"
+        },
+        {
+          "src": "images/2026-10-30/263707-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Israel-actress-300x188.jpg",
+          "alt": "Israeli actress Chelli Goldenberg slams Israel on TV show not realising she’s live"
+        }
+      ]
+    },
+    {
+      "id": 263704,
+      "title": "No-confidence motion against Speaker will not be debated in Parliament on November 3 – Govt",
+      "url": "https://www.newswire.lk/2026/10/30/no-confidence-motion-against-speaker-will-not-be-debated-in-parliament-on-november-3-govt/",
+      "published": "2026-10-30T14:24:49+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "Bimal Rathnayake",
+        "Jagath Wickramaratne",
+        "No Confidence Motion",
+        "Speaker"
+      ],
+      "text": "Leader of the House, Minister Bimal Rathnayake, says the no-confidence motion submitted by the Opposition against Speaker Jagath Wickramaratne will not be taken up for debate in Parliament on November 3.\nAccording to Minister Rathnayake, the decision follows the Opposition’s failure to amend the motion in accordance with the Standing Orders of Parliament and resubmit it before the October 28 deadline.\nThe no-confidence motion against the Speaker had previously been scheduled for debate on November 3, following a decision taken at a meeting of the Committee on Parliamentary Business.\nHowever, the Minister stated that the debate would not proceed as scheduled due to the failure to submit the revised motion within the stipulated timeframe.\nMinister Rathnayake said an adjournment debate would be held on November 3 instead of the previously scheduled debate on the no-confidence motion.\nHe further stated that if the Opposition submits a revised no-confidence motion against the Speaker in accordance with the Standing Orders of Parliament, the government could allocate time for a debate before the commencement of the debate on the 2027 Appropriation Bill.",
+      "word_count": 178,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 50,
+        "Finance": 2,
+        "Tech": 0
+      },
+      "summary": "Leader of the House, Minister Bimal Rathnayake, says the no-confidence motion submitted by the Opposition against Speaker Jagath Wickramaratne will not be taken up for debate in Parliament on November 3.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263704.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Bimal-Parliament-agenda.jpg",
+          "alt": "No-confidence motion against Speaker will not be debated in Parliament on November 3 – Govt"
+        },
+        {
+          "src": "images/2026-10-30/263704-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Bimal-Parliament-agenda-300x185.jpg",
+          "alt": "No-confidence motion against Speaker will not be debated in Parliament on November 3 – Govt"
+        }
+      ]
+    },
+    {
+      "id": 263701,
+      "title": "‘Harak Kata’ bribery case: Bribery Commission moves to freeze Charith Abeysinghe’s luxury house",
+      "url": "https://www.newswire.lk/2026/10/30/harak-kata-bribery-case-bribery-commission-moves-to-freeze-charith-abeysinghes-luxury-house/",
+      "published": "2026-10-30T13:59:45+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Charith Abeysinghe",
+        "Harak Kata",
+        "Rakitha Rajapaksa"
+      ],
+      "text": "The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has informed the Colombo Chief Magistrate’s Court that steps will be taken to freeze a luxury house belonging to Charith Abeysinghe, the first suspect in the alleged Rs. 120 million bribery case linked to notorious drug trafficker ‘Harak Kata’.\nThe Commission made the disclosure before Colombo Chief Magistrate Asanga S. Bodaragama today (30), when the case was taken up following a motion filed by CIABOC.\nThe Bribery Commission also informed the court that steps had been taken to prohibit transactions involving two vehicles belonging to the wife and father of Waruna Handige Aruna Chathuranga, the third suspect in the case\nMeanwhile, CIABOC confirmed that four bank accounts and several luxury vehicles belonging to Rakitha Rajapakshe, the second suspect and son of former Justice Minister Wijeyadasa Rajapakshe, had been frozen.\nThe Commission informed the court that the asset-freezing measures were being carried out under the Proceeds of Crime Act, No. 5 of 2025.\nCIABOC further stated that the relevant reports would be submitted to the court within 72 hours and requested another date to report progress.\nAfter considering the submissions, the Colombo Chief Magistrate ordered that the case be taken up again on December 8.\nThe investigation concerns allegations that Rs. 120 million was demanded and obtained as a bribe from the wife of alleged organised criminal and drug trafficker Nandun Chinthaka Wickramaratne, alias ‘Harak Kata’, in return for providing assistance to him.\nCharith Abeysinghe, Rakitha Rajapakshe and Waruna Handige Aruna Chathuranga were previously remanded in connection with the investigation and are currently out on bail.",
+      "word_count": 265,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 2,
+        "Finance": 2,
+        "Tech": 0
+      },
+      "summary": "The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has informed the Colombo Chief Magistrate’s Court that steps will be taken to freeze a luxury house belonging to Charith Abeysinghe, the first suspect in the alleged Rs. 120 million bribery case linked to notorious drug trafficker ‘Harak Kata’.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263701.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Charith-Abeysinghe.jpg",
+          "alt": "‘Harak Kata’ bribery case: Bribery Commission moves to freeze Charith Abeysinghe’s luxury house"
+        },
+        {
+          "src": "images/2026-10-30/263701-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Charith-Abeysinghe-300x193.jpg",
+          "alt": "‘Harak Kata’ bribery case: Bribery Commission moves to freeze Charith Abeysinghe’s luxury house"
+        }
+      ]
+    },
+    {
+      "id": 263698,
+      "title": "Wild elephant from Polonnaruwa transferred to Udawalawe for further treatment",
+      "url": "https://www.newswire.lk/2026/10/30/wild-elephant-from-polonnaruwa-transferred-to-udawalawe-for-further-treatment/",
+      "published": "2026-10-30T13:49:48+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Elephant",
+        "Polonnaruwa"
+      ],
+      "text": "A wild elephant from Kusumgama in Gallella, Polonnaruwa, has been safely transferred to the Udawalawe Elephant Transit Home for further medical treatment.\nAccording to the Department of Wildlife Conservation, the elephant was transported to the facility yesterday (29).\nThe Department stated that treatment has commenced under the supervision of wildlife veterinarian Malaka Kasun Abeywardhana, who is in charge of the Udawalawe Elephant Transit Home.\nThe elephant will receive further veterinary care at the facility.",
+      "word_count": 74,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A wild elephant from Kusumgama in Gallella, Polonnaruwa, has been safely transferred to the Udawalawe Elephant Transit Home for further medical treatment. The Department stated that treatment has commenced under the supervision of wildlife veterinarian Malaka Kasun Abeywardhana, who is in charge of the Udawalawe Elephant Transit Home.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263698.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Polonnaruwa-elephant.jpg",
+          "alt": "Wild elephant from Polonnaruwa transferred to Udawalawe for further treatment"
+        },
+        {
+          "src": "images/2026-10-30/263698-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Polonnaruwa-elephant-300x229.jpg",
+          "alt": "Wild elephant from Polonnaruwa transferred to Udawalawe for further treatment"
+        }
+      ]
+    },
+    {
+      "id": 263695,
+      "title": "Anuradhapura Sacred City development: NPPD clarifies fencing and religious construction plans",
+      "url": "https://www.newswire.lk/2026/10/30/anuradhapura-sacred-city-development-nppd-clarifies-fencing-and-religious-construction-plans/",
+      "published": "2026-10-30T13:45:48+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "Anuradhapura",
+        "NPPD",
+        "sacred city"
+      ],
+      "text": "The National Physical Planning Department (NPPD) has rejected allegations surrounding the Anuradhapura Sacred City Development Plan, clarifying that the project does not propose new religious constructions or restrictions on devotees visiting sacred sites.\nNPPD Director General Ruchira Vithana said the gazette notification issued in February 2026 had been misinterpreted, leading to concerns over proposed development activities in the sacred city.\nHe denied claims that the plan includes the construction of new Hindu temples, shrines or flower altars, and assured that devotees would not face restrictions on religious worship.\nAddressing concerns over fencing near the Ruwanweli Maha Seya, Vithana said a protective fence had been constructed approximately 500 metres away from the stupa to safeguard the archaeological site and prevent animals from entering.\nHe added that the department plans to transform the existing fence into an environmentally friendly bio-fence using plants and trees to preserve the natural surroundings.\nAccording to Vithana, development activities in Anuradhapura’s sacred areas have been carried out for decades, with the latest gazette forming part of the continuing development programme.\nHe urged the public to examine the gazette notification before drawing conclusions and invited those seeking clarification to obtain information directly from the department.",
+      "word_count": 197,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The National Physical Planning Department (NPPD) has rejected allegations surrounding the Anuradhapura Sacred City Development Plan, clarifying that the project does not propose new religious constructions or restrictions on devotees visiting sacred sites. NPPD Director General Ruchira Vithana said the gazette notification issued in February 2026 had been misinterpreted, leading to concerns over proposed development activities in the sacred city.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263695.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Anuradhapura-sacred-city.jpg",
+          "alt": "Anuradhapura Sacred City development: NPPD clarifies fencing and religious construction plans"
+        },
+        {
+          "src": "images/2026-10-30/263695-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Anuradhapura-sacred-city-300x168.jpg",
+          "alt": "Anuradhapura Sacred City development: NPPD clarifies fencing and religious construction plans"
+        }
+      ]
+    },
+    {
+      "id": 263692,
+      "title": "CBSL rates: Sri Lankan Rupee steady against USD",
+      "url": "https://www.newswire.lk/2026/10/30/cbsl-rates-sri-lankan-rupee-steady-against-usd-2/",
+      "published": "2026-10-30T13:43:16+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "CBSL",
+        "Dollar",
+        "Rupee"
+      ],
+      "text": "The Sri Lankan Rupee remains steady against the US Dollar today (30), compared to Thursday, with the US Dollar selling rate at Rs. 337.\nAccording to the Central Bank of Sri Lanka, the buying rate of the US Dollar has increased slightly from Rs. 328.02 to Rs. 328.04.\nThe selling rate of the US Dollar has also increased slightly from Rs. 337.13 to Rs. 337.14.\nThe rupee has changed slightly against a basket of currencies, including Gulf currencies.",
+      "word_count": 78,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 41,
+        "Tech": 0
+      },
+      "summary": "The Sri Lankan Rupee remains steady against the US Dollar today (30), compared to Thursday, with the US Dollar selling rate at Rs. 337. According to the Central Bank of Sri Lanka, the buying rate of the US Dollar has increased slightly from Rs. 328.02 to Rs. 328.04.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263692.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2021/11/dollar-currency.jpg",
+          "alt": "CBSL rates: Sri Lankan Rupee steady against USD"
+        },
+        {
+          "src": "images/2026-10-30/263692-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/CBSL-rates-16-214x300.jpg",
+          "alt": "CBSL rates: Sri Lankan Rupee steady against USD"
+        }
+      ]
+    },
+    {
+      "id": 263690,
+      "title": "Yoshitha Rajapaksa’s money laundering case postponed to November 12",
+      "url": "https://www.newswire.lk/2026/10/30/yoshitha-rajapaksas-money-laundering-case-postponed-to-november-12/",
+      "published": "2026-10-30T13:32:53+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Yoshitha Rajapaksa"
+      ],
+      "text": "The Colombo High Court has postponed the further examination of evidence in the money laundering case filed against Yoshitha Rajapaksa until November 12.\nThe case was taken up before Colombo High Court Judge Udesh Ranatunga today (30), during which evidence was recorded.\nFollowing today’s proceedings, the court ordered that the further examination of evidence be taken up on November 12.\nThe Attorney General filed the case against Yoshitha Rajapaksa under the Prevention of Money Laundering Act over allegations that he spent more than Rs. 73 million to purchase five plots of land in the Dehiwala and Ratmalana areas.\nThe prosecution alleges that the transactions constitute an offence under the Prevention of Money Laundering Act.",
+      "word_count": 114,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 15,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Colombo High Court has postponed the further examination of evidence in the money laundering case filed against Yoshitha Rajapaksa until November 12. The Attorney General filed the case against Yoshitha Rajapaksa under the Prevention of Money Laundering Act over allegations that he spent more than Rs. 73 million to purchase five plots of land in the Dehiwala and Ratmalana areas.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263690.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/06/Yoshitha-new.jpg",
+          "alt": "Yoshitha Rajapaksa’s money laundering case postponed to November 12"
+        }
+      ]
+    },
+    {
+      "id": 263687,
+      "title": "Police reveal new details in Homagama custodial death investigation",
+      "url": "https://www.newswire.lk/2026/10/30/police-reveal-new-details-in-homagama-custodial-death-investigation/",
+      "published": "2026-10-30T13:20:41+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Homagama",
+        "Police death"
+      ],
+      "text": "Sri Lanka Police have provided an update on investigations into the death of a suspect while in the custody of the Homagama Police, revealing that statements have been recorded from 17 individuals so far.\nAccording to the Police Media Division, statements have been obtained from eight civilians and nine police officers as part of the ongoing investigation conducted by the Western Province South District Crime Division on the instructions of the Inspector General of Police.\nPolice said investigators also visited a prison on October 29 to record a statement from another suspect who had been arrested alongside the deceased on October 24. The statement was obtained following a court order.\nMeanwhile, a former Sub-Inspector who served as the Officer-in-Charge of the Crimes Division of the Homagama Police Station, arrested on October 28 in connection with the incident, was produced before the Homagama Magistrate’s Court yesterday (29).\nHe was subsequently remanded until November 12 for an identification parade.\nPolice further revealed that investigations had established that the deceased suspect was admitted to Homagama Hospital at 1.05 p.m. on October 24 for treatment following a road accident.\nHowever, hospital records indicate that he had left the hospital without authorization at 5.55 p.m. on the same day.\nInvestigators have taken steps to report these findings to the court.\nThe suspect, who was arrested by Homagama Police on October 25, subsequently died after being hospitalized.\nPolice said a comprehensive investigation into the circumstances surrounding his death remains underway.",
+      "word_count": 244,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka Police have provided an update on investigations into the death of a suspect while in the custody of the Homagama Police, revealing that statements have been recorded from 17 individuals so far.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263687.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Homagama-custodial-death.jpg",
+          "alt": "Police reveal new details in Homagama custodial death investigation"
+        }
+      ]
+    },
+    {
+      "id": 263685,
+      "title": "Bribery Commission challenges bail granted to Rakitha Rajapakshe in ‘Harak Kata’ case",
+      "url": "https://www.newswire.lk/2026/10/30/bribery-commission-challenges-bail-granted-to-rakitha-rajapakshe-in-harak-kata-case/",
+      "published": "2026-10-30T12:32:38+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Rakitha Rajapaksa"
+      ],
+      "text": "The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has filed a revision petition before the Colombo High Court, seeking to overturn the Colombo Magistrate’s Court’s decision to grant bail to three suspects, including Rakitha Rajapakshe, in connection with an alleged bribery case involving the wife of notorious drug trafficker Nandun Chinthaka Wickramaratne, alias ‘Harak Kata’.\nThe petition is scheduled to be considered by the Colombo High Court today (30).\nThe three suspects, Rakitha Rajapakshe, Charitha Abeysinghe and Waruna Handige Aruna Chathuranga, had previously been remanded over allegations of accepting a bribe from Harak Kata’s wife before being granted bail by the Colombo Magistrate’s Court.\nRakitha Rajapakshe is the son of former Justice Minister Wijeyadasa Rajapakshe.\nAccording to the Bribery Commission, the allegations relate to a sum of Rs. 120 million allegedly demanded and obtained from the wife of the suspected organised criminal to facilitate assistance.",
+      "word_count": 147,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 2,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has filed a revision petition before the Colombo High Court, seeking to overturn the Colombo Magistrate’s Court’s decision to grant bail to three suspects, including Rakitha Rajapakshe, in connection with an alleged bribery case involving the wife of notorious drug trafficker Nandun Chinthaka Wickramaratne, alias ‘Harak Kata’.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263685.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/06/Rakitha-Rajapakshe-Charith-Abeysinghe.jpg",
+          "alt": "Bribery Commission challenges bail granted to Rakitha Rajapakshe in ‘Harak Kata’ case"
+        }
+      ]
+    },
+    {
+      "id": 263682,
+      "title": "Saudi-led coalition says it downed Houthi drone in Mecca region",
+      "url": "https://www.newswire.lk/2026/10/30/saudi-led-coalition-says-it-downed-houthi-drone-in-mecca-region/",
+      "published": "2026-10-30T12:13:21+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [
+        "Houthis",
+        "Mecca",
+        "Saudi"
+      ],
+      "text": "The Saudi-led coalition in Yemen announced on Friday that it intercepted and destroyed a Houthi drone launched toward Saudi Arabia’s Mecca region.\n“A drone launched by the Houthi terrorist militia was intercepted and destroyed in the Makkah region,” coalition spokesman Turki al-Maliki wrote on X.\nEarlier Friday, al-Maliki said the coalition’s air defenses intercepted and destroyed a Houthi cruise missile that targeted western Saudi Arabia.\nThe incident comes amid escalating hostilities between the Saudi-led coalition and the Houthis, with both sides reporting military operations and attacks in recent days.\nThe Houthis also announced Thursday that they carried out six attacks against targets in Saudi Arabia, including oil facilities and airports.\nThe Saudi-led coalition has been involved in Yemen’s conflict since March 2015, supporting the internationally recognized government against the Houthis, who seized the capital Sanaa in September 2014. (Anadolu Agency)",
+      "word_count": 140,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 1,
+        "Finance": 0,
+        "Tech": 15
+      },
+      "summary": "The Saudi-led coalition in Yemen announced on Friday that it intercepted and destroyed a Houthi drone launched toward Saudi Arabia’s Mecca region. “A drone launched by the Houthi terrorist militia was intercepted and destroyed in the Makkah region,” coalition spokesman Turki al-Maliki wrote on X.\nEarlier Friday, al-Maliki said the coalition’s air defenses intercepted and destroyed a Houthi cruise missile that targeted western Saudi Arabia.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263682.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Saudi-Mecca.jpg",
+          "alt": "Saudi-led coalition says it downed Houthi drone in Mecca region"
+        },
+        {
+          "src": "images/2026-10-30/263682-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Saudi-Mecca-300x189.jpg",
+          "alt": "Saudi-led coalition says it downed Houthi drone in Mecca region"
+        }
+      ]
+    },
+    {
+      "id": 263679,
+      "title": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority",
+      "url": "https://www.newswire.lk/2026/10/30/netanyahu-bloc-finishes-ahead-in-israel-vote-but-well-short-of-majority/",
+      "published": "2026-10-30T12:00:12+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [
+        "Israel",
+        "Netanyahu"
+      ],
+      "text": "Prime Minister Benjamin Netanyahu’s camp finished ahead of the opposition but remained well short of a majority, final results from Israel’s general election showed on Friday (Oct 30), setting the stage for tough coalition talks or potentially another vote.\nNetanyahu’s coalition of right-wing and far-right parties won 53 of the Knesset’s 120 seats, with his Likud party remaining the largest faction with 27 seats.\nThe opposition bloc, led by centrist Gadi Eisenkot, secured 48 seats.\nThe results from the Central Elections Committee also cemented the emergence as potential kingmakers of the Arab party groupings Raam and the Joint List, with the two winning a combined 19 seats.\nThe fragmented outcome sets the stage for difficult negotiations to form a government that could last weeks, with no single bloc able to reach the 61-seat threshold needed and the prospect of another election remaining if talks fail.\nThe final tally came after Netanyahu’s camp spent Thursday amplifying unproven allegations that Arab-Israeli groups received foreign funding to influence the vote, accusations rejected by both Arab-majority lists and Qatar.\nIsrael’s Shin Bet domestic security service said it was investigating suspected irregularities, but stressed the probe was not intended to “cast aspersions or place blame on an entire sector that went out to vote in a democratic and lawful manner”.\nThe electoral commission also sought to calm tensions, with its acting director general Dean Livne saying any suggestion of widespread issues was “entirely groundless”.\nPOLITICAL EARTHQUAKE\nThe controversy centred on allegations that Raam received money from Qatar, the energy-rich Gulf powerbroker that has channels to Hamas, to finance vote-buying operations.\n“The Raamgate scandal is a political earthquake. Israel’s elections have been stolen!” Netanyahu’s Likud party said on Thursday.\nRaam leader Mansour Abbas denied any wrongdoing and welcomed an investigation, while the Joint List accused Netanyahu and his allies of conducting a “campaign of incitement” out of fear of Arab voters’ growing political influence.\nGovernment officials have so far provided no evidence to back the allegations.\nOpposition figures accused Netanyahu of attempting to undermine confidence in the results after failing to secure a governing majority.\n“He is trying to challenge the election results,” left-wing candidate Yair Golan said.\nEisenkot said he was briefed by the Shin Bet and the election committee, adding it was “too early to understand what happened, and whether anything happened at all”.\nBut he continued: “It’s already clear that Likud and Netanyahu have embarked on a coordinated, organised campaign seeking to delegitimise the results of the election.”\nNetanyahu himself has long been under the cloud of allegations related to Qatar after the arrests last year of two of his aides for allegedly receiving payments from the Gulf state.\nQatar called the latest accusations “ridiculous and dangerous”.\nNetanyahu, Israel’s longest-serving prime minister, for years tacitly supported Qatar funding Hamas in Gaza, hoping to preserve stability, but that approach collapsed on Oct 7, 2023. (CNA/AFP)",
+      "word_count": 481,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 62,
+        "Finance": 3,
+        "Tech": 0
+      },
+      "summary": "Prime Minister Benjamin Netanyahu’s camp finished ahead of the opposition but remained well short of a majority, final results from Israel’s general election showed on Friday (Oct 30), setting the stage for tough coalition talks or potentially another vote.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263679.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Israel-Netanyahu.jpg",
+          "alt": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority"
+        },
+        {
+          "src": "images/2026-10-30/263679-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Israel-Netanyahu-300x194.jpg",
+          "alt": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority"
+        }
+      ]
+    },
+    {
+      "id": 263676,
+      "title": "Minister denies Aswesuma benefits being cut for 1.4 million people",
+      "url": "https://www.newswire.lk/2026/10/30/minister-denies-aswesuma-benefits-being-cut-for-1-4-million-people/",
+      "published": "2026-10-30T11:48:21+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "Aswesuma",
+        "Upali Pannilage"
+      ],
+      "text": "Minister of Rural Development, Social Security and Community Empowerment Upali Pannilage has dismissed media reports claiming that Aswesuma benefits provided to nearly 1.4 million people have been suspended.\nThe Minister clarified that only 1,206,000 individuals currently receive Aswesuma benefits, making claims that benefits provided to 1.4 million people have been discontinued factually incorrect.\nSpeaking at an awareness programme for Samurdhi officers in Anuradhapura yesterday (29), Minister Pannilage said the ongoing review of Aswesuma beneficiaries has not resulted in a reduction in the number of recipients.\nHe explained that the list of 991,000 beneficiaries selected under the first phase of the review has already been published. As approximately 989,000 individuals currently receive benefits under this phase, the revised list indicates an increase of around 2,000 beneficiaries.\nMeanwhile, approximately 215,000 beneficiaries are covered under the second phase, which is scheduled to be reviewed next year.\nThe Minister assured that benefits would continue without changes to the existing number of recipients under the second phase until the review is completed.\nHe further revealed that approximately 740,000 additional beneficiaries under the first phase are yet to be reviewed.\nAccording to Minister Pannilage, the overall number of Aswesuma beneficiaries could increase rather than decrease following the completion of the review process.\nThe Minister urged the public not to be misled by what he described as false and misleading reports regarding the suspension of Aswesuma benefits.\nThe remarks were made during an awareness programme on the Department of Samurdhi Development’s national initiative, “New Strength for Community Empowerment”, attended by Samurdhi officers from Anuradhapura, Polonnaruwa, Trincomalee, Vavuniya and Mullaitivu districts.",
+      "word_count": 263,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 12,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Minister of Rural Development, Social Security and Community Empowerment Upali Pannilage has dismissed media reports claiming that Aswesuma benefits provided to nearly 1.4 million people have been suspended. The Minister clarified that only 1,206,000 individuals currently receive Aswesuma benefits, making claims that benefits provided to 1.4 million people have been discontinued factually incorrect.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263676.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/aswesuma.jpg",
+          "alt": "Minister denies Aswesuma benefits being cut for 1.4 million people"
+        },
+        {
+          "src": "images/2026-10-30/263676-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/aswesuma-300x207.jpg",
+          "alt": "Minister denies Aswesuma benefits being cut for 1.4 million people"
+        }
+      ]
+    },
+    {
+      "id": 263673,
+      "title": "Three Kobeigane Police officers suspended over death of suspect in custody",
+      "url": "https://www.newswire.lk/2026/10/30/three-kobeigane-police-officers-suspended-over-death-of-suspect-in-custody/",
+      "published": "2026-10-30T11:08:48+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Kobeigane Police"
+      ],
+      "text": "Three police officers attached to the Kobeigane Police Station have been suspended from duty in connection with the death of a suspect who was in police custody.\nThe suspended officers include two police sergeants and a constable.\nThe Police Media Division confirmed that the officers were suspended over allegations of negligence of duty.\nThe suspensions follow the death of a suspect at the Nikaweratiya Hospital on October 27, after being hospitalised while in police custody.\nAccording to reports, the suspect, who was allegedly involved in several thefts, had been apprehended by villagers in the Beddegama area of Kobeigane and handed over to the Kobeigane Police.\nThe suspect subsequently died after being admitted to the Nikaweratiya Hospital.\nProviding an update on the incident, Police Spokesman ASP F.U. Wootler said that four villagers had been arrested in connection with assaulting the suspect during his capture.\nHe further said that an investigation is underway into the circumstances surrounding the suspect’s death.",
+      "word_count": 158,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Three police officers attached to the Kobeigane Police Station have been suspended from duty in connection with the death of a suspect who was in police custody. The suspensions follow the death of a suspect at the Nikaweratiya Hospital on October 27, after being hospitalised while in police custody.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263673.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Kobeigane-Police-1.jpg",
+          "alt": "Three Kobeigane Police officers suspended over death of suspect in custody"
+        },
+        {
+          "src": "images/2026-10-30/263673-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Kobeigane-Police-1-300x180.jpg",
+          "alt": "Three Kobeigane Police officers suspended over death of suspect in custody"
+        }
+      ]
+    },
+    {
+      "id": 263670,
+      "title": "Air quality reaches unhealthy levels in several areas of Sri Lanka",
+      "url": "https://www.newswire.lk/2026/10/30/air-quality-reaches-unhealthy-levels-in-several-areas-of-sri-lanka/",
+      "published": "2026-10-30T11:05:36+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "air quality"
+      ],
+      "text": "Air quality levels in several parts of Sri Lanka have reached unhealthy levels for sensitive groups, according to real-time air quality data published by IQAir as of 10.30 a.m. today (30).\nJaffna recorded the highest air pollution level in the country, with a US Air Quality Index (AQI) reading of 142, followed by Puttalam at 119 and Anuradhapura at 115.\nMeanwhile, Colombo recorded an AQI reading of 102, placing it fourth among the most polluted cities in Sri Lanka.\nAccording to the US AQI classification, readings between 101 and 150 are considered unhealthy for sensitive groups, including children, older adults and individuals with respiratory or heart conditions.\nThe air quality map also indicated elevated pollution levels across several other parts of the country.\nAir quality levels may fluctuate throughout the day depending on weather conditions, wind patterns and pollution levels.",
+      "word_count": 140,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Air quality levels in several parts of Sri Lanka have reached unhealthy levels for sensitive groups, according to real-time air quality data published by IQAir as of 10.30 a.m. today (30). The air quality map also indicated elevated pollution levels across several other parts of the country.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263670.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/air-quality-SL.jpg",
+          "alt": "Air quality reaches unhealthy levels in several areas of Sri Lanka"
+        },
+        {
+          "src": "images/2026-10-30/263670-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/air-quality-SL-300x193.jpg",
+          "alt": "Air quality reaches unhealthy levels in several areas of Sri Lanka"
+        }
+      ]
+    },
+    {
+      "id": 263668,
+      "title": "Dollar Rate today: Sri Lankan Rupee steady against USD",
+      "url": "https://www.newswire.lk/2026/10/30/dollar-rate-today-sri-lankan-rupee-steady-against-usd-5/",
+      "published": "2026-10-30T10:46:21+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "bank",
+        "Dollar",
+        "Rupee"
+      ],
+      "text": "The Sri Lankan Rupee remains steady against the US Dollar across commercial banks in Sri Lanka today (30), compared to Thursday, with the selling rate at Rs. 336 in most banks.\nAccording to Seylan Bank, the buying rate of the US Dollar remains unchanged at Rs. 328.25, while the selling rate is also unchanged at Rs. 337.50.\nAt NDB Bank, the buying rate remains unchanged at Rs. 328.00, while the selling rate is also unchanged at Rs. 337.00.\nPeople’s Bank reports that the buying rate has increased from Rs. 328.45 to Rs. 328.55, while the selling rate has also increased from Rs. 336.59 to Rs. 336.70.\nAt Commercial Bank, the buying rate remains unchanged at Rs. 326.58, while the selling rate is also unchanged at Rs. 336.50.\nAt Sampath Bank, the buying and selling rates of the US Dollar remain unchanged at Rs. 328.50 and Rs. 336.50, respectively.",
+      "word_count": 148,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 40,
+        "Tech": 0
+      },
+      "summary": "The Sri Lankan Rupee remains steady against the US Dollar across commercial banks in Sri Lanka today (30), compared to Thursday, with the selling rate at Rs. 336 in most banks. According to Seylan Bank, the buying rate of the US Dollar remains unchanged at Rs. 328.25, while the selling rate is also unchanged at Rs. 337.50.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263668.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Dollar-1.jpg",
+          "alt": "Dollar Rate today: Sri Lankan Rupee steady against USD"
+        }
+      ]
+    },
+    {
+      "id": 263665,
+      "title": "Court releases former LTTE member deported from India",
+      "url": "https://www.newswire.lk/2026/10/30/court-releases-former-ltte-member-deported-from-india/",
+      "published": "2026-10-30T10:36:25+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "deport",
+        "India",
+        "LTTE"
+      ],
+      "text": "A former member of the Liberation Tigers of Tamil Eelam (LTTE), who was arrested upon his arrival in Sri Lanka after being deported from India, has been released by the Mallakam Magistrate’s Court.\nAccording to the Police Media Division, the suspect was produced before the Mallakam Magistrate’s Court yesterday (29), following 72 hours of detention and questioning by the Terrorism Investigation Division (TID).\nThe case is scheduled to be taken up again on November 12, 2026.\nThe 50-year-old suspect, a resident of Masiyapiddy in Sandilipay, Jaffna, was arrested by TID officers at the Bandaranaike International Airport (BIA) in Katunayake on the night of October 26.\nPolice said the suspect had previously been arrested by Indian security forces in 2015 in connection with attempts to reorganise the LTTE.\nHe was subsequently found guilty by an Indian court and sentenced to 10 years in prison.\nFollowing the completion of his prison sentence, he was deported to Sri Lanka, where he was arrested upon arrival and detained under a 72-hour detention order for further investigations.",
+      "word_count": 172,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A former member of the Liberation Tigers of Tamil Eelam (LTTE), who was arrested upon his arrival in Sri Lanka after being deported from India, has been released by the Mallakam Magistrate’s Court. According to the Police Media Division, the suspect was produced before the Mallakam Magistrate’s Court yesterday (29), following 72 hours of detention and questioning by the Terrorism Investigation Division (TID).",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263665.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/BIA_-arrest.jpg",
+          "alt": "Court releases former LTTE member deported from India"
+        },
+        {
+          "src": "images/2026-10-30/263665-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/BIA_-arrest-300x168.jpg",
+          "alt": "Court releases former LTTE member deported from India"
+        }
+      ]
+    },
+    {
+      "id": 263662,
+      "title": "Sajith urges Sri Lankan government to prioritise renewable energy, citing Thailand’s solar initiative",
+      "url": "https://www.newswire.lk/2026/10/30/sajith-urges-sri-lankan-government-to-prioritise-renewable-energy-citing-thailands-solar-initiative/",
+      "published": "2026-10-30T10:32:54+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Sajith Premadasa",
+        "solar",
+        "Thailand"
+      ],
+      "text": "Opposition Leader Sajith Premadasa has urged the Sri Lankan government to prioritise renewable energy and end its reliance on thermal and diesel power generation, citing Thailand’s latest rooftop solar initiative as an example.\nIn a post on ‘X’, Premadasa commended the Thai government for introducing a subsidy scheme to encourage households to adopt solar energy, while criticising Sri Lanka’s continued dependence on non-renewable energy sources.\n“Way to go forward… Well done, Thai government,” he stated.\nAddressing the Sri Lankan government, Premadasa called for an end to what he described as the influence of the “thermal power mafia” and the continued promotion of diesel power generation.\n“Stop flirting with the thermal power mafia. Stop encouraging diesel power generation and other non-renewables. Cease the continuous nourishment of non-renewable monopolies and oligarchs,” he said.\nHe further urged the government not to be influenced by financial incentives offered by those benefiting from non-renewable energy generation.\n“Renewables are the way forward. Time to walk the talk and implement the people’s mandate,” Premadasa added.\nHis remarks came in response to reports that Thailand has launched a 50-billion-baht ‘Rooftop Solar for the Public’ scheme, offering a subsidy of 50,000 baht per household to promote clean energy and reduce electricity bills.\nThe Thai government has reportedly approved funding to support up to one million households with solar equipment and installation costs.\nAccording to Thai authorities, online registrations for the programme opened earlier this week, attracting more than 50,000 applications on the first day.\nThe scheme covers residential rooftop solar systems with capacities ranging from 5 to 10 kilowatts, subject to eligibility requirements and installation conditions.\nPremadasa’s comments highlight his call for Sri Lanka to accelerate its transition towards renewable energy and reduce dependence on fossil fuel-based electricity generation.",
+      "word_count": 290,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 30,
+        "Finance": 2,
+        "Tech": 1
+      },
+      "summary": "Opposition Leader Sajith Premadasa has urged the Sri Lankan government to prioritise renewable energy and end its reliance on thermal and diesel power generation, citing Thailand’s latest rooftop solar initiative as an example. In a post on ‘X’, Premadasa commended the Thai government for introducing a subsidy scheme to encourage households to adopt solar energy, while criticising Sri Lanka’s continued dependence on non-renewable energy sources.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263662.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Sajith-Solar-Thailand.jpg",
+          "alt": "Sajith urges Sri Lankan government to prioritise renewable energy, citing Thailand’s solar initiative"
+        },
+        {
+          "src": "images/2026-10-30/263662-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Sajith-Solar-Thailand-300x200.jpg",
+          "alt": "Sajith urges Sri Lankan government to prioritise renewable energy, citing Thailand’s solar initiative"
+        }
+      ]
+    },
+    {
+      "id": 263659,
+      "title": "Sri Lanka lost equivalent of over 120,000 jobs due to rising heat stress in 2023: ILO",
+      "url": "https://www.newswire.lk/2026/10/30/sri-lanka-lost-equivalent-of-over-120000-jobs-due-to-rising-heat-stress-in-2023-ilo/",
+      "published": "2026-10-30T10:01:23+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "heat",
+        "ILO",
+        "jobs"
+      ],
+      "text": "Sri Lanka lost the equivalent of over 120,000 full-time jobs due to rising workplace heat stress in 2023, compared to the average year during the historical period from 1985 to 2014, according to a report by the International Labour Organization (ILO).\nThe report, titled Impacts of heat stress on jobs and productivity in Sri Lanka, revealed that rising temperatures also resulted in an estimated additional economic loss of US$ 6.5 billion in 2023, compared to the historical baseline.\nAccording to the ILO, the estimated job losses were calculated based on working hours lost due to heat stress, with agriculture accounting for the largest share at 48%, followed by services at 22%, manufacturing at 13%, construction at 11%, and transport and trade at 6%.\nThe report further revealed that 35% of the estimated job losses occurred during the second quarter of the year, when Sri Lanka experiences some of its most intense heat conditions.\nThe ILO noted that Sri Lanka’s average temperature has increased by approximately 1°C since the 1960s, while rainfall patterns have become increasingly unpredictable.\nClimate data covering the past three decades also indicate an accelerating warming trend, with extreme temperature events becoming more frequent and intense.\nThe report warned that the impact of rising heat stress on employment and productivity could worsen significantly in the coming decades.\nBy 2040, Sri Lanka could lose the equivalent of between 145,000 and 221,000 full-time jobs annually due to rising heat stress, depending on global greenhouse gas emissions.\nBy 2060, the estimated annual losses could increase to between 158,000 and 349,000 full-time equivalent jobs, with the highest-emissions scenario potentially reducing the country’s annual economic output by 15.2%, relative to the historical baseline.\nThe ILO highlighted that agriculture and construction workers are particularly vulnerable due to prolonged exposure to high temperatures and physically demanding working conditions.\nIt recommended introducing regulated work-rest schedules, adequate hydration facilities, improved workplace ventilation, cooling measures and adjustments to working hours to protect workers and minimise productivity losses.\nThe report stressed the importance of implementing climate adaptation measures to safeguard Sri Lanka’s workforce and strengthen the country’s economic resilience against rising temperatures.\nFull report : https://www.ilo.org/sites/default/files/2026-10/SriLanka_Factsheet.pdf",
+      "word_count": 357,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 8,
+        "Tech": 0
+      },
+      "summary": "Sri Lanka lost the equivalent of over 120,000 full-time jobs due to rising workplace heat stress in 2023, compared to the average year during the historical period from 1985 to 2014, according to a report by the International Labour Organization (ILO).",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263659.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Heat-jobs-ILO.jpg",
+          "alt": "Sri Lanka lost equivalent of over 120,000 jobs due to rising heat stress in 2023: ILO"
+        },
+        {
+          "src": "images/2026-10-30/263659-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Heat-jobs-ILO-300x200.jpg",
+          "alt": "Sri Lanka lost equivalent of over 120,000 jobs due to rising heat stress in 2023: ILO"
+        }
+      ]
+    },
+    {
+      "id": 263656,
+      "title": "Binance crypto platform suspends trades amid suspected hack",
+      "url": "https://www.newswire.lk/2026/10/30/binance-crypto-platform-suspends-trades-amid-suspected-hack/",
+      "published": "2026-10-30T09:41:01+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [
+        "Binance"
+      ],
+      "text": "The world’s largest cryptocurrency platform, Binance, confirmed on Thursday that it was investigating a potential security breach.\n“It does look like a hack on Binance,” said former company chief Changpeng Zhao, who remains a major shareholder.\nSome $3 billion (€2.7 billion) had been frozen in response to the suspected hack.\n“Rest assured that user funds are completely safe,” a company spokesperson said.\n“Binance will cover all hacking losses,” co-founder Yi He said, without providing more details about the incident.\nBinance ‘reviewing’ possible hack\nThe extent of the possible security breach was not immediately disclosed. Binance did not say whether any cryptocurrency funds had been stolen.\n“Our security teams are reviewing all relevant information with urgency, and we will provide updates through official Binance channels as soon as we have verified information,” the company statement said.\nThe company, which is the world’s largest platform in terms of daily crypto trading volume, suspended trading on certain products while the freezing came from cryptocurrency companies using the platform.\nTether froze around $1.6 billion in its USDT currency, according to CEO Paolo Ardoino, and Circle froze some $800 million-worth of USDC, boss Jeremy Allaire said.\nWho is Binance ex-CEO Zhao?\nThe news of the possible hack sent Bitcoin’s value tumbling by 3.2% on Thursday evening, dropping below $79,000.\nZhao, who founded the Binance platform in 2017, said “as a shareholder, I expect all user funds will be fully covered.”\nHe stepped down as CEO after pleading guilty in 2023. to failing to prevent money laundering on his platform. US President Donald Trump pardoned him in 2025.\nZhao and Binance have been key supporters of cryptocurrency ventures by US President Donald Trump and his family. (DW)",
+      "word_count": 281,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 6,
+        "Finance": 3,
+        "Tech": 27
+      },
+      "summary": "The world’s largest cryptocurrency platform, Binance, confirmed on Thursday that it was investigating a potential security breach. “It does look like a hack on Binance,” said former company chief Changpeng Zhao, who remains a major shareholder.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263656.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Binance-1.jpg",
+          "alt": "Binance crypto platform suspends trades amid suspected hack"
+        },
+        {
+          "src": "images/2026-10-30/263656-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Binance-1-300x181.jpg",
+          "alt": "Binance crypto platform suspends trades amid suspected hack"
+        }
+      ]
+    },
+    {
+      "id": 263654,
+      "title": "Price of 450-gram loaf of bread increased by Rs. 5",
+      "url": "https://www.newswire.lk/2026/10/30/price-of-450-gram-loaf-of-bread-increased-by-rs-5/",
+      "published": "2026-10-30T09:36:18+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [
+        "bread"
+      ],
+      "text": "The price of a 450-gram loaf of bread will be increased by Rs. 5 with effect from midnight today (30), the All Ceylon Bakery Owners’ Association announced.\nThe Association said the prices of other bakery products will also be increased by Rs. 5.\nThe revised prices will come into effect from midnight on Friday, October 30.",
+      "word_count": 56,
+      "is_lead": true,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 6,
+        "Tech": 0
+      },
+      "summary": "The price of a 450-gram loaf of bread will be increased by Rs. 5 with effect from midnight today (30), the All Ceylon Bakery Owners’ Association announced. The Association said the prices of other bakery products will also be increased by Rs. 5.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263654.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2021/11/bread.jpg",
+          "alt": "Price of 450-gram loaf of bread increased by Rs. 5"
+        }
+      ]
+    },
+    {
+      "id": 263651,
+      "title": "Two arrested over dog beaten to death at Katana pet boarding facility",
+      "url": "https://www.newswire.lk/2026/10/30/two-arrested-over-dog-beaten-to-death-at-katana-pet-boarding-facility/",
+      "published": "2026-10-30T09:27:22+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Arrest",
+        "dog death",
+        "Katana"
+      ],
+      "text": "Two suspects, including the owner of a pet boarding facility in Katana, have been arrested in connection with the death of a dog that was allegedly beaten to death at the facility on October 8.\nThe Katana Police arrested the two suspects on October 27 following an investigation launched after receiving a complaint about the incident.\nThe other suspect, who had been dismissed from the pet care facility in connection with the incident, had returned to his home in Tangalle, police said.\nFollowing a request by police for the facility’s owner to appear at the police station, both suspects subsequently appeared before the Katana Police through a lawyer.\nThey were taken into custody and produced before the Katana Magistrate’s Court on October 28.\nThe court ordered the release of both suspects on two personal bail bonds of Rs. 200,000 each and scheduled a further date for the case.",
+      "word_count": 148,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 2,
+        "Tech": 0
+      },
+      "summary": "Two suspects, including the owner of a pet boarding facility in Katana, have been arrested in connection with the death of a dog that was allegedly beaten to death at the facility on October 8. The Katana Police arrested the two suspects on October 27 following an investigation launched after receiving a complaint about the incident.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263651.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Katana-dog-death.jpg",
+          "alt": "Two arrested over dog beaten to death at Katana pet boarding facility"
+        },
+        {
+          "src": "images/2026-10-30/263651-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Katana-dog-death-300x182.jpg",
+          "alt": "Two arrested over dog beaten to death at Katana pet boarding facility"
+        }
+      ]
+    },
+    {
+      "id": 263649,
+      "title": "Consumer Affairs Authority takes legal action against Laugfs Gas over supply disruptions",
+      "url": "https://www.newswire.lk/2026/10/30/consumer-affairs-authority-takes-legal-action-against-laugfs-gas-over-supply-disruptions/",
+      "published": "2026-10-30T09:23:07+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "CAA",
+        "Laugfs gas"
+      ],
+      "text": "The Consumer Affairs Authority (CAA) has filed legal action against Laugfs Gas over its failure to maintain a continuous supply of gas to consumers.\nThe action follows complaints received by the authority regarding irregularities in the company’s gas distribution.\nThe CAA filed a case against the company before the Colombo Chief Magistrate’s Court today.\nThe court has also taken steps to issue summons to the company.\nThe case is scheduled to be taken up again on the 11th.",
+      "word_count": 78,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 3,
+        "Tech": 0
+      },
+      "summary": "The Consumer Affairs Authority (CAA) has filed legal action against Laugfs Gas over its failure to maintain a continuous supply of gas to consumers. The action follows complaints received by the authority regarding irregularities in the company’s gas distribution.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263649.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/02/Laugfs-gas-cylingers.jpg",
+          "alt": "Consumer Affairs Authority takes legal action against Laugfs Gas over supply disruptions"
+        }
+      ]
+    },
+    {
+      "id": 263646,
+      "title": "India approves INR 18.56 billion scheme to boost sports goods manufacturing",
+      "url": "https://www.newswire.lk/2026/10/30/india-approves-inr-18-56-billion-scheme-to-boost-sports-goods-manufacturing/",
+      "published": "2026-10-30T09:20:21+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [
+        "Cabinet",
+        "India",
+        "sports goods"
+      ],
+      "text": "India’s Cabinet has approved an Indian Rs. 18.56 billion (approximately $195 million ) scheme to strengthen the country’s sports goods manufacturing industry and expand its presence in international markets.\nThe Khelo India Sports Goods Manufacturing Scheme will be implemented from 2026 to 2033-34, with a focus on attracting investment, promoting innovation, improving product quality and increasing exports, according to an announcement by India’s Press Information Bureau.\nThe scheme will support the establishment of dedicated sports goods manufacturing zones, encourage domestic and international manufacturers to set up production facilities, and strengthen existing manufacturing clusters, particularly those involving micro, small and medium enterprises (MSMEs).\nA combined allocation of Indian Rs. 11.3 billion has been earmarked for investment and production-linked incentives, while Indian Rs. 1.05 billion will support manufacturers in obtaining and renewing international sports federation certifications.\nThe programme will also promote research and development, advanced manufacturing technologies, start-ups and industry-linked skills training.",
+      "word_count": 150,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 10,
+        "Tech": 5
+      },
+      "summary": "India’s Cabinet has approved an Indian Rs. 18.56 billion (approximately $195 million ) scheme to strengthen the country’s sports goods manufacturing industry and expand its presence in international markets.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263646.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/India-sports-goods.jpg",
+          "alt": "India approves INR 18.56 billion scheme to boost sports goods manufacturing"
+        },
+        {
+          "src": "images/2026-10-30/263646-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/India-sports-goods-300x169.jpg",
+          "alt": "India approves INR 18.56 billion scheme to boost sports goods manufacturing"
+        }
+      ]
+    },
+    {
+      "id": 263643,
+      "title": "68 Interpol Red Notice suspects brought back to Sri Lanka, 112 more identified overseas",
+      "url": "https://www.newswire.lk/2026/10/30/68-interpol-red-notice-suspects-brought-back-to-sri-lanka-112-more-identified-overseas/",
+      "published": "2026-10-30T09:17:03+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Drugs",
+        "INTERPOL",
+        "Red notice",
+        "Wootler"
+      ],
+      "text": "A total of 68 suspects wanted under Interpol Red Notices have been brought back to Sri Lanka, while a further 112 have been identified in 13 countries, Police Spokesperson Assistant Superintendent of Police (ASP) F.U. Wootler said.\nThe suspects are linked to drug-related offences and organised crime, he said.\nWootler made these remarks during a media briefing held to outline progress under the Government’s ‘A Nation United’ national mission, which was launched a year ago.\nHe said 5,743 individuals with direct links to criminal activities had been arrested in 2026.\nMeanwhile, approximately 450 investigations into suspected illicit wealth are being conducted in connection with the suspects, he added.\nWootler also presented figures on the value of properties and assets seized by the Government over links to drug-related activities.\nAccording to the figures, the value of seized assets was Rs. 1,490 million in 2024, Rs. 1,549 million in 2025 and Rs. 1,656 million in 2026.",
+      "word_count": 154,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 2,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A total of 68 suspects wanted under Interpol Red Notices have been brought back to Sri Lanka, while a further 112 have been identified in 13 countries, Police Spokesperson Assistant Superintendent of Police (ASP) F.U. Wootler said. The suspects are linked to drug-related offences and organised crime, he said.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263643.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/ASP-Wootler.jpg",
+          "alt": "68 Interpol Red Notice suspects brought back to Sri Lanka, 112 more identified overseas"
+        },
+        {
+          "src": "images/2026-10-30/263643-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/ASP-Wootler-300x195.jpg",
+          "alt": "68 Interpol Red Notice suspects brought back to Sri Lanka, 112 more identified overseas"
+        }
+      ]
+    },
+    {
+      "id": 263640,
+      "title": "“A bottle of arrack and Rs. 1,000 or 2,000”: Monk slams Police at Homagama youth’s funeral",
+      "url": "https://www.newswire.lk/2026/10/30/a-bottle-of-arrack-and-rs-1000-or-2000-monk-slams-police-at-homagama-youths-funeral/",
+      "published": "2026-10-30T09:12:20+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Homagama",
+        "Monk",
+        "suspect death"
+      ],
+      "text": "A Buddhist monk attending the final rites of the Homagama youth who died while in police custody, has alleged that concerns about misconduct at the Homagama Police Station had been raised with authorities approximately a month before the incident.\nAddressing mourners at the funeral, the monk said he had attended an event held under the ‘A Nation United Programme’ at the Homagama Divisional Secretariat, where he had brought concerns regarding the conduct of officers attached to the Homagama Police Station to the attention of the subject minister.\n“I informed them about the misconduct at the Homagama Police Station, including the officer involved in this incident. I urged them to address the matter promptly,” he said.\nThe monk claimed that the Officer-in-Charge (OIC) of the station had been confronted during the event and that officials had acknowledged receiving concerning reports, assuring those present that the matter would be addressed.\nHe further alleged that another associate of the deceased had also been assaulted and taken into custody under similar circumstances. Meanwhile there are numerous area residents who had been assaulted over various incidents, by an officer named ‘Gurusinghe’ attached to the Homagama police, he said, adding that these incidents often resulted in broken bones.\nThe monk said police officers were entrusted with maintaining law and order, not assaulting members of the public. He criticised the Police Department and the Government, holding them responsible for failing to prevent deaths in police custody, and accused the department of bias.\nHe also claimed that the victim, Ishara Harsha Kumara was neither the first nor would be the last person to die in such circumstances, citing the death of a youth from Badulla while in the custody of the Welikada Police.\nThe monk further alleged that, had it not been for media coverage, the victim’s family might have been informed that he had died of a heart attack. He also criticised remarks reportedly made by the Police Spokesperson attributing the death to a sudden illness.\nThe monk also accused some police officers of compromising their integrity for small bribes.\n“We have a police force that sells out for a bottle of arrack and Rs. 1,000 or Rs. 2,000,” he said.\nQuestioning public confidence in the Police Department, the monk said he was also concerned about possible repercussions for speaking out against the alleged misconduct.\nHe called for justice for Ishara’s family and urged authorities to take responsibility for addressing allegations of police misconduct. (Newswire)\n“WE HAVE A POLICE FORCE THAT SELLS OUT FOR A BOTTLE OF ARRACK & RS. 1,000 OR 2,000!” Monk Slams Police at Ishara’s Funeral 🏛️🚨Delivering a fiery sermon at the funeral of Ishara, a Buddhist monk launched a scathing attack on the police force, accusing officers of corruption and compromising their integrity for petty bribes: “We have a police force that sells its dignity for a bottle of liquor and a few thousand rupees!” 🇱🇰 #SL #lka #NewsCenter #srilanka #srilankanews #News #sinhalanews #PoliceCorruption #SLPolice #FuneralSpeech #BreakingNewsLK — NewsCenterSL (@NewsCenterSL) October 29, 2026\n“WE HAVE A POLICE FORCE THAT SELLS OUT FOR A BOTTLE OF ARRACK & RS. 1,000 OR 2,000!”\nMonk Slams Police at Ishara’s Funeral 🏛️🚨Delivering a fiery sermon at the funeral of Ishara, a Buddhist monk launched a scathing attack on the police force, accusing officers of corruption and compromising their integrity for petty bribes: “We have a police force that sells its dignity for a bottle of liquor and a few thousand rupees!” 🇱🇰\n#SL #lka #NewsCenter #srilanka #srilankanews #News #sinhalanews #PoliceCorruption #SLPolice #FuneralSpeech #BreakingNewsLK\n— NewsCenterSL (@NewsCenterSL) October 29, 2026",
+      "word_count": 592,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "A Buddhist monk attending the final rites of the Homagama youth who died while in police custody, has alleged that concerns about misconduct at the Homagama Police Station had been raised with authorities approximately a month before the incident.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263640.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Homagama-monk.jpg",
+          "alt": "“A bottle of arrack and Rs. 1,000 or 2,000”: Monk slams Police at Homagama youth’s funeral"
+        },
+        {
+          "src": "images/2026-10-30/263640-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Homagama-monk-300x211.jpg",
+          "alt": "“A bottle of arrack and Rs. 1,000 or 2,000”: Monk slams Police at Homagama youth’s funeral"
+        }
+      ]
+    },
+    {
+      "id": 263630,
+      "title": "‘Star Trek’ star Patrick Stewart dies age 86",
+      "url": "https://www.newswire.lk/2026/10/30/star-trek-star-patrick-stewart-dies-age-86/",
+      "published": "2026-10-30T07:14:33+05:30",
+      "source_categories": [
+        "International",
+        "News"
+      ],
+      "tags": [],
+      "text": "For Star Trek fans, he was the legendary Captain Picard; the British actor and director Patrick Stewart, longtime member of the Royal Shakespeare Company, died on Thursday at the age of 86 following a “brief and poignant journey” with Alzheimer’s disease and Lewy body dementia, according to an official statement on his social media accounts.\nIn Los Angeles, California, far away from the small English village of Mirfield where he was born, Stewart achieved world fame. He was 47 years old when he landed the role of a lifetime in the legendary science fiction series Star Trek: Playing Captain Jean-Luc Picard in “Star Trek: The Next Generation,” he stepped into the shoes of the legendary Captain James T. Kirk, played by William Shatner.\nStewart brought a calm, measured and distinctly British presence that quickly made Picard a fan favorite and a cult figure in the Star Trek universe. He returned to the role decades later in the spin-off series “Star Trek: Picard,” which ended in 2023, proving the character’s enduring appeal.\nAs Captain Jean-Luc Picard, he led the crew of the starship Enterprise, a spaceship with the sizeable mission: “To explore strange new worlds. To seek out new life and new civilizations” — and most importantly, “to boldly go where no man has gone before!”\nIn love with Shakespeare\nStewart’s interest in acting was sparked in the early 1950s when a teacher asked him to recite a work by Shakespeare. His passion for Shakespeare stayed with him until the end.\nHis parents were far removed from the glamor of the theatrical world. His father was a highly respected officer in the British Army during World War II, but at home, he was an abusive husband, and young Patrick had to helplessly witness repeated violence against his mother. Stewart wrote about his experiences with domestic violence in The Guardian in 2009. The stage, he confessed there, seemed to him “a far safer place” than reality; he saw acting as a way to escape his home life.\nPatrick began acting at the age of 12. At 16, he left school early and, thanks to a scholarship, studied acting in Bristol, England. Along the way, he worked as a journalist. In 1965, he became an official member of the Royal Shakespeare Company, and remained with the theather company from 1966 to 1982. Such was his passion for the great English playwright and lyricist that he even shared his sonnets on his Twitter account during the 2020 coronavirus pandemic.\nStewart dazzled the theater world with his own stage adaptation of Charles Dickens’ 1843 tale “A Christmas Carol.” He played more than 30 roles himself. After its 1987 premiere in Stewart’s hometown of Mirfield, the one-man show became a critics’ favorite and a long-running hit on Broadway in New York.\n‘Star Trek’ offer from Hollywood\nIn the same year, Stewart went from being a stage actor to an international TV star. Star Trek producer Robert Justman offered him the role of Captain Jean-Luc Picard, one of the main characters in a new edition of the popular TV series “Star Trek: The Next Generation.”\nThe successful Shakespearean hesitated. Until then, he had never worked in Hollywood. But his agent encouraged him to accept the role, Stewart recalled in a 2020 interview with the German newspaper Die Welt. “You can accept the offer as a start for now. It won’t be a big deal, you can’t revive a series as iconic as Star Trek anyway.”\nAdventures in the universe\nBut his agent was to be proven wrong: Stewart led the Starship Enterprise through its galactic adventures for seven seasons and four full-length feature films. The TV series had astronomical success on Earth in a very short time.\nAt first, the producers were at odds as to whether Stewart’s British accent could really fit the role of commander of a US starship in the 24th century, but it soon became impossible to imagine the series without the subtly diplomatic Captain Picard, who often quoted Shakespeare while at the helm. It seemed as if all the time he had spent as a Shakespearean actor had prepared him to command the Enterprise, Stewart once remarked with a wink. When the cult series ended in 1994, he had ruled out ever returning to the Enterprise’s command center.\nIn 2010, the actor was knighted by the Queen of England. Stewart considered it the greatest honor of his career to stand alongside acting greats such as Sir Laurence Olivier and Sir Alec Guinness.\nBeyond the screen, Stewart has long used his voice for social and human rights causes. In recent years, he has drawn attention to issues such as violence against women, age discrimination and the protection of children.\nA short-lived retirement\nIn a June 2020 interview, “Playboy” asked the New York resident whether he was considering retiring from acting. “Never! That would mean giving up my life,” replied Stewart, who was approaching his 80th birthday at the time. He was filming the second of three seasons of “Star Trek: Picard.” The series ends with a final episode in which the retired Starfleet admiral makes his last appearance. In the series, Picard retires to his family vineyard in France but is drawn back into space to confront new threats to the Federation.\nThis series also showcases Stewart’s affection for his pit bull, Ginger. In “Star Trek: Picard,” Picard also has a pit bull, a loyal four-legged companion named Number One — a deliberate reference to Stewart’s real-life love of the breed. For his efforts to combat prejudice against pit bulls and to support their adoption, Stewart was honored by the US animal welfare organization ASPCA, among others.\nIn 2024, he published his memoir “Making it So.” In it, he recounts his passion for theater and his love of Shakespeare.\nNow, at the age of 86, the British actor has finally departed for another galaxy. Farewell, Patrick Stewart! (DW)",
+      "word_count": 985,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 3,
+        "Finance": 3,
+        "Tech": 1
+      },
+      "summary": "For Star Trek fans, he was the legendary Captain Picard; the British actor and director Patrick Stewart, longtime member of the Royal Shakespeare Company, died on Thursday at the age of 86 following a “brief and poignant journey” with Alzheimer’s disease and Lewy body dementia, according to an official statement on his social media accounts.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263630.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Patrick-Stewart-2.jpg",
+          "alt": "‘Star Trek’ star Patrick Stewart dies age 86"
+        }
+      ]
+    },
+    {
+      "id": 263622,
+      "title": "Sangakkara reveals details of alleged racist treatment at Dublin Airport",
+      "url": "https://www.newswire.lk/2026/10/30/sangakkara-reveals-details-of-alleged-racist-treatment-at-dublin-airport/",
+      "published": "2026-10-30T00:42:07+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Former Sri Lanka cricket captain Kumar Sangakkara has provided further details about an alleged incident of discrimination involving Ryanair gate staff at Dublin Airport while travelling with his family.\nIn a social media post, Sangakkara alleged that he was told passengers holding passports like his should expect such treatment.\nAccording to Sangakkara, when they questioned the treatment, they were warned that arguing with airline personnel could result in them being considered a threat to other passengers and denied boarding.\nSangakkara strongly criticised the alleged remarks, rejecting the suggestion that such treatment was applied equally to all passengers.\nHe described the comments about passports as disgusting and said the conduct was racist.\nThe clarification follows Sangakkara’s earlier allegations that Ryanair gate personnel had behaved in a discriminatory and threatening manner towards him and his family.\nIn his initial post, Sangakkara described the experience as shocking and unacceptable, criticising the way airline staff addressed his family and handled procedures.\nThe precise circumstances that led to the confrontation remain unclear, and the allegations have not been independently verified.\nRyanair had not issued a publicly confirmed response to the allegations in the reports reviewed.",
+      "word_count": 190,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 1
+      },
+      "summary": "Former Sri Lanka cricket captain Kumar Sangakkara has provided further details about an alleged incident of discrimination involving Ryanair gate staff at Dublin Airport while travelling with his family. In a social media post, Sangakkara alleged that he was told passengers holding passports like his should expect such treatment.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263622.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Kumar-Sangakkara-accuses-Ryanair-Staff-of-Discriminatory-Behaviour-f.jpg",
+          "alt": "Sangakkara reveals details of alleged racist treatment at Dublin Airport"
+        },
+        {
+          "src": "images/2026-10-30/263622-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Kumar-Sangakkara-accuses-Ryanair-Staff-of-Discriminatory-Behaviour-f-300x147.jpg",
+          "alt": "Sangakkara reveals details of alleged racist treatment at Dublin Airport"
+        }
+      ]
+    },
+    {
+      "id": 263619,
+      "title": "Sri Lanka Police seize over Rs. 249bn worth of drugs in three years",
+      "url": "https://www.newswire.lk/2026/10/29/sri-lanka-police-seize-over-rs-249bn-worth-of-drugs-in-three-years/",
+      "published": "2026-10-29T21:41:08+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Under the “A Nation United” national mission, the Sri Lanka Police have seized massive quantities of illegal narcotics valued at over Rs. 249 billion across a three-year period spanning 2024, 2025 and 2026, according to Police Media Spokesperson, Assistant Superintendent of Police (ASP) F.U. Wootler.\nProviding a detailed breakdown of the operations, ASP Wootler revealed that law enforcement authorities confiscated 4,483 kilograms of heroin valued at Rs. 107.942 billion, 7,129 kilograms of Ice (Methamphetamine) worth Rs. 121.644 billion, 33,277 kilograms of cannabis (ganja) valued at Rs. 5.293 billion and 333 kilograms of cocaine valued at Rs. 14.306 billion.\nDetailing the stringent legal measures in force, the Police Media Spokesperson emphasized that under the Poisons, Opium and Dangerous Drugs Act No. 13 of 1984 and Amendment Act No. 41 of 2022, strict penalties apply to offenders.\nAnyone found possessing, attempting to possess, trafficking, dealing, or manufacturing more than 5 grams of heroin, Ice or cocaine faces severe sentences, including life imprisonment or the death penalty upon conviction by the High Court.",
+      "word_count": 170,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 2,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Under the “A Nation United” national mission, the Sri Lanka Police have seized massive quantities of illegal narcotics valued at over Rs. 249 billion across a three-year period spanning 2024, 2025 and 2026, according to Police Media Spokesperson, Assistant Superintendent of Police (ASP) F.U. Wootler.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263619.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/08/ASP-Wootler.jpg",
+          "alt": "Sri Lanka Police seize over Rs. 249bn worth of drugs in three years"
+        }
+      ]
+    },
+    {
+      "id": 263616,
+      "title": "Six arrested for obstructing luxury bus and assaulting crew in Kalutara",
+      "url": "https://www.newswire.lk/2026/10/29/six-arrested-for-obstructing-luxury-bus-and-assaulting-crew-in-kalutara/",
+      "published": "2026-10-29T20:26:43+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Six suspects have been arrested by the police for allegedly obstructing a luxury bus and assaulting its driver and conductor at Nagas Junction along the Kalutara – Colombo main road.\nAccording to the police, the suspects were travelling on motorcycles when they blocked the bus before physically attacking the driver and conductor.\nKalutara North Police have seized two motorcycles believed to have been used in the commission of the crime. The arrested individuals are residents of Wadduwa and Moronthuduwa.\nThe suspects are expected to be produced before the Kalutara Magistrate’s Court, while Kalutara North Police are conducting further investigations into the incident.",
+      "word_count": 102,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Six suspects have been arrested by the police for allegedly obstructing a luxury bus and assaulting its driver and conductor at Nagas Junction along the Kalutara – Colombo main road. According to the police, the suspects were travelling on motorcycles when they blocked the bus before physically attacking the driver and conductor.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263616.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Bus-assault-kalutara.jpg",
+          "alt": "Six arrested for obstructing luxury bus and assaulting crew in Kalutara"
+        }
+      ]
+    },
+    {
+      "id": 263613,
+      "title": "Prof. H.M.J.C. Pitawala appointed Vice Chancellor of Uva Wellassa University",
+      "url": "https://www.newswire.lk/2026/10/29/prof-h-m-j-c-pitawala-appointed-vice-chancellor-of-uva-wellassa-university/",
+      "published": "2026-10-29T19:27:54+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Professor H.M.J.C. Pitawala has been appointed as the new Vice Chancellor of Uva Wellassa University by President Anura Kumara Dissanayake.\nThe official letter of appointment was handed over to Professor Pitawala on the afternoon of October 29, 2026, by the Secretary to the President, Dr. Nandika Sanath Kumanayake. His appointment as Vice Chancellor will officially take effect on November 2, 2026.\nPrior to receiving this position, Professor Pitawala served as a Professor in the Faculty of Applied Sciences at Uva Wellassa University.",
+      "word_count": 82,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 11,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Professor H.M.J.C. Pitawala has been appointed as the new Vice Chancellor of Uva Wellassa University by President Anura Kumara Dissanayake. Prior to receiving this position, Professor Pitawala served as a Professor in the Faculty of Applied Sciences at Uva Wellassa University.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263613.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-18.44.07.jpeg",
+          "alt": "Prof. H.M.J.C. Pitawala appointed Vice Chancellor of Uva Wellassa University"
+        },
+        {
+          "src": "images/2026-10-30/263613-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-18.44.07-300x244.jpeg",
+          "alt": "Prof. H.M.J.C. Pitawala appointed Vice Chancellor of Uva Wellassa University"
+        }
+      ]
+    },
+    {
+      "id": 263610,
+      "title": "IDB opens applications for ‘i5 Industry Excellence Journey & Awards 2026’",
+      "url": "https://www.newswire.lk/2026/10/29/idb-opens-applications-for-i5-industry-excellence-journey-awards-2026/",
+      "published": "2026-10-29T19:15:13+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Industrial Development Board (IDB), operating under the Ministry of Industry and Entrepreneurship Development, has opened applications for the ‘i5 | FIVE Industry Excellence Journey & Awards 2026’ to recognize and promote excellence in Sri Lanka’s manufacturing sector.\nThe initiative aims to boost productivity, innovation, competitiveness, and sustainability among local manufacturers, helping enterprises prepare for the Industry 5.0 era by combining technological advancement, human capabilities, resilience, and sustainable growth. Small, medium and large-scale manufacturing enterprises registered in any district of Sri Lanka with at least three years of active operations are eligible to apply free of charge, whereas micro-scale enterprises are excluded. Evaluations will be conducted across three main pillars Enterprise Excellence, Industry Excellence, and Transformation Capability covering 21 assessment areas to present a total of 69 awards. The assessment process includes examining financial records, employee numbers, and conducting site inspections of manufacturing premises. To share practical knowledge, case studies and videos documenting award winners will be produced.\nOnline applications must be submitted at www.ifive.idb.lk by 4:00 p.m. on November 9, 2026, followed by delivering a printed, signed copy with supporting evidence to the Director of the Marketing Division at the IDB in Katubedda, Moratuwa.\nThe national initiative is supported by CBL Group as Principal Sponsor, Commercial Bank as Official Banking Partner, the Postgraduate Institute of Management (PIM) as Knowledge Partner, and Dialog Enterprise as Official Digital Transformation Partner. It aligns with the IDB’s ‘iFive Strategy 2026’, which aims to increase the manufacturing sector’s contribution to GDP to 20 percent and raise merchandise export earnings to USD 25 billion by 2030.",
+      "word_count": 261,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 1,
+        "Finance": 25,
+        "Tech": 8
+      },
+      "summary": "The Industrial Development Board (IDB), operating under the Ministry of Industry and Entrepreneurship Development, has opened applications for the ‘i5 | FIVE Industry Excellence Journey & Awards 2026’ to recognize and promote excellence in Sri Lanka’s manufacturing sector. Evaluations will be conducted across three main pillars Enterprise Excellence, Industry Excellence, and Transformation Capability covering 21 assessment areas to present a total of 69 awards.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263610.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-18.43.58.jpeg",
+          "alt": "IDB opens applications for ‘i5 Industry Excellence Journey & Awards 2026’"
+        },
+        {
+          "src": "images/2026-10-30/263610-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-18.43.58-300x174.jpeg",
+          "alt": "IDB opens applications for ‘i5 Industry Excellence Journey & Awards 2026’"
+        }
+      ]
+    },
+    {
+      "id": 263605,
+      "title": "Uzbekistan’s Centrum Air launches direct flights to Mattala Airport",
+      "url": "https://www.newswire.lk/2026/10/29/uzbekistans-centrum-air-launches-direct-flights-to-mattala-airport/",
+      "published": "2026-10-29T18:51:11+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Uzbekistan based airline Centrum Air has launched direct flight operations between Tashkent and Mattala Rajapaksa International Airport, according to an announcement by the Ministry of Ports and Civil Aviation.\nThe new air route expands flight connectivity between Sri Lanka and Central Asia, opening additional avenues for the island’s tourism sector.\nAccording to the Ministry, the scheduled service will operate twice weekly, on Wednesdays and Saturdays, throughout Sri Lanka’s 2026–2027 tourism season.\nThe Ministry noted that the launch of this service will boost tourism growth, enhance passenger connectivity and promote closer bilateral ties between Sri Lanka and Uzbekistan.",
+      "word_count": 97,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 9,
+        "Finance": 4,
+        "Tech": 0
+      },
+      "summary": "Uzbekistan based airline Centrum Air has launched direct flight operations between Tashkent and Mattala Rajapaksa International Airport, according to an announcement by the Ministry of Ports and Civil Aviation. The new air route expands flight connectivity between Sri Lanka and Central Asia, opening additional avenues for the island’s tourism sector.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263605.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/images-50.jpg",
+          "alt": "Uzbekistan’s Centrum Air launches direct flights to Mattala Airport"
+        }
+      ]
+    },
+    {
+      "id": 263602,
+      "title": "What really happened to Homagama suspect? Senior DIG reveals new details",
+      "url": "https://www.newswire.lk/2026/10/29/police-believe-homagama-suspect-died-from-assault-injuries-admit-procedural-failures/",
+      "published": "2026-10-29T18:34:41+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "Western Province Senior Deputy Inspector General (SDIG) Sajeewa Medawatte says police believe the suspect who died in Homagama Police custody died from assault-related injuries, while acknowledging that officers failed to follow proper procedures when handling the suspect.\nThe Officer-in-Charge (OIC) of the Homagama Police Crimes Division has also been arrested in connection with the custodial death, while several other officers have faced disciplinary action.\nSpeaking about the ongoing investigation, the Senior DIG said medical findings indicated that the suspect had suffered three broken ribs, while information available to investigators also suggested head injuries and possible bleeding in the brain.\nHe said police believed the death was linked to an assault, but the exact cause and circumstances could only be confirmed after the completion of medical examinations and investigations.\nThe Senior DIG also revealed that police had received information suggesting the suspect may have been assaulted while being held at the Homagama Police Crimes Division before being placed in a police cell.\nHowever, he stressed that this allegation had not yet been conclusively established and remained under investigation.\nSuspect assaulted before arrest\nMedawatte also revealed that investigators had uncovered a separate assault involving the suspect on October 24, a day before he was arrested by police.\nAccording to the Senior DIG, the suspect had been admitted to hospital following an altercation between two groups but had initially claimed that he had fallen off a bicycle.\n“The suspect was arrested in the early hours of October 25. However, he had been hospitalised the previous day, October 24,” Medawatte said.\nHe explained that the suspect had remained in hospital for several hours before leaving without medical authorisation.\n“At the time of his arrest, he said he had fallen off a bicycle and had been admitted to hospital. However, investigations later revealed that he had actually been assaulted during a dispute between two groups,” the Senior DIG said.\nHe confirmed that separate investigations were underway into the October 24 assault and the circumstances surrounding the suspect’s detention at Homagama Police.\nPolice procedures not followed\nExplaining the circumstances surrounding the suspect’s detention, Medawatte said the suspect had not initially reported serious health complications when he was arrested.\nHowever, he subsequently showed signs of distress while being held in the police cell, prompting officers to admit him to hospital.\nThe Senior DIG acknowledged that officers had failed to properly follow several mandatory procedures when taking the suspect into custody.\nHe said police were required to document a suspect’s physical condition at the time of arrest, maintain proper records, follow established procedures during questioning and inform the suspect’s relatives.\n“These procedures were not properly followed. That is why we took action against the officers concerned so quickly,” he said.\nThe OIC of the Homagama Police Crimes Division, who was initially interdicted over the incident, was subsequently arrested by the Western Province South Crime Investigation Division.\nThe Senior DIG stressed that the action taken against the officers did not mark the end of the investigation.\nHe said further inquiries were underway to establish whether the suspect had also been assaulted while in police custody and to determine the exact cause of death.\nPolice are examining both the assault reported on October 24 and the events at Homagama Police Station on October 25 to establish the circumstances that led to the suspect’s death.",
+      "word_count": 554,
+      "is_lead": true,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Western Province Senior Deputy Inspector General (SDIG) Sajeewa Medawatte says police believe the suspect who died in Homagama Police custody died from assault-related injuries, while acknowledging that officers failed to follow proper procedures when handling the suspect.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263602.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261029_183202_WhatsApp.jpg",
+          "alt": "What really happened to Homagama suspect? Senior DIG reveals new details"
+        },
+        {
+          "src": "images/2026-10-30/263602-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261029_183202_WhatsApp-300x207.jpg",
+          "alt": "What really happened to Homagama suspect? Senior DIG reveals new details"
+        }
+      ]
+    },
+    {
+      "id": 263599,
+      "title": "Sri Lanka, Thailand focus on strengthening ties in health, tech and education",
+      "url": "https://www.newswire.lk/2026/10/29/sri-lanka-thailand-focus-on-strengthening-ties-in-health-tech-and-education/",
+      "published": "2026-10-29T18:31:51+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Sri Lanka and Thailand have held discussions to strengthen bilateral cooperation across health, education, technology and economic sectors.\nThe discussions took place during a bilateral meeting between Sri Lanka’s Minister of Health and Mass Media, Dr. Nalinda Jayatissa, and Thailand’s Deputy Prime Minister and Minister of Higher Education, Science, Research and Innovation, Prof. Yodchanan Wongsawat. The meeting was held on October 28 at the United Nations Conference Centre in Bangkok, Thailand, on the sidelines of the Fifth Asia-Pacific Ministerial Conference.\nTalks centered on using modern technologies, including artificial intelligence (AI), to improve the efficiency of Sri Lanka’s healthcare services, alongside exchanging technical expertise in the field.\nBoth sides discussed expanding exchange programmes for students, academic staff and researchers between universities and higher education institutions in both countries. They also explored obtaining modern technical assistance from Thailand for agriculture, irrigation and scientific water management.\nAdditionally, the two delegations exchanged views on encouraging Thai investments in Sri Lanka and launching joint tourism promotion programs. Both parties emphasized strengthening long-standing religious, social and cultural ties based on their shared Theravada Buddhist heritage.",
+      "word_count": 179,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 17,
+        "Finance": 3,
+        "Tech": 23
+      },
+      "summary": "Sri Lanka and Thailand have held discussions to strengthen bilateral cooperation across health, education, technology and economic sectors. The discussions took place during a bilateral meeting between Sri Lanka’s Minister of Health and Mass Media, Dr. Nalinda Jayatissa, and Thailand’s Deputy Prime Minister and Minister of Higher Education, Science, Research and Innovation, Prof. Yodchanan Wongsawat.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263599.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Copy-of-Mirudhula-News-7.jpg",
+          "alt": "Sri Lanka, Thailand focus on strengthening ties in health, tech and education"
+        }
+      ]
+    },
+    {
+      "id": 263596,
+      "title": "Met Department issues amber warning for deep sea areas in Bay of Bengal",
+      "url": "https://www.newswire.lk/2026/10/29/met-department-issues-amber-warning-for-deep-sea-areas-in-bay-of-bengal/",
+      "published": "2026-10-29T18:28:23+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The Department of Meteorology has issued an amber-level advisory warning multi-day boat operators, fishing, and naval communities operating in the deep sea areas of the Bay of Bengal about strong winds and rough seas following the formation of a low-pressure area over the south Andaman Sea.\nAccording to the weather advisory issued at 04:30 p.m. on October 29, 2026, by the Natural Hazards Early Warning Centre, the low-level atmospheric disturbance near the North Sumatra islands developed into a low-pressure area around 11:30 a.m. today. The system is expected to move west-northwestwards and intensify into a depression over the southeast Bay of Bengal and adjoining areas of the Andaman and Nicobar Islands and the Andaman Sea by October 31.\nMeteorologists forecast that the system will intensify further while continuing its west-northwestward path toward the Andhra Pradesh coast of India over the subsequent two days.\nDuring this period, wind speeds in the designated advisory sea areas are expected to increase up to 55 kmph at times, causing the sea conditions to become rough. Naval and fishing communities engaged in activities across these sea zones are strongly advised to remain vigilant and closely monitor future bulletins and forecasts issued by the Department of Meteorology.",
+      "word_count": 201,
+      "is_lead": false,
+      "category": "General",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The Department of Meteorology has issued an amber-level advisory warning multi-day boat operators, fishing, and naval communities operating in the deep sea areas of the Bay of Bengal about strong winds and rough seas following the formation of a low-pressure area over the south Andaman Sea.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263596.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Rough-sea-1.jpg",
+          "alt": "Met Department issues amber warning for deep sea areas in Bay of Bengal"
+        },
+        {
+          "src": "images/2026-10-30/263596-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Rough-sea.jpg",
+          "alt": "Met Department issues amber warning for deep sea areas in Bay of Bengal"
+        },
+        {
+          "src": "images/2026-10-30/263596-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/856499985_979970038492688_969529357900279886_n-622x1024.jpg",
+          "alt": "Met Department issues amber warning for deep sea areas in Bay of Bengal"
+        }
+      ]
+    },
+    {
+      "id": 263593,
+      "title": "President directs Sports Ministry to plan for international wins and public health",
+      "url": "https://www.newswire.lk/2026/10/29/president-directs-sports-ministry-to-plan-for-international-wins-and-public-health/",
+      "published": "2026-10-29T18:23:46+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "President Anura Kumara Dissanayake has directed officials of the Sports Ministry to formulate strategic plans to produce athletes capable of winning international recognition and to promote sports nationwide to foster a healthy population and a strong sports culture.\nThe President issued these instructions during a meeting held on the morning of October 29 at the Presidential Secretariat to discuss the 2027 budget proposals for the Ministry of Youth Affairs and Sports.\nHighlighting non-communicable diseases as a major current healthcare challenge, President Dissanayake emphasized that sports and physical activity play a vital role in addressing this issue. He stressed the need for mindset shifts to encourage active and healthy lifestyles among the public. He also noted that while walking tracks have been constructed island-wide, their intended utility remains underutilized in certain areas, calling for new initiatives to encourage public use. To properly plan these programs, the President underscored the importance of maintaining an accurate and updated database of sports grounds, walking tracks and indoor stadiums across the country.\nDuring the discussion, several proposed infrastructure and development projects for 2027 were detailed. Key proposals include establishing a National High-Performance Centre to elevate Sri Lankan athletes’ skills to international standards, constructing a 400-meter synthetic running track in Anuradhapura, resolving existing shortcomings to develop the Diyagama International Stadium, upgrading the Sugathadasa Indoor Stadium, and initiating joint research on sports and exercise involving sports medicine institutes and universities. Additionally, the meeting reviewed the progress and future plans of programs conducted by the National Youth Services Council and the National Youth Corps.",
+      "word_count": 256,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 33,
+        "Finance": 3,
+        "Tech": 2
+      },
+      "summary": "President Anura Kumara Dissanayake has directed officials of the Sports Ministry to formulate strategic plans to produce athletes capable of winning international recognition and to promote sports nationwide to foster a healthy population and a strong sports culture.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263593.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Copy-of-Mirudhula-News-6.jpg",
+          "alt": "President directs Sports Ministry to plan for international wins and public health"
+        }
+      ]
+    },
+    {
+      "id": 263590,
+      "title": "Israel jobs for Sri Lankans only through government agreements from January 2027",
+      "url": "https://www.newswire.lk/2026/10/29/israel-jobs-for-sri-lankans-only-through-government-agreements-from-january-2027/",
+      "published": "2026-10-29T17:20:48+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "The recruitment of Sri Lankan workers for employment in Israel will be carried out exclusively through Government-to-Government (G-to-G) agreements from January 1, 2027, following a new policy decision by the Israeli government.\nThe Sri Lanka Bureau of Foreign Employment (SLBFE) announced that the decision had been communicated by the Sri Lankan Embassy in Israel.\nAccordingly, the existing recruitment programme for jobs in Israel through licensed foreign employment agencies will end on December 31, 2026.\nThe new policy will apply to all employment sectors, including construction, industrial, commerce and services, where private recruitment agencies were previously permitted to recruit Sri Lankan workers.\nThe SLBFE stated that official details regarding the new recruitment mechanism for 2027, including recruitment quotas and selection procedures, have not yet been announced.\nIn this regard, the Bureau has urged individuals seeking employment in Israel to remain cautious of promises made by private recruitment agencies or individuals offering job opportunities.\nThe SLBFE has advised job seekers not to make payments to any individual or licensed foreign employment agency claiming to provide employment opportunities in Israel.\nIt has also instructed prospective applicants to refrain from participating in skills tests, interviews or other recruitment procedures organised by private agencies until further official instructions are issued.\nThe Bureau further requested the public to rely only on official announcements issued by the Ministry of Foreign Affairs, Foreign Employment and Tourism and the SLBFE.\nMeanwhile, individuals who have already made lawful payments for employment opportunities in Israel have been advised not to be unnecessarily concerned.\nThe SLBFE stated that it has requested information from licensed foreign employment agencies regarding individuals who have already made such payments and will determine the next steps based on the information received.\nIt clarified that affected individuals are not required to submit their details separately at present, as further instructions will be communicated officially.\nHowever, those wishing to report suspected fraud or other specific issues may continue to lodge complaints through the Bureau’s existing complaints mechanism.\nThe SLBFE added that it is coordinating with the Sri Lankan Embassy in Israel and relevant Israeli authorities to safeguard the interests and welfare of Sri Lankan job seekers.",
+      "word_count": 357,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 12,
+        "Finance": 2,
+        "Tech": 0
+      },
+      "summary": "The recruitment of Sri Lankan workers for employment in Israel will be carried out exclusively through Government-to-Government (G-to-G) agreements from January 1, 2027, following a new policy decision by the Israeli government. The Sri Lanka Bureau of Foreign Employment (SLBFE) announced that the decision had been communicated by the Sri Lankan Embassy in Israel.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263590.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2025/12/K-web-pix-10.jpg",
+          "alt": "Israel jobs for Sri Lankans only through government agreements from January 2027"
+        }
+      ]
+    },
+    {
+      "id": 263571,
+      "title": "Xiaomi Launches Redmi Note 17 Series and Expands Its Smart Ecosystem in Sri Lanka",
+      "url": "https://www.newswire.lk/business/xiaomi-launches-redmi-note-17-series-and-expands-its-smart-ecosystem-in-sri-lanka/",
+      "published": "2026-10-29T17:10:35+05:30",
+      "source_categories": [
+        "Bizwire"
+      ],
+      "tags": [],
+      "text": "New smartphone lineup combines extended battery life, enhanced durability and AI-powered features, alongside a wider portfolio of connected lifestyle devices\nXiaomi, a global consumer electronics and smart manufacturing brand, today unveiled the Redmi Note 17 Series in Sri Lanka, alongside an expanded Xiaomi ecosystem spanning entertainment, smart home technology, personal care, health and fitness, kitchen appliances and lifestyle products.\nThe launch reinforces Xiaomi’s commitment to making innovative technology accessible, bringing together smartphones and connected devices designed to complement the way people live, work and interact with technology.\nThe Redmi Note 17 Series comprises four models: Redmi Note 17 Pro Max 5G, Redmi Note 17 Pro 5G, Redmi Note 17 5G and Redmi Note 17. The lineup brings together long-lasting battery performance, immersive displays, enhanced durability and AI-powered capabilities, offering consumers a range of options to suit their needs.\nLeading the series, the Redmi Note 17 Pro Max 5G features a 10,000mAh battery with 100W HyperCharge, designed to deliver up to three days of use. Its 6.83-inch 1.5K CrystalRes AMOLED display supports a refresh rate of up to 120Hz, while a 50MP main camera with optical image stabilisation (OIS), Snapdragon 6 Gen 5 processor and Xiaomi HyperAI with Google Gemini support an enhanced everyday smartphone experience.\nThe Redmi Note 17 Pro 5G combines an 8,340mAh battery with 67W HyperCharge, while both Redmi Note 17 models feature 7,700mAh batteries and 45W charging. Across the range, features include high-refresh-rate AMOLED displays, capable camera systems and AI-assisted tools. The Pro models also offer IP66, IP68, IP69 and IP69K dust and water resistance, alongside certified drop resistance of up to three metres.\nSpeaking at the launch, Kain Wang, Country Head, Xiaomi Sri Lanka , said, “At Xiaomi, our focus is on bringing meaningful innovation into everyday life. With the Redmi Note 17 Series, we are delivering a combination of performance, durability, battery endurance and intelligent features that meet the evolving expectations of consumers. The expansion of our ecosystem further reflects our ambition to make connected technology more accessible, convenient and relevant to everyday living.”\nBeyond smartphones, Xiaomi introduced a broader portfolio of ecosystem products across multiple categories. The entertainment range includes televisions and sound speakers, while smart home offerings extend to security cameras, smart locks, LED bulbs, robot vacuum cleaners, air purifiers and tower fans.\nThe ecosystem also encompasses earbuds, watches, smart bands, headphones and audio glasses, alongside personal care products such as hair dryers, straightener brushes, trimmers and shavers. Smart scales, body composition scales and massage guns expand the health and fitness category, while blenders, air fryers, microwave ovens and water dispensers bring technology into the kitchen. Xiaomi Tags, power banks and scooters further extend the portfolio into everyday mobility and lifestyle needs.\nThe event featured product presentations by Kain Wang and Sandani Gajadeera, Head of Marketing, Xiaomi Sri Lanka, giving attendees an overview of the new smartphone range, pricing and launch offers, as well as the wider ecosystem. An interactive experience zone enabled guests to explore the products firsthand, followed by a high-tea reception. The evening concluded with a lighting display at the Lotus Tower and fireworks.\nConsumers purchasing eligible Redmi Note 17 Series devices from 2 to 18 November can benefit from an 18-month instalment plan, with the first month’s instalment free up to LKR 12,000, an 18-month warranty and a one-time screen replacement within the first year. Buyers of eligible 5G devices will also receive 275GB of free data, subject to applicable terms and conditions.\nWith the launch, Xiaomi continues to broaden its presence in Sri Lanka, bringing smartphones and connected products together under an increasingly comprehensive technology ecosystem.",
+      "word_count": 598,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 6,
+        "Tech": 43
+      },
+      "summary": "New smartphone lineup combines extended battery life, enhanced durability and AI-powered features, alongside a wider portfolio of connected lifestyle devices\nXiaomi, a global consumer electronics and smart manufacturing brand, today unveiled the Redmi Note 17 Series in Sri Lanka, alongside an expanded Xiaomi ecosystem spanning entertainment, smart home technology, personal care, health and fitness, kitchen appliances and lifestyle products.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263571.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-17.08.57-1.jpeg",
+          "alt": "Xiaomi Launches Redmi Note 17 Series and Expands Its Smart Ecosystem in Sri Lanka"
+        },
+        {
+          "src": null,
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG_6652.heic",
+          "alt": "Xiaomi Launches Redmi Note 17 Series and Expands Its Smart Ecosystem in Sri Lanka"
+        },
+        {
+          "src": "images/2026-10-30/263571-3.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-17.08.57.jpeg",
+          "alt": "Xiaomi Launches Redmi Note 17 Series and Expands Its Smart Ecosystem in Sri Lanka"
+        },
+        {
+          "src": null,
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/IMG_6654.heic",
+          "alt": "Xiaomi Launches Redmi Note 17 Series and Expands Its Smart Ecosystem in Sri Lanka"
+        }
+      ]
+    },
+    {
+      "id": 263579,
+      "title": "12,000 Goli Soda bottles seized in Colombo over choking risk",
+      "url": "https://www.newswire.lk/2026/10/29/12000-goli-soda-bottles-seized-in-colombo-over-choking-risk/",
+      "published": "2026-10-29T17:09:47+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "Around 12,000 bottles of the popular soft drink known as Goli Soda have been seized by the Colombo Municipal Council (CMC) over concerns that small marbles in their caps could pose a choking hazard to children and adults.\nColombo Mayor Vraie Cally Balthazaar said Public Health Inspectors carried out inspections and seized the bottles due to unsafe packaging.\nAccording to the Mayor, incidents have been reported in which small marbles from such bottles became lodged in the throats of children and adults, causing choking.\nShe said legal action was taken over violations of food safety regulations, resulting in three court cases involving 109 charges.\nThe courts imposed fines totalling Rs. 351,000 and ordered the destruction of the seized stocks.\nBalthazaar thanked the CMC Health Department and Public Health Inspectors for their efforts to protect public safety.\nShe stressed that the success of such operations should not be measured solely by the number of bottles seized or fines imposed, but by the accidents they could prevent.\nThe Mayor added that preventing dangerous incidents before they occur is just as important as responding to them afterwards.",
+      "word_count": 184,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 9,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "Around 12,000 bottles of the popular soft drink known as Goli Soda have been seized by the Colombo Municipal Council (CMC) over concerns that small marbles in their caps could pose a choking hazard to children and adults. Colombo Mayor Vraie Cally Balthazaar said Public Health Inspectors carried out inspections and seized the bottles due to unsafe packaging.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263579.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261029_165922_Facebook.jpg",
+          "alt": "12,000 Goli Soda bottles seized in Colombo over choking risk"
+        },
+        {
+          "src": "images/2026-10-30/263579-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261029_165922_Facebook-300x213.jpg",
+          "alt": "12,000 Goli Soda bottles seized in Colombo over choking risk"
+        }
+      ]
+    },
+    {
+      "id": 263570,
+      "title": "One fake seizure, 17 escapees: How prisoners broke out of Tamil Nadu jail",
+      "url": "https://www.newswire.lk/2026/10/29/one-fake-seizure-17-escapees-how-prisoners-broke-out-of-tamil-nadu-jail/",
+      "published": "2026-10-29T17:06:22+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [],
+      "text": "17 prisoners who escaped from a jail in India’s Tamil Nadu state after staging a fake medical emergency and overpowering prison guards have been recaptured following a 36-hour manhunt.\nThe dramatic jailbreak took place on Monday night at a prison in Thekkampatti, in Tamil Nadu’s Theni district, according to BBC Tamil.\nPolice said the escape began when one of the inmates pretended to suffer a seizure, prompting fellow prisoners to shout for help.\nWhen a prison official entered the cell, the inmates overpowered him before allegedly attacking two other guards, seizing their keys and opening the main gate.\nA total of 17 prisoners escaped, while another inmate involved in the incident returned to the prison immediately.\nSeveral prison personnel were injured during the attack.\nPolice launched a major search operation involving special teams, drone surveillance and CCTV footage analysis.\nFour escapees were arrested at a nearby bus station, while another was caught travelling in a three-wheeler.\nDrone surveillance helped police locate eight prisoners hiding in a forest near the jail, while two others were subsequently captured using similar technology.\nThe final two prisoners surrendered on Wednesday, bringing the total number recaptured to 17.\nAccording to the Press Trust of India (PTI), all 17 have since been transferred to high-security correctional facilities.\nMeanwhile, nine prison staff members have been suspended for alleged negligence following the incident.\nTamil Nadu’s Director General of Police for Prisons, Sandeep Rathore, attributed the jailbreak to human error, saying security protocols had been breached.\nThe incident also exposed serious overcrowding and staffing shortages at the facility.\nPolice said the prison was housing 334 inmates despite having an official capacity of just 200. Only four guards were reportedly on duty when the escape occurred.\nAuthorities have announced plans to audit prisons across Tamil Nadu to assess compliance with security procedures.\nThe jailbreak has also renewed concerns over overcrowding in India’s prison system, where official data from 2023 showed a national occupancy rate of 120.1%, with more than 73% of prisoners awaiting trial or investigations.",
+      "word_count": 336,
+      "is_lead": false,
+      "category": "Tech",
+      "category_scores": {
+        "Political": 0,
+        "Finance": 0,
+        "Tech": 9
+      },
+      "summary": "17 prisoners who escaped from a jail in India’s Tamil Nadu state after staging a fake medical emergency and overpowering prison guards have been recaptured following a 36-hour manhunt. The dramatic jailbreak took place on Monday night at a prison in Thekkampatti, in Tamil Nadu’s Theni district, according to BBC Tamil.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263570.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261029_170213_X.jpg",
+          "alt": "One fake seizure, 17 escapees: How prisoners broke out of Tamil Nadu jail"
+        },
+        {
+          "src": "images/2026-10-30/263570-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Screenshot_20261029_170213_X-300x169.jpg",
+          "alt": "One fake seizure, 17 escapees: How prisoners broke out of Tamil Nadu jail"
+        }
+      ]
+    },
+    {
+      "id": 263563,
+      "title": "UN raises serious concerns over Sri Lanka’s proposed anti-terrorism law, calls for major revisions",
+      "url": "https://www.newswire.lk/2026/10/29/un-raises-serious-concerns-over-sri-lankas-proposed-anti-terrorism-law-calls-for-major-revisions/",
+      "published": "2026-10-29T16:53:50+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "OHCHR",
+        "Terrorism law"
+      ],
+      "text": "The United Nations Human Rights Office (OHCHR) has raised serious concerns over Sri Lanka’s proposed Protection of the State from Terrorism (PSTA) Bill, warning that several provisions could enable arbitrary detention, restrict freedom of expression and increase the risk of torture and other human rights violations.\nIn a 19-page assessment of the Bill gazetted on September 22, 2026, the UN Human Rights Office acknowledged several improvements compared to earlier drafts but warned that the proposed legislation continues to reproduce or expand shortcomings of the existing Prevention of Terrorism Act (PTA).\nThe assessment, dated October 13, called on the Sri Lankan Government to undertake a comprehensive review of the Bill before its enactment, with meaningful consultation involving civil society, independent institutions and legal experts.\nDetention powers\nOne of the UN’s main concerns relates to provisions allowing the Secretary to the Ministry of Defence to authorise detention for up to two months at a time, with a maximum total detention period of one year.\nAlthough extensions beyond the initial two months require High Court approval, OHCHR warned that the initial detention decision remains with the executive rather than an independent court.\nThe report also noted that suspects could be brought before a Magistrate up to 48 hours after arrest by police, or up to 72 hours following arrest by the armed forces.\nIt recommended that all suspects be produced before a Magistrate as soon as possible, ordinarily within 24 hours, regardless of the arresting authority.\nThreats to journalists and freedom of expression\nThe UN also expressed concern that broadly defined terrorism-related offences could be used against journalists, human rights defenders, civil society organisations and individuals engaged in peaceful protests.\nIn particular, the report highlighted provisions relating to confidential information and terrorist publications, warning that they could potentially criminalise legitimate reporting on security operations, arrests and investigations.\nThe Office said the Bill should explicitly protect journalistic sources, legitimate public-interest reporting and human rights documentation.\nPowers granted to security forces\nThe proposed legislation also allows members of the armed forces and Coast Guard to exercise certain arrest and search powers in specified circumstances.\nOHCHR warned that these powers could create additional risks of arbitrary detention, torture and enforced disappearance, particularly where suspects remain in military custody without adequate safeguards.\nIt called for civilian police to retain primary responsibility for law enforcement and recommended removing broad arrest, detention and search powers granted to the armed forces.\nRestrictions on protests and organisations\nThe report further questioned provisions empowering the President to proscribe organisations and allowing authorities to impose restrictions on movement, public gatherings and communications.\nIt warned that insufficiently defined powers could be used to restrict peaceful assemblies, political dissent and legitimate civic activities.\nThe UN recommended stronger judicial oversight, clear time limits and independent review of such decisions.\nImprovements acknowledged\nDespite these concerns, OHCHR welcomed several changes introduced in the latest draft, including the removal of police confessions as admissible evidence, additional protections for journalism and civil society activity, and requirements for audio-visual recording of police interviews.\nThe Bill also provides for notifying the Human Rights Commission of Sri Lanka of arrests and detention within 48 hours.\nHowever, the UN said these improvements were insufficient to address the legislation’s broader human rights risks.\nThe Office also warned that transitional provisions could allow pending PTA cases and certain existing regulations to continue even after the current law is repealed.\nOHCHR urged the Government to substantially redraft the proposed legislation to ensure compliance with international human rights standards.\nThe UN Human Rights Office said it remained ready to provide technical assistance to Sri Lanka in developing counter-terrorism legislation that protects national security while respecting fundamental rights.\nOHCHR report: OHCHR_Commentary_PTSA_261029_163621",
+      "word_count": 612,
+      "is_lead": false,
+      "category": "Political",
+      "category_scores": {
+        "Political": 28,
+        "Finance": 0,
+        "Tech": 0
+      },
+      "summary": "The United Nations Human Rights Office (OHCHR) has raised serious concerns over Sri Lanka’s proposed Protection of the State from Terrorism (PSTA) Bill, warning that several provisions could enable arbitrary detention, restrict freedom of expression and increase the risk of torture and other human rights violations.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263563.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/UN_-Terrorism-Law.jpg",
+          "alt": "UN raises serious concerns over Sri Lanka’s proposed anti-terrorism law, calls for major revisions"
+        },
+        {
+          "src": "images/2026-10-30/263563-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/UN_-Terrorism-Law-300x200.jpg",
+          "alt": "UN raises serious concerns over Sri Lanka’s proposed anti-terrorism law, calls for major revisions"
+        }
+      ]
+    },
+    {
+      "id": 263560,
+      "title": "Bank accounts of Rakitha Rajapakshe frozen by Bribery Commission",
+      "url": "https://www.newswire.lk/2026/10/29/bank-accounts-of-rakitha-rajapakshe-frozen-by-bribery-commission/",
+      "published": "2026-10-29T16:47:54+05:30",
+      "source_categories": [
+        "News"
+      ],
+      "tags": [
+        "Rakitha Rajapakshe"
+      ],
+      "text": "The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has taken steps to freeze several bank accounts and luxury vehicles belonging to Rakitha Rajapakshe, the son of former Justice Minister Wijeyadasa Rajapakshe.\nAccording to reports, the action has been taken under the provisions of the Proceeds of Crime Act, No. 5 of 2025, in connection with an ongoing investigation.\nA senior official of the Bribery Commission confirmed that the assets had been frozen as part of investigations into allegations involving Rakhitha Rajapakshe.\nThe investigation relates to allegations that Rs. 120 million was demanded and obtained as a bribe from the wife of an organised criminal in exchange for facilitating assistance to the criminal.\nThe Bribery Commission had previously reported facts to the Colombo Chief Magistrate’s Court in connection with the alleged bribery incident.\nRakitha Rajapakshe was named as the first suspect in the case, while Charitha Abeysinghe and Waruna Handige Aruna Chathuranga were named as the second and third suspects, respectively.\nThe three suspects were previously remanded in custody and have since been released on bail.\nMeanwhile, a team of Bribery Commission officials visited Rakitha Rajapakshe’s residence in Nawala today (29) to deliver an official notice regarding the freezing of his bank accounts and vehicles.",
+      "word_count": 206,
+      "is_lead": false,
+      "category": "Finance",
+      "category_scores": {
+        "Political": 2,
+        "Finance": 10,
+        "Tech": 0
+      },
+      "summary": "The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has taken steps to freeze several bank accounts and luxury vehicles belonging to Rakitha Rajapakshe, the son of former Justice Minister Wijeyadasa Rajapakshe. Meanwhile, a team of Bribery Commission officials visited Rakitha Rajapakshe’s residence in Nawala today (29) to deliver an official notice regarding the freezing of his bank accounts and vehicles.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263560.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Rakitha-Rajapakshe.jpg",
+          "alt": "Bank accounts of Rakitha Rajapakshe frozen by Bribery Commission"
+        },
+        {
+          "src": "images/2026-10-30/263560-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/Rakitha-Rajapakshe-300x192.jpg",
+          "alt": "Bank accounts of Rakitha Rajapakshe frozen by Bribery Commission"
+        }
+      ]
+    },
+    {
+      "id": 263557,
+      "title": "Government or private hospital model ? COPE demands urgent decision on KDU Hospital",
+      "url": "https://www.newswire.lk/2026/10/29/government-or-private-hospital-model-cope-demands-urgent-decision-on-kdu-hospital/",
+      "published": "2026-10-29T16:44:54+05:30",
+      "source_categories": [
+        "Lead Story",
+        "News"
+      ],
+      "tags": [],
+      "text": "The Committee on Public Enterprises (COPE) has instructed authorities to urgently decide whether the General Sir John Kotelawala Defence University (KDU) Hospital should operate under a government hospital model or a private hospital model.\nThe directive was issued during a recent COPE meeting chaired by MP Dr. Nishantha Samaraweera, where the management of KDU was summoned to examine the Auditor General’s reports for 2023 and 2024, along with the institution’s current performance.\nAccording to a statement issued by Parliament, the committee raised serious concerns over the underutilisation of hospital facilities, including wards, operating theatres and intensive care units, despite the hospital having a capacity of more than 800 beds.\nShortages of medical officers and other healthcare staff were also highlighted during the discussion.\nCOPE warned that failure to reach a clear decision on the hospital’s operating model and implement necessary measures could further worsen the existing problems.\nThe committee also examined issues relating to the repayment of foreign loans obtained for the hospital’s construction and weaknesses in financial and administrative management\nMeanwhile, COPE revealed that the hospital had incurred a loss of approximately Rs. 8.44 million due to the theft of 2,199 metres of copper strips belonging to its lightning protection system.\nA civilian contract worker and a Navy member had been arrested in connection with the thefts reported in 2022 and 2023.\nThe committee further questioned whether the use of aluminium wires to replace the stolen copper strips had met the required technical and safety standards.\nCOPE stressed the need to improve the utilisation of hospital facilities, address staff shortages, strengthen financial management and ensure more effective use of public resources.\nThe committee also called for amendments to the existing KDU Act to strengthen the university’s governance and administrative structure.",
+      "word_count": 291,
+      "is_lead": true,
+      "category": "Political",
+      "category_scores": {
+        "Political": 28,
+        "Finance": 6,
+        "Tech": 0
+      },
+      "summary": "The Committee on Public Enterprises (COPE) has instructed authorities to urgently decide whether the General Sir John Kotelawala Defence University (KDU) Hospital should operate under a government hospital model or a private hospital model. COPE warned that failure to reach a clear decision on the hospital’s operating model and implement necessary measures could further worsen the existing problems.",
+      "enriched_by": "keywords",
+      "images": [
+        {
+          "src": "images/2026-10-30/263557.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/KDU-Image-New.jpg",
+          "alt": "Government or private hospital model ? COPE demands urgent decision on KDU Hospital"
+        },
+        {
+          "src": "images/2026-10-30/263557-2.jpg",
+          "remote": "https://www.newswire.lk/wp-content/uploads/2026/10/KDU-Image-New-300x169.jpg",
+          "alt": "Government or private hospital model ? COPE demands urgent decision on KDU Hospital"
+        }
+      ]
+    }
+  ]
+}
